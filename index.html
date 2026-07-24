@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Taranis Intelligence — Veille énergies renouvelables &amp; financement Afrique</title>
+<meta name="description" content="Plateforme de veille temps réel pour Taranis Energy for Africa : macro, énergies renouvelables et financement sur 30 pays d'Afrique de l'Ouest et de l'Est." />
+<meta name="robots" content="noindex, nofollow, noarchive" />
+<meta name="referrer" content="no-referrer" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Fraunces:wght@500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css?v=1t" />
+</head>
+<body class="locked">
+
+<!-- =================== GATE (code d'accès) =================== -->
+<div id="gate" class="gate" role="dialog" aria-modal="true" aria-labelledby="gate-title">
+  <div class="gate-bg" aria-hidden="true"></div>
+  <div class="gate-card">
+    <img class="gate-logo" src="assets/taranis-logo.svg" alt="Taranis Energy for Africa" />
+    <div class="gate-product">Intelligence</div>
+    <h1 class="gate-title" id="gate-title">Démo confidentielle</h1>
+    <p class="gate-lede">
+      Cet espace est réservé aux représentants d'Taranis Energy for Africa
+      ayant reçu le code d'accès. Le lien et le code ne sont pas destinés à
+      être partagés ou rediffusés.
+    </p>
+    <form id="gate-form" class="gate-form" autocomplete="off">
+      <label class="gate-label" for="gate-input">Code d'accès</label>
+      <input id="gate-input" class="gate-input" type="password" autocomplete="off"
+             autofocus spellcheck="false" autocapitalize="off" />
+      <button type="submit" class="gate-btn">Accéder à la démo →</button>
+      <div id="gate-error" class="gate-error" hidden>Code invalide.</div>
+    </form>
+    <div class="gate-foot">
+      <span class="gate-foot-dot"></span>
+      Session limitée à ce navigateur · données démonstratives non contractuelles
+    </div>
+  </div>
+</div>
+
+<!-- =================== BANDEAU CONFIDENTIEL =================== -->
+<div class="confidential-strip">
+  <span>● Démo confidentielle · Taranis Energy for Africa</span>
+  <button id="snapshot-info" type="button" title="Cliquer pour rafraîchir maintenant">Chargement…</button>
+</div>
+
+<!-- =================== TOP BAR =================== -->
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="https://www.taranis-africa.com" target="_blank" rel="noopener">
+      <img class="brand-logo" src="assets/taranis-logo.svg" alt="Taranis Energy for Africa" />
+      <span class="brand-divider"></span>
+      <span class="brand-product">Intelligence</span>
+    </a>
+
+    <nav class="topnav">
+      <a href="#/"           data-route="home"       data-i18n="nav.home">Accueil</a>
+      <a href="#/regulatory" data-route="regulatory" data-i18n="nav.regulatory">Énergies renouvelables</a>
+      <a href="#/markets"    data-route="markets"    data-i18n="nav.markets">Financement Afrique</a>
+    </nav>
+
+    <div class="topbar-search">
+      <svg class="search-icon" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+        <path d="M11.4 10.5c.7-1 1.1-2.1 1.1-3.4 0-3-2.5-5.5-5.5-5.5S1.5 4.1 1.5 7.1 4 12.6 7 12.6c1.3 0 2.4-.4 3.4-1.1l3.3 3.3 1.1-1.1-3.4-3.2zM7 11C4.8 11 3 9.2 3 7s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"/>
+      </svg>
+      <input id="search-input" type="search" autocomplete="off" spellcheck="false"
+             data-i18n-attr="placeholder:search.placeholder"
+             placeholder="Rechercher : Mali, fiscalité, OHADA, projet de loi…" />
+      <button class="search-clear" id="search-clear" hidden aria-label="Effacer">×</button>
+      <kbd class="search-kbd">⌘K</kbd>
+    </div>
+
+    <div class="topbar-right">
+      <div class="lang-switcher" role="group" aria-label="Langue / Language / Idioma">
+        <button data-lang="fr" title="Français">FR</button>
+        <button data-lang="en" title="English">EN</button>
+        <button data-lang="pt" title="Português">PT</button>
+      </div>
+      <div class="live-pill">
+        <span class="live-dot"></span>
+        <span class="live-label" data-i18n="live">LIVE</span>
+        <span class="live-time" id="live-time">--:--:--</span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ============================================================
+     MAIN APP — SPA hash routing : #/ , #/regulatory , #/markets
+     ============================================================ -->
+<main id="app">
+
+<!-- ============================================================
+     PAGE : ACCUEIL
+     ============================================================ -->
+<div class="page" data-page="home">
+
+<!-- =================== HERO =================== -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <div class="hero-tagline" data-i18n="hero.tagline">Plateforme propriétaire · pitch concept</div>
+      <h1 class="hero-title" data-i18n="hero.title" data-i18n-html="1">
+        La transition énergétique africaine<br/>
+        se joue dans la donnée temps réel.
+      </h1>
+      <p class="hero-lede" data-i18n="hero.lede" data-i18n-html="1">
+        OLEA Intelligence agrège en continu les <strong>sources de presse de confiance</strong>
+        couvrant les <strong>26 filiales</strong> et <strong>13 partenariats</strong> du réseau OLEA
+        à travers l'Afrique. Sinistres majeurs, climat, réglementation, cyber, politique :
+        chaque signal pertinent pour vos clients corporate, avec
+        <strong>vérification croisée multi-sources</strong> pour filtrer le bruit.
+      </p>
+      <div class="hero-kpis">
+        <div class="kpi">
+          <div class="kpi-value" id="kpi-countries">39</div>
+          <div class="kpi-label" id="kpi-countries-label" data-i18n="kpi.countries.label">15 W · 15 E · 30 marchés</div>
+        </div>
+        <div class="kpi">
+          <div class="kpi-value" id="kpi-sources">--</div>
+          <div class="kpi-label" data-i18n="kpi.sources">Sources monitorées</div>
+        </div>
+        <div class="kpi">
+          <div class="kpi-value" id="kpi-articles">--</div>
+          <div class="kpi-label" data-i18n="kpi.articles">Articles cette semaine</div>
+        </div>
+        <div class="kpi kpi-alert">
+          <div class="kpi-value" id="kpi-critical">--</div>
+          <div class="kpi-label" data-i18n="kpi.critical">Alertes critiques 24h</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =================== MAP + FEED =================== -->
+<section class="workspace" id="map">
+  <div class="workspace-inner">
+
+    <!-- LEFT : Map -->
+    <div class="panel panel-map">
+      <div class="panel-head">
+        <div>
+          <div class="panel-eyebrow" data-i18n="map.eyebrow">Cartographie active</div>
+          <h2 class="panel-title" data-i18n="map.title">Présence OLEA &amp; signaux du jour</h2>
+        </div>
+        <div class="legend">
+          <div class="legend-group">
+            <span class="legend-eyebrow" data-i18n="legend.network">Réseau</span>
+            <div class="legend-item"><span class="dot dot-filiale"></span><span data-i18n="legend.subsidiary">Filiale</span></div>
+            <div class="legend-item"><span class="dot dot-partner"></span><span data-i18n="legend.partnership">Partenariat</span></div>
+          </div>
+          <div class="legend-sep"></div>
+          <div class="legend-group">
+            <span class="legend-eyebrow" data-i18n="legend.level">Niveau</span>
+            <div class="legend-item"><span class="dot dot-1"></span><span data-i18n="legend.calm">Calme</span></div>
+            <div class="legend-item"><span class="dot dot-2"></span><span data-i18n="legend.vigilance">Vigilance</span></div>
+            <div class="legend-item"><span class="dot dot-3"></span><span data-i18n="legend.alert">Alerte</span></div>
+            <div class="legend-item"><span class="dot dot-4"></span><span data-i18n="legend.critical">Critique</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="map-wrapper">
+        <svg id="africa-map" viewBox="0 0 1000 940" preserveAspectRatio="xMidYMid meet"></svg>
+        <div class="map-hint" id="map-hint">
+          <span data-i18n="map.hint">Cliquez sur un pays pour filtrer le fil de news</span>
+        </div>
+      </div>
+
+      <div class="map-foot">
+        <div class="country-chips" id="country-chips"></div>
+      </div>
+    </div>
+
+    <!-- RIGHT : Feed avec filtre secteur -->
+    <div class="panel panel-feed" id="feed"><!-- Section sector-picker injectée ci-après -->
+      <div class="feed-head">
+        <div class="feed-head-row">
+          <div>
+            <div class="panel-eyebrow" data-i18n="feed.eyebrow">Fil temps réel</div>
+            <h2 class="panel-title" id="feed-title" data-i18n="feed.title.all">Toute l'Afrique Sub-Saharienne</h2>
+          </div>
+          <button class="reset-btn" id="reset-filter" hidden>← Tous les pays</button>
+        </div>
+
+        <div class="sector-row">
+          <label class="sector-label" for="sector-select" data-i18n="sector.eyebrow">Filtre secteur</label>
+          <select id="sector-select" class="sector-select"></select>
+          <span class="sector-help" data-i18n="sector.explainer">Sélectionnez le secteur d'assurance à surveiller : le fil se limite aux signaux touchant à cette branche.</span>
+        </div>
+
+        <div class="sort-row">
+          <span class="sort-label" data-i18n="sort.label">Trier par</span>
+          <div class="sort-group" role="group" aria-label="Trier les signaux">
+            <button class="sort-btn" data-sort="severity"    title="Sévérité décroissante puis récence" data-i18n="sort.severity">Critiques</button>
+            <button class="sort-btn" data-sort="recent"      title="Date de publication décroissante" data-i18n="sort.recent">Récentes</button>
+            <button class="sort-btn" data-sort="credibility" title="Score de fiabilité décroissant" data-i18n="sort.credibility">Fiables</button>
+          </div>
+        </div>
+
+        <div class="filter-row" id="category-filters"></div>
+
+        <div class="feed-meta">
+          <span id="feed-count">--</span> signaux ·
+          <span id="sort-summary">tri par <strong>sévérité</strong></span> ·
+          <span class="auto-refresh"><span class="live-dot small"></span>auto-refresh actif</span>
+        </div>
+      </div>
+
+      <div class="feed-list" id="feed-list"></div>
+    </div>
+
+  </div>
+</section>
+
+<!-- =================== DASHBOARD =================== -->
+<section class="dashboard" id="dashboard">
+  <div class="dashboard-inner">
+    <div class="section-head">
+      <div class="panel-eyebrow" data-i18n="dash.eyebrow">Dashboard de pilotage</div>
+      <h2 class="section-title" data-i18n="dash.title">Vue d'ensemble du risque pan-africain</h2>
+    </div>
+
+    <div class="dashboard-grid">
+      <div class="card card-categories">
+        <div class="card-head">
+          <h3 data-i18n="dash.byCategory">Par catégorie de risque</h3>
+          <span class="card-sub" data-i18n="dash.last7days">7 derniers jours</span>
+        </div>
+        <div class="cat-bars" id="cat-bars"></div>
+      </div>
+
+      <div class="card card-regions">
+        <div class="card-head">
+          <h3 data-i18n="dash.byRegion">Par région</h3>
+          <span class="card-sub" data-i18n="dash.avgSeverity">Sévérité moyenne</span>
+        </div>
+        <div class="region-list" id="region-list"></div>
+      </div>
+
+      <div class="card card-alerts" id="alerts">
+        <div class="card-head">
+          <h3 data-i18n="dash.criticalAlerts">Alertes critiques en cours</h3>
+          <span class="card-badge" id="critical-badge">--</span>
+        </div>
+        <div class="alerts-list" id="alerts-list"></div>
+      </div>
+
+      <div class="card card-fx" id="card-fx">
+        <div class="card-head">
+          <h3 data-i18n="dash.fxCard.title">Devises clés &amp; EUR</h3>
+          <span class="card-sub" id="fx-card-sub">MAJ —</span>
+        </div>
+        <div class="fx-mini-list" id="fx-mini-list"></div>
+        <a class="card-link" href="#markets">Voir toutes les devises &amp; IDE →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div><!-- /page=home -->
+
+<!-- ============================================================
+     PAGE : VEILLE RÉGLEMENTAIRE
+     ============================================================ -->
+<div class="page" data-page="regulatory" hidden>
+
+<!-- =================== VEILLE RÉGLEMENTAIRE =================== -->
+<section class="regulatory" id="regulatory">
+  <div class="regulatory-inner">
+    <div class="section-head">
+      <div class="panel-eyebrow" data-i18n="regu.eyebrow">Conformité · juridique</div>
+      <h2 class="section-title" data-i18n="regu.title">Énergies renouvelables pan-africaine</h2>
+      <p class="section-lede">
+        Détection automatique des signaux juridiques dans les sources monitorées,
+        classifiés par <strong>thème métier</strong> (solvabilité, réassurance, AML/CFT, données,
+        ESG, fiscalité, OHADA…) et par <strong>statut</strong> (projet → en vigueur).
+      </p>
+    </div>
+
+    <!-- KPIs réglementaires -->
+    <div class="regu-kpis">
+      <div class="regu-kpi">
+        <div class="regu-kpi-value" id="regu-total">--</div>
+        <div class="regu-kpi-label" data-i18n="regu.kpi.total">Signaux réglementaires 14j</div>
+      </div>
+      <div class="regu-kpi regu-kpi-vigueur">
+        <div class="regu-kpi-value" id="regu-en-vigueur">--</div>
+        <div class="regu-kpi-label" data-i18n="regu.kpi.vigueur">Entrés en vigueur</div>
+      </div>
+      <div class="regu-kpi regu-kpi-adopte">
+        <div class="regu-kpi-value" id="regu-adopte">--</div>
+        <div class="regu-kpi-label" data-i18n="regu.kpi.adopte">Adoptés / promulgués</div>
+      </div>
+      <div class="regu-kpi regu-kpi-projet">
+        <div class="regu-kpi-value" id="regu-projet">--</div>
+        <div class="regu-kpi-label" data-i18n="regu.kpi.projet">Projets en discussion</div>
+      </div>
+    </div>
+
+    <!-- Filtres thématiques -->
+    <div class="regu-filters">
+      <div class="regu-filter-block">
+        <div class="regu-filter-label">Thème</div>
+        <div class="regu-themes" id="regu-themes"></div>
+      </div>
+      <div class="regu-filter-block">
+        <div class="regu-filter-label">Statut juridique</div>
+        <div class="regu-statuses" id="regu-statuses"></div>
+      </div>
+    </div>
+
+    <!-- Feed réglementaire -->
+    <div class="regu-feed" id="regu-feed"></div>
+
+    <!-- Note de bas de section -->
+    <div class="regu-note">
+      <strong>v1 — détection par mots-clés sur les flux presse de confiance.</strong>
+      La v2 production ajoutera la connexion directe aux sites des régulateurs
+      (CIMA, NAICOM, ACAPS, IRA, FSCA, NIC, JO nationaux, IFRS, GIABA) et le
+      parsing des actes uniformes OHADA pour une couverture sources primaires.
+    </div>
+  </div>
+</section>
+
+</div><!-- /page=regulatory -->
+
+<!-- ============================================================
+     PAGE : MARCHÉS & IDE
+     ============================================================ -->
+<div class="page" data-page="markets" hidden>
+
+<!-- =================== MARCHÉS ÉCONOMIQUES (FX + IDE) =================== -->
+<section class="markets" id="markets">
+  <div class="markets-inner">
+    <div class="section-head">
+      <div class="panel-eyebrow">Marchés économiques</div>
+      <h2 class="section-title">Devises locales &amp; investissements directs étrangers</h2>
+      <p class="section-lede">
+        Taux de change <strong>EUR → devises locales</strong> des 28 marchés monétaires OLEA,
+        mis à jour quotidiennement depuis les taux de référence BCE (provider :
+        ExchangeRate-API). Flux d'<strong>IDE annuels</strong> par pays sourcés du
+        World Bank Open Data (indicateur BX.KLT.DINV.CD.WD).
+      </p>
+    </div>
+
+    <!-- KPIs marchés -->
+    <div class="markets-kpis">
+      <div class="markets-kpi">
+        <div class="markets-kpi-value" id="fx-count">--</div>
+        <div class="markets-kpi-label" data-i18n="markets.kpi.fx">Devises monitorées</div>
+      </div>
+      <div class="markets-kpi">
+        <div class="markets-kpi-value" id="fx-updated">—</div>
+        <div class="markets-kpi-label" data-i18n="markets.kpi.fxMaj">Dernière MAJ taux</div>
+      </div>
+      <div class="markets-kpi">
+        <div class="markets-kpi-value" id="fdi-coverage">--</div>
+        <div class="markets-kpi-label" data-i18n="markets.kpi.fdiCov">Pays avec donnée IDE</div>
+      </div>
+      <div class="markets-kpi markets-kpi-total">
+        <div class="markets-kpi-value" id="fdi-total">--</div>
+        <div class="markets-kpi-label" data-i18n="markets.kpi.fdiTotal">Flux IDE agrégé (USD)</div>
+      </div>
+    </div>
+
+    <!-- =================== CONVERTISSEUR DE DEVISES =================== -->
+    <div class="markets-block">
+      <div class="terminal-head">
+        <div class="terminal-head-left">
+          <h3>CURRENCY CONVERTER <span class="terminal-head-meta">EUR base · historique 1Y daily</span></h3>
+          <div class="terminal-head-sub">Toutes les devises locales africaines OLEA + EUR + USD · sources : ExchangeRate-API (spot) &amp; Yahoo Finance (historique)</div>
+        </div>
+        <div class="terminal-head-right">
+          <span class="terminal-legend">Mouvement courbe ▲ vs début période</span>
+        </div>
+      </div>
+      <div class="converter">
+        <div class="conv-grid">
+          <div class="conv-input-group">
+            <label for="conv-amount">MONTANT</label>
+            <input id="conv-amount" type="number" inputmode="decimal" value="1" min="0" step="any" />
+          </div>
+          <div class="conv-input-group">
+            <label for="conv-from">DEPUIS</label>
+            <select id="conv-from"></select>
+          </div>
+          <button class="conv-swap" id="conv-swap" type="button" aria-label="Inverser">⇄</button>
+          <div class="conv-input-group">
+            <label for="conv-to">VERS</label>
+            <select id="conv-to"></select>
+          </div>
+          <div class="conv-result-block">
+            <label>RÉSULTAT</label>
+            <div class="conv-result" id="conv-result">—</div>
+          </div>
+        </div>
+
+        <div class="conv-quote" id="conv-quote">—</div>
+
+        <div class="conv-chart-head">
+          <div class="conv-period-tabs" role="group" aria-label="Période">
+            <button data-period="1M">1M</button>
+            <button data-period="3M">3M</button>
+            <button data-period="6M">6M</button>
+            <button data-period="1Y" class="active">1Y</button>
+          </div>
+          <div class="conv-chart-meta">
+            <span><span class="conv-dot conv-dot-min"></span>Bas <b id="conv-stat-min">—</b></span>
+            <span><span class="conv-dot conv-dot-max"></span>Haut <b id="conv-stat-max">—</b></span>
+            <span>Variation <b id="conv-stat-chg">—</b></span>
+          </div>
+        </div>
+
+        <div class="conv-chart-wrap">
+          <svg id="conv-chart" preserveAspectRatio="none"></svg>
+          <div class="conv-tooltip" id="conv-tooltip" hidden></div>
+          <div class="conv-empty" id="conv-empty" hidden>Historique non disponible pour cette paire — données en cours d'accumulation.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bloc Devises (style terminal financier) -->
+    <div class="markets-block">
+      <div class="terminal-head">
+        <div class="terminal-head-left">
+          <h3>FX RATES <span class="terminal-head-meta">EUR base</span></h3>
+          <div class="terminal-head-sub">28 devises locales · groupé par région · MAJ <span id="fx-stamp">—</span></div>
+        </div>
+        <div class="terminal-head-right">
+          <span class="terminal-legend"><span class="tick-up">▲</span> appréciation EUR</span>
+          <span class="terminal-legend"><span class="tick-down">▼</span> dépréciation EUR</span>
+          <span class="terminal-legend"><span class="tick-flat">↔</span> stable / parité fixe</span>
+        </div>
+      </div>
+      <div class="terminal-table-wrap">
+        <table class="fx-table" id="fx-table">
+          <thead>
+            <tr>
+              <th class="col-flag"></th>
+              <th class="col-code">CODE</th>
+              <th class="col-country">PAYS</th>
+              <th class="col-currency">DEVISE</th>
+              <th class="col-last">LAST</th>
+              <th class="col-change">CHANGE</th>
+              <th class="col-spark">HIST 30J</th>
+              <th class="col-tag">RÉGIME</th>
+            </tr>
+          </thead>
+          <tbody id="fx-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Bloc IDE — sélecteur pays -->
+    <div class="markets-block">
+      <div class="terminal-head">
+        <div class="terminal-head-left">
+          <h3 data-i18n="fdi.title">FDI INFLOWS</h3>
+          <div class="terminal-head-sub" data-i18n="fdi.subtitle">
+            Choisissez un pays pour voir son flux annuel, tendance et news IDE de l'année en cours (sources vérifiées).
+          </div>
+        </div>
+        <div class="terminal-head-right">
+          <span class="terminal-legend" data-i18n="fdi.trusted">Sources vérifiées tier 1 & 2 uniquement</span>
+        </div>
+      </div>
+
+      <div class="fdi-select-wrap">
+        <label class="fdi-select-label" for="fdi-country-select" data-i18n="fdi.dropdown.label">Sélection pays</label>
+        <select id="fdi-country-select" class="fdi-country-select"></select>
+      </div>
+
+      <div id="fdi-detail" class="fdi-detail" hidden>
+        <div class="fdi-detail-stats">
+          <div class="fdi-detail-stat">
+            <div class="fdi-detail-stat-label" data-i18n="fdi.latestValue">Flux IDE dernière année</div>
+            <div class="fdi-detail-stat-value" id="fdi-detail-value">—</div>
+            <div class="fdi-detail-stat-sub" id="fdi-detail-year">—</div>
+          </div>
+          <div class="fdi-detail-stat">
+            <div class="fdi-detail-stat-label" data-i18n="fdi.yoy">Variation YoY</div>
+            <div class="fdi-detail-stat-value" id="fdi-detail-yoy">—</div>
+          </div>
+          <div class="fdi-detail-stat">
+            <div class="fdi-detail-stat-label" data-i18n="fdi.avg5">Moyenne 5 ans</div>
+            <div class="fdi-detail-stat-value" id="fdi-detail-avg">—</div>
+          </div>
+          <div class="fdi-detail-stat fdi-detail-spark">
+            <div class="fdi-detail-stat-label">HISTORIQUE</div>
+            <div id="fdi-detail-spark"></div>
+          </div>
+        </div>
+
+        <div class="fdi-detail-news">
+          <div class="fdi-detail-news-head">
+            <h4 data-i18n="fdi.newsYTD">News IDE année en cours</h4>
+            <span class="fdi-detail-news-count" id="fdi-detail-news-count">—</span>
+          </div>
+          <div id="fdi-detail-news-list" class="fdi-detail-news-list"></div>
+        </div>
+      </div>
+
+      <div id="fdi-empty" class="fdi-picker-empty" data-i18n="fdi.chooseCountry">
+        Sélectionnez un pays dans la liste ci-dessus pour voir sa fiche IDE et l'actualité investissement étranger.
+      </div>
+    </div>
+
+    <div class="markets-note">
+      Sources : <strong>ExchangeRate-API</strong> (open.er-api.com, niveau gratuit, MAJ ECB
+      quotidienne) pour les taux de change · <strong>World Bank Open Data</strong>
+      (indicateur BX.KLT.DINV.CD.WD) pour les flux IDE. Les francs CFA <em>XOF</em> et
+      <em>XAF</em> sont fixés par parité avec l'EUR (1 EUR = 655,957 FCFA).
+    </div>
+  </div>
+</section>
+
+</div><!-- /page=markets -->
+
+</main><!-- /#app -->
+
+<!-- =================== VALUE PROP (visible uniquement sur Accueil, géré par router) =================== -->
+<section class="value">
+  <div class="value-inner">
+    <div class="value-head">
+      <div class="panel-eyebrow">Pourquoi cette plateforme</div>
+      <h2 class="section-title">Du signal faible au levier commercial.</h2>
+    </div>
+    <div class="value-grid">
+      <div class="value-card">
+        <div class="value-num">01</div>
+        <h3>Anticipation des sinistres</h3>
+        <p>Détecter un cyclone, une crise politique ou un incendie industriel <em>avant</em> le client. Repositionnement immédiat des garanties, mise en place de cellules de crise, déclarations préventives.</p>
+      </div>
+      <div class="value-card">
+        <div class="value-num">02</div>
+        <h3>Conformité réglementaire</h3>
+        <p>Veille en continu sur la CIMA, NAICOM, ACAPS, IRA, NIC. Chaque évolution de capital, de solvabilité ou d'obligation est tracée pour les 26 filiales.</p>
+      </div>
+      <div class="value-card">
+        <div class="value-num">03</div>
+        <h3>Asymétrie inversée</h3>
+        <p>OLEA arrive en rendez-vous avec la connaissance la plus à jour du marché du client. Les concurrents arrivent avec le rapport annuel.</p>
+      </div>
+      <div class="value-card">
+        <div class="value-num">04</div>
+        <h3>Cross-selling pan-africain</h3>
+        <p>Une news critique dans un pays déclenche automatiquement la suggestion d'extension de couverture chez les clients exposés dans les pays voisins.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =================== FOOTER =================== -->
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-cols">
+      <div>
+        <img class="footer-logo" src="assets/taranis-logo-light.svg" alt="Taranis Energy for Africa" />
+        <div class="footer-product">Intelligence</div>
+        <p class="footer-blurb">
+          Concept-site préparé pour Taranis Energy for Africa.
+          Données affichées à titre démonstratif.
+        </p>
+      </div>
+      <div>
+        <h4>Sources monitorées</h4>
+        <div class="sources" id="sources-list"></div>
+      </div>
+      <div>
+        <h4>Couverture</h4>
+        <p class="footer-blurb">
+          15 W · 15 E · 30 marchés · 5 régions · 4 zones réglementaires (CIMA, ACAPS,
+          NAICOM, EAC). Mises à jour toutes les 60 secondes.
+        </p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 — Proposition commerciale</span>
+      <span>Données démonstratives · non contractuelles</span>
+    </div>
+  </div>
+</footer>
+
+<!-- =================== DRAWER : NEWS IDE PAR PAYS =================== -->
+<div class="fdi-drawer" id="fdi-drawer" hidden>
+  <div class="fdi-drawer-backdrop" data-close-drawer></div>
+  <aside class="fdi-drawer-panel">
+    <header class="fdi-drawer-head">
+      <div>
+        <div class="panel-eyebrow">IDE · news vérifiées</div>
+        <h3 id="fdi-drawer-title">—</h3>
+        <div class="fdi-drawer-sub" id="fdi-drawer-sub">—</div>
+      </div>
+      <button class="fdi-drawer-close" data-close-drawer aria-label="Fermer">×</button>
+    </header>
+    <div class="fdi-drawer-stats" id="fdi-drawer-stats"></div>
+    <div class="fdi-drawer-body" id="fdi-drawer-body"></div>
+    <footer class="fdi-drawer-foot">
+      Filtre : signaux taggés <b>IDE</b> · pays sélectionné ·
+      uniquement sources de tier 1 et 2 (Reuters/BBC/RFI/France 24/Africanews/Jeune Afrique/Ecofin/Financial Afrik/Africa Report/AllAfrica)
+    </footer>
+  </aside>
+</div>
+
+<!-- Country popup -->
+<div class="country-popup" id="country-popup" hidden>
+  <div class="popup-arrow"></div>
+  <div class="popup-flag" id="popup-flag"></div>
+  <div class="popup-body">
+    <div class="popup-name" id="popup-name"></div>
+    <div class="popup-meta" id="popup-meta"></div>
+    <div class="popup-stats" id="popup-stats"></div>
+    <div class="popup-cta">Cliquez pour ouvrir le fil →</div>
+  </div>
+</div>
+
+<!-- New-news toast -->
+<div class="toast" id="toast" hidden>
+  <span class="toast-dot"></span>
+  <span class="toast-text">Nouveau signal détecté</span>
+</div>
+
+<!-- Libraries (CDN) -->
+<script src="i18n.js?v=1"></script>
+<script src="gate.js?v=1"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script src="data.js?v=1t"></script>
+<script src="app.js?v=1t"></script>
+</body>
+</html>
