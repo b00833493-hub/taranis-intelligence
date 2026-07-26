@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-26T09:24:04.213573+00:00",
+  "generated_at": "2026-07-26T11:37:04.825645+00:00",
   "stats": {
-    "total_signals": 441,
+    "total_signals": 446,
     "verified_signals": 8,
-    "countries_covered": 23,
+    "countries_covered": 24,
     "sources_active": 40,
     "per_country": {
       "UGA": 37,
       "TGO": 5,
-      "NGA": 60,
+      "NGA": 62,
       "MOZ": 39,
       "TZA": 31,
-      "GHA": 41,
+      "GHA": 42,
       "ETH": 35,
       "CIV": 29,
       "MLI": 27,
@@ -20,17 +20,18 @@
       "SLE": 3,
       "SSD": 4,
       "KEN": 55,
-      "GIN": 3,
+      "GIN": 2,
       "GNB": 5,
       "BFA": 5,
       "COM": 2,
       "RWA": 7,
+      "BEN": 2,
+      "CPV": 9,
       "SOM": 4,
-      "CPV": 8,
       "BDI": 1,
       "MDG": 2
     },
-    "west_signals": 224,
+    "west_signals": 229,
     "east_signals": 217
   },
   "sources": [
@@ -304,6 +305,38 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607240684.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b1e29d1f64",
+      "title": "GBV Cases Surge in Nebbi As Teenagers, Young Mothers Bear Brunt",
+      "summary": "[Nile Post] Nebbi District recorded 2,107 cases of gender-based violence (GBV) between July 2025 and June 2026, with teenagers and young mothers accounting for the majority of victims, according to police and health records.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-24T20:41:55+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607240678.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607240678.html"
         }
       ],
       "confirmation_count": 1
@@ -1323,7 +1356,7 @@
       "country": "SEN",
       "category": "AUTRE",
       "severity": 3,
-      "credibility": 4,
+      "credibility": 5,
       "verified": true,
       "theme": null,
       "legal_status": "ANNOUNCED",
@@ -1350,9 +1383,15 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260725-kiiraay-les-patriotes-r%C3%A9publicains-le-nouveau-parti-du-pr%C3%A9sident-s%C3%A9n%C3%A9galais-d%C3%A9voil%C3%A9"
+        },
+        {
+          "id": "ja",
+          "name": "Jeune Afrique",
+          "tier": 2,
+          "url": "https://www.jeuneafrique.com/1827058/politique/senegal-bassirou-diomaye-faye-lance-kiiraay-son-nouveau-parti/"
         }
       ],
-      "confirmation_count": 2
+      "confirmation_count": 3
     },
     {
       "id": "72fd9783af",
@@ -1542,70 +1581,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/opinion/editorials/credible-election-in-south-sudan-is-not-negotiable-5536852"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "afb6bbc53f",
-      "title": "AIB Ghana Boss Named Interim WASASI President",
-      "summary": "[Ghanaian Times] The Acting Commissioner of the Aircraft Accident and Incident Investigation and Prevention Bureau (AIB) Ghana, Mr John Wumborti, has been appointed Interim President of the West African Society of Air Safety Investigators (WASASI).",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T21:41:25+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240736.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240736.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9575aa9168",
-      "title": "GPHA Celebrates 40 Years With Unity Walk, Wellness Drive",
-      "summary": "[Ghanaian Times] The Ghana Ports and Harbours Authority (GPHA) has launched activities to mark its 40th anniversary with colourful health and awareness walks in Tema and Takoradi.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T21:41:24+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240732.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240732.html"
         }
       ],
       "confirmation_count": 1
@@ -2379,38 +2354,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "207d1a9913",
-      "title": "Phillips Consulting Launches the 2026 State Performance Index (Pspi) - a Benchmark for Measuring Governance, Performance and Development Across Nigeria's States",
-      "summary": "[Vanguard] Nigeria's leading business and management consulting firm, pcl., has officially launched the 2026 pcl. State Performance Index (pSPI), a comprehensive intelligence report designed to transform how governments, investors, development partners, policymakers, researchers, businesses, and citizens understand and evaluate state-level performance across Nigeria.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T11:23:20+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240334.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240334.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "4128f99585",
       "title": "Kiswahili Drives Tanzania-Oman Trade",
       "summary": "[Daily News] Dar es Salaam -- TANZANIA'S Ambassador to Oman, Ms Maulidah Hassan, has urged Omani traders and investors to learn Kiswahili, saying the language has become a strategic tool for trade, investment and economic diplomacy in East Africa.",
@@ -2959,6 +2902,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "7d10446951",
+      "title": "Tragedy Averted As Enugu Airline Crash Lands in Benin, Operators Confirm Incident",
+      "summary": "[This Day] There was panic at the Benin Airport, yesterday, when a commercial flight, Enugu Air aircraft, skidded off the runway.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-24T05:16:19+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607240076.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607240076.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "4c1e4c3c66",
       "title": "AU Condemns Attacks On Red Sea Shipping, Warns of Threat to Regional and Global Security",
       "summary": "[ENA] Addis Ababa -- The African Union has strongly condemned attacks claimed by the Houthis against commercial oil tankers in the Red Sea.",
@@ -3502,38 +3477,6 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1826273/politique/au-burkina-faso-rsf-accuse-ibrahim-traore-de-posseder-une-milice-numerique-qui-cible-les-journalistes/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "6f0bc163f4",
-      "title": "Nile Breweries Unveils Kyooto Waragi to Expand Spirits Portfolio",
-      "summary": "[Nile Post] Nile Breweries Limited (NBL) has officially launched Kyooto Waragi, a new spirit that marks the company's entry into the waragi category and further strengthens its portfolio of brands trusted and enjoyed by Ugandan consumers.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-23T10:28:34+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607230235.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607230235.html"
         }
       ],
       "confirmation_count": 1
@@ -5567,6 +5510,230 @@
       "confirmation_count": 1
     },
     {
+      "id": "d414d78c86",
+      "title": "Ghana : autour de l’aéroport d’Accra, une enclave pour happy few?",
+      "summary": "Airport City concentre hôtels, sièges sociaux et ambassades aux abords de l’aéroport d’Accra. Un boom immobilier qui révèle les fractures d’une métropole à deux vitesses.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-07-26T12:30:00+00:00",
+      "lead_source": {
+        "id": "ja",
+        "name": "Jeune Afrique",
+        "tier": 2,
+        "url": "https://www.jeuneafrique.com/1825954/economie-entreprises/ghana-autour-de-laeroport-daccra-une-enclave-pour-happy-few/"
+      },
+      "confirming_sources": [
+        {
+          "id": "ja",
+          "name": "Jeune Afrique",
+          "tier": 2,
+          "url": "https://www.jeuneafrique.com/1825954/economie-entreprises/ghana-autour-de-laeroport-daccra-une-enclave-pour-happy-few/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "56a15339d9",
+      "title": "Bénin : le réseau des fidèles de Joseph Djogbénou, président de l’Assemblée nationale",
+      "summary": "Élu à la tête de l’hémicycle le 8 février, celui qui est aussi le président du parti majoritaire, l’UPR, s’appuie sur des alliés et amis de longue date rencontrés tout au long de son parcours politique, judiciaire et militant.",
+      "country": "BEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-07-26T12:20:00+00:00",
+      "lead_source": {
+        "id": "ja",
+        "name": "Jeune Afrique",
+        "tier": 2,
+        "url": "https://www.jeuneafrique.com/1826266/politique/benin-le-reseau-des-fideles-de-joseph-djogbenou-president-de-lassemblee-nationale/"
+      },
+      "confirming_sources": [
+        {
+          "id": "ja",
+          "name": "Jeune Afrique",
+          "tier": 2,
+          "url": "https://www.jeuneafrique.com/1826266/politique/benin-le-reseau-des-fideles-de-joseph-djogbenou-president-de-lassemblee-nationale/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9d8f96f5f1",
+      "title": "Des chercheurs confirment l'existence d'un récif corallien aux larges des côtes du Bénin",
+      "summary": "Le Bénin vient de percer un mystère vieux de soixante ans. À plus de 50 mètres sous les eaux, un récif corallien vivant a été localisé au large de ses côtes. Cela confirme une observation faite par des chercheurs de l'ORSTOM (Office de la recherche scientifique et technique d'outre-mer), en 1966, et jamais vérifiée depuis. La découverte, portée par des chercheurs béninois, a été confirmée en décembre 2025 grâce au sonar et surtout à un drone.",
+      "country": "BEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-07-26T11:15:52+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260726-au-b%C3%A9nin-des-chercheurs-confirment-l-existence-d-un-r%C3%A9cif-corallien-aux-larges-des-c%C3%B4tes"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260726-au-b%C3%A9nin-des-chercheurs-confirment-l-existence-d-un-r%C3%A9cif-corallien-aux-larges-des-c%C3%B4tes"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a4e3c49af7",
+      "title": "Onde comer os pratos que encantaram celebridades em Portugal",
+      "summary": "Bonnie Tyler tinha o seu restaurante de praia favorito, Harry e Meghan estiveram na Comporta, e até as celebridades que por cá passaram em viagens rápidas se encantaram com a restauração portuguesa.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-07-26T10:57:35+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/07/26/frango-piri-piri-algarvio-o-melhor-hamburguer-do-mundo-e-wok-take-away-onde-comer-como-as-celebridades-em-portugal/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/07/26/frango-piri-piri-algarvio-o-melhor-hamburguer-do-mundo-e-wok-take-away-onde-comer-como-as-celebridades-em-portugal/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "33347049ae",
+      "title": "Why the UK cancelled a military exercise in Kenya – and what it means",
+      "summary": "A dispute over military cooperation and accountability strains a decades-old UK-Kenya partnership.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-26T10:47:27+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/7/26/why-the-uk-cancelled-a-military-exercise-in-kenya-and-what-it-means?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e0ecb05cea",
+      "title": "Nigéria : le manque de ressources, un frein à l'éducation sportive des jeunes",
+      "summary": "Disposant d’un accès limité aux installations d’entraînement officielles, des enfants et des adolescents  s’entraînent dans les rues et les quartiers animés de Lagos la capitale, sous la houlette d’instructeurs qui leur enseignent la boxe, la discipline et la résilience.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-07-26T10:28:12+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/07/26/nigeria-le-manque-de-ressources-un-frein-a-leducation-sportive-des-jeunes/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/07/26/nigeria-le-manque-de-ressources-un-frein-a-leducation-sportive-des-jeunes/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f578c5396e",
+      "title": "Nigerian youngsters learning boxing on the streets of Lagos",
+      "summary": "Former boxer Yusuf Eleyele says he is not only teaching them the sport, but also discipline and resilience.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-26T10:26:38+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/07/26/nigerian-youngsters-learning-boxing-on-the-streets-of-lagos/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/07/26/nigerian-youngsters-learning-boxing-on-the-streets-of-lagos/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "4a53c9e2a9",
       "title": "Intagrist el Ansari : « Le Mali est pris en otage par une polarisation identitaire radicale »",
       "summary": "Pendant dix ans, l’écrivain et réalisateur malien d’origine touarègue a interrogé l’histoire et l’identité de son peuple. Comment vit-il sa relation avec les pays du Sahel ? Trouve-t-il sa place dans la société actuelle ? Et qu’en est-il des velléités indépendantistes affichées par certains Touaregs ?",
@@ -6465,38 +6632,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "a1f9d6af3d",
-      "title": "Shekinah Glory Bakery Renovates Children's Physiotherapy Unit At Tth",
-      "summary": "[Ghanaian Times] The management and staff of Shekinah Glory Bakery have renovated the children's unit of the Physiotherapy Department of the Tamale Teaching Hospital (TTH) to create a more child-friendly environment for young patients receiving rehabilitation services.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T21:41:25+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240735.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240735.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "0814200823",
       "title": "Vers une intervention américaine au Mali ? Bamako ne confirme pas.",
       "summary": "Les États Unis envisagent-elles une prochaine intervention militaire au Mali ? Mercredi, le journal américain Le Washington Post a affirmé que « l’Administration Trump étudie des options militaires au Mali ». Cette information a suscité de nombreux commentaires depuis…",
@@ -6620,6 +6755,70 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607240682.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "687c1cd9c4",
+      "title": "Your Greatest Legacy Is Not Wealth, It Is the Peace You Leave Behind",
+      "summary": "[Nile Post] A recent study found that more than half of adults do not have a will or estate plan. While the statistic may seem surprising, it is also understandable. Many people spend their lives working hard to build wealth, grow businesses, acquire property and provide for their families, yet few take time to plan how those assets will continue to protect their loved ones when they are no longer around.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-24T20:41:55+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607240679.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607240679.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4dc6da4d35",
+      "title": "How Airtel Masaza Cup Shaped Farouk Miya's Journey From Local Talent to Uganda Cranes Star",
+      "summary": "[Nile Post] Famously known to football fans as \"Muyizzi Tasubwa\" (the hunter who never misses), Farouk Miya has earned his place among Uganda's most celebrated footballers.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-24T20:41:55+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607240680.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607240680.html"
         }
       ],
       "confirmation_count": 1
@@ -7395,38 +7594,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "0e941b45da",
-      "title": "Demande de restitution: «Le Coran de Samory Touré a une valeur iconique pour la Guinée»",
-      "summary": "Une nouvelle demande de restitution adressée à la France en provenance du continent africain. Elle vient de Conakry. La Guinée demande à Paris la restitution de manuscrits pillés pendant la colonisation. Conakry souhaite notamment récupérer le Coran de Samory Touré, l’une des grandes figures guinéennes de la résistance à la conquête coloniale française. Un objet conservé au musée de l'Armée à Paris. Elara Bertho, chargée de recherche au CNRS et directrice du conseil…",
-      "country": "GIN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-07-24T14:11:29+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20260724-demande-de-restitution-le-coran-de-samory-tour%C3%A9-a-une-valeur-iconique-pour-la-guin%C3%A9e"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20260724-demande-de-restitution-le-coran-de-samory-tour%C3%A9-a-une-valeur-iconique-pour-la-guin%C3%A9e"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "ce2558c6d4",
       "title": "Domingos Simões Pereira chega a Portugal para tratamento médico",
       "summary": "Esta semana, a actualidade fica marcada pela chegada a Lisboa do líder do PAIGC, Domingos Simões Pereira, autorizado a sair da Guiné-Bissau para receber tratamento médico especializado. Em São Tomé e Príncipe, Carlos Vila Nova foi reeleito Presidente à primeira e por Cabo Verde, que acolheu a V Conferência da Década do Oceano.",
@@ -8165,102 +8332,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "a5a61a16e8",
-      "title": "Dan Ulasi Questions Gowon's Civil War Memoir, Dismisses It As 'Convenient Amnesia'",
-      "summary": "[Vanguard] A chieftain of the Peoples Democratic Party (PDP), Dan Ulasi, has dismissed former Head of State Yakubu Gowon's account of the Nigerian Civil War in his recently released memoir, describing it as a collection of \"convenient amnesia\" and \"half truths.\"",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T11:23:50+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240337.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240337.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "466a50cc44",
-      "title": "Kennyblaq Set to Host Sixth Oxymoron Comedy Concert in Lagos",
-      "summary": "[Premium Times] The comedian says this year's edition, themed The Bridge, will celebrate the connection between music and comedy while bringing together some of Nigeria's leading entertainers.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T11:22:51+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240333.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240333.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "db90c1dff8",
-      "title": "Life Expectancy Challenge - Why Nigerians Are Dying Too Soon - Experts",
-      "summary": "[Vanguard] Ganiat Ojo believed the headache would eventually disappear. The 55-year-old petty trader had lived with the pain for months, brushing it off as the price of long days at the market and the constant struggle to provide for her family. Like many Nigerians, she hardly ever checked her blood pressure. There was always another bill to settle, another customer waiting and yet another reason to put off a trip to the hospital.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T11:22:35+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240332.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240332.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "162b9e3109",
       "title": "BMH Targets Medical Tourism Village Status",
       "summary": "[Daily News] Dodoma -- THE Benjamin Mkapa Hospital (BMH) is set to become a Medical Tourism Village within the next decade as the government intensifies efforts to position Tanzania as a leading destination for specialised healthcare in Africa.",
@@ -8805,38 +8876,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "794daff5dc",
-      "title": "Kenya’s Ruto-Kindiki dilemma: Escalating pressure to drop his deputy",
-      "summary": "A high-stakes by-election defeat for the ruling party in the Mt Kenya region has ignited debate on whether President William Ruto should retain Deputy President Kithure Kindiki as his running mate in the 2027 general election. Will Kindiki survive the pressure?",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T08:30:00+00:00",
-      "lead_source": {
-        "id": "africa-rep",
-        "name": "The Africa Report",
-        "tier": 2,
-        "url": "https://www.theafricareport.com/425929/kenyas-ruto-kindiki-dilemma-escalating-pressure-to-drop-his-deputy/"
-      },
-      "confirming_sources": [
-        {
-          "id": "africa-rep",
-          "name": "The Africa Report",
-          "tier": 2,
-          "url": "https://www.theafricareport.com/425929/kenyas-ruto-kindiki-dilemma-escalating-pressure-to-drop-his-deputy/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "d63545d5b8",
       "title": "Guinea-Bissau junta releases opposition leader after court orders medical treatment",
       "summary": "Guinea Bissau’s junta had freed opposition leader Domingos Simões Pereira after a court ordered he should be allowed to travel to Portugal for medical treatment.",
@@ -9216,6 +9255,102 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607240077.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "603c6f9727",
+      "title": "Malnutrition Costs Nigeria More Than Oil Pipeline Vandalism, Power Outages Combined",
+      "summary": "[This Day] Uyo -- The Chairman, House of Representatives Committee on Nutrition and Food Security, Dr. Chike John Okafor, has said that malnutrition costs Nigeria more than oil pipeline vandalism and power outages combined.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-24T05:16:19+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607240075.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607240075.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "833ea7f6c3",
+      "title": "Senate Tightens Noose On Foreign Aid, Moves to Bring NGOs Under Stricter Oversight",
+      "summary": "[This Day] ·Cites accountability gaps, transparency concerns, national security risks",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-24T05:16:18+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607240073.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607240073.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c05e9e8406",
+      "title": "IGP Warns Against Illegal Bearing of Arms, Declares Police Will Deal With Any Such Act",
+      "summary": "[This Day] Makurdi -- The Inspector General of Police, Olatunji Disu, has warned against people bearing arms illegally, stating that only the police were recognised to carry arms.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-24T05:16:18+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607240074.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607240074.html"
         }
       ],
       "confirmation_count": 1
@@ -10469,6 +10604,102 @@
       "confirmation_count": 1
     },
     {
+      "id": "2468157d11",
+      "title": "From Weta to the Nation - Time to Act On AWD",
+      "summary": "[Ghanaian Times] Ghana's quest for rice self-sufficiency has long been hindered by high production costs, reliance on imports and growing pressure on water resources.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-23T11:41:42+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607230353.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607230353.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c55d22b4de",
+      "title": "Building a Collaborative National Framework to Combat Financial Fraud in Ghana",
+      "summary": "[Ghanaian Times] The nature of financial crime is no longer static. As highlighted in the recent Ghana Association of Bankers Industry Fraud Report, fraud is evolving in form, speed, and sophistication, with material implications for our operational resilience, customer confidence, and systemic stability.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "OPERATIONAL",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-23T11:41:04+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607230352.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607230352.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9abe1a6c75",
+      "title": "Ghana Gave Me More Than I Expected",
+      "summary": "[Ghanaian Times] Serving as Australia's High Commissioner to Ghana has been an immense honour. Over the last four years, I have come to know a country of exceptional richness, not only because of its natural resources, but above all because of the strength, creativity and resilience of its people.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-23T11:40:19+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607230351.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607230351.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "f2dd65ddec",
       "title": "New CA Rules Require One-Year Warranties for Phones, Laptops",
       "summary": "[Capital FM] Nairobi -- Sellers of phones, laptops, smart TVs, tablets and commercial networking equipment will be required to provide a minimum one-year warranty under new regulations issued by the Communications Authority of Kenya (CA).",
@@ -10853,38 +11084,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "4cb1f93b63",
-      "title": "Pearl Bank Looks to a Digital Future a Year After Rebranding",
-      "summary": "[Independent (Kampala)] Kampala -- As Uganda's Pearl Bank marks a year since rebranding, officials are confident that their new identity reflects the bank's transformation into a digitally progressive, inclusive, and nationally grounded financial institution.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-23T10:41:46+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607230249.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607230249.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "e6150477fe",
       "title": "How DFCU Bank Is Helping Award Winning Ojok Transform Northern Uganda's Coffee Value Chain",
       "summary": "[Independent (Kampala)] Interview -- From introducing improved coffee seedlings to connecting farmers to markets and international opportunities, Alfred Ojok has spent years building Hasting Coffee Centre into a catalyst for agricultural transformation in Northern Uganda.",
@@ -10912,38 +11111,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607230242.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "41cbb31701",
-      "title": "Fact Sheet - U.S. Government Awards $245,000 to Uganda Virus Research Institute (Uvri), Preserving 90 Years of American and Ugandan Scientific Partnership",
-      "summary": "[U.S. Embassy Kampala] Overview",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-23T10:32:54+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607230241.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607230241.html"
         }
       ],
       "confirmation_count": 1
