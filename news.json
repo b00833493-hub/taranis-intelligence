@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-27T18:47:34.714624+00:00",
+  "generated_at": "2026-07-27T20:43:30.561912+00:00",
   "stats": {
-    "total_signals": 430,
+    "total_signals": 432,
     "verified_signals": 7,
     "countries_covered": 24,
     "sources_active": 40,
     "per_country": {
-      "MOZ": 39,
-      "NGA": 60,
+      "NGA": 62,
+      "MOZ": 40,
       "TZA": 30,
       "GHA": 39,
       "UGA": 39,
       "TGO": 6,
       "CIV": 27,
-      "MLI": 26,
+      "MLI": 25,
       "KEN": 55,
       "RWA": 5,
       "NER": 5,
@@ -31,8 +31,8 @@
       "COM": 2,
       "BDI": 1
     },
-    "west_signals": 216,
-    "east_signals": 214
+    "west_signals": 217,
+    "east_signals": 215
   },
   "sources": [
     {
@@ -277,6 +277,70 @@
     }
   ],
   "signals": [
+    {
+      "id": "3698f8acea",
+      "title": "Nigeria: At least 30 dead in Kaduna State attack early Monday",
+      "summary": "Locals in Kaduna State say that at least 30 people were killed when armed men attacked a village in the area early Monday.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-27T19:01:16+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/07/27/nigeria-at-least-30-dead-in-kaduna-state-attack-early-monday/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/07/27/nigeria-at-least-30-dead-in-kaduna-state-attack-early-monday/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ed73a93a5a",
+      "title": "Nigeria : au moins 30 morts dans l'attaque contre un village au nord",
+      "summary": "Les autorités locales promettent de faire la lumière sur cette attaque, dans un contexte de violence récurrente dans des régions du pays.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-07-27T18:11:12+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/07/27/nigeria-au-moins-30-morts-dans-lattaque-contre-un-village-au-nord/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/07/27/nigeria-au-moins-30-morts-dans-lattaque-contre-un-village-au-nord/"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "fc5dbac744",
       "title": "Mozambique: Commercial banks’ mandatory reserves surge 31% in May",
@@ -593,70 +657,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607270006.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "dd4923911f",
-      "title": "Government Commences Distribution of Relief Food in Karamoja",
-      "summary": "[Nile Post] Government of Uganda has commenced the distribution of emergency food relief to households in the Karamoja sub-region following a prolonged dry spell, with the exercise officially launched in Kotome Parish, Lodiko Sub-county, Kabong District.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T20:41:57+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240684.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240684.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b1e29d1f64",
-      "title": "GBV Cases Surge in Nebbi As Teenagers, Young Mothers Bear Brunt",
-      "summary": "[Nile Post] Nebbi District recorded 2,107 cases of gender-based violence (GBV) between July 2025 and June 2026, with teenagers and young mothers accounting for the majority of victims, according to police and health records.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T20:41:55+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240678.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240678.html"
         }
       ],
       "confirmation_count": 1
@@ -2546,38 +2546,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ba35bef45c",
-      "title": "EAC Launches Uvri As Regional Centre of Excellence in Virology",
-      "summary": "[Nile Post] The East African Community (EAC) has strengthened regional health security with the official launch and operationalisation of the Uganda Virus Research Institute (UVRI) as the EAC Regional Centre of Excellence in Virology in Entebbe.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "OPERATIONAL",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T20:41:57+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240685.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240685.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "9ab8c6773b",
       "title": "Entretien exclusif | Lansana Gagny Sakho appelle à restaurer la crédibilité économique du Sénégal",
       "summary": "Invité spécial de Financial Afrik vendredi 24 juillet 2026, Lansana Gagny Sakho, président du Conseil d’administration de l’APIX, livre une analyse sans concession de la situation économique du Sénégal. S’il reconnaît la gravité de la crise de la dette, l’expert estime que le véritable défi est d’aborder  les réformes afin de restaurer la confiance des investisseurs,renouer avec les partenaires financiers et de remettre le secteur privé au cœur de la stratégie de…",
@@ -3480,6 +3448,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "bdbffb9123",
+      "title": "How Putting a Price On Uganda's Resources Can Secure Its Future",
+      "summary": "[Independent (Kampala)] Kampala -- Uganda is currently grappling with the classic development dilemma of how to lift millions out of poverty while safeguarding its rich natural heritage.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-23T17:02:13+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607230728.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607230728.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "3e97bfbb36",
       "title": "Police Officers Injured Following Clashes With Local Residents in Larde",
       "summary": "[AIM] Maputo -- At least four people were injured on Wednesday following clashes between police officers and local residents, in Topuito region, Larde district, northern Mozambican province of Nampula.",
@@ -3544,6 +3544,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "62fdbd2426",
+      "title": "Watu Uganda Reaches One Million Device Financing Milestone",
+      "summary": "[Independent (Kampala)] Kampala -- Watu Uganda has reached a major milestone after financing one million devices through Watu Simu, reinforcing its commitment to expanding access to smartphones and digital opportunities for Ugandans across the country.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-23T11:52:16+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607230405.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607230405.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c5c2920fa0",
+      "title": "Court Orders Govt to Probe Into Muwanga Kivumbi's Whereabouts",
+      "summary": "[Independent (Kampala)] Kampala -- The High Court in Kampala has directed the government to conclude investigations into the whereabouts of former Butambala County Member of Parliament Muhammad Muwanga Kivumbi before determining his application for a writ of habeas corpus seeking his production and unconditional release.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-23T11:51:51+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607230404.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607230404.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "9461d77357",
       "title": "Investments in Gas Must Be Turned Into Domestic Benefits - Eni",
       "summary": "[AIM] Maputo -- The Italian energy company ENI has reaffirmed its commitment to helping Mozambique to develop its local content by turning investments in the gas sector into benefits for domestic companies, which is crucial for high-skilled jobs creation.",
@@ -3603,6 +3667,38 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607230288.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6f0bc163f4",
+      "title": "Nile Breweries Unveils Kyooto Waragi to Expand Spirits Portfolio",
+      "summary": "[Nile Post] Nile Breweries Limited (NBL) has officially launched Kyooto Waragi, a new spirit that marks the company's entry into the waragi category and further strengthens its portfolio of brands trusted and enjoyed by Ugandan consumers.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-23T10:28:34+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607230235.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607230235.html"
         }
       ],
       "confirmation_count": 1
@@ -3699,38 +3795,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607220341.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1285bbf6c3",
-      "title": "Tanzania, Saudi Deepen Economic Ties",
-      "summary": "[Daily News] Riyadh -- TANZANIA and Saudi Arabia have agreed to deepen their long-standing bilateral ties by expanding cooperation in trade, investment, tourism and other strategic sectors.",
-      "country": "TZA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-22T07:23:42+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607220146.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607220146.html"
         }
       ],
       "confirmation_count": 1
@@ -5082,6 +5146,38 @@
       "confirmation_count": 8
     },
     {
+      "id": "e2904fa2a0",
+      "title": "NCBA Bank Uganda Drives Automotive Innovation At the 2026 Ncba Auto Show",
+      "summary": "[Independent (Kampala)] Kampala -- NCBA Bank Uganda last week reaffirmed its commitment to advancing mobility, innovation and economic growth as the Platinum and Official Title Sponsor of the 2026 NCBA Auto Show, Uganda's premier automotive exhibition.",
+      "country": "UGA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-23T11:53:40+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607230406.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607230406.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "8041699dc1",
       "title": "Africa Urged to Unlock Untapped Livestock Potential for Food Security, Economic Growth",
       "summary": "[ENA] Addis Ababa -- Africa must unlock its vast and largely untapped livestock potential to strengthen food and nutrition security and accelerate inclusive economic growth, experts told ENA.",
@@ -5501,6 +5597,38 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607010095.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "274ca7d150",
+      "title": "Linha da Beira Baixa deve normalizar em setembro ou outubro",
+      "summary": "A ligação ferroviária de 240 quilómetros, afetada pelas tempestades do início do ano, deverá reabrir antes do esperado. Também a Linha do Oeste deverá ter a circulação normalizada em janeiro de 2027.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-07-27T19:27:30+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/07/27/circulacao-na-linha-da-beira-baixa-deve-normalizar-em-setembro-ou-outubro-anuncia-o-governo/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/07/27/circulacao-na-linha-da-beira-baixa-deve-normalizar-em-setembro-ou-outubro-anuncia-o-governo/"
         }
       ],
       "confirmation_count": 1
@@ -8330,166 +8458,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "663dfda56c",
-      "title": "Museveni Celebrates Kiira Motors' Electric Bus Milestone After 13,700km Pearl to Cape Expedition",
-      "summary": "[Nile Post] President Museveni has hosted a luncheon at State House, Entebbe, in honour of the successful Presidential Pearl to Cape Expedition 2025, celebrating the historic journey of the Kayoola EVS electric coach from Uganda to South Africa and back.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T20:41:56+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240681.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240681.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a3b6af98fa",
-      "title": "AFCON 2027 - A Golden Opportunity for Ugandans to Serve, Earn and Showcase the Nation",
-      "summary": "[Nile Post] The hosting of the Africa Cup of Nations (AFCON) 2027 presents Uganda with an opportunity that goes beyond football. As part of the AFCON PAMOJA 2027 tournament alongside Kenya and Tanzania, Uganda has a chance to create economic opportunities, support local businesses, generate employment and showcase its culture, talent and hospitality to the continent and the world.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T20:41:56+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240682.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240682.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "687c1cd9c4",
-      "title": "Your Greatest Legacy Is Not Wealth, It Is the Peace You Leave Behind",
-      "summary": "[Nile Post] A recent study found that more than half of adults do not have a will or estate plan. While the statistic may seem surprising, it is also understandable. Many people spend their lives working hard to build wealth, grow businesses, acquire property and provide for their families, yet few take time to plan how those assets will continue to protect their loved ones when they are no longer around.",
-      "country": "UGA",
-      "category": "FINANCING",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T20:41:55+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240679.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240679.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4dc6da4d35",
-      "title": "How Airtel Masaza Cup Shaped Farouk Miya's Journey From Local Talent to Uganda Cranes Star",
-      "summary": "[Nile Post] Famously known to football fans as \"Muyizzi Tasubwa\" (the hunter who never misses), Farouk Miya has earned his place among Uganda's most celebrated footballers.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T20:41:55+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240680.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240680.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "040182c449",
-      "title": "Karamoja Leaders Hail Museveni's Skilling Programme As Industrial Hubs Transform Youth Livelihoods",
-      "summary": "[Nile Post] Leaders in the Karamoja sub-region have commended President Museveni for expanding access to vocational training through the Presidential Industrial Hubs initiative, describing it as a transformative programme that is equipping young people, including persons with disabilities (PWDs), with practical skills for self-employment.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T20:41:54+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607240676.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607240676.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "66876f506d",
       "title": "Can Ethiopia Weave Africa's Complete Cotton-to-Clothing Value Chain?",
       "summary": "[Bird Story Agency] As Africa seeks to capture more value from its natural resources, Ethiopia is building one of the continent's most ambitious cotton-to-clothing value chains. By linking farmers, researchers and manufacturers, the country is demonstrating how cotton can drive industrialisation, create jobs and strengthen regional trade.",
@@ -9998,38 +9966,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "c1916321b5",
-      "title": "Malian government rejects US role in anti-JNIM fight",
-      "summary": "The Malian government has rejected reports of US intervention in the fight against the jihadist group JNIM, saying the claims are false.",
-      "country": "MLI",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-24T06:13:40+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/07/24/malian-government-rejects-us-role-in-anti-jnim-fight/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/07/24/malian-government-rejects-us-role-in-anti-jnim-fight/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "6a4876bdf8",
       "title": "Court Convicts Obado, Oyamo and Obiero Over Sharon Otieno Murder",
       "summary": "[Capital FM] Nairobi -- The High Court has found former Migori Governor Okoth Obado, his former personal assistant Michael Oyamo and former Migori County Clerk Caspal Obiero guilty of the 2018 murder of university student Sharon Otieno.",
@@ -10574,6 +10510,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "42f398ecc0",
+      "title": "Gen. Moses Ali Finally Laid to Rest in Adjumani",
+      "summary": "[Independent (Kampala)] Adjumani -- At exactly 5:25 PM, Rt. Hon. (Rtd) Gen. Moses Ali, the former Member of Parliament for Adjumani West Constituency, was finally laid to rest in Abiricaku Village, Adjumani District, four days after he passed away on Saturday last week.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-23T11:54:08+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607230407.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607230407.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "5425cb7f73",
       "title": "High Court Nullifies Ruto's Public Debt Audit Task Force As Unconstitutional",
       "summary": "[Capital FM] Nairobi -- President William Ruto's bid to establish a Presidential Task Force to conduct a forensic audit of Kenya's public debt has suffered a major setback after the High Court declared the body unconstitutional for encroaching on the mandate of an independent constitutional office.",
@@ -10894,6 +10862,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "4cb1f93b63",
+      "title": "Pearl Bank Looks to a Digital Future a Year After Rebranding",
+      "summary": "[Independent (Kampala)] Kampala -- As Uganda's Pearl Bank marks a year since rebranding, officials are confident that their new identity reflects the bank's transformation into a digitally progressive, inclusive, and nationally grounded financial institution.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-23T10:41:46+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607230249.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607230249.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "e6150477fe",
       "title": "How DFCU Bank Is Helping Award Winning Ojok Transform Northern Uganda's Coffee Value Chain",
       "summary": "[Independent (Kampala)] Interview -- From introducing improved coffee seedlings to connecting farmers to markets and international opportunities, Alfred Ojok has spent years building Hasting Coffee Centre into a catalyst for agricultural transformation in Northern Uganda.",
@@ -10921,6 +10921,38 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607230242.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "41cbb31701",
+      "title": "Fact Sheet - U.S. Government Awards $245,000 to Uganda Virus Research Institute (Uvri), Preserving 90 Years of American and Ugandan Scientific Partnership",
+      "summary": "[U.S. Embassy Kampala] Overview",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-23T10:32:54+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607230241.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607230241.html"
         }
       ],
       "confirmation_count": 1
@@ -11433,6 +11465,38 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607220361.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "becf46ffb3",
+      "title": "Determine Girls FC Confirm Transfer of Star Striker Mabinty Camara to Tanzania's Simba Queens",
+      "summary": "[FrontPageAfrica] Monrovia -- Reigning Liberian women's football champions, Determine Girls Football Club, have officially confirmed the transfer of prolific striker Mabinty Camara to Tanzanian powerhouse Simba Queens, ending her highly successful three-year tenure with the Monrovia-based club.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-22T11:37:22+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607220349.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607220349.html"
         }
       ],
       "confirmation_count": 1
