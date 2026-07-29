@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T17:38:14.383642+00:00",
+  "generated_at": "2026-07-29T19:42:24.991553+00:00",
   "stats": {
     "total_signals": 466,
     "verified_signals": 9,
@@ -7,8 +7,8 @@
     "sources_active": 40,
     "per_country": {
       "MOZ": 38,
-      "KEN": 62,
-      "NGA": 70,
+      "KEN": 64,
+      "NGA": 69,
       "UGA": 41,
       "CIV": 32,
       "TZA": 32,
@@ -19,19 +19,19 @@
       "MLI": 22,
       "RWA": 9,
       "ETH": 34,
-      "CPV": 8,
-      "NER": 3,
+      "NER": 2,
       "SLE": 4,
       "SSD": 6,
       "BFA": 4,
       "MDG": 4,
+      "CPV": 8,
       "COM": 3,
       "GNB": 1,
       "BEN": 5,
       "SOM": 3
     },
-    "west_signals": 234,
-    "east_signals": 232
+    "west_signals": 232,
+    "east_signals": 234
   },
   "sources": [
     {
@@ -1997,6 +1997,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "05ffdc04a5",
+      "title": "Al-Shabab kills five Kenyan security personnel in ambush",
+      "summary": "The ambush is part of a rapid surge in cross-border attacks along Kenya's northern frontier.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-29T19:06:38+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6b23142b04",
+      "title": "Kenya empowers investigators to seize crypto wallets tied to financial crime",
+      "summary": "Kenya's new crypto rules now empower authorities to seize and convert crypto assets into fiat asset to preserve value during investigations.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-29T18:22:43+00:00",
+      "lead_source": {
+        "id": "techcabal",
+        "name": "TechCabal",
+        "tier": 2,
+        "url": "https://techcabal.com/2026/07/29/crypto-assets-can-now-seized-and-converted-in-kenya/"
+      },
+      "confirming_sources": [
+        {
+          "id": "techcabal",
+          "name": "TechCabal",
+          "tier": 2,
+          "url": "https://techcabal.com/2026/07/29/crypto-assets-can-now-seized-and-converted-in-kenya/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "7afa5d3cdf",
       "title": "Au Nigéria, la crise sécuritaire aggrave l'insécurité alimentaire",
       "summary": "Au Nigeria, la recrudescence des violences dans le nord du pays aggrave la crise alimentaire. Plus de 3 millions de personnes souffrent d'une insécurité alimentaire aiguë, selon le Programme alimentaire mondial. Parmi elles, 10 000 sont confrontées à une faim catastrophique.",
@@ -3087,38 +3151,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "d13f0b685b",
-      "title": "Cape Verde got the world’s attention. Francophone African tech still needs it.",
-      "summary": "Cape Verde’s sudden global visibility mirrors a bigger problem: Francophone African startups are still fighting for investor attention.",
-      "country": "CPV",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-28T11:50:42+00:00",
-      "lead_source": {
-        "id": "techcabal",
-        "name": "TechCabal",
-        "tier": 2,
-        "url": "https://techcabal.com/2026/07/28/francophone-weekly-by-techcabal-033/"
-      },
-      "confirming_sources": [
-        {
-          "id": "techcabal",
-          "name": "TechCabal",
-          "tier": 2,
-          "url": "https://techcabal.com/2026/07/28/francophone-weekly-by-techcabal-033/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "3726366c0e",
       "title": "Niassa/Ministro Satisfeito Com Avan&#xE7;os DA Agro-Ind&#xFA;stria E Investiga&#xE7;&#xE3;o Agr&#xE1;ria",
       "summary": "[AIM] Maputo -- O ministro da Agricultura, Ambiente e Pescas, Roberto Albino, considerou encorajadores os progressos registados em diferentes empreendimentos agro-industriais e de investigação agrária na província do Niassa, norte de Moçambique.",
@@ -3338,38 +3370,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607280072.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "8de98fa8cd",
-      "title": "CAK Probes Suspected Cartels in Bread, Sugar and Mattress Markets",
-      "summary": "[Capital FM] Nairobi -- The Competition Authority of Kenya (CAK) has launched investigations into suspected cartel activities in the bread, sugar and mattress manufacturing industries as it steps up efforts to curb anti-competitive practices.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-28T07:01:21+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607280035.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607280035.html"
         }
       ],
       "confirmation_count": 1
@@ -6342,6 +6342,40 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1828226/politique/senegal-mali-pourquoi-bassirou-diomaye-faye-se-rapproche-dassimi-goita/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4552e2f4a4",
+      "title": "Adolescente salva criança arrastada por ondas na Califórnia",
+      "summary": "Vídeo gravado na praia de Seabright State Beach foi visto por milhões. Donald Trump elogiou nadador-salvador, classificando-o como um \"jovem herói\", e revelou que pretende recebê-lo na Casa Branca.",
+      "country": "CPV",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "pt",
+      "published": "2026-07-29T18:32:00+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/07/29/nadador-salvador-de-16-anos-resgata-crianca-arrastada-por-ondas-gigantes-na-california/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/07/29/nadador-salvador-de-16-anos-resgata-crianca-arrastada-por-ondas-gigantes-na-california/"
         }
       ],
       "confirmation_count": 1
@@ -9713,6 +9747,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "9191772ed8",
+      "title": "Ngong Road-Naivasha Flyover Project Under Scrutiny As Kura Faces Constitutional Petition",
+      "summary": "[Capital FM] Nairobi -- The High Court in Nairobi has been moved to compel the Kenya Urban Roads Authority (KURA) to disclose records relating to the development of the Ngong Road-Naivasha Road Flyover, with a petitioner arguing that the public has a constitutional right to scrutinize the project.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-28T15:27:15+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607280457.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607280457.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "979bfbc24f",
+      "title": "Senate Summons CS Miano Over Bomas Redevelopment Project",
+      "summary": "[Capital FM] Nairobi -- The Senate Standing Committee on Roads, Transport and Housing has formally summoned Tourism and Wildlife Cabinet Secretary Rebecca Miano to appear before it on August 4, 2026, over the Bomas International Convention Complex (BICC) redevelopment project.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-28T15:24:15+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607280452.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607280452.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "1a6db96629",
       "title": "Rwanda to phase out 2G, 3G networks",
       "summary": "The nationwide switch-off of 3G services is scheduled for June 30, 2027, followed by the...",
@@ -10355,6 +10453,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "9df351c36e",
+      "title": "DPP Approves Bribery Charges Against Suspended Kangema Magistrate, Probation Officer",
+      "summary": "[Capital FM] Nairobi -- A senior magistrate accused of accepting cash to influence a court sentence is headed to the dock after the Director of Public Prosecutions approved bribery charges against him and a probation officer allegedly caught in an EACC sting operation.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-28T11:01:45+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607280228.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607280228.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "00fd498161",
       "title": "Businesses in Lagos try to stay afloat as fuel prices soar",
       "summary": "Lagos is almost six thousand kilometres from the Strait of Hormuz but the ongoing conflict in Iran is hitting the Nigerian city hard. Electricity almost never comes and the rising price of fuel is bringing many businesses to a near standstill.",
@@ -10382,6 +10512,38 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/07/28/businesses-in-lagos-try-to-stay-afloat-as-fuel-prices-soar/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c0f71f4847",
+      "title": "'Means the World to Me,' - Kenyan Youngster Revels in Commonwealth Games Debut",
+      "summary": "[Capital FM] NAIROBI -- Kenyan youngster Janet Jepkemoi says her Commonwealth Games debut is a stepping stone to greater things in her athletics career.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-28T10:48:58+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607280210.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607280210.html"
         }
       ],
       "confirmation_count": 1
@@ -10675,70 +10837,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "8281907760",
-      "title": "National Assembly Back in Session Amid Rising Political Heat",
-      "summary": "[Capital FM] Nairobi -- The National Assembly is set to resume its sittings after its short recess, with the House Business Committee expected to meet and prepare a packed legislative agenda for Members of Parliament.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-28T07:08:35+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607280046.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607280046.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "da55991d9f",
-      "title": "Kindiki Breaks Silence On Fake News Over Ruto Fallout",
-      "summary": "[Capital FM] Nairobi -- Deputy President Kithure Kindiki has dismissed as \"fake news\" reports claiming he had been stripped of key government responsibilities.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-28T07:07:29+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607280043.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607280043.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "0a23e3116d",
       "title": "Visite de Diomaye Faye au Mali: «Il faut rétablir la confiance entre la Cédéao et l’AES»",
       "summary": "Le président sénégalais se rend au Mali ce mardi 28 juillet pour une visite de travail. Depuis le 19 juillet, il est aussi le président en exercice de la Communauté économique des États de l'Afrique de l'Ouest. Va-t-on vers un rapprochement entre la Cédéao et l'AES, l'Alliance des États du Sahel ? Et Bassirou Diomaye Faye pourrait-il jouer un rôle de médiateur dans la guerre civile qui déchire actuellement le Mali ? Pape Ibrahima Kane, expert des questions géopolitiques,…",
@@ -10867,38 +10965,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "f7a9821494",
-      "title": "What the AIDS Funding Withdrawal Revealed About African Health Law",
-      "summary": "[allAfrica] Rio de Janeiro, Brazil -- For two decades, donor funding helped build one of the world's most successful HIV responses. Now, as the United States scales back support, legal scholar Mnotho Ngcobo says Africa is confronting not just a funding crisis, but a constitutional and ethical one.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-27T18:14:10+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607270561.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607270561.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "12a6e3a594",
       "title": "Guinée : un ancien ministre condamné par contumace à six années de prison",
       "summary": "Oyé Guilavogui, ministre sous la présidence d’Alpha Condé, écope de six ans de prison pour des faits de corruption. Une peine pour le moment symbolique, puisqu’il a quitté la Guinée en octobre 2023.",
@@ -10926,38 +10992,6 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1827438/politique/guinee-un-ancien-ministre-condamne-par-contumace-a-six-annees-de-prison/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "62dac3e0c6",
-      "title": "Assemblées annuelles de la BAD : le casse-tête nigérien de Sidi Ould Tah",
-      "summary": "La Banque africaine de développement ne sait pas encore où organiser ses Assemblées annuelles 2027. Le contexte sécuritaire au Niger et les tensions avec ses voisins ont fait échouer la candidature de Niamey. Coulisses.",
-      "country": "NER",
-      "category": "FINANCING",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-07-27T18:00:46+00:00",
-      "lead_source": {
-        "id": "ja",
-        "name": "Jeune Afrique",
-        "tier": 2,
-        "url": "https://www.jeuneafrique.com/1826754/economie-entreprises/assemblees-annuelles-de-la-bad-le-casse-tete-nigerien-de-sidi-ould-tah/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ja",
-          "name": "Jeune Afrique",
-          "tier": 2,
-          "url": "https://www.jeuneafrique.com/1826754/economie-entreprises/assemblees-annuelles-de-la-bad-le-casse-tete-nigerien-de-sidi-ould-tah/"
         }
       ],
       "confirmation_count": 1
@@ -11794,38 +11828,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/07/26/ugandan-diplomat-olara-otunnu-joins-race-to-lead-the-united-nations/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f578c5396e",
-      "title": "Nigerian youngsters learning boxing on the streets of Lagos",
-      "summary": "Former boxer Yusuf Eleyele says he is not only teaching them the sport, but also discipline and resilience.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-26T10:26:38+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/07/26/nigerian-youngsters-learning-boxing-on-the-streets-of-lagos/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/07/26/nigerian-youngsters-learning-boxing-on-the-streets-of-lagos/"
         }
       ],
       "confirmation_count": 1
