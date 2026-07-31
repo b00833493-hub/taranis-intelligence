@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-31T14:40:01.797408+00:00",
+  "generated_at": "2026-07-31T16:56:58.787024+00:00",
   "stats": {
-    "total_signals": 455,
+    "total_signals": 462,
     "verified_signals": 16,
-    "countries_covered": 25,
+    "countries_covered": 26,
     "sources_active": 40,
     "per_country": {
+      "KEN": 60,
+      "MLI": 26,
       "MOZ": 39,
       "GHA": 43,
-      "NGA": 63,
-      "MLI": 25,
-      "KEN": 60,
+      "NGA": 65,
       "ETH": 36,
-      "UGA": 40,
-      "CIV": 31,
-      "TZA": 32,
+      "UGA": 41,
+      "CIV": 32,
+      "TZA": 31,
       "SEN": 36,
       "TGO": 3,
+      "GIN": 4,
       "GMB": 1,
       "LBR": 2,
       "BFA": 5,
@@ -24,15 +25,15 @@
       "SLE": 3,
       "SSD": 3,
       "BEN": 3,
-      "GIN": 3,
       "MDG": 4,
-      "CPV": 8,
+      "CPV": 9,
+      "GNB": 1,
       "ERI": 1,
       "MWI": 1,
       "SOM": 3,
       "COM": 1
     },
-    "west_signals": 226,
+    "west_signals": 233,
     "east_signals": 229
   },
   "sources": [
@@ -278,6 +279,102 @@
     }
   ],
   "signals": [
+    {
+      "id": "5a56c348ba",
+      "title": "Standard Chartered Mobilizes Sh97bn for Sustainable Finance in Kenya",
+      "summary": "[Capital FM] Nairobi -- Standard Chartered Bank Kenya has mobilized more than Sh97 billion in sustainable finance since 2021, supporting renewable energy, affordable housing, sustainable infrastructure and women-led businesses as demand for climate-focused investments grows.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T16:32:00+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310415.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310415.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0e8394007b",
+      "title": "Kenya: Fifteen elephants found dead of suspected pesticide poisoning",
+      "summary": "Initial investigations suggest they died after ingesting pesticides used on nearby tomato farms.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T15:55:47+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/07/31/kenya-fifteen-elephants-found-dead-of-suspected-pesticide-poisoning/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/07/31/kenya-fifteen-elephants-found-dead-of-suspected-pesticide-poisoning/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e80e95b2bc",
+      "title": "Mali : Human Rights Watch accuse des paramilitaires russes d'avoir tué des civils",
+      "summary": "Des paramilitaires russes de l'Africa Corps, qui soutient le Mali dans sa lutte contre les insurgés, ont tué huit civils, dont trois enfants, lors de frappes aériennes menées en juin, a déclaré vendredi Human Rights Watch (HRW) dans un rapport.",
+      "country": "MLI",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-07-31T15:13:21+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/07/31/mali-human-rights-watch-accuse-des-paramilitaires-russes-davoir-tue-des-civils/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/07/31/mali-human-rights-watch-accuse-des-paramilitaires-russes-davoir-tue-des-civils/"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "02d76430ec",
       "title": "Portugal Is Key Partner for Attraction of Agro-Investment",
@@ -777,38 +874,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "66193fdc75",
-      "title": "Museveni Backs Oacps Headquarters Relocation As Otunnu's UN Campaign Enters Diplomatic Phase",
-      "summary": "[Nile Post] President Museveni on Tuesday threw Uganda's weight behind a proposal to relocate the headquarters of the Organization of African, Caribbean and Pacific States (OACPS) from Europe to one of its member states, in a diplomatic move that could also signal the quiet beginning of Kampala's international lobbying campaign for Ambassador Olara Otunnu's bid to become the next United Nations Secretary-General.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-29T23:36:39+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607290638.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607290638.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "d0439bd880",
       "title": "Kenyan security officers killed in suspected Al-Shabaab border ambush",
       "summary": "Kenyan Security Officers Killed in Suspected Al-Shabaab Border Ambush",
@@ -836,38 +901,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/07/29/kenyan-security-officers-killed-in-suspected-al-shabaab-border-ambush/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ce217ed57b",
-      "title": "HIV Science Races Ahead As Funding Crisis Threatens to Widen Access Gap",
-      "summary": "[Independent (Kampala)] Kampala -- For more than two decades, scientific innovation and international financing have worked together to transform HIV from a deadly disease into a manageable chronic condition for millions of people.",
-      "country": "UGA",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-29T11:24:14+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607290289.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607290289.html"
         }
       ],
       "confirmation_count": 1
@@ -932,38 +965,6 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/07/29/kenya-une-enquete-ouverte-sur-la-mort-de-15-elephants-dans-le-parc-damboseli/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "7e232ad901",
-      "title": "Kenya probes death of 15 elephants at Amboseli park",
-      "summary": "An investigation has been opened into the unexplained death of 15 elephants in one month at a Kenyan nature park, the Kenyan Wildlife Service said Tuesday.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-29T10:09:02+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/07/29/kenya-probes-death-of-15-elephants-at-amboseli-park/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/07/29/kenya-probes-death-of-15-elephants-at-amboseli-park/"
         }
       ],
       "confirmation_count": 1
@@ -1490,6 +1491,136 @@
           "name": "AllAfrica · Côte d'Ivoire",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607010039.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "57cb830b33",
+      "title": "Woman Loses Ear in Suspected Rape Attempt in Kasese",
+      "summary": "[Nile Post] Police in Kasese District have launched a manhunt for two suspects accused of attempting to rape a 29-year-old woman before cutting off her right ear during a violent attack in the early hours of Thursday.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T16:31:11+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310414.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310414.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "51e16ee1cd",
+      "title": "Digital Activist Granted Provisional Release Pending Court of Appeal Decision",
+      "summary": "[MFWA] Ivorian digital activist Ibrahim Zigui, a member of the opposition PPA-CI party has been granted provisional release by the Abidjan Court of Appeal on July 6, 2026, less than two months after he was sentenced to five years' imprisonment and fined CFA 20 million (USD 34,800).",
+      "country": "CIV",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "GRANT"
+      ],
+      "lang": "fr",
+      "published": "2026-07-31T16:24:19+00:00",
+      "lead_source": {
+        "id": "aa-civ",
+        "name": "AllAfrica · Côte d'Ivoire",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310407.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-civ",
+          "name": "AllAfrica · Côte d'Ivoire",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310407.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7a99679040",
+      "title": "Seven Nakuru County Officials Among Nine Charged Over Sh120mn Procurement Fraud",
+      "summary": "[Capital FM] Nairobi -- Seven Nakuru County Government officials were among nine people arraigned Friday over a Sh120 million procurement fraud and money laundering scheme, with all the accused pleading not guilty before being released on bond.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T16:11:57+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310396.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310396.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0d4d594320",
+      "title": "Guinée: le principal accusé des viols collectifs de Mandiana condamné à 15 ans de réclusion",
+      "summary": "Au tribunal de Mandiana, un homme a été reconnu ce jeudi 30 juillet coupable de viols et condamné à 15 ans de prison. Les faits remontent à avril dernier, où deux adolescentes ont été agressées par plusieurs hommes. Une enquête a été ouverte mais c’est la diffusion récente sur les réseaux sociaux de vidéos des viols qui a suscité l’indignation dans le pays.",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-07-31T14:15:43+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260731-guin%C3%A9e-le-principal-accus%C3%A9-des-viols-collectifs-de-mandiana-condamn%C3%A9-%C3%A0-15-ans-de-r%C3%A9clusion"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260731-guin%C3%A9e-le-principal-accus%C3%A9-des-viols-collectifs-de-mandiana-condamn%C3%A9-%C3%A0-15-ans-de-r%C3%A9clusion"
         }
       ],
       "confirmation_count": 1
@@ -2903,38 +3034,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "c20c1cd234",
-      "title": "Ncba Bank Deepens Digital Banking Push",
-      "summary": "[Independent (Kampala)] News Analysis -- NCBA Bank Uganda has launched two digital banking platforms aimed at transforming how individuals and businesses access and manage financial services, as competition in Uganda's banking sector increasingly shifts towards technology-driven solutions.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-29T15:57:43+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607290538.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607290538.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "df14bdcd20",
       "title": "Côte d'Ivoire : la coupe de cheveux imposée à l'école fait débat",
       "summary": "En Côte d’Ivoire, dans de nombreux établissements scolaires, les élèves, filles comme garçons, sont tenus de porter les cheveux courts.  Une règle en vigueur depuis des années, mais aujourd’hui contestée, notamment par de jeunes filles. Une pétition, lancée anonymement, début juillet et largement relayée sur les réseaux sociaux, demande aux autorités d’autoriser les élèves à conserver leurs cheveux naturels",
@@ -3058,38 +3157,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607290305.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1afdb9920b",
-      "title": "DR Congo court approves referendum law, fueling third-term debate",
-      "summary": "The opposition has strongly criticized the reform, arguing that it could undermine constitutional safeguards. The debate comes as the country faces mounting security challenges, including renewed fighting with the Rwanda-backed M23 rebel group in the east and a growing Ebola outbreak.",
-      "country": "RWA",
-      "category": "MACRO",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-29T11:07:42+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/07/29/dr-congo-court-approves-referendum-law-fueling-third-term-debate/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/07/29/dr-congo-court-approves-referendum-law-fueling-third-term-debate/"
         }
       ],
       "confirmation_count": 1
@@ -4635,6 +4702,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "5e6a1a0d98",
+      "title": "FG to End Electricity Subsidy From 2027",
+      "summary": "[Vanguard] The Federal Government has announced plans to phase out electricity subsidy payments from 2027 as part of efforts to address mounting debts in the power sector.",
+      "country": "NGA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T16:23:05+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310406.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310406.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ddd7a620bb",
+      "title": "UAE’s Etihad stakes its claim in West African skies with Nigeria’s Air Peace",
+      "summary": "Etihad Airways has signed interline agreements with Air Peace in Nigeria and Africa World Airlines in Ghana. The Emirati carrier is favouring local alliances to take on Emirates and Qatar Airways on the continent.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T15:00:00+00:00",
+      "lead_source": {
+        "id": "africa-rep",
+        "name": "The Africa Report",
+        "tier": 2,
+        "url": "https://www.theafricareport.com/426681/uaes-etihad-stakes-its-claim-in-west-african-skies-with-nigerias-air-peace/"
+      },
+      "confirming_sources": [
+        {
+          "id": "africa-rep",
+          "name": "The Africa Report",
+          "tier": 2,
+          "url": "https://www.theafricareport.com/426681/uaes-etihad-stakes-its-claim-in-west-african-skies-with-nigerias-air-peace/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "bb89da39a9",
       "title": "Ghana : la production de cacao pourrait chuter de 16 % en 2026-2027",
       "summary": "Le Ghana s'attend à une nouvelle baisse de sa production de cacao. Le régulateur de la filière, le COCOBOD, prévoit un recul d'au moins 16 % pour la campagne 2026-2027.",
@@ -5425,38 +5556,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "3d7248b363",
-      "title": "Uganda Joins Global Race for Green Hydrogen",
-      "summary": "[Independent (Kampala)] Kampala -- As the world develops green hydrogen for industries from steel to aviation, Uganda is seeking to turn its renewable energy advantage into a new engine for industrial growth",
-      "country": "UGA",
-      "category": "RENEWABLE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": true,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-29T12:41:32+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607290426.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607290426.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "9590b3c075",
       "title": "La CPI cible-t-elle vraiment trop l’Afrique ?",
       "summary": "Après le Niger, le Mali et le Burkina Faso, le Tchad a à son tour annoncé son intention de quitter la Cour pénale internationale. Une décision officiellement motivée par le caractère « africano-centré » de l’instance. Qu’en est-il vraiment ?",
@@ -6219,6 +6318,456 @@
       "confirmation_count": 1
     },
     {
+      "id": "662273c230",
+      "title": "Blocs pétroliers au Nigeria : la NNPC et Tony Elumelu recalés au profit de sociétés plus confidentielles",
+      "summary": "Le plus grand cycle d’octroi de licences du Nigeria depuis l’entrée en vigueur de la nouvelle loi pétrolière en 2021 a vu plusieurs producteurs pétroliers et gaziers établis repartir les mains vides.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-07-31T17:55:20+00:00",
+      "lead_source": {
+        "id": "ja",
+        "name": "Jeune Afrique",
+        "tier": 2,
+        "url": "https://www.jeuneafrique.com/1828713/economie-entreprises/blocs-petroliers-au-nigeria-la-nnpc-et-tony-elumelu-recales-au-profit-de-societes-plus-confidentielles/"
+      },
+      "confirming_sources": [
+        {
+          "id": "ja",
+          "name": "Jeune Afrique",
+          "tier": 2,
+          "url": "https://www.jeuneafrique.com/1828713/economie-entreprises/blocs-petroliers-au-nigeria-la-nnpc-et-tony-elumelu-recales-au-profit-de-societes-plus-confidentielles/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "850795cadb",
+      "title": "Government Declares Telecom Infrastructure Vandalism Economic Sabotage",
+      "summary": "[Nile Post] The government has warned that vandalism of telecommunications infrastructure is undermining national development and will be treated as economic sabotage as Uganda expands digital connectivity across the country.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T16:30:50+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310413.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310413.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1f99ad3316",
+      "title": "Amhara Region Delivers 357 Kilograms of Gold to Nbe",
+      "summary": "[ENA] Addis Ababa -- The Amhara National Regional State supplied 357 kilograms of gold to the National Bank of Ethiopia (NBE) for the first time during the 2018 Ethiopian fiscal year.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T16:29:32+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310412.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310412.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "67238d3e32",
+      "title": "Nine Nup Supporters Granted Amnesty",
+      "summary": "[Nile Post] A group of nine supporters of opposition National Unity Platform(NUP) have been granted amnesty by the Uganda Amnesty Commission.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "GRANT"
+      ],
+      "lang": "en",
+      "published": "2026-07-31T16:27:23+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310410.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310410.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8ebcc683a6",
+      "title": "Nigerian Police Deploy New CP to Oversee Osun Governorship Poll",
+      "summary": "[Premium Times] The deployment comes after months of controversies sourrounding the conduct of the Osun State Police command led by former CP Ibrahim Gotan and calls for his redeployment by the state government.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T16:22:50+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310405.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310405.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5d40ec9429",
+      "title": "HIV Injection Is Not a Vaccine, Experts Warn",
+      "summary": "[Independent (Kampala)] Kampala -- Experts have urged those who already received their first injection of the twice-yearly HIV preventing drug Lenacapavir to consider using combination prevention options, warning that the game changer injection is not a vaccine.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T16:22:28+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310404.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310404.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1f78b50321",
+      "title": "Karenga Residents Demand Action As Reproductive Health Uganda-Led Dialogue Tackles Teenage Pregnancy Crisis",
+      "summary": "[New Light] KARENGA -- Concern over rising teenage pregnancies and child marriages has sparked calls for urgent action in Karenga District, with residents, local leaders and government officials urging stronger community involvement to protect girls and keep them in school.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T16:12:28+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310397.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310397.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "09b7b0c3a9",
+      "title": "Thousands Cross From Morocco Into Spain in New Migrant Crisis",
+      "summary": "[Vanguard] Thousands of migrants crossed overnight from Morocco into Spain's north Africa's Ceuta enclave, a police source said on Friday, as Prime Minister Pedro Sanchez was set to arrive to manage the latest migrant crisis on the border.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T16:11:26+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310393.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310393.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f9aaf780ae",
+      "title": "Aussom Troop-Contributing Nations Seek UN Extension for Somalia Mission At Kampala Summit",
+      "summary": "[Shabelle] Kampala -- Defence ministers from countries contributing troops to the African Union Support and Stabilisation Mission in Somalia (AUSSOM) agreed on Thursday to seek a United Nations extension of the mission by up to two years, as concerns mount over the future of international security support for Somalia.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T16:02:21+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607310358.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607310358.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8c1ec28ff2",
+      "title": "United Nations calls for an end to crackdown on civic freedoms in Uganda",
+      "summary": "Its human rights office says restrictions on civil liberties are creating fear among opposition supporters, journalists, activists, and civil society groups.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T15:07:16+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/07/31/united-nations-calls-for-an-end-to-crackdown-on-civic-freedoms-in-uganda/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/07/31/united-nations-calls-for-an-end-to-crackdown-on-civic-freedoms-in-uganda/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e031c0374d",
+      "title": "CAN Feminino: Cabo Verde aponta baterias para o duelo frente ao Mali",
+      "summary": "A segunda jornada do Campeonato Africano das Nações (CAN) de futebol feminino arrancou na quinta-feira, 30 de Julho, com os triunfos de Marrocos, país anfitrião, e do Senegal.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-07-31T15:07:05+00:00",
+      "lead_source": {
+        "id": "rfi-pt",
+        "name": "RFI Português",
+        "tier": 1,
+        "url": "https://www.rfi.fr/pt/programas/desporto/20260731-can-feminino-cabo-verde-aponta-baterias-para-o-duelo-frente-ao-mali"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-pt",
+          "name": "RFI Português",
+          "tier": 1,
+          "url": "https://www.rfi.fr/pt/programas/desporto/20260731-can-feminino-cabo-verde-aponta-baterias-para-o-duelo-frente-ao-mali"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c74f2e34be",
+      "title": "Semana em África: ataque cibernético em Angola e início do CAN feminino",
+      "summary": "Esta semana em África lusófona, foi definitivamente confirmada a reeleição de Carlos Vila Nova como Presidente da República de São Tomé e Príncipe. Em Moçambique, oito pessoas foram detidas, acusadas de ofensa à honra do Presidente da República e da Primeira-Dama nas redes sociais. Na Guiné-Bissau, um dirigente do PAIGC foi agredido após este apelar a votar contra o projecto de nova Constituição. Esta semana foi também o início do Campeonato Africano das Nações de futebol…",
+      "country": "GNB",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-07-31T15:01:18+00:00",
+      "lead_source": {
+        "id": "rfi-pt",
+        "name": "RFI Português",
+        "tier": 1,
+        "url": "https://www.rfi.fr/pt/programas/semana-em-%C3%A1frica/20260731-semana-em-%C3%A1frica-ataque-cibern%C3%A9tico-em-angola-e-in%C3%ADcio-do-can-feminino"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-pt",
+          "name": "RFI Português",
+          "tier": 1,
+          "url": "https://www.rfi.fr/pt/programas/semana-em-%C3%A1frica/20260731-semana-em-%C3%A1frica-ataque-cibern%C3%A9tico-em-angola-e-in%C3%ADcio-do-can-feminino"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "bfd96454ee",
+      "title": "Nigeria date removed from South African pop star Tyla's world tour after boycott petition",
+      "summary": "Nigerians urged Tyla to cancel her concert in Lagos over anti-migrant protests in South Africa.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T14:49:49+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/news/articles/c7vglz56gg5o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/news/articles/c7vglz56gg5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "04c10c5aee",
+      "title": "Ghana forecasts 16% fall in cocoa production following bad weather and disease",
+      "summary": "Ghana is warning of a sharp drop in cocoa production next season, with output expected to fall by at least 16 percent.",
+      "country": "GHA",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T14:06:24+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/07/31/ghana-forecasts-16-fall-in-cocoa-production-following-bad-weather-and-disease/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/07/31/ghana-forecasts-16-fall-in-cocoa-production-following-bad-weather-and-disease/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "34aff547b1",
       "title": "Cabo Verde: Sindicatos acusam Governo de fragilizar a TACV",
       "summary": "Em Cabo Verde, o Sindicato da Indústria, Transportes, Telecomunicações, Hotelaria, Turismo e Restauração, SITTHUR, rejeita a liquidação da TACV – Cabo Verde Airlines e pede  Assembleia Geral urgente para avaliar a parceria.",
@@ -6438,38 +6987,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607310291.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "fbf6f99851",
-      "title": "Nigeria removed from South African pop star Tyla's upcoming world tour",
-      "summary": "Nigerians urged Tyla to cancel her concert in Lagos over anti-migrant protests in South Africa.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-31T12:18:22+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/c7vglz56gg5o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/c7vglz56gg5o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "confirmation_count": 1
@@ -7078,6 +7595,38 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/afrique/20260731-can-f%C3%A9minine-nouveau-parti-de-faye-au-s%C3%A9n%C3%A9gal-situation-instable-au-niger-l-hebdo-afrique"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b7ae1c49bf",
+      "title": "Rwanda mourns ex-Speaker Mukabalisa",
+      "summary": "Her political career spanned 26 years starting in 2000 when she became member of the National...",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T10:22:41+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-mourns-ex-speaker-mukabalisa-5542746"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-mourns-ex-speaker-mukabalisa-5542746"
         }
       ],
       "confirmation_count": 1
@@ -8749,38 +9298,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "2b02665adc",
-      "title": "Fake News Fueling Insecurity, Says Information Minister",
-      "summary": "[Vanguard] UMUAHIA -- The Minister of Information and National Orientation, Mohammed Idris, has warned that fake news, misinformation and hate speech have become tools being exploited by criminal elements to fuel insecurity and undermine national unity.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-30T16:15:28+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607300476.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607300476.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "d43a1e6fc7",
       "title": "Eswatini Officials Awestruck By Kiira Motors Vehicle Plant",
       "summary": "[Nile Post] A high-level delegation from the Kingdom of Eswatini has expressed admiration for Uganda's automotive manufacturing progress after touring the Kiira Vehicle Plant in Jinja, where they witnessed the country's growing capacity to produce electric and conventional buses for the African market.",
@@ -9005,70 +9522,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "9fbda22bc6",
-      "title": "Aisha Jumwa Quits Uda, Accuses President Ruto of Betrayal and Political Humiliation",
-      "summary": "[Capital FM] Nairobi -- Former Public Service Cabinet Secretary Aisha Jumwa has resigned from President William Ruto's United Democratic Alliance (UDA), citing what she described as prolonged humiliation and political betrayal despite her unwavering support for the President.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-30T14:52:18+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607300423.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607300423.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f5ad6581f9",
-      "title": "The Federalism That Promotes Productivity (1)",
-      "summary": "[Premium Times] In my last two articles, I argue that Nigeria's developmental challenge is less about the absence of ideas than the organisation of incentives. The first article contends that many of our governance failures are symptoms of a deeper organisational misalignment between authority, incentives and capability. The second traces the evolution of Nigeria's fiscal federalism, showing how the gradual shift from rewarding production towards prioritising distribution…",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-30T14:51:07+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607300422.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607300422.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "5594182039",
       "title": "Previous Peace Agreements Failed Because They Were Overly Politicized - Louren&#xE7;o Do Ros&#xE1;rio",
       "summary": "[AIM] Maputo -- Lourenço do Rosário, a prominent Mozambican academic, warned against turning the \"inclusive national dialogue\" into a politicized process, claiming that previous peace agreements failed because they were overly politicized rather than focusing on fostering trust among Mozambicans.",
@@ -9192,38 +9645,6 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607300400.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "6a51b21d02",
-      "title": "City Hall Swears in Planning Liaison Committee Chair to Fast-Track Land Dispute Resolution",
-      "summary": "[Capital FM] Nairobi -- Nairobi City County has strengthened its planning dispute resolution framework following the swearing-in of the Chairperson of the Nairobi Physical Planning and Land Use Liaison Committee, a quasi-judicial body established under the Physical and Land Use Planning Act, 2019.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-30T14:02:58+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607300392.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607300392.html"
         }
       ],
       "confirmation_count": 1
@@ -9869,38 +10290,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "1c207146dd",
-      "title": "'What Is the Plan?' - Inside South Africa's Reckoning With a Post-PEPFAR World",
-      "summary": "[allAfrica] Rio de Janeiro, Brazil -- \"What is the plan before we get back to a stage where we are burying people?\"",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-30T10:13:49+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607300177.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607300177.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "51947895bc",
       "title": "Supreme Court Upholds Osp Prosecutorial Powers",
       "summary": "[Ghanaian Times] The Supreme Court yesterday ruled that the Office of the Special Prosecutor (OSP) has prosecutorial powers under the Constitution but affirmed that the Attorney-General (AG) retains the constitutional authority to discontinue any prosecution initiated by the OSP through a nolle prosequi.",
@@ -10349,38 +10738,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "e2e9b32c04",
-      "title": "Goldstar Insurance Marks 30 Years With Tree Planting Drive to Promote Environmental Conservation",
-      "summary": "[New Light] GoldStar Insurance Company Limited has marked its 30th anniversary by planting 150 fruit and indigenous trees at Kira Primary School in Kira Town, Wakiso District, in a move aimed at promoting environmental conservation and nurturing a culture of sustainability among young learners.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-29T16:08:01+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607290552.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607290552.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "18e15f74c6",
       "title": "Aussom Troop-Contributing Countries' Military Chiefs Meet in Uganda to Discuss Somalia Mission",
       "summary": "[Shabelle] Kampala -- Military chiefs from countries contributing troops to the African Union Support and Stabilization Mission in Somalia (AUSSOM) convened in Uganda's capital, Kampala, on Wednesday to discuss the future of the mission and regional security cooperation.",
@@ -10408,38 +10765,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607290551.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "67c5ce4613",
-      "title": "Euroleague Calendar Brings the New Season Into View",
-      "summary": "[Independent (Kampala)] A 20-team field, 38 regular-season rounds and a September start set the main dates for the 2026/27 campaign",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-29T15:58:09+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607290539.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607290539.html"
         }
       ],
       "confirmation_count": 1
@@ -11080,38 +11405,6 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/connected-banking-summit-opens-in-ethiopia-as-digital-finance-takes-centre-stage/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "cade25f32d",
-      "title": "Ghana's tallest man dies after years of battling unusual genetic disorder",
-      "summary": "Across the globe, he was known as Ghana’s tallest man but in Ghana the country where he lived his entire 33 years of life, he was popularly known as Awuche.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-29T09:12:51+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/07/29/ghanas-tallest-man-dies-after-years-of-battling-unusual-genetic-disorder/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/07/29/ghanas-tallest-man-dies-after-years-of-battling-unusual-genetic-disorder/"
         }
       ],
       "confirmation_count": 1
@@ -12563,38 +12856,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "27925d9963",
-      "title": "Tanzanian football star Samatta: Here's why I like to play it cool",
-      "summary": "Despite being one of East Africa's wealthiest footballers, Samatta says he has never felt the...",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-25T06:30:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/magazine/tanzanian-football-star-samatta-why-i-like-to-play-it-cool-5536886"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/magazine/tanzanian-football-star-samatta-why-i-like-to-play-it-cool-5536886"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "66876f506d",
       "title": "Can Ethiopia Weave Africa's Complete Cotton-to-Clothing Value Chain?",
       "summary": "[Bird Story Agency] As Africa seeks to capture more value from its natural resources, Ethiopia is building one of the continent's most ambitious cotton-to-clothing value chains. By linking farmers, researchers and manufacturers, the country is demonstrating how cotton can drive industrialisation, create jobs and strengthen regional trade.",
@@ -13518,38 +13779,6 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/kenya-to-host-africa-technology-leadership-conference-2026/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d7babbdf76",
-      "title": "Nigerian MP Hails Ethiopia As Leading Light in Africa's Democracy",
-      "summary": "[ENA] Addis Ababa -- Ethiopia is the leading light in democracy for Africa, Nigerian House of Representatives Member, Agbedi Frederick, said.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-22T04:26:58+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607220053.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607220053.html"
         }
       ],
       "confirmation_count": 1
