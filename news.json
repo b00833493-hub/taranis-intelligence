@@ -1,37 +1,38 @@
 {
-  "generated_at": "2026-08-03T21:21:50.201417+00:00",
+  "generated_at": "2026-08-03T23:19:48.923767+00:00",
   "stats": {
-    "total_signals": 444,
+    "total_signals": 463,
     "verified_signals": 6,
-    "countries_covered": 23,
+    "countries_covered": 24,
     "sources_active": 40,
     "per_country": {
-      "UGA": 38,
-      "NGA": 71,
-      "KEN": 59,
-      "ETH": 40,
-      "GHA": 41,
+      "CIV": 30,
+      "UGA": 41,
+      "NGA": 72,
+      "KEN": 62,
+      "GHA": 44,
       "MOZ": 40,
+      "ETH": 40,
       "BFA": 6,
       "MLI": 28,
-      "TZA": 30,
+      "TZA": 31,
       "SEN": 31,
-      "TGO": 3,
-      "CIV": 29,
-      "RWA": 2,
-      "LBR": 3,
+      "TGO": 2,
+      "RWA": 7,
+      "LBR": 2,
       "GMB": 1,
       "SLE": 3,
+      "SSD": 2,
       "GIN": 4,
       "MDG": 3,
       "CPV": 7,
       "GNB": 1,
-      "SOM": 2,
+      "SOM": 4,
       "BEN": 1,
       "COM": 1
     },
-    "west_signals": 229,
-    "east_signals": 215
+    "west_signals": 232,
+    "east_signals": 231
   },
   "sources": [
     {
@@ -277,6 +278,38 @@
   ],
   "signals": [
     {
+      "id": "a880177aac",
+      "title": "Aux Rencontres photographiques d'Arles, Paul Kodjo, l'inventeur du photoroman ivoirien",
+      "summary": "À Arles, dans le sud de la France, les Rencontres photographiques consacrent cette année une exposition, la première en France, à Paul Kodjo, photographe ivoirien mort en 2021. « Paul Kodjo : Photoromance » permet de (re)découvrir l’œuvre plurielle du photographe, dont les images racontent l’ébullition culturelle de la Côte d'Ivoire des années 1970. Amandine Nana, la commissaire de l'exposition, est au micro.",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-03T22:10:26+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20260803-aux-rencontres-photographiques-d-arles-paul-kodjo-l-inventeur-du-photoroman-ivoirien"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20260803-aux-rencontres-photographiques-d-arles-paul-kodjo-l-inventeur-du-photoroman-ivoirien"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "d8a51c8fc2",
       "title": "L’Ouganda dévoile une statue en hommage à Yoni Netanyahu, 50 ans après le raid de 1976",
       "summary": "Cinquante ans après l’opération israélienne de sauvetage des otages d’Entebbe, le chef de l’armée ougandaise a inauguré samedi une statue de Yonatan « Yoni » Netanyahu, le frère aîné du Premier ministre israélien Benjamin Netanyahu, tué lors du raid.",
@@ -400,38 +433,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608030801.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "fa45c640af",
-      "title": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
-      "summary": "Ethiopian army accused of attacking Tigray forces in Shererina amid escalating tensions at the Sudan-Ethiopia border.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-03T15:19:32+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -1042,6 +1043,70 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607300414.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ba3eb2335f",
+      "title": "MTN Commits $1.1bn to Expand Network",
+      "summary": "[Ghanaian Times] KUMASI -- MTN Ghana has announced plans to invest US$1.1 billion over the next three years to expand its network infrastructure, grow digital services and strengthen financial technology.",
+      "country": "GHA",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-30T11:37:18+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202607300262.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607300262.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e4bc3a98ce",
+      "title": "US seeks role in Ethiopian Airlines' $12.5 billion airport project",
+      "summary": "Work on the four-runway airport, about 45km southeast of Addis Ababa, began in January.",
+      "country": "ETH",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-30T08:52:19+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/us-seeks-role-in-ethiopian-airlines-12-5-billion-airport-project-5541342"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/us-seeks-role-in-ethiopian-airlines-12-5-billion-airport-project-5541342"
         }
       ],
       "confirmation_count": 1
@@ -2855,38 +2920,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "8d3aa6127d",
-      "title": "Dr Muvawala Launches Iasp Africa Conference Due October",
-      "summary": "[Independent (Kampala)] Kampala -- The International Association for Strategy Professionals (IASP) Uganda Chapter and the National Planning Authority (NPA) have officially launched the IASP Africa Regional Conference 2026, marking an important milestone in their partnership to advance strategy excellence as a driver of Africa's socio-economic transformation.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-31T11:12:17+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607310236.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607310236.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "5702ba4bd4",
       "title": "War Monger TPLF Faction Declares Another Round of Conflict",
       "summary": "[ENA] Addis Ababa -- The banned Tigray People's Liberation Front (TPLF) has once again launched an aggressive campaign of public mobilization and war propaganda that could push the Tigray region toward another devastating cycle of conflict.",
@@ -2946,38 +2979,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/07/31/activists-in-kenya-demand-release-of-ugandan-opposition-leader-kizza-besigye/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1ca2e69ab5",
-      "title": "Liberia : plus de 4 tonnes de cocaïne détruites, des policiers inculpés",
-      "summary": "Au Liberia, les autorités ont procédé à l'incinération de 4,2 tonnes de cocaïne, une cargaison estimée à 336 millions de dollars. Cette destruction intervient après la plus importante saisie de drogue jamais réalisée dans le pays.",
-      "country": "LBR",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-07-31T08:59:25+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/07/31/liberia-plus-de-4-tonnes-de-cocaine-detruites-des-policiers-inculpes/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/07/31/liberia-plus-de-4-tonnes-de-cocaine-detruites-des-policiers-inculpes/"
         }
       ],
       "confirmation_count": 1
@@ -3143,6 +3144,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "3c49319c31",
+      "title": "NMB’s $100m London bond opens offshore funding market for EA",
+      "summary": "NMB is Tanzania’s largest commercial bank by customer numbers, serving more than 10 million...",
+      "country": "TZA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/nmb-s-100m-london-bond-opens-offshore-funding-market-for-ea-5542262"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/nmb-s-100m-london-bond-opens-offshore-funding-market-for-ea-5542262"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "bcf58a2ec4",
       "title": "Musasizi Urges Airtel to Increase Investment in Secure Digital Infrastructure",
       "summary": "[Nile Post] Finance Minister Henry Musasizi has called on Airtel Uganda to step up investment in secure and modern digital systems, as government pushes to accelerate Uganda's digital transformation and strengthen the country's digital economy.",
@@ -3170,6 +3203,70 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607300229.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "321da8993e",
+      "title": "Rising cybercrime rocks Ugandan financial sector",
+      "summary": "Cybercrime is exposing weaknesses in law enforcement systems and putting technology investment...",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-30T09:57:43+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/rising-cybercrime-rocks-ugandan-financial-sector-5541466"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/rising-cybercrime-rocks-ugandan-financial-sector-5541466"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "883deb6ca4",
+      "title": "Ugandan opposition leader Besigye in intensive care",
+      "summary": "Besigye, 70, collapsed in a court in the capital Kampala where he is standing trial for treason.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-30T08:45:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/ugandan-opposition-leader-besigye-in-intensive-care-5541324"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/ugandan-opposition-leader-besigye-in-intensive-care-5541324"
         }
       ],
       "confirmation_count": 1
@@ -4893,6 +4990,72 @@
       "confirmation_count": 1
     },
     {
+      "id": "6ef424fb23",
+      "title": "Rwanda and Tanzania signal stronger growth in 2026",
+      "summary": "AfDB advised African countries to address regulatory, market, and pipeline bottlenecks that...",
+      "country": "RWA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": true,
+      "sectors": [
+        "DFI"
+      ],
+      "lang": "en",
+      "published": "2026-08-01T09:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/afdb-report-on-kigali-dar-2026-economic-growth-5543200"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/afdb-report-on-kigali-dar-2026-economic-growth-5543200"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "424acc3ad6",
+      "title": "How Uganda Airlines secured ‘sweet’ deal with Boeing in its growth quest",
+      "summary": "The first batch of the Boeing 737-8 MAX and 787-9 Dreamliners the carrier ordered last month...",
+      "country": "UGA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-01T05:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/how-uganda-airlines-secured-sweet-deal-with-boeing-5543184"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/how-uganda-airlines-secured-sweet-deal-with-boeing-5543184"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "ddd7a620bb",
       "title": "UAE’s Etihad stakes its claim in West African skies with Nigeria’s Air Peace",
       "summary": "Etihad Airways has signed interline agreements with Air Peace in Nigeria and Africa World Airlines in Ghana. The Emirati carrier is favouring local alliances to take on Emirates and Qatar Airways on the continent.",
@@ -4984,6 +5147,38 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607310175.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "73537f35a6",
+      "title": "South Sudan's president removes central bank governor",
+      "summary": "Kiir announced the ​removal of Johnny Ohisa late ​on Wednesday.",
+      "country": "SSD",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-30T15:49:47+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/south-sudan-s-president-removes-central-bank-governor-5542060"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/south-sudan-s-president-removes-central-bank-governor-5542060"
         }
       ],
       "confirmation_count": 1
@@ -5702,6 +5897,70 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607030341.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "763923012e",
+      "title": "Navio chinês trouxe 7.738 carros da Tesla para a Europa",
+      "summary": "Fala-se muito da China quando o tema é carros eléctricos, mas os chineses são igualmente fortes no que toca a construir navios para transportar carros. O maior deles trouxe 7.738 Tesla para a Europa.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-08-03T22:47:09+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/08/03/navio-chines-trouxe-7-738-carros-da-tesla-para-a-europa/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/08/03/navio-chines-trouxe-7-738-carros-da-tesla-para-a-europa/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f4d74b6f34",
+      "title": "En Afrique du Sud, la xénophobie a brisé le rêve d’un entrepreneur ghanéen",
+      "summary": "Après plus d’une décennie passée à construire sa vie en Afrique du Sud, Emmanuel Akuoko est rentré au Ghana à bord d’un vol de rapatriement organisé par son gouvernement.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-03T20:52:25+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/08/03/en-afrique-du-sud-la-xenophobie-a-brise-le-reve-dun-entrepreneur-ghaneen/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/08/03/en-afrique-du-sud-la-xenophobie-a-brise-le-reve-dun-entrepreneur-ghaneen/"
         }
       ],
       "confirmation_count": 1
@@ -8717,38 +8976,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "d2cea7a05b",
-      "title": "Cultures africaines: les rendez-vous indispensables en août 2026",
-      "summary": "À Paris, Londres, Kpalimé, Hammamet, Locarno, Lomé, Lausanne, Washington, Lussas, Angoulême, Lagos, Vichy, Rotterdam, Abidjan, West Palm Beach, Hambourg, Montpellier, Bandjoun, Limoges… en salle ou en plein air, voici vingt rendez-vous de cultures africaines ou afrodescendantes à ne pas manquer en ce mois d’août. N’hésitez pas à nous envoyer vos prochains événements culturels « incontournables » à l’adresse rfipageculture@yahoo.fr.",
-      "country": "TGO",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-03T06:11:21+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/culture/20260803-cultures-africaines-les-rendez-vous-indispensables-en-ao%C3%BBt-2026"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/culture/20260803-cultures-africaines-les-rendez-vous-indispensables-en-ao%C3%BBt-2026"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "0d8a162235",
       "title": "Nigeria 2027: Can the opposition end Tinubu’s three-decade Lagos reign?",
       "summary": "The battle for Lagos in 2027 is shaping up to be the biggest test yet of President Bola Tinubu’s political machine, with multiple opposition parties seeking to end nearly three decades of APC dominance. Yet deep divisions among the challengers may undermine their chances.",
@@ -9261,6 +9488,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "88ee8e39f9",
+      "title": "Nigerian Regulatory Agencies - Roles, Functions",
+      "summary": "[CJID] Nigerian regulatory landscape is built on a network of statutory agencies. These agencies span sectors ranging from corporate governance and telecommunications to consumer protection, public health, and professional licensing. Together, they form an institutional backbone through which government policy is translated into enforceable standards, and through which citizens, businesses, and professionals are held accountable to the rule of law. Some of these agencies…",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-03T05:05:57+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608030132.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608030132.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "3cd555b9e3",
       "title": "Cjid Awards Ai Advocacy Grants to Strengthen Responsible Ai Governance in Nigeria",
       "summary": "[CJID] The Centre for Journalism Innovation and Development (CJID) has selected seven civil society organisations for a new round of AI advocacy grants under the Nigeria AI Collective, reaffirming its commitment to building an inclusive, responsible, and citizen-centered AI ecosystem in Nigeria.",
@@ -9290,38 +9549,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608030131.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "88ee8e39f9",
-      "title": "Nigerian Regulatory Agencies - Roles, Functions",
-      "summary": "[CJID] Nigerian regulatory landscape is built on a network of statutory agencies. These agencies span sectors ranging from corporate governance and telecommunications to consumer protection, public health, and professional licensing. Together, they form an institutional backbone through which government policy is translated into enforceable standards, and through which citizens, businesses, and professionals are held accountable to the rule of law. Some of these agencies…",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-03T05:05:57+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608030132.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608030132.html"
         }
       ],
       "confirmation_count": 1
@@ -9391,6 +9618,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "9f3f4f9beb",
+      "title": "Ugandan Opposition Leader Besigye Unconscious in Icu After Collapsing in Court",
+      "summary": "[RFI] Detained Ugandan opposition leader Kizza Besigye, 70, has been left unconscious in intensive care after collapsing in a Kampala courtroom on Wednesday, his wife said, as he stands trial on treason charges.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-03T05:00:52+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608030118.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608030118.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b4fe869460",
       "title": "Éthiopie: après des combats dans le Tigré, la population fuit vers le Soudan",
       "summary": "En Éthiopie, des centaines de personnes ont fui vers le Soudan après les combats de samedi. Des affrontements dans le Tigré ont opposé les forces fédérales aux rebelles du Front de libération du peuple du Tigré (TPLF). Les deux parties s'accusent mutuellement de vouloir déclencher un nouveau conflit.",
@@ -9418,6 +9677,38 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/afrique/20260803-%C3%A9thiopie-apr%C3%A8s-des-combats-dans-le-tigr%C3%A9-la-population-fuit-vers-le-soudan"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "465fb08b4a",
+      "title": "Give us your rich and crafty, we’ll make them Indian and Nigerian",
+      "summary": "Ugandans have taken longer than expected to admit a new adjective “spain” (not “spanish”) into...",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-03T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/opinion/columnists/give-us-your-rich-and-crafty-we-ll-make-them-indian-nigerian-5543210"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/opinion/columnists/give-us-your-rich-and-crafty-we-ll-make-them-indian-nigerian-5543210"
         }
       ],
       "confirmation_count": 1
@@ -9551,6 +9842,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "6bfd4c6bf8",
+      "title": "Nairobi joins biggest contributors to AU budget",
+      "summary": "CS Musalia Mudavadi described it as a vote of confidence in Kenya’s expanding economic...",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-02T06:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/nairobi-joins-biggest-contributors-to-au-budget-5543194"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/nairobi-joins-biggest-contributors-to-au-budget-5543194"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "74107261b4",
+      "title": "South Sudan’s peace sponsors jittery as Juba kicks off voter drive",
+      "summary": "Critics warn that the country isn’t ready for elections because institutions remain weak...",
+      "country": "SSD",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-02T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/south-sudan-peace-sponsors-jittery-election-5543180"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/south-sudan-peace-sponsors-jittery-election-5543180"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "d2590c30f9",
       "title": "Ethiopian Eyes Bigger on Cargo as Costs Outrun Record Revenue",
       "summary": "Our subscribers to the print edition are entitled to get a bonus in a form of early access to our digital edition.Use the bank detail...",
@@ -9679,6 +10034,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "8c9a05ed3d",
+      "title": "Why Trump chose ex-CIA man Checker as Rwanda envoy",
+      "summary": "Mr Checker has a good knowledge of the region, having held senior roles at the State...",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-01T14:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/why-trump-chose-ex-cia-man-checker-as-rwanda-envoy--5543644"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/why-trump-chose-ex-cia-man-checker-as-rwanda-envoy--5543644"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "9a61730b16",
       "title": "Digital Nomads: How a Nigerian tutor relocated to Thailand on a $500 visa",
       "summary": "Between 2016 and 2020, she worked in advertising and branding, developing campaigns for clients including Nigerian tier-one lenders Access Bank and Zenith Bank.",
@@ -9743,6 +10130,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "08f36c4396",
+      "title": "Kenyan tea exports shift from Sudan, Iran, to China, South Africa",
+      "summary": "Minister says disruptions in Iran and Sudan meant the country can no longer rely on a small...",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-01T10:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenyan-tea-exports-shift-to-china-south-africa-5543032"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenyan-tea-exports-shift-to-china-south-africa-5543032"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "2507506609",
       "title": "Nairobi Trade Fair 2026 To Host 500+ Exhibitors",
       "summary": "More than 500 exhibitors are expected to participate in the Nairobi International Trade Fair (NITF) 2026, scheduled to take place...\nSource",
@@ -9770,6 +10189,70 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/nairobi-trade-fair-2026-to-host-500-exhibitors/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5cd2b51d75",
+      "title": "Uganda owes banks $345m in project funding for delayed and stalled roads",
+      "summary": "Delayed payments to road contractors are partly blamed for delayed road projects.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-01T04:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/uganda-owes-banks-for-delayed-and-stalled-roads-5543036"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/uganda-owes-banks-for-delayed-and-stalled-roads-5543036"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1d34d6afb6",
+      "title": "From 2002 to 2027: How first-term senator Sifuna is changing Kenya’s election game",
+      "summary": "If he goes for the top seat in the land, he’ll be the second youngest major party candidate...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-01T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/senator-sifuna-is-changing-kenya-election-game-5543192"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/senator-sifuna-is-changing-kenya-election-game-5543192"
         }
       ],
       "confirmation_count": 1
@@ -10289,6 +10772,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "ffc7591085",
+      "title": "We’ll be with you, Museveni assures Somali president",
+      "summary": "There is growing uncertainty surrounding the future of the African peace mission, which is set...",
+      "country": "SOM",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T14:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/museveni-assures-somali-president-5542908"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/museveni-assures-somali-president-5542908"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "a4f6fc3e08",
       "title": "La chanteuse sud-africaine Tyla annule un concert à Lagos après des appels au boycott",
       "summary": "La chanteuse sud-africaine Tyla a annulé un concert prévu à Lagos, au Nigeria, alors que des tensions liées aux violences anti-immigrés en Afrique du Sud pèsent sur les relations entre les deux pays.",
@@ -10673,6 +11188,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "b7ae1c49bf",
+      "title": "Rwanda mourns ex-Speaker Mukabalisa",
+      "summary": "Her political career spanned 26 years starting in 2000 when she became member of the National...",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-31T10:15:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-mourns-ex-speaker-mukabalisa-5542746"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-mourns-ex-speaker-mukabalisa-5542746"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "2f319b9b8e",
       "title": "Parliament Approves Juma Witonze for State Minister for Internal Affairs",
       "summary": "[Independent (Kampala)] Kampala -- Parliament's Appointments Committee has approved Juma Witonze Kisekka for appointment as minister of state for internal affairs, clearing the way for his formal appointment by President Yoweri Museveni.",
@@ -11027,6 +11574,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "241d52a043",
+      "title": "Somalia opposition: Here’s how to avoid an ‘Afghanistan’ scenario",
+      "summary": "On July 27, one of the opposition groupings sought help from Kenya, Ethiopia, Djibouti, Uganda,...",
+      "country": "SOM",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-30T14:52:55+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/somalia-opposition-here-s-how-to-avoid-an-afghanistan-scenario-5541810"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/somalia-opposition-here-s-how-to-avoid-an-afghanistan-scenario-5541810"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "5594182039",
       "title": "Previous Peace Agreements Failed Because They Were Overly Politicized - Louren&#xE7;o Do Ros&#xE1;rio",
       "summary": "[AIM] Maputo -- Lourenço do Rosário, a prominent Mozambican academic, warned against turning the \"inclusive national dialogue\" into a politicized process, claiming that previous peace agreements failed because they were overly politicized rather than focusing on fostering trust among Mozambicans.",
@@ -11150,38 +11729,6 @@
           "name": "WeeTracker",
           "tier": 2,
           "url": "https://weetracker.com/2026/07/30/nigeria-food-delivery-graveyard-golemon-shutdown/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "7fc5d3d887",
-      "title": "Ugandan Opposition Leader Besigye in ICU After Collapsing in Court",
-      "summary": "[allAfrica] Cape Town -- Veteran opposition politician Dr. Kizza Besigye was admitted to the intensive care unit at Mulago National Referral Hospital on Wednesday after collapsing during a session of his treason trial at Kampala's High Court, according to his wife, Winnie Byanyima.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-30T11:55:51+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607300286.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607300286.html"
         }
       ],
       "confirmation_count": 1
@@ -11475,38 +12022,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "1b93b3ecb2",
-      "title": "Parliament Approves Expenditure for Electronic Revenue Generation Platform",
-      "summary": "[Ghanaian Times] Parliament has approved a multi-year expenditure commitment by the government, through the Ministry of Finance, for the development, implementation and deployment of digital and electronic platforms to enhance revenue generation.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-07-30T10:06:38+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202607300174.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607300174.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "bb045a39a1",
       "title": "Ghana, Gabon Decries Xenophobia - Commits to African Integration",
       "summary": "[Ghanaian Times] Ghana and Gabon have decried xenophobia, underscoring the need for Africans to collectively shun and decisively address the menace and all forms of discrimination.",
@@ -11598,6 +12113,38 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607300027.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "fe297fc111",
+      "title": "IMF lifts Ghana from debt distress list, unlocks $371m",
+      "summary": "Ghana has inked debt relief agreements with a significant proportion of its external creditors,...",
+      "country": "GHA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-30T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/imf-lifts-ghana-from-debt-distress-list-5541170"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/imf-lifts-ghana-from-debt-distress-list-5541170"
         }
       ],
       "confirmation_count": 1
@@ -11955,6 +12502,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "c52e29e952",
+      "title": "Congo’s deal with Rwandan genocidaire group to disarm",
+      "summary": "This would be a significant breakthrough in a long-standing security issue that has poisoned...",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-29T10:30:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/congo-s-deal-with-rwandan-genocidaire-group-to-disarm-5540404"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/congo-s-deal-with-rwandan-genocidaire-group-to-disarm-5540404"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "200a2d06a1",
       "title": "Tanzania Cuts Hepatitis Burden",
       "summary": "[Daily News] DAR ES SALAAM -- AS Tanzania marked World Hepatitis Day yesterday, the latest statistics showed the country's viral hepatitis burden has declined, reinforcing government efforts to eliminate the disease as a public health threat by 2030.",
@@ -12238,6 +12817,38 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1a6db96629",
+      "title": "Rwanda to phase out 2G, 3G networks",
+      "summary": "The nationwide switch-off of 3G services is scheduled for June 30, 2027, followed by the...",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-28T15:15:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/rwanda-to-phase-out-2g-3g-networks-5539830"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/rwanda-to-phase-out-2g-3g-networks-5539830"
         }
       ],
       "confirmation_count": 1
