@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-07T22:55:47.301672+00:00",
+  "generated_at": "2026-08-07T23:49:06.454996+00:00",
   "stats": {
     "total_signals": 440,
     "verified_signals": 11,
     "countries_covered": 23,
     "sources_active": 40,
     "per_country": {
+      "CPV": 8,
       "UGA": 38,
-      "SEN": 33,
+      "SEN": 32,
       "KEN": 63,
       "NGA": 64,
       "GHA": 34,
       "GNB": 2,
       "TZA": 42,
       "CIV": 31,
-      "ETH": 34,
+      "ETH": 35,
       "MLI": 21,
       "MOZ": 39,
       "TGO": 3,
       "SOM": 2,
-      "GIN": 7,
       "LBR": 1,
       "SLE": 2,
       "RWA": 5,
       "MDG": 3,
       "BEN": 5,
+      "GIN": 6,
       "NER": 2,
-      "CPV": 7,
       "SSD": 1,
       "BFA": 1
     },
-    "west_signals": 213,
-    "east_signals": 227
+    "west_signals": 212,
+    "east_signals": 228
   },
   "sources": [
     {
@@ -276,6 +276,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "fdd14b2b4b",
+      "title": "Homem de 64 anos morre em praia de Esposende",
+      "summary": "O alerta foi dado pelas 16h28 na praia das Pedrinhas, em Esposende. As causas da morte do são, de momento, desconhecidas. O homem de 64 anos foi retirado da água pelos nadadores-salvadores.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-08-07T22:59:25+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/08/07/esposende-homem-morre-durante-banho-de-mar-na-praia-das-pedrinhas/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/08/07/esposende-homem-morre-durante-banho-de-mar-na-praia-das-pedrinhas/"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "981a4cd54f",
       "title": "Suspected SPLA-Io Fighter Killed After Fatal Shooting in Koboko",
@@ -927,6 +959,38 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608060345.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7b06863404",
+      "title": "EACOP Injects 2.8bn/ - Into Health Projects in Tanga, Geita",
+      "summary": "[Daily News] Dar es Salaam -- THE East African Crude Oil Pipeline (EACOP) has committed more than 2.8bn/- (1.06 million US dollars) to construct two health centres and expand emergency healthcare services in Tanga and Geita regions, a move expected to improve access to quality medical care for thousands of residents.",
+      "country": "TZA",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T09:26:59+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060271.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060271.html"
         }
       ],
       "confirmation_count": 1
@@ -3160,38 +3224,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "634e589141",
-      "title": "Guinée: nouvelle coupure des réseaux sociaux, la sixième depuis 2023",
-      "summary": "Depuis mardi 28 juillet, les Guinéens sont à nouveau obligés d'avoir recours à un VPN pour pouvoir accéder à certains réseaux sociaux, notamment Facebook, TikTok et YouTube qui comptent parmi les plus utilisés dans le pays. Si les autorités n'y ont donné aucune explication, cette nouvelle interruption est dénoncée par plusieurs associations qui y voient une nouvelle atteinte aux droits fondamentaux des citoyens et en fustigent les conséquences néfastes pour l'économie du…",
-      "country": "GIN",
-      "category": "MACRO",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-07T02:56:09+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260807-guin%C3%A9e-nouvelle-coupure-des-r%C3%A9seaux-sociaux-la-sixi%C3%A8me-depuis-2023"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260807-guin%C3%A9e-nouvelle-coupure-des-r%C3%A9seaux-sociaux-la-sixi%C3%A8me-depuis-2023"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "7a1aba6a8d",
       "title": "Côte d’Ivoire : Mayelia débarque dans la grande distribution face à Prosuma, CDCI et Carrefour",
       "summary": "Spécialiste de la sécurité routière, Mayelia Participations diversifie ses activités en rachetant le centre commercial Cosmos de Yopougon. Un pari à 16 millions d’euros sur la grande distribution ivoirienne, marché très disputé.",
@@ -3347,6 +3379,38 @@
           "name": "African Business",
           "tier": 2,
           "url": "https://african.business/2026/08/partner-content/ebid-supports-bauchi-states-economic-transformation-with-us91-6-million-transport-infrastructure-facility"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "60132b85fb",
+      "title": "Tanzania Woos Investors With Reforms",
+      "summary": "[Daily News] Dar es Salaam -- TANZANIA yesterday showcased investment opportunities to local and international investors, highlighting reforms that allow investment approvals within 24 hours and provide access to strategic sectors, including energy, manufacturing, tourism and logistics.",
+      "country": "TZA",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T07:41:24+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060179.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060179.html"
         }
       ],
       "confirmation_count": 1
@@ -5588,38 +5652,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "a7625680dd",
-      "title": "Ruto Orders Crackdown On Security Firms Ignoring 15 Percent Wage Increase",
-      "summary": "[Capital FM] Nairobi -- President William Ruto has called for stricter enforcement of labour laws against private security companies that have failed to implement the government's 15 percent minimum wage increase.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:28:53+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060395.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060395.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "61751a8b79",
       "title": "Cotton Board Targets Fivefold Yield Increase",
       "summary": "[Daily News] Mwanza -- THE Tanzania Cotton Board (TCB) is targeting a fivefold increase in cotton yields through improved farming technologies and fertiliser use, aiming to raise average production from 200 kilogrammes to 1,000 kilogrammes per acre.",
@@ -5711,6 +5743,38 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608060346.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "19f17e8fb0",
+      "title": "Financial Illiteracy Undermines Mining Compensation Benefits",
+      "summary": "[Daily News] Dar es Salaam -- FOR many families living in Tanzania's rural communities, the announcement of a new mining project often brings hope of a brighter future.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T10:36:15+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060333.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060333.html"
         }
       ],
       "confirmation_count": 1
@@ -6124,6 +6188,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "de6dc43d9d",
+      "title": "Histoire de la nuit africaine: l'African Jazz Village, lieu mythique de l'éthio-jazz",
+      "summary": "À Addis-Abeba en Éthiopie, un lieu mythique fait renaître depuis une dizaine d'années l'éthio-jazz, genre musical mélange de gamme pentatonique éthiopienne et de jazz nord-américain. L'African Jazz Village, située au sous-sol du Ghion Hotel, accueille quatre soirs par semaine des artistes de l'ancienne et de la nouvelle génération, sous le regard du père du genre, Mulatu Astatke. Immersion dans ce club de musique historique.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-07T22:19:51+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260807-histoire-de-la-nuit-africaine-l-african-jazz-village-lieu-mythique-de-l-%C3%A9thio-jazz"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260807-histoire-de-la-nuit-africaine-l-african-jazz-village-lieu-mythique-de-l-%C3%A9thio-jazz"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "a6843d6003",
       "title": "DOWNLOAD: Ruger returns with ‘Raw and Unfiltered Vol. 1’ EP",
       "summary": "Michael ‘Ruger’ Adebayo, the Nigerian singer, has released his latest project, a six-track extended play titled ‘R.U. (Raw…\nThe post DOWNLOAD: Ruger returns with ‘Raw and Unfiltered Vol. 1’ EP appeared first on TheCable.",
@@ -6471,38 +6567,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608070693.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "aff2213a81",
-      "title": "Senegal. Influencers condenados por insultos ao Presidente",
-      "summary": "Os influencers trabalham para um canal online de criação de conteúdo considerado favorável ao primeiro-ministro, que entrou em rota de colisão com o Presidente. Vídeos são humorísticos, diz advogado.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-08-07T18:18:44+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/2026/08/07/senegal-influencers-condenados-por-alegados-insultos-ao-presidente/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/2026/08/07/senegal-influencers-condenados-por-alegados-insultos-ao-presidente/"
         }
       ],
       "confirmation_count": 1
@@ -9934,6 +9998,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "e3975592fa",
+      "title": "Museveni in Tanzania for Two-Day Working Visit",
+      "summary": "[Nile Post] President Museveni has arrived in Dar es Salaam, Tanzania, for a two-day working visit at the invitation of his counterpart, Dr. Samia Suluhu Hassan.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T19:21:49+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060706.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060706.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "1aec44c10a",
       "title": "Guinée : Nimba Mining Company dans les starting-blocks pour démarrer ses activités minières",
       "summary": "Un an après sa création, NMC a obtenu sa convention le 4 août. Une étape majeure qui permet à l’entité publique d’opérer sur ses sites miniers. Explications.",
@@ -10153,6 +10249,38 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608060634.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7e60a68348",
+      "title": "Kindiki Welcomes Disgruntled Opposition Leaders to Govt",
+      "summary": "[Capital FM] Nairobi -- Deputy President Kithure Kindiki has welcomed to the government side Mt. Kenya leaders disgruntled in opposition.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T16:45:20+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060632.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060632.html"
         }
       ],
       "confirmation_count": 1
@@ -10542,102 +10670,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "bf22955347",
-      "title": "'Fitness Woes Hurt Twiga Stars'",
-      "summary": "[Daily News] Dar es Salaam -- TWIGA Stars Head Coach Bakari Shime says injuries and poor fitness in his squad contributed to Tanzania's 2-1 defeat by Ivory Coast, as their tournament campaign ended against one of the continent's strongest sides.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:21:38+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060385.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060385.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9253cd7fd5",
-      "title": "Singida BS Appoint Kimoto As Coach",
-      "summary": "[Daily News] Singida -- SINGIDA Black Stars have appointed Congolese coach Papy Kimoto as their new head coach as part of a reshuffle of the technical bench ahead of the 2026/27 season.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:21:05+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060384.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060384.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c8f5dbcdc3",
-      "title": "Rukia - Teaching Beyond the Blackboard",
-      "summary": "[Daily News] Dar es Salaam -- EVERY year, thousands of teachers across the country are asked to produce something their training rarely prepared them for lesson plans, schemes of work, teaching notes and reports -- all digital, all expected to be accurate.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:19:18+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060383.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060383.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "8c175343b9",
       "title": "Ending FGM Begins With Communities",
       "summary": "[Daily News] Dar es Salaam -- FOR generations, female genital mutilation (FGM) has been defended in some communities as a cultural tradition.",
@@ -10665,70 +10697,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608060382.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "fe5b09c15d",
-      "title": "CEO Induction 2026 Is Over, Real Work Begins",
-      "summary": "[Daily News] Dar es Salaam -- THE true measure of a leadership programme is not how much is discussed in the training room, but what changes when participants return to their institutions.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:18:17+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060379.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060379.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9789829a7c",
-      "title": "Barker Sees Simba Improving Ahead of Dar Derby",
-      "summary": "[Daily News] Dar es Salaam -- SIMBA SC Head Coach Steve Barker says his side are making steady progress as they build towards Simba Day and next week's eagerly awaited meeting with Yanga SC. Barker commented after Simba completed their final match in Kigali, Rwanda, with a 2-0 victory over Al Merrikh SC.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:17:55+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060378.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060378.html"
         }
       ],
       "confirmation_count": 1
@@ -10825,6 +10793,38 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608060266.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "26b59197ea",
+      "title": "'Strengthen Crossborder Energy Infrastructure to Drive AfCFTA'",
+      "summary": "[Daily News] Dar es Salaam -- TANZANIA has called on African countries to strengthen cross-border energy infrastructure and accelerate implementation of the African Continental Free Trade Area (AfCFTA).",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T09:19:58+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060257.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060257.html"
         }
       ],
       "confirmation_count": 1
