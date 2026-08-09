@@ -1,36 +1,37 @@
 {
-  "generated_at": "2026-08-09T22:50:00.208662+00:00",
+  "generated_at": "2026-08-09T23:46:08.486327+00:00",
   "stats": {
-    "total_signals": 424,
-    "verified_signals": 11,
-    "countries_covered": 22,
+    "total_signals": 445,
+    "verified_signals": 12,
+    "countries_covered": 23,
     "sources_active": 40,
     "per_country": {
-      "MOZ": 39,
+      "MOZ": 40,
       "NER": 3,
       "SEN": 32,
       "NGA": 69,
-      "UGA": 34,
-      "KEN": 60,
+      "SOM": 4,
+      "UGA": 38,
+      "KEN": 67,
       "GHA": 35,
       "TZA": 42,
       "CIV": 30,
-      "ETH": 34,
+      "ETH": 35,
       "TGO": 2,
       "MLI": 15,
       "SLE": 2,
       "BFA": 3,
-      "RWA": 4,
+      "RWA": 8,
       "MDG": 3,
       "BEN": 5,
       "MWI": 1,
       "CPV": 6,
       "COM": 1,
       "GIN": 3,
-      "SOM": 1
+      "SSD": 1
     },
     "west_signals": 205,
-    "east_signals": 219
+    "east_signals": 240
   },
   "sources": [
     {
@@ -465,6 +466,38 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/vid%C3%A9o/20260808-nigeria-les-forces-arm%C3%A9es-ont-secouru-308-victimes-d-enl%C3%A8vements"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1666bab39a",
+      "title": "Somalia pledges maritime security as it pitches $2 billion blue economy",
+      "summary": "President Mohamud says the country’s extensive coast is a vital national asset capable of...",
+      "country": "SOM",
+      "category": "MACRO",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-08T06:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/somalia-pledges-maritime-security-as-it-pitches-blue-economy-5550584"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/somalia-pledges-maritime-security-as-it-pitches-blue-economy-5550584"
         }
       ],
       "confirmation_count": 1
@@ -1093,6 +1126,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "7b06863404",
+      "title": "EACOP Injects 2.8bn/ - Into Health Projects in Tanga, Geita",
+      "summary": "[Daily News] Dar es Salaam -- THE East African Crude Oil Pipeline (EACOP) has committed more than 2.8bn/- (1.06 million US dollars) to construct two health centres and expand emergency healthcare services in Tanga and Geita regions, a move expected to improve access to quality medical care for thousands of residents.",
+      "country": "TZA",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T09:26:59+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060271.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060271.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "57944e7f58",
       "title": "NPP Insists August 6 'Democracy Under Attack' Demo Will Go On As Planned",
       "summary": "[Ghanaian Times] The New Patriotic Party (NPP) has confirmed that its planned peaceful demonstration will proceed on Wednesday, August 6, 2026, despite the government's scheduled national memorial ceremony for victims of the recent military helicopter crash.",
@@ -1649,6 +1714,38 @@
         }
       ],
       "confirmation_count": 2
+    },
+    {
+      "id": "cb3100f957",
+      "title": "Mozambique launches geospatial portal to monitor broadband coverage",
+      "summary": "Mozambican authorities have announced the launch of a geospatial platform providing information on the coverage and availability of broadband services nationwide, aimed at strengthening transparency and guiding public policies in telecommunications. “Based on ArcGIS [geographic information system] technology and developed in partnership with Cellular Expert, the portal integrates geospatial and statistical information on an interactive…\nSource",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-09T22:52:46+00:00",
+      "lead_source": {
+        "id": "club-moz",
+        "name": "Club of Mozambique",
+        "tier": 2,
+        "url": "https://clubofmozambique.com/news/mozambique-launches-geospatial-portal-to-monitor-broadband-coverage/"
+      },
+      "confirming_sources": [
+        {
+          "id": "club-moz",
+          "name": "Club of Mozambique",
+          "tier": 2,
+          "url": "https://clubofmozambique.com/news/mozambique-launches-geospatial-portal-to-monitor-broadband-coverage/"
+        }
+      ],
+      "confirmation_count": 1
     },
     {
       "id": "32e50bf446",
@@ -3257,6 +3354,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "803cb10652",
+      "title": "El Niño threat raises fears of floods in the region",
+      "summary": "Uganda is one of the first countries to issue an official warning, saying a developing El Niño...",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "FINANCING",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T17:16:32+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/el-ni%C3%B1o-threat-raises-fears-of-floods-in-the-region-5549318"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/el-ni%C3%B1o-threat-raises-fears-of-floods-in-the-region-5549318"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "57a3aa017f",
       "title": "Ghana opposition protests over claims of ‘democracy under attack’",
       "summary": "Ghana’s main opposition party, the New Patriotic Party (NPP), has staged protests accusing the ruling National Democratic Congress (NDC) government of undermining democracy, restricting free speech and targeting political opponents.",
@@ -3412,6 +3541,38 @@
           "name": "African Business",
           "tier": 2,
           "url": "https://african.business/2026/08/partner-content/ebid-supports-bauchi-states-economic-transformation-with-us91-6-million-transport-infrastructure-facility"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "60132b85fb",
+      "title": "Tanzania Woos Investors With Reforms",
+      "summary": "[Daily News] Dar es Salaam -- TANZANIA yesterday showcased investment opportunities to local and international investors, highlighting reforms that allow investment approvals within 24 hours and provide access to strategic sectors, including energy, manufacturing, tourism and logistics.",
+      "country": "TZA",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T07:41:24+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060179.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060179.html"
         }
       ],
       "confirmation_count": 1
@@ -4933,6 +5094,50 @@
       "confirmation_count": 1
     },
     {
+      "id": "604846dcb3",
+      "title": "Uganda, Tanzania eye Tanga refinery in regional energy hub push",
+      "summary": "Deal lays foundation for an integrated energy corridor linking the two countries.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-08T07:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/uganda-tanzania-refinery-at-tanga-5550564"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/uganda-tanzania-refinery-at-tanga-5550564"
+        },
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608070230.html"
+        },
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608070230.html"
+        }
+      ],
+      "confirmation_count": 3
+    },
+    {
       "id": "2c49e7ff53",
       "title": "GACL Introduces Hotline and 'Mystery Shopping' to Fight Airport Extortion",
       "summary": "[Ghanaian Times] The Ghana Airports Company Limited (GACL) has announced new measures to stop extortion and begging by airport personnel at airports under its management.",
@@ -5155,44 +5360,6 @@
         }
       ],
       "confirmation_count": 1
-    },
-    {
-      "id": "c25e4362f4",
-      "title": "Uganda, Tanzania Seal Deal to Develop Tanga Into Regional Energy Hub",
-      "summary": "[Independent (Kampala)] Dar es Salaam -- President Yoweri Kaguta Museveni of Uganda and Samia Suluhu Hassan of Tanzania have endorsed a landmark Memorandum of Understanding (MoU) aimed at reshaping East Africa's energy economy by shifting the region's focus from crude oil exports to building an integrated regional energy and industrial hub.",
-      "country": "TZA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 4,
-      "verified": true,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-07T10:34:13+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608070230.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608070230.html"
-        },
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608070230.html"
-        }
-      ],
-      "confirmation_count": 2
     },
     {
       "id": "5a26755d0e",
@@ -5495,6 +5662,44 @@
       "confirmation_count": 1
     },
     {
+      "id": "e3975592fa",
+      "title": "Museveni in Tanzania for Two-Day Working Visit",
+      "summary": "[Nile Post] President Museveni has arrived in Dar es Salaam, Tanzania, for a two-day working visit at the invitation of his counterpart, Dr. Samia Suluhu Hassan.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T19:21:49+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060706.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060706.html"
+        },
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060706.html"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
       "id": "e76192cee9",
       "title": "Rising lakes in Kenya force communities to flee as wildlife encounters increase",
       "summary": "The expanding lakes have also increased encounters between people and wildlife. Crocodiles and hippos are now appearing closer to homes and communities as their natural habitats disappear.",
@@ -5522,38 +5727,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/08/06/rising-lakes-in-kenya-force-communities-to-flee-as-wildlife-encounters-increase/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a7625680dd",
-      "title": "Ruto Orders Crackdown On Security Firms Ignoring 15 Percent Wage Increase",
-      "summary": "[Capital FM] Nairobi -- President William Ruto has called for stricter enforcement of labour laws against private security companies that have failed to implement the government's 15 percent minimum wage increase.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:28:53+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060395.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060395.html"
         }
       ],
       "confirmation_count": 1
@@ -5655,6 +5828,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "19f17e8fb0",
+      "title": "Financial Illiteracy Undermines Mining Compensation Benefits",
+      "summary": "[Daily News] Dar es Salaam -- FOR many families living in Tanzania's rural communities, the announcement of a new mining project often brings hope of a brighter future.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T10:36:15+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060333.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060333.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "3e62e88710",
       "title": "All of Africa Today - August 6, 2026",
       "summary": "[allAfrica]",
@@ -5732,6 +5937,38 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608060163.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "62c9094e9b",
+      "title": "Uganda Airlines adds Kigali, Accra to growing route network",
+      "summary": "Acting CEO says the airline’s growth strategy depends on building a network in which short...",
+      "country": "UGA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-05T15:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/uganda-airlines-adds-kigali-accra-to-route-network-5547894"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/uganda-airlines-adds-kigali-accra-to-route-network-5547894"
         }
       ],
       "confirmation_count": 1
@@ -5967,6 +6204,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "f81c98ad9b",
+      "title": "Cabo Delgado: Mozambique LNG Foundation to distribute 28,000 solar kits for youth self-employment",
+      "summary": "The Mozambique LNG Foundation plans to distribute 28,000 solar kits and electric mobility equipment through a government youth self-employment project in Cabo Delgado province, northern Mozambique, according to a statement seen by Lusa. The statement from the Cabo Delgado Provincial Executive Council said the initiative is part of the Energia para Avançar project, run by…\nSource",
+      "country": "MOZ",
+      "category": "RENEWABLE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": "SOLAR",
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-09T22:59:59+00:00",
+      "lead_source": {
+        "id": "club-moz",
+        "name": "Club of Mozambique",
+        "tier": 2,
+        "url": "https://clubofmozambique.com/news/cabo-delgado-mozambique-lng-foundation-to-distribute-28000-solar-kits-for-youth-self-employment/"
+      },
+      "confirming_sources": [
+        {
+          "id": "club-moz",
+          "name": "Club of Mozambique",
+          "tier": 2,
+          "url": "https://clubofmozambique.com/news/cabo-delgado-mozambique-lng-foundation-to-distribute-28000-solar-kits-for-youth-self-employment/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "5b356f4dcd",
       "title": "Mozambique court overturns order to demolish Quelimane cycling infrastructure",
       "summary": "A court in Zambézia province, central Mozambique, has overturned an order requiring the Quelimane municipal council to demolish urban mobility infrastructure funded through an international programme, ruling that the order was based on legal provisions that did not apply to the case. The project was funded through an international competition by the Bloomberg Initiative for…\nSource",
@@ -6095,38 +6364,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "61f6991bab",
-      "title": "US tightens travel rules for people returning from Ebola-hit regions",
-      "summary": "The U.S. is temporarily restricting travel for certain passengers who recently visited Uganda, South ‌Sudan and the Democratic Republic of Congo (DRC) in an ‌effort to reduce the risk of Ebola transmission. The measures are a part ​of U.S. public health protocols for travelers arriving from areas affected by Ebola. Here are some details: •…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-09T22:05:21+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/us-tightens-travel-rules-for-people-returning-from-ebola-hit-regions/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/us-tightens-travel-rules-for-people-returning-from-ebola-hit-regions/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "e3df5500a2",
       "title": "Aïcha N'doye chante à l'oreille des patientes",
       "summary": "Aïcha N'doye est une chirurgienne atypique. À 35 ans, cette médecin originaire du Sénégal et spécialiste en chirurgie du sein et chirurgie gynécologique à la polyclinique Bordeaux Nord Aquitaine mène également une carrière… de chanteuse.",
@@ -6186,38 +6423,6 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260809-les-actrices-des-luttes-anticoloniales-en-c%C3%B4te-d-ivoire-les-marcheuses-de-grand-bassam-1-10"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "18e4354686",
-      "title": "Congolese authorities hand over 15 prisoners to M23 rebels",
-      "summary": "Democratic Republic of Congo authorities ​released 15 prisoners and handed them over to ‌rebels from the AFC/M23 movement on Friday, according to the International Committee of the Red Cross (ICRC), which facilitated the first known ​transfer of prisoners under last year’s deal to ​end fighting in the east. The handover marked one ⁠of the first…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-09T22:00:43+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/congolese-authorities-hand-over-15-prisoners-to-m23-rebels/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/congolese-authorities-hand-over-15-prisoners-to-m23-rebels/"
         }
       ],
       "confirmation_count": 1
@@ -6577,6 +6782,72 @@
       "confirmation_count": 1
     },
     {
+      "id": "c78971806f",
+      "title": "Sudan ‘willing’ to reopen tea market for Kenya",
+      "summary": "The talks raise hopes that tea exports suspended since March 2025 could resume within weeks.",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-09T05:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/sudan-willing-to-reopen-tea-market-for-kenya-5550596"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/sudan-willing-to-reopen-tea-market-for-kenya-5550596"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "36088b5ca8",
+      "title": "Predicting loan default: How AI aims to save Kenyan banks from over $5b toxic debt crisis",
+      "summary": "As bad loans hit a 20-year high, lenders are turning to artificial intelligence and alternative...",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "en",
+      "published": "2026-08-09T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/predicting-loan-default-ai-aims-to-save-kenyan-banks-debt-crisis-5550460"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/predicting-loan-default-ai-aims-to-save-kenyan-banks-debt-crisis-5550460"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "d0d6dd9cd5",
       "title": "Freed hostages in Nigeria describe their ordeal during captivity",
       "summary": "Newly released hostages in Nigeria spoke to the media on Friday, describing their ordeal during months of captivity.",
@@ -6732,6 +7003,70 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1829624/politique/duree-du-mandat-presidentiel-au-senegal-dou-vient-la-rumeur/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c358877879",
+      "title": "Funding crisis, early troop exit forces a rethink on Somalia political future",
+      "summary": "Troop-contributing nations last week agreed to prepare for an orderly withdrawal, 18 months...",
+      "country": "SOM",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-08T05:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/funding-crisis-early-troop-exit-somalia-political-future-5550534"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/funding-crisis-early-troop-exit-somalia-political-future-5550534"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ffd3e7875a",
+      "title": "Rwanda in talks with Italy to resettle irregular migrants",
+      "summary": "Rwanda says it wants to provide safe shelter to fellow Africans.",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-08T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-in-talks-with-italy-to-resettle-irregular-migrants-5550588"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-in-talks-with-italy-to-resettle-irregular-migrants-5550588"
         }
       ],
       "confirmation_count": 1
@@ -7116,6 +7451,70 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608070682.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d44a31a657",
+      "title": "Minister Kamuntu Pledges Government Support to Strengthen NIRA",
+      "summary": "[Nile Post] The Minister of Internal Affairs, Ephraim Kamuntu, has pledged government support to strengthen the National Identification and Registration Authority (NIRA), describing the National Identification Register as a critical national asset for Uganda's security, development and crime prevention.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-07T17:58:40+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608070683.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608070683.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b7dcbc12a0",
+      "title": "Uganda gets parliamentary nod to send troops to Gaza",
+      "summary": "Defence officials said they had been approached by Washington to contribute troops to a...",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-07T17:43:39+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/uganda-seeks-parliamentary-nod-to-send-troops-to-gaza-5549136"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/uganda-seeks-parliamentary-nod-to-send-troops-to-gaza-5549136"
         }
       ],
       "confirmation_count": 1
@@ -8241,6 +8640,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "b5c2f997a7",
+      "title": "Court: Kenya General Election due this year not 2027, but...",
+      "summary": "Judge, however, suspends decision to avoid chaos.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-07T12:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/court-kenya-general-election-due-this-year-not-2027-5549808"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/court-kenya-general-election-due-this-year-not-2027-5549808"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "2dcb66f2d4",
       "title": "CAF Inter-Club Competitions - Rangers, Rivers United, 3sc, El-Kanemi Learn Continental Opponents",
       "summary": "[Premium Times] The first preliminary-round fixtures will be played in September, while the decisive second preliminary round is scheduled for October, with qualification for the group stages the ultimate prize.",
@@ -8332,6 +8763,38 @@
           "name": "RFI Português",
           "tier": 1,
           "url": "https://www.rfi.fr/pt/programas/desporto/20260807-cabo-verde-fez-hist%C3%B3ria-no-can-de-futebol-feminino"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ccc7bf3719",
+      "title": "Kenya imposes travel insurance on visitors, raising debate on barriers",
+      "summary": "International visitors are required to obtain travel health insurance with a minimum total...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-07T11:45:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-imposes-travel-insurance-on-visitors-5549798"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-imposes-travel-insurance-on-visitors-5549798"
         }
       ],
       "confirmation_count": 1
@@ -9585,6 +10048,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "b32377c576",
+      "title": "Kenya next in line as Letshego advances sale of Uganda, Rwanda and Tanzania units",
+      "summary": "The Gaborone-based microfinancier seeks to completely exit its markets in East and West Africa.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-07T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-next-in-line-as-letshego-advances-sale-of-uganda-rwanda-and-tanzania-units-5549348"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-next-in-line-as-letshego-advances-sale-of-uganda-rwanda-and-tanzania-units-5549348"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "c259a3f35a",
       "title": "DR Congo's case against Rwanda moves ahead as World Court sets timetable",
       "summary": "The International Court of Justice has set the timetable for the Democratic Republic of Congo's case accusing Rwanda of violating international law. Kinshasa must file its arguments by October 2027, with Kigali's response due in December 2028.",
@@ -9644,38 +10139,6 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/08/06/cour-internationale-de-justice-le-calendrier-de-laffaire-rdc-rwanda-connu/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "89a81d9682",
-      "title": "Museveni in Tanzania for Two-Day Working Visit",
-      "summary": "[Nile Post] President Museveni has arrived in Dar es Salaam, Tanzania, for a two-day working visit at the invitation of his counterpart, Dr. Samia Suluhu Hassan.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T19:21:49+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060706.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060706.html"
         }
       ],
       "confirmation_count": 1
@@ -9937,6 +10400,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "7e60a68348",
+      "title": "Kindiki Welcomes Disgruntled Opposition Leaders to Govt",
+      "summary": "[Capital FM] Nairobi -- Deputy President Kithure Kindiki has welcomed to the government side Mt. Kenya leaders disgruntled in opposition.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T16:45:20+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060632.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060632.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "4fdb08d296",
       "title": "Le Nigeria cherche à mieux réguler le marché de la crypto [Business Africa]",
       "summary": "Cette semaine, Business Africa se penche sur le marché de la cryptomonnaie au Nigeria, que le gouvernement veut rendre plus transparent et plus sûr avec son nouveau Conseil pour les Actifs Virtuels. Egalement au menu : le rôle de la diaspora africaine dans la croissance économique du continent.",
@@ -10065,6 +10560,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "d142daca8b",
+      "title": "Rwanda tops East African peers in anti-corruption drive",
+      "summary": "Mo Ibrahim Foundation’s 2026 governance brief shows that Africa’s average anti-corruption score...",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T14:03:33+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-tops-east-african-peers-in-anti-corruption-drive-5548694"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-tops-east-african-peers-in-anti-corruption-drive-5548694"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "918fc547c7",
       "title": "La montée des eaux des lacs rapproche les crocodiles des populations",
       "summary": "Au Kenya, à mesure que les eaux des lacs de la vallée du Rift montent et submergent les terres, les crocodiles et les hippopotames se rapprochent dangereusement des habitations.",
@@ -10092,6 +10619,38 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/08/06/kenya-la-montee-des-eaux-des-lacs-rapproche-les-crocodiles-des-populations/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "cff047e187",
+      "title": "Uganda Airlines aims to break even in 2031 ahead of Boeing deliveries",
+      "summary": "The carrier is actively working to wean off State support and attain profitability by 2031...",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T13:54:25+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/uganda-airlines-aims-to-break-even-in-2031-ahead-of-boeing-deliveries-5548416"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/uganda-airlines-aims-to-break-even-in-2031-ahead-of-boeing-deliveries-5548416"
         }
       ],
       "confirmation_count": 1
@@ -10289,102 +10848,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "bf22955347",
-      "title": "'Fitness Woes Hurt Twiga Stars'",
-      "summary": "[Daily News] Dar es Salaam -- TWIGA Stars Head Coach Bakari Shime says injuries and poor fitness in his squad contributed to Tanzania's 2-1 defeat by Ivory Coast, as their tournament campaign ended against one of the continent's strongest sides.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:21:38+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060385.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060385.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9253cd7fd5",
-      "title": "Singida BS Appoint Kimoto As Coach",
-      "summary": "[Daily News] Singida -- SINGIDA Black Stars have appointed Congolese coach Papy Kimoto as their new head coach as part of a reshuffle of the technical bench ahead of the 2026/27 season.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:21:05+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060384.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060384.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c8f5dbcdc3",
-      "title": "Rukia - Teaching Beyond the Blackboard",
-      "summary": "[Daily News] Dar es Salaam -- EVERY year, thousands of teachers across the country are asked to produce something their training rarely prepared them for lesson plans, schemes of work, teaching notes and reports -- all digital, all expected to be accurate.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:19:18+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060383.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060383.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "8c175343b9",
       "title": "Ending FGM Begins With Communities",
       "summary": "[Daily News] Dar es Salaam -- FOR generations, female genital mutilation (FGM) has been defended in some communities as a cultural tradition.",
@@ -10412,70 +10875,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608060382.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "fe5b09c15d",
-      "title": "CEO Induction 2026 Is Over, Real Work Begins",
-      "summary": "[Daily News] Dar es Salaam -- THE true measure of a leadership programme is not how much is discussed in the training room, but what changes when participants return to their institutions.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:18:17+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060379.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060379.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9789829a7c",
-      "title": "Barker Sees Simba Improving Ahead of Dar Derby",
-      "summary": "[Daily News] Dar es Salaam -- SIMBA SC Head Coach Steve Barker says his side are making steady progress as they build towards Simba Day and next week's eagerly awaited meeting with Yanga SC. Barker commented after Simba completed their final match in Kigali, Rwanda, with a 2-0 victory over Al Merrikh SC.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:17:55+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060378.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060378.html"
         }
       ],
       "confirmation_count": 1
@@ -10513,6 +10912,40 @@
       "confirmation_count": 1
     },
     {
+      "id": "13f3aeacca",
+      "title": "Kenyan High Court backs foreign lenders in $17m loan dispute",
+      "summary": "At the heart of the dispute was whether foreign financiers can lend, contract and register...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "en",
+      "published": "2026-08-06T10:07:15+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/kenyan-high-court-backs-foreign-lenders-in-17m-loan-dispute-5548436"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/kenyan-high-court-backs-foreign-lenders-in-17m-loan-dispute-5548436"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "c4611c2597",
       "title": "Kumruk Governor Says Residents Beginning to Return As Authorities Clear War Remnants",
       "summary": "[Addis Standard] Addis Abeba -- Residents have begun gradually returning to parts of Kurmuk locality in Sudan's Blue Nile State following the Sudanese Armed Forces' (SAF) recapture of the strategic border town, according to the locality's governor, who said authorities are clearing unexploded ordnance and assessing widespread destruction before broader returns can take place.",
@@ -10540,6 +10973,38 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608060266.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "26b59197ea",
+      "title": "'Strengthen Crossborder Energy Infrastructure to Drive AfCFTA'",
+      "summary": "[Daily News] Dar es Salaam -- TANZANIA has called on African countries to strengthen cross-border energy infrastructure and accelerate implementation of the African Continental Free Trade Area (AfCFTA).",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T09:19:58+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608060257.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608060257.html"
         }
       ],
       "confirmation_count": 1
@@ -10897,6 +11362,102 @@
       "confirmation_count": 1
     },
     {
+      "id": "e2688101ca",
+      "title": "Museveni heads to Tanzania as oil export plan nears reality",
+      "summary": "Tanzania has become a key strategic partner in unlocking Uganda’s oil resources.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-06T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/museveni-heads-to-tanzania-as-oil-export-plan-nears-reality-5548218"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/museveni-heads-to-tanzania-as-oil-export-plan-nears-reality-5548218"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0738eff745",
+      "title": "South Sudan forces, rebels committing ‘war crimes’",
+      "summary": "Rights group says both sides have committed severe abuses, including intentional killings, rape...",
+      "country": "SSD",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-05T16:15:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/south-sudan-forces-rebels-committing-war-crimes-5547992"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/south-sudan-forces-rebels-committing-war-crimes-5547992"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8058abc875",
+      "title": "Rwanda secures €40m EU funding for climate-smart agriculture",
+      "summary": "Rwanda’s agriculture sector performed strongly in 2025, growing by 7pc overall and accounting...",
+      "country": "RWA",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-05T14:15:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/rwanda-secures-eu-funding-for-climate-smart-agriculture-5547858"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/rwanda-secures-eu-funding-for-climate-smart-agriculture-5547858"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "be58ce037a",
       "title": "A New Harvest Of Hope - Bt Cotton Revives Lamu",
       "summary": "[allAfrica] The trip to Lamu is long and torturous but on arrival, one is met by unmatched beauty in this island off the Kenyan coast.",
@@ -11025,10 +11586,10 @@
       "confirmation_count": 1
     },
     {
-      "id": "15d17c9978",
-      "title": "Otunnu Says Rift With Museveni Persists Despite Backing for UN Top Job",
-      "summary": "[Independent (Kampala)] Kampala -- Olara Otunnu, Uganda's candidate for United Nations Secretary-General, has acknowledged that his long-standing disagreements with President Yoweri Museveni remain unresolved, even as Museveni's government throws its weight behind his campaign.",
-      "country": "UGA",
+      "id": "59091b9c4e",
+      "title": "Pomene hotel ruins in Mozambique: A tale of luxury, war and peace",
+      "summary": "For four months every year, the abandoned hotel comes back to life.",
+      "country": "MOZ",
       "category": "AUTRE",
       "severity": 1,
       "credibility": 2,
@@ -11039,19 +11600,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-08-05T11:36:32+00:00",
+      "published": "2026-08-05T12:15:00+00:00",
       "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
+        "id": "east-afr",
+        "name": "The East African",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202608050486.html"
+        "url": "https://www.theeastafrican.co.ke/tea/magazine/pomene-hotel-ruins-mozambique-5547348"
       },
       "confirming_sources": [
         {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
+          "id": "east-afr",
+          "name": "The East African",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202608050486.html"
+          "url": "https://www.theeastafrican.co.ke/tea/magazine/pomene-hotel-ruins-mozambique-5547348"
         }
       ],
       "confirmation_count": 1
@@ -11148,6 +11709,38 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608050193.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ec06e4a287",
+      "title": "Why Kenya flagged Somalia Deputy Prime Minister Abdi",
+      "summary": "Jibril Abdirashid Abdi was deported from Kenya earlier this year for refusing to hand over his...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-05T07:15:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/why-kenya-flagged-somalia-deputy-prime-minister-abdi-5547236"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/why-kenya-flagged-somalia-deputy-prime-minister-abdi-5547236"
         }
       ],
       "confirmation_count": 1
@@ -11473,6 +12066,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "fd66c1fee0",
+      "title": "Ethiopia rides on cultural ties to tap regional tourism market",
+      "summary": "Traditionally, Ethiopia, one of the oldest civilisations in Africa, had struggled to market...",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-05T03:45:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/ethiopia-rides-on-cultural-ties-to-tap-regional-tourism-market-5546802"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/ethiopia-rides-on-cultural-ties-to-tap-regional-tourism-market-5546802"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "4d4c441663",
       "title": "Cape Verde coach Bubista resigns as Ivory Coast reappoint Renard",
       "summary": "Head coach Bubista leaves Cape Verde after reaching the last 32 at the World Cup while Ivory Coast reappoint two-time Afcon winner Herve Renard.",
@@ -11633,6 +12258,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "5fa2641093",
+      "title": "Africom: Somalia must take charge of own security destiny",
+      "summary": "'The ultimate solution to the Al-Shabaab threat resides within Somalia and a focused effort...",
+      "country": "SOM",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-04T11:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/africom-somalia-must-take-charge-of-own-security-destiny-5546458"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/africom-somalia-must-take-charge-of-own-security-destiny-5546458"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "233e8774ef",
       "title": "Mozambique Court Nullifies Decree Allowing Government to Shut Down Internet",
       "summary": "[CPJ] New York -- The Committee to Protect Journalists welcomes the decision by Mozambique's constitutional court to strike down a decree that allowed the government to shut down the internet.",
@@ -11758,6 +12415,38 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608040031.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e2e708ac23",
+      "title": "Rwanda shuts down distilleries in crackdown on substandard spirits",
+      "summary": "The country saw a mushrooming of local spirits factories, mainly in 2020, when the...",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-04T05:15:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/rwanda-shuts-down-distilleries-in-crackdown-substandard-spirits-5546054"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/rwanda-shuts-down-distilleries-in-crackdown-substandard-spirits-5546054"
         }
       ],
       "confirmation_count": 1
