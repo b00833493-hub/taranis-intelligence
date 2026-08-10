@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-10T18:03:33.167153+00:00",
+  "generated_at": "2026-08-10T19:16:16.783871+00:00",
   "stats": {
-    "total_signals": 437,
+    "total_signals": 436,
     "verified_signals": 11,
     "countries_covered": 23,
     "sources_active": 40,
     "per_country": {
+      "TZA": 44,
       "NGA": 68,
       "UGA": 33,
-      "GHA": 37,
+      "GHA": 36,
       "MOZ": 40,
       "KEN": 59,
       "MLI": 18,
       "SEN": 32,
-      "TZA": 42,
       "ETH": 34,
       "TGO": 2,
       "CIV": 28,
       "MWI": 4,
       "SLE": 6,
-      "MDG": 6,
+      "MDG": 5,
       "RWA": 6,
-      "GIN": 4,
+      "GIN": 3,
       "BFA": 5,
       "BEN": 4,
       "CPV": 4,
@@ -30,8 +30,8 @@
       "NER": 2,
       "SOM": 1
     },
-    "west_signals": 211,
-    "east_signals": 226
+    "west_signals": 209,
+    "east_signals": 227
   },
   "sources": [
     {
@@ -276,6 +276,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "12eba94459",
+      "title": "Tanzanie : le procès de Tundu Lissu reprend après cinq mois de suspension",
+      "summary": "Le procès pour trahison de l’opposant tanzanien Tundu Lissu a repris lundi à Dar es Salaam, cinq mois après sa suspension pour des raisons de procédure. Détenu depuis avril 2025, il encourt la peine de mort.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-10T18:31:17+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/08/10/tanzanie-le-proces-de-tundu-lissu-reprend-apres-cinq-mois-de-suspension/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/08/10/tanzanie-le-proces-de-tundu-lissu-reprend-apres-cinq-mois-de-suspension/"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "104fb81e73",
       "title": "Soldiers Repel Midnight Terror Attack in Borno",
@@ -3000,10 +3032,10 @@
       "confirmation_count": 1
     },
     {
-      "id": "57a3aa017f",
-      "title": "Ghana opposition protests over claims of ‘democracy under attack’",
-      "summary": "Ghana’s main opposition party, the New Patriotic Party (NPP), has staged protests accusing the ruling National Democratic Congress (NDC) government of undermining democracy, restricting free speech and targeting political opponents.",
-      "country": "GHA",
+      "id": "36e0b6fddc",
+      "title": "Uganda Airlines Launches Accra, Kigali Routes to Expand African Network",
+      "summary": "[Nile Post] Uganda Airlines has expanded its African network with the launch of scheduled flights to Accra, Ghana, and Kigali, Rwanda, in a move aimed at strengthening regional connectivity, boosting trade and tourism, and positioning Entebbe International Airport as a regional aviation hub.",
+      "country": "UGA",
       "category": "AUTRE",
       "severity": 3,
       "credibility": 2,
@@ -3014,19 +3046,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-08-06T15:25:30+00:00",
+      "published": "2026-08-06T14:27:20+00:00",
       "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
         "tier": 2,
-        "url": "http://www.africanews.com/2026/08/06/ghana-opposition-protests-over-claims-of-democracy-under-attack/"
+        "url": "https://allafrica.com/stories/202608060561.html"
       },
       "confirming_sources": [
         {
-          "id": "afnews-en",
-          "name": "Africanews",
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
           "tier": 2,
-          "url": "http://www.africanews.com/2026/08/06/ghana-opposition-protests-over-claims-of-democracy-under-attack/"
+          "url": "https://allafrica.com/stories/202608060561.html"
         }
       ],
       "confirmation_count": 1
@@ -5621,6 +5653,38 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607130011.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "fed4b5d01c",
+      "title": "Tanzanie: reprise du procès de Tundu Lissu, leader du Chadema, principal parti d’opposition",
+      "summary": "En Tanzanie, le procès pour haute trahison de Tundu Lissu, président du principal parti d’opposition tanzanien, a repris, ce lundi 10 août. Après près de six mois d’interruption, le procès reprend devant la Haute Cour de Dar es Salaam qui devra trancher si le dossier, transmis par l'accusation, est suffisamment solide pour poursuivre Tundu Lissu, à défaut de quoi l'affaire sera classée sans suite.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-10T18:40:28+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260810-tanzanie-reprise-du-proc%C3%A8s-de-tundu-lissu-leader-du-chadema-principal-parti-d-opposition"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260810-tanzanie-reprise-du-proc%C3%A8s-de-tundu-lissu-leader-du-chadema-principal-parti-d-opposition"
         }
       ],
       "confirmation_count": 1
@@ -8700,38 +8764,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "6ed212012f",
-      "title": "Madagascar: la Haute cour valide une loi sur la saisine de territoires coloniaux",
-      "summary": "À Madagascar, la Haute Cour constitutionnelle a validé une loi qui organise le transfert automatique à l'État de tous les titres fonciers encore inscrits au nom d'étrangers depuis l'époque coloniale. Un texte présenté par le pouvoir comme la finalisation de la décolonisation foncière du pays, mais dont la portée réelle est relativisée par certains chercheurs.",
-      "country": "MDG",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-10T02:55:05+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260810-madagascar-la-haute-cour-valide-une-loi-sur-la-saisine-de-territoires-coloniaux"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260810-madagascar-la-haute-cour-valide-une-loi-sur-la-saisine-de-territoires-coloniaux"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "9059e449a4",
       "title": "16-year-old Esiovwa-Thompson wins Nigeria’s first gold medal at Commonwealth Fencing Championships",
       "summary": "Oghenegaren Esiovwa-Thompson has etched his name into Nigerian sporting history, winning the country’s first-ever gold medal at the…\nThe post 16-year-old Esiovwa-Thompson wins Nigeria’s first gold medal at Commonwealth Fencing Championships appeared first on TheCable.",
@@ -9369,38 +9401,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608070694.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "2e44d21859",
-      "title": "Uganda Airlines - The Architecture of a Turnaround",
-      "summary": "[Independent (Kampala)] Five months into the job, Ato Girma Wake is quietly rebuilding Uganda Airlines from the inside out",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-07T18:45:40+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608070693.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608070693.html"
         }
       ],
       "confirmation_count": 1
@@ -11833,38 +11833,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608060052.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d134cdbb3c",
-      "title": "Guinée : l'Association des blogueurs dénonce des restrictions de l'accès à Internet",
-      "summary": "En Guinée, l'accès à Internet reste fortement perturbé. Facebook, YouTube et TikTok demeurent inaccessibles sans VPN. L'Association des blogueurs de Guinée dénonce une restriction de la liberté d'expression et met en cause les autorités.",
-      "country": "GIN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-05T12:50:53+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-guin%C3%A9e-l-association-des-blogueurs-d%C3%A9nonce-des-restrictions-de-l-acc%C3%A8s-%C3%A0-internet"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260805-guin%C3%A9e-l-association-des-blogueurs-d%C3%A9nonce-des-restrictions-de-l-acc%C3%A8s-%C3%A0-internet"
         }
       ],
       "confirmation_count": 1
