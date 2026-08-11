@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-11T06:04:23.967368+00:00",
+  "generated_at": "2026-08-11T07:36:03.533750+00:00",
   "stats": {
-    "total_signals": 458,
+    "total_signals": 461,
     "verified_signals": 6,
     "countries_covered": 24,
     "sources_active": 40,
     "per_country": {
+      "MOZ": 41,
       "TZA": 44,
-      "NGA": 66,
-      "UGA": 42,
-      "MOZ": 42,
-      "SEN": 34,
-      "KEN": 67,
+      "NGA": 68,
+      "UGA": 43,
+      "SEN": 35,
+      "KEN": 68,
       "GHA": 36,
       "MLI": 18,
       "SOM": 4,
@@ -22,16 +22,16 @@
       "SLE": 7,
       "MDG": 5,
       "BFA": 4,
-      "RWA": 8,
-      "BEN": 4,
-      "GNB": 2,
-      "CPV": 3,
+      "RWA": 7,
+      "GNB": 3,
+      "BEN": 2,
+      "CPV": 4,
       "ERI": 1,
       "GIN": 3,
       "NER": 1,
       "SSD": 1
     },
-    "west_signals": 206,
+    "west_signals": 209,
     "east_signals": 252
   },
   "sources": [
@@ -277,6 +277,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "9a4e7ebb45",
+      "title": "Mozambique: Credit to the economy falls 0.4% in June after May record",
+      "summary": "Credit to the Mozambican economy fell 0.4% in June to 292.782 billion meticais (€4.003 billion), after reaching a record high the previous month, according to official data. According to the latest statistical report from the Bank of Mozambique, the June figure compares with 293.853 billion meticais (€4.017 billion) recorded in May and 288.112 billion meticais…\nSource",
+      "country": "MOZ",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-11T07:13:14+00:00",
+      "lead_source": {
+        "id": "club-moz",
+        "name": "Club of Mozambique",
+        "tier": 2,
+        "url": "https://clubofmozambique.com/news/mozambique-credit-to-the-economy-falls-0-4-in-june-after-may-record/"
+      },
+      "confirming_sources": [
+        {
+          "id": "club-moz",
+          "name": "Club of Mozambique",
+          "tier": 2,
+          "url": "https://clubofmozambique.com/news/mozambique-credit-to-the-economy-falls-0-4-in-june-after-may-record/"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "bf2366bd81",
       "title": "Zanzibar Bolsters Community Health Workers' Capacity in Reducing Maternal, Child Deaths",
@@ -691,38 +723,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608100041.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "29c4b8be47",
-      "title": "Wind and Solar Projects in Kenya and South Africa Don't Always Benefit the Communities That Host Them - Study",
-      "summary": "[The Conversation Africa] Private investment in clean energy projects is growing: in sub-Saharan Africa, it's approaching US$40 billion a year. These \"green transition\" investments in solar and wind power are meant to benefit the environment and develop the communities where they are based.",
-      "country": "KEN",
-      "category": "RENEWABLE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": "SOLAR",
-      "legal_status": null,
-      "regulatory": true,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-10T04:37:54+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608100011.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608100011.html"
         }
       ],
       "confirmation_count": 1
@@ -1417,6 +1417,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "fa5e8fbb96",
+      "title": "L'épidémie d'Ebola en RDC et en Ouganda a débuté bien avant sa déclaration oficielle",
+      "summary": "« Cela représente un retard de quatre mois », a déclaré l'OMS. « Nous sommes donc à la poursuite du virus. Le virus a une longueur d’avance sur nous. »",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-11T06:32:00+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/08/11/lepidemie-debola-en-rdc-et-en-ouganda-a-debute-bien-avant-sa-declaration-oficielle/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/08/11/lepidemie-debola-en-rdc-et-en-ouganda-a-debute-bien-avant-sa-declaration-oficielle/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "cae2d0c4c9",
       "title": "Govt Files Fresh Charges Against Abuja Fertility Doctor Over Alleged Sale of Couple's Embryos",
       "summary": "[Leadership] The federal government has filed a fresh charge against Abuja-based fertility doctor and pastor, Dr. John Abebe, over allegations of fraud, unlawful disclosure of confidential medical records and the alleged sale of a couple's embryos.",
@@ -1926,38 +1958,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608100589.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "8866aa5192",
-      "title": "Mozambique: Maputo water utility launches platform to speed up leak reporting",
-      "summary": "The Maputo Water Supply and Sanitation Company (SAAS-Maputo) has launched the “ReporteFugas” digital platform, a tool designed to make it easier for citizens to report water leaks and speed up the company’s response to resolve them. Part of the “StopFuga” campaign, the initiative aims to reduce water losses, improve operational efficiency and strengthen links between…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "OPERATIONAL",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-10T14:51:50+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-maputo-water-utility-launches-platform-to-speed-up-leak-reporting/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-maputo-water-utility-launches-platform-to-speed-up-leak-reporting/"
         }
       ],
       "confirmation_count": 1
@@ -4367,6 +4367,94 @@
       "confirmation_count": 1
     },
     {
+      "id": "3b45d30ed5",
+      "title": "All of Africa Today - August 11, 2026",
+      "summary": "[allAfrica] Zambia Election Set for Closely Fought Opposition Battle",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-11T06:41:41+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608110119.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608110119.html"
+        },
+        {
+          "id": "aa-civ",
+          "name": "AllAfrica · Côte d'Ivoire",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608100108.html"
+        },
+        {
+          "id": "aa-sen",
+          "name": "AllAfrica · Sénégal",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608100108.html"
+        },
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608050146.html"
+        },
+        {
+          "id": "aa-mli",
+          "name": "AllAfrica · Mali",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202607130138.html"
+        }
+      ],
+      "confirmation_count": 5
+    },
+    {
+      "id": "e67eba93b3",
+      "title": "Govt Prioritises Teacher Promotions, Capitation in Education Reforms - PS Ololtuaa",
+      "summary": "[Capital FM] Kisii -- Basic Education Principal Secretary John Ololtuaa has outlined measures being implemented by the government to improve the education sector, including teacher promotions, timely disbursement of capitation and provision of learning materials.",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-11T06:03:39+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608110113.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608110113.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "0d5f8cefdf",
       "title": "Jonathan Commissions 49.7km Roads in Bauchi",
       "summary": "[Daily Trust] Former President Goodluck Ebele Jonathan has said that no society can achieve sustainable growth without reliable roads.",
@@ -4749,62 +4837,6 @@
         }
       ],
       "confirmation_count": 1
-    },
-    {
-      "id": "66e3863763",
-      "title": "All of Africa Today - August 10, 2026",
-      "summary": "[allAfrica]",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 4,
-      "verified": true,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-10T07:27:47+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608100108.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608100108.html"
-        },
-        {
-          "id": "aa-civ",
-          "name": "AllAfrica · Côte d'Ivoire",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608100108.html"
-        },
-        {
-          "id": "aa-sen",
-          "name": "AllAfrica · Sénégal",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608100108.html"
-        },
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608050146.html"
-        },
-        {
-          "id": "aa-mli",
-          "name": "AllAfrica · Mali",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202607130138.html"
-        }
-      ],
-      "confirmation_count": 5
     },
     {
       "id": "69f79cc5ef",
@@ -5211,38 +5243,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "eb142f6b1b",
-      "title": "Talon returns to frontline politics as Benin's first Senate president",
-      "summary": "Former Benin president Patrice Talon has been elected the country's first Senate president, months after leaving office. The new upper chamber, created under a constitutional reform, places Talon at the helm of a key institution despite stepping down after two presidential terms.",
-      "country": "BEN",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T19:45:23+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/08/06/talon-returns-to-frontline-politics-as-benins-first-senate-president/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/08/06/talon-returns-to-frontline-politics-as-benins-first-senate-president/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "61751a8b79",
       "title": "Cotton Board Targets Fivefold Yield Increase",
       "summary": "[Daily News] Mwanza -- THE Tanzania Cotton Board (TCB) is targeting a fivefold increase in cotton yields through improved farming technologies and fertiliser use, aiming to raise average production from 200 kilogrammes to 1,000 kilogrammes per acre.",
@@ -5564,6 +5564,326 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607130011.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d6e7bfdd3c",
+      "title": "Sénégal : Bassirou Diomaye Faye cherche-t-il à reporter les élections de janvier 2027 ?",
+      "summary": "Alors que le président sénégalais vient tout juste de créer son propre parti, des signaux de plus en plus insistants laissent à penser qu’il pourrait avoir l’intention de reporter les élections locales, prévues en janvier 2027. En aurait-il le droit ?",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-11T07:58:00+00:00",
+      "lead_source": {
+        "id": "ja",
+        "name": "Jeune Afrique",
+        "tier": 2,
+        "url": "https://www.jeuneafrique.com/1830898/politique/senegal-bassirou-diomaye-faye-cherche-t-il-a-reporter-les-elections-de-janvier-2027/"
+      },
+      "confirming_sources": [
+        {
+          "id": "ja",
+          "name": "Jeune Afrique",
+          "tier": 2,
+          "url": "https://www.jeuneafrique.com/1830898/politique/senegal-bassirou-diomaye-faye-cherche-t-il-a-reporter-les-elections-de-janvier-2027/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "22e4758982",
+      "title": "Chefes da diplomacia da CPLP debatem Guiné-Bissau",
+      "summary": "A Guiné-Bissau foi suspensa da organização lusófona em dezembro, após um golpe de Estado que depôs Umaro Sissoco Embaló e interrompeu o processo eleitoral.",
+      "country": "GNB",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-08-11T07:09:48+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/08/11/chefes-da-diplomacia-da-cplp-debatem-guine-bissau-e-futura-presidencia-em-dili/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/08/11/chefes-da-diplomacia-da-cplp-debatem-guine-bissau-e-futura-presidencia-em-dili/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0ca9b8b2dd",
+      "title": "Nigeria’s oil industry turns to the sea",
+      "summary": "To escape its broken onshore pipelines in the Niger Delta, the Nigerian National Petroleum Company is taking the country’s crude exports offshore.",
+      "country": "NGA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-11T07:00:00+00:00",
+      "lead_source": {
+        "id": "africa-rep",
+        "name": "The Africa Report",
+        "tier": 2,
+        "url": "https://www.theafricareport.com/427293/nigerias-oil-industry-turns-to-the-sea/"
+      },
+      "confirming_sources": [
+        {
+          "id": "africa-rep",
+          "name": "The Africa Report",
+          "tier": 2,
+          "url": "https://www.theafricareport.com/427293/nigerias-oil-industry-turns-to-the-sea/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "70a4e4ef69",
+      "title": "Kenya Orders Cyber Cafés to Log Customer Identities From August 14",
+      "summary": "The Communications Authority of Kenya (CA) has directed all licensed cyber cafés to record customer identities and internet session details...\nSource",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-11T06:41:36+00:00",
+      "lead_source": {
+        "id": "cio-afr",
+        "name": "CIO Africa",
+        "tier": 2,
+        "url": "https://cioafrica.co/kenya-orders-cyber-cafes-to-log-customer-identities-from-august-14/"
+      },
+      "confirming_sources": [
+        {
+          "id": "cio-afr",
+          "name": "CIO Africa",
+          "tier": 2,
+          "url": "https://cioafrica.co/kenya-orders-cyber-cafes-to-log-customer-identities-from-august-14/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "aae9207c93",
+      "title": "👨🏿‍🚀TechCabal Daily – Age-gating social media",
+      "summary": "In today's edition: NCBA’s Multiple Hauliers takeover hits a court roadblock || South Africa wants YouTube and TikTok to check your age || Nigeria wants to bring its cloud computing back home || Kenya says receipts alone won’t beat a KRA tax bill",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-11T06:18:22+00:00",
+      "lead_source": {
+        "id": "techcabal",
+        "name": "TechCabal",
+        "tier": 2,
+        "url": "https://techcabal.com/2026/08/11/techcabal-daily-age-gating-social-media/"
+      },
+      "confirming_sources": [
+        {
+          "id": "techcabal",
+          "name": "TechCabal",
+          "tier": 2,
+          "url": "https://techcabal.com/2026/08/11/techcabal-daily-age-gating-social-media/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "95dd599177",
+      "title": "Éthiopie: une nouvelle guerre au Tigré «s'étendrait à l'ensemble de la Corne» au vu du «jeu des alliances»",
+      "summary": "De nouveaux combats ont eu lieu début août dans l’ouest du Tigré, à la frontière avec le Soudan. Il s’agit des deuxièmes affrontements signalés entre les forces fédérales éthiopiennes et les forces tigréennes depuis le début de l’année. Alors que le gouvernement fédéral et le Front de libération du peuple du Tigré (TPLF) ont multiplié les déclarations de plus en plus hostiles ces derniers mois, faut-il craindre une reprise du conflit entre Addis-Abeba et le Tigré ?…",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-11T06:11:45+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20260811-%C3%A9thiopie-une-nouvelle-guerre-au-tigr%C3%A9-s-%C3%A9tendrait-%C3%A0-l-ensemble-de-la-corne-au-vu-du-jeu-des-alliances"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20260811-%C3%A9thiopie-une-nouvelle-guerre-au-tigr%C3%A9-s-%C3%A9tendrait-%C3%A0-l-ensemble-de-la-corne-au-vu-du-jeu-des-alliances"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1e24c199a1",
+      "title": "Health Advocates Reject Easing of Advertising Restrictions in Tobacco Bill",
+      "summary": "[Daily Trust] The Nigeria Tobacco Control Alliance (NTCA) has called on the National Assembly to immediately recall the National Tobacco Control Act (Amendment) Bill 2025 and subject it to a transparent, public health-led review before presenting it for presidential assent.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-11T06:03:40+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608110116.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608110116.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3d649c76d1",
+      "title": "Govt Warns Against Sharing Images of Vulnerable Children",
+      "summary": "[Daily News] Dar es Salaam -- THE Ministry of Community Development, Gender, Women and Special Groups has warned content creators, journalists and the public against sharing images or videos of vulnerable children, saying the practice violates the law and can leave lasting harm on their lives.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-11T06:03:40+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608110115.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608110115.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8de15cd3e7",
+      "title": "IEBC Opens Major Tenders for Election Technology, Ballot Papers Ahead of 2027 Polls",
+      "summary": "[Capital FM] Nairobi -- The Independent Electoral and Boundaries Commission (IEBC) has begun the procurement of critical election technology and materials, less than a year to the 2027 General Election, in a move that puts preparations for the polls into high gear.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-11T06:03:39+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608110114.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608110114.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3cb1f8cbb4",
+      "title": "Moses Kuria Tells Gachagua to 'Calm His Horses' in Mt Kenya Kingpin Tussle",
+      "summary": "[Capital FM] Nairobi -- Former Cabinet Secretary Moses Kuria has urged former Deputy President Rigathi Gachagua to slow down in his apparent bid to assume the mantle of Mt Kenya political kingpin, warning him against prematurely dislodging retired President Uhuru Kenyatta.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-11T06:03:38+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608110112.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608110112.html"
         }
       ],
       "confirmation_count": 1
@@ -7009,38 +7329,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "d3fef3bb3d",
-      "title": "Daniel Chapo desafia jovens à independência económica",
-      "summary": "Na abertura da XIX Conferência Nacional da Juventude, em Pemba, o Presidente moçambicano anunciou o \"Pro-Jovem\", que substitui o FAIJ, e prometeu duplicar o contrato-programa em 2026.",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-08-10T22:04:55+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/2026/08/10/chapo-pede-aos-jovens-que-escrevam-novo-capitulo-em-mocambique-e-anuncia-programa-de-financiamento-pro-jovem/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/2026/08/10/chapo-pede-aos-jovens-que-escrevam-novo-capitulo-em-mocambique-e-anuncia-programa-de-financiamento-pro-jovem/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "def860085c",
       "title": "Ouganda: derrière les élections de paroisse, la bataille pour le pouvoir local",
       "summary": "En Ouganda, les conseils de paroisse, peu connus du grand public, jouent pourtant un rôle concret dans le règlement des litiges, le maintien de l’ordre et le relais avec les autorités. Leur renouvellement, ce lundi 10 août, doit aussi permettre de mesurer le rapport de force politique au niveau local, dans un système où le NRM, parti au pouvoir, part avec un net avantage.",
@@ -8259,38 +8547,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "8e4e8fdd9f",
-      "title": "Wafcon 2026 - Five Things Learnt As Cameroon End Super Falcons' Title Defence",
-      "summary": "[Premium Times] For much of the contest, Nigeria created the clearer openings and spent long periods searching for the breakthrough. But when the decisive moment arrived, it was Cameroon who made it count",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-10T11:38:14+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608100376.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608100376.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "cc850fc528",
       "title": "Oburu to ODM Dissidents - Choose Your Side or Leave",
       "summary": "[Capital FM] Nairobi -- ODM Party Leader and Siaya Senator Oburu Oginga has told politicians uncomfortable with the party's cooperation with President William Ruto to leave rather than remain on the fence, as divisions within the Orange party continue to deepen ahead of the 2027 General Election.",
@@ -9251,38 +9507,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ab8e8862be",
-      "title": "Former Deputy Director At Auditor General's Office Charged With Forgery of Academic",
-      "summary": "[Capital FM] Nairobi -- A former Deputy Director of Audit at the Office of the Auditor General, Hannah Wambui Mwaura alias Anna Wambui Mwaura, has been charged with allegedly using a forged university degree certificate to secure employment.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-10T04:45:36+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608100040.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608100040.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "efded44363",
       "title": "Malala Tells Wambaka - Let Kakamega Decide Its Political Leaders",
       "summary": "[Capital FM] Nairobi -- DCP Deputy Leader Cleophas Malala has hit out at Bumula MP Jack Wambaka over his appeal to Kakamega voters to support Linda Mwananchi Movement candidates.",
@@ -9630,38 +9854,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608100024.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e23c7b4d0c",
-      "title": "What Young Kenyan Men Say When No One Is Watching",
-      "summary": "[African Arguments] A young Kenyan man recently sent this anonymous message to a chatbot late at night:",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-10T04:37:57+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608100018.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608100018.html"
         }
       ],
       "confirmation_count": 1
@@ -11015,38 +11207,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "8bd0371639",
-      "title": "Editor of top Ethiopian independent news site seized by police, publisher says",
-      "summary": "Rights groups say this as part of a pattern of targeting news outlets - the government has not commented.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-07T11:17:13+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/c934vygxxezo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/c934vygxxezo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "01fefd7d5f",
       "title": "Modern Agriculture Key to Food Security, Says Kabudi",
       "summary": "[Daily News] Morogoro -- FOR decades, the fertile stretches from Lumuma through Kidete to Mkata have held immense agricultural promise.",
@@ -11655,70 +11815,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "33a0a7308d",
-      "title": "Bénin : l'ancien président Patrice Talon élu à la tête du Sénat",
-      "summary": "L’ancien chef de l’Etat devient donc le premier président de l'histoire de la deuxième chambre du parlement au Bénin .",
-      "country": "BEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-06T21:12:12+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/08/06/benin-lancien-president-patrice-talon-elu-a-la-tete-du-senat/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/08/06/benin-lancien-president-patrice-talon-elu-a-la-tete-du-senat/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c259a3f35a",
-      "title": "DR Congo's case against Rwanda moves ahead as World Court sets timetable",
-      "summary": "The International Court of Justice has set the timetable for the Democratic Republic of Congo's case accusing Rwanda of violating international law. Kinshasa must file its arguments by October 2027, with Kigali's response due in December 2028.",
-      "country": "RWA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T20:36:57+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/08/06/dr-congos-case-against-rwanda-moves-ahead-as-world-court-sets-timetable/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/08/06/dr-congos-case-against-rwanda-moves-ahead-as-world-court-sets-timetable/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "c5edd17a0d",
       "title": "Nigeria : Emmanuel Olatunde, l'artiste qui utilise de l'argile comme peinture",
       "summary": "À Lagos, au Nigeria, un artiste revisite l'art du portrait en utilisant de l'argile comme peinture. Une approche singulière qui mêle savoir-faire traditionnel, innovation et création artistique.",
@@ -12066,38 +12162,6 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/154-student-projects-at-young-scientists-kenya-national-exhibition/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "8c175343b9",
-      "title": "Ending FGM Begins With Communities",
-      "summary": "[Daily News] Dar es Salaam -- FOR generations, female genital mutilation (FGM) has been defended in some communities as a cultural tradition.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-06T11:18:58+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608060382.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608060382.html"
         }
       ],
       "confirmation_count": 1
@@ -14856,6 +14920,38 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607170246.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "fdfb75474a",
+      "title": "Underdogs, history and late goals - Africa's World Cup",
+      "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-07-17T10:18:57+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "confirmation_count": 1
