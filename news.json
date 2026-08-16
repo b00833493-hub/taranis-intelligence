@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-08-16T15:35:28.250905+00:00",
+  "generated_at": "2026-08-16T16:42:16.439195+00:00",
   "stats": {
     "total_signals": 405,
-    "verified_signals": 5,
+    "verified_signals": 6,
     "countries_covered": 21,
     "sources_active": 40,
     "per_country": {
-      "NGA": 62,
-      "MOZ": 45,
-      "GHA": 34,
       "KEN": 53,
+      "CPV": 2,
+      "NGA": 61,
+      "MOZ": 45,
+      "GHA": 33,
       "TZA": 36,
       "UGA": 35,
       "ETH": 37,
-      "SEN": 27,
+      "SEN": 28,
       "CIV": 21,
       "MLI": 23,
       "MWI": 6,
       "TGO": 2,
+      "RWA": 4,
       "BFA": 7,
       "MDG": 3,
       "SSD": 2,
-      "GNB": 4,
+      "GNB": 3,
       "NER": 1,
       "GIN": 2,
-      "RWA": 3,
-      "CPV": 1,
       "SLE": 1
     },
-    "west_signals": 185,
-    "east_signals": 220
+    "west_signals": 184,
+    "east_signals": 221
   },
   "sources": [
     {
@@ -275,6 +275,76 @@
   ],
   "signals": [
     {
+      "id": "52ecc8e441",
+      "title": "Kenya : un mal mystérieux décime les éléphants",
+      "summary": "Au Kenya, un mystérieux mal décime les éléphants dans une région touristique du sud du pays. Au moins 20 pachydermes sont morts depuis juin. Les autorités évoquent des traces de cyanure, une piste qui laisse sceptiques agriculteurs et scientifiques.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-16T15:55:54+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260816-kenya-un-mal-myst%C3%A9rieux-d%C3%A9cime-les-%C3%A9l%C3%A9phants"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260816-kenya-un-mal-myst%C3%A9rieux-d%C3%A9cime-les-%C3%A9l%C3%A9phants"
+        },
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/08/14/kenya-une-mysterieuse-affection-decime-les-elephants/"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
+      "id": "7eeedf5f1c",
+      "title": "Incêndios na ilha grega de Salamina provocam dois mortos",
+      "summary": "Corpos foram encontrados perto da praia de Peristeria, no sul da ilha. Os dois incêndios foram detetados \"quase simultaneamente\", em duas zonas conhecidas para banhos no sul e no leste da ilha.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-08-16T15:45:01+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/08/16/incendios-na-ilha-grega-de-salamina-provocam-dois-mortos/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/08/16/incendios-na-ilha-grega-de-salamina-provocam-dois-mortos/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "bc0aeee7c6",
       "title": "Nigeria: nouveaux affrontements intercommunautaires meurtriers dans le centre du pays",
       "summary": "Des violences ont fait une vingtaine de morts le soir du 14 août au centre-ouest du Nigeria dans l’État du Niger. Selon un député local, il s’agit d’affrontements communautaires impliquant également des milices locales. La région est également la cible d'attaques de groupes armés appelés « bandits ». Les autorités locales dénoncent un manque de moyens sécuritaires pour assurer la protection des communautés.",
@@ -435,70 +505,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "51f14c54e7",
-      "title": "Kenya : une mystérieuse affection décime les éléphants",
-      "summary": "Au moins 19 éléphants sont morts depuis juin dans le sud du Kenya, principalement des femelles et de jeunes mâles. Les animaux présentaient des symptômes similaires, notamment une paralysie partielle, mais l’origine exacte de cette mortalité reste incertaine.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-14T16:00:38+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/08/14/kenya-une-mysterieuse-affection-decime-les-elephants/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/08/14/kenya-une-mysterieuse-affection-decime-les-elephants/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9cb4bbee8a",
-      "title": "Rarara - Anti-Social Poetry, Invective and Political Contests, By Jibrin Ibrahim",
-      "summary": "[Premium Times] For centuries, one of the most effective weapons of political combat, especially in very hierarchical societies, has been the deployment of invective. Recipients feel devalued, ridiculed and humiliated. Issues are evacuated and emotive responses takeover the political terrain. Sir Louis Phillip Odumegwu Ojukwu, OBE (1909 - 1966), Nigeria's first billionaire who lent his car for the use of Queen Elizabeth, abandoned politics the day a \"common thug\" abused…",
-      "country": "NGA",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-14T15:41:25+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608140381.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608140381.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "b73eed45d7",
       "title": "U.S. Flags Civilian Deaths, Funding Gaps As Nigeria Pushes for CPC Delisting",
       "summary": "[Vanguard] Despite Nigeria's reported prosecution of hundreds of terror suspects and recruitment of 50,000 police officers, the United States said continuing challenges remained in the fight to remove Nigeria from its Country of Particular Concern, CPC, list.",
@@ -622,38 +628,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608130642.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "5e0288f18e",
-      "title": "Women's U-20 World Cup Remain On Schedule",
-      "summary": "[Ghanaian Times] Hosts Poland said on Tuesday that preparations for next month's Under-20 Women's World Cup remain on schedule, as the tournament prepares to become the first FIFA event staged amid the backlash against global football chief Gianni Infantino.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-13T15:39:42+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608130440.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608130440.html"
         }
       ],
       "confirmation_count": 1
@@ -851,38 +825,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "a9715953c5",
-      "title": "Au Nigéria, le village d'Orimedu menacé par l'érosion côtière",
-      "summary": "À Orimedu, village de pêcheurs sur le littoral de l’État de Lagos, au Nigeria, l’érosion côtière et la montée des eaux gagnent du terrain. Des maisons sont endommagées et les activités de pêche menacées. Habitants et scientifiques expérimentent des réponses face à cette urgence.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-12T13:54:46+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260812-au-nig%C3%A9ria-le-village-d-orimedu-menac%C3%A9-par-l-%C3%A9rosion-c%C3%B4ti%C3%A8re"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260812-au-nig%C3%A9ria-le-village-d-orimedu-menac%C3%A9-par-l-%C3%A9rosion-c%C3%B4ti%C3%A8re"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "3e8058af98",
       "title": "Taxi Driver or Potential Killer? Uganda's Deadly Culture of Reckless Driving",
       "summary": "[Nile Post] Fourteen people died in Lwera. Two more died days later in Kakira. Now, 11 commuter taxi drivers have been arrested for allegedly engaging in dangerous loading during a night operation at Maya along the Kampala-Masaka Highway.",
@@ -910,6 +852,38 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608120379.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "276c0f2c9a",
+      "title": "Mortgage Approval Does Not Guarantee the Keys to Your Home, Absa Says",
+      "summary": "[Capital FM] Nairobi -- Getting a mortgage approved does not necessarily mean a homebuyer is immediately ready to take possession of a property, with Absa Bank Kenya highlighting the legal and conveyancing steps that must be completed before financing can be disbursed.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-12T12:21:15+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608120281.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608120281.html"
         }
       ],
       "confirmation_count": 1
@@ -1241,6 +1215,70 @@
       "confirmation_count": 2
     },
     {
+      "id": "d87a785390",
+      "title": "News - Coalition Says Abeshige Extrajudicial Killings 'Comparable to the Red Terror', Demands Investigation",
+      "summary": "[Addis Standard] Addis Abeba -- The Coalition for Ethiopian Unity, a five-party opposition  political coalition, has condemned the reported killing of three young men in Abeshige Woreda of Central Ethiopia Regional State, saying the killings were \"comparable to the Red Terror\" and demanding an independent investigation.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-16T16:33:34+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608160013.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608160013.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2e7ffdd21c",
+      "title": "The Tigray War - Lines of Fire Extending to the Sudanese Border",
+      "summary": "[Ayin Network] In northwestern Ethiopia, war doesn't need to cross the border to reach Sudan. Near the Tekeze-Setit River, villages on the Sudanese side can hear the explosions, and civilians begin searching for ways to flee towards the border. There, in the geography stretching between the Shiraro, Humera, and Tekeze regions, the Ethiopian-Sudanese border appears as a thin line on a map, but it is, in reality, one of the most volatile points in the Horn of Africa.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-16T15:58:02+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608160012.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608160012.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b0da6e51b2",
       "title": "En Côte d’Ivoire, des chercheurs testent une bio-solution contre le Swollen Shoot, la maladie du cacao",
       "summary": "En Côte d’Ivoire, des chercheurs de l’université Nangui Abrogoua, à Abidjan, ont développé une solution à base de matières organiques naturelles pour combattre le Swollen Shoot, une maladie virale qui s’attaque aux cacaoyers et menace une partie de la production du pays. Baptisée « Vital Plus », cette méthode a déjà été expérimentée sur plusieurs centaines d’hectares dans les zones de production à travers le pays.",
@@ -1556,38 +1594,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608140384.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "7b57aef2d0",
-      "title": "Aptech Nigeria Makes History With First National Convocation",
-      "summary": "[Premium Times] Over 130 graduates honoured, ₦60 million in UK scholarships awarded as more than 400 guests gather in Lagos for a landmark celebration during Aptech's 40th anniversary year",
-      "country": "NGA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-14T15:42:27+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608140383.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608140383.html"
         }
       ],
       "confirmation_count": 1
@@ -2356,38 +2362,6 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260812-de-tunis-%C3%A0-dakar-la-t%C3%AAte-dans-les-nuages-pour-observer-l-%C3%A9clipse-solaire"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "604e3ecd77",
-      "title": "Fueling the Fire - How Pakistan's Arms Deliveries to Sudan Resonate From the Red Sea to Balochistan",
-      "summary": "[Reporter] The recent arrival and first public sighting of 100 Pakistani-made Mohafiz-V armored vehicles during a military parade in Khartoum marks a significant operational shift in Sudan's ongoing civil conflict. The Pakistani-supplied armored vehicles were paraded by Sudanese Armed Forces (SAF), and reported by Sudan Tribune, Pakistan and Indian media and other international outlets.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "OPERATIONAL",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-12T17:38:52+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608120587.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608120587.html"
         }
       ],
       "confirmation_count": 1
@@ -3741,6 +3715,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "c35a4495b9",
+      "title": "RD Congo : un protocole pour démobiliser les rebelles rwandais des FDLR",
+      "summary": "En République démocratique du Congo, les États-Unis disent avoir pris bonne note du protocole de démobilisation des FDLR, un groupe rebelle rwandais, présenté par Kinshasa fin juillet. Pour le gouvernement congolais, ce protocole constitue une première traduction concrète des engagements pris dans le cadre de l'accord de paix signé à Washington.",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-16T15:58:32+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260816-rd-congo-un-protocole-pour-d%C3%A9mobiliser-les-rebelles-rwandais-des-fdlr"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260816-rd-congo-un-protocole-pour-d%C3%A9mobiliser-les-rebelles-rwandais-des-fdlr"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b21808ac19",
       "title": "CAN féminine 2026: Malawi-Cameroun, une finale inédite",
       "summary": "Le Cameroun, vainqueur au tirs au but du Maroc, jouera dimanche 16 août la finale de la CAN féminine contre le Malawi, tombeur de l'Algérie.",
@@ -4658,6 +4664,102 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607200408.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "71a14921bb",
+      "title": "Sénégal : les régates de pirogues, une tradition vieille de deux siècles à Saint-Louis",
+      "summary": "À Saint-Louis, au Sénégal, les traditionnelles régates de pirogues perpétuent une tradition vieille de près de deux siècles. Dans le quartier de pêcheurs de Guet Ndar, cette course de 3,5 km rassemble chaque année rameurs et habitants autour d'un événement culturel et sportif majeur. Mais malgré son succès populaire et les revenus qu'elle génère, les participants ne sont pas rémunérés et réclament davantage de reconnaissance pour cette discipline.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-16T16:03:10+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260816-s%C3%A9n%C3%A9gal-les-r%C3%A9gates-de-pirogues-une-tradition-vieille-de-deux-si%C3%A8cles-%C3%A0-saint-louis"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260816-s%C3%A9n%C3%A9gal-les-r%C3%A9gates-de-pirogues-une-tradition-vieille-de-deux-si%C3%A8cles-%C3%A0-saint-louis"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "268b4f7ac9",
+      "title": "#osundecides20226 - NYSC Hails Corps Members' Discipline, Commitment During Poll",
+      "summary": "[Premium Times] Mr Kubiangha said the corps members adhered to instructions, operational guidelines and safety advisories issued during the sensitisation tour of the local government areas.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "OPERATIONAL",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-16T15:50:07+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608160010.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608160010.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8577556220",
+      "title": "#osundecides2026: INEC Declares Accord's Ademola Adeleke Winner of Governorship Election",
+      "summary": "[Premium Times] The incumbent governor defeated his closest challenger, Bola Oyebamiji of the APC, by 66,252 votes after polling 511,067 votes across the state.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-16T15:48:46+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608160009.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608160009.html"
         }
       ],
       "confirmation_count": 1
@@ -5849,6 +5951,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "ec69a12ee7",
+      "title": "IGP Promotes 25 Police Personnel for Exceptional Performance",
+      "summary": "[Ghanaian Times] The Inspector General of Police (IGP), Mr Christian Tetteh Yohuno, has promoted 25 police personnel for their exceptional performance and contribution to the arrest of robbery suspects and interception of illicit drugs in separate operations across the country.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-14T20:57:39+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608140563.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608140563.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "2d1172a290",
       "title": "Guinée : Resolute Mining et Nimba Mining Gold créent une coentreprise dédiée à l’or",
       "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
@@ -5876,6 +6010,38 @@
           "name": "Financial Afrik",
           "tier": 2,
           "url": "https://www.financialafrik.com/2026/08/14/guinee-resolute-mining-et-nimba-mining-gold-creent-une-coentreprise-dediee-a-lor/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e65e45bdb2",
+      "title": "Osun 2026 - Un appel &#xE0; une &#xE9;lection pacifique",
+      "summary": "[This Day] Opeyemi BAMIDELE urges all to play by the rules in the governorship election",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-14T19:58:27+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608140537.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608140537.html"
         }
       ],
       "confirmation_count": 1
@@ -6137,38 +6303,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "d7655d9a2d",
-      "title": "Adegoke Remains Oyo Adc Guber Candidate, Says Media Team",
-      "summary": "[This Day] Ibadan -- The Media Team of the African Democratic Congress (ADC) governorship candidate in Oyo State, Adegboyega Taofeek Adegoke, on Friday, described the claim to the party's governorship ticket by one of the gubernatorial aspirants, Mr. Gbemileke Alagbe, as \"wishful thinking\".",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-14T15:43:44+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608140387.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608140387.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "1d711f5223",
       "title": "At Washington Talks, Nigeria Reinforces Defence, Security Partnership With Us",
       "summary": "[This Day] Abuja -- The Federal Government has reinforced its defence and security partnership with the United States Government with a view to deepening military-to-military relations and strengthening counter-terrorism cooperation between Nigeria and the United States.",
@@ -6233,38 +6367,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "a85e335d11",
-      "title": "Falling Tree Kills Motorcyclist in Uyo, Raising Questions Over Government's Management of Aged Trees",
-      "summary": "[Premium Times] A fatal tree fall on Uyo's Abak Road exposes concerns over ageing roadside trees and questions about the Akwa Ibom government's failure to allocate funds for their inspection, pruning, and removal.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-14T15:41:44+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608140382.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608140382.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "dd98945454",
       "title": "Media Warfare, National Consequences - How Ethiopia's Propaganda War Threatens Fragile Peace",
       "summary": "[Addis Standard] Addis Abeba -- Recently, media outlets affiliated with Ethiopia's ruling Prosperity Party have carried strikingly similar narratives about the Tigray People's Liberation Front (TPLF). Whether coordinated by design or driven by a shared  political agenda, the repetition of identical messages across multiple platforms creates the impression of an organized communication campaign rather than independent journalism.",
@@ -6324,70 +6426,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608140379.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9a791f2ac5",
-      "title": "2027 - We Can Only Secure Victory Through Grassroots Engagements - APC Concerned Stakeholders",
-      "summary": "[Leadership] The Concerned National All Progressives Congress (APC) Stakeholders Forum, has said, the only way the party can secure victory in the 2027 general election is through grassroots engagement and mobilisation.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-14T15:37:06+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608140377.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608140377.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b48b79fb42",
-      "title": "Nasarawa Begins Lafia Drainage Redesign After Flood Submerges Homes",
-      "summary": "[Leadership] The Nasarawa State Government has commenced a reassessment and redesign of the stormwater drainage system in Lafia following a heavy flood that submerged houses and cut off the Federal Highway in the metropolis in the early hours of Wednesday.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-14T15:35:53+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608140376.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608140376.html"
         }
       ],
       "confirmation_count": 1
@@ -6745,6 +6783,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "9e47586446",
+      "title": "U.S. and Nigeria Hold Talks to Protect Christian Communities",
+      "summary": "[State Department] Office of the Spokesperson",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-14T12:12:49+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608140253.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608140253.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "5deb23632a",
       "title": "Raila Junior: Can he inherit his late father’s political base in Nairobi?",
       "summary": "Raila Junior is taking the decisive move to try and follow in his late father Raila Odinga’s big political footsteps, and specifically inherit Baba’s largest political base, in Kenya’s capital, Nairobi.",
@@ -6804,38 +6874,6 @@
           "name": "RFI Português",
           "tier": 1,
           "url": "https://www.rfi.fr/pt/programas/reportagem/20260814-guin%C3%A9-bissau-psic%C3%B3loga-francesa-vela-pela-sa%C3%BAde-mental-dos-guineenses"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "54203a18e2",
-      "title": "Guiné-Bissau: Nova Constituição reduz Parlamento e reforça poderes presidenciais",
-      "summary": "A Guiné-Bissau inicia uma nova etapa na sua história institucional. A nova Constituição, apresentada esta quinta-feira, 13 de Agosto, em Bissau, traz mudanças profundas na estrutura do Estado. O referendo à nova Constituição está previsto para dia 30 de Agosto.",
-      "country": "GNB",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-08-14T11:34:09+00:00",
-      "lead_source": {
-        "id": "rfi-pt",
-        "name": "RFI Português",
-        "tier": 1,
-        "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260814-guin%C3%A9-bissau-nova-constitui%C3%A7%C3%A3o-reduz-parlamento-e-refor%C3%A7a-poderes-presidenciais"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-pt",
-          "name": "RFI Português",
-          "tier": 1,
-          "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260814-guin%C3%A9-bissau-nova-constitui%C3%A7%C3%A3o-reduz-parlamento-e-refor%C3%A7a-poderes-presidenciais"
         }
       ],
       "confirmation_count": 1
@@ -7190,38 +7228,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608140152.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "033ed89f3b",
-      "title": "IGP Promotes 4 Personnel for Exceptional Performance",
-      "summary": "[Ghanaian Times] The Inspector General of Police (IGP), Mr Christian Tetteh Yohuno, has promoted four police personnel to their next ranks for their exceptional performance and contribution to the successful dismantling of an armed robbery syndicate in the Upper West Region.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-14T10:17:51+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608140148.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608140148.html"
         }
       ],
       "confirmation_count": 1
@@ -7830,6 +7836,38 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608140037.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "42f4393d62",
+      "title": "#osundecides2026 - Residents Speak On Election-Day Expectations, Demand Transparent, Violence-Free Polls",
+      "summary": "[Premium Times] Their responses reveal a state caught between fear and determination, as they are aware of the risks posed by the violence and yet remain unwilling to surrender their right to participate in choosing who governs Osun State.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-14T07:08:02+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608140036.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608140036.html"
         }
       ],
       "confirmation_count": 1
@@ -9181,6 +9219,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "8256696741",
+      "title": "South Africa Vs Nigeria - Five Key Players Who Could Decide Super Falcons' World Cup Play-Off Fixture",
+      "summary": "[Premium Times] Both nations possess experienced squads packed with players who have performed at the highest level for club and country. But in a match this tight, individual moments could make the difference",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-13T08:35:23+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608130039.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608130039.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "97702fa0fc",
       "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
       "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
@@ -9240,6 +9310,38 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608120655.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "aa850952ce",
+      "title": "Entebbe Hospital Staffing At 21 Percent As MPs Warn of Growing Pressure On Health Services",
+      "summary": "[Nile Post] Entebbe Regional Referral Hospital is operating with just 21.8% of its approved staffing structure, raising concerns about the pressure on health workers and the quality of care at a facility serving a growing population.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-12T22:41:24+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608120656.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608120656.html"
         }
       ],
       "confirmation_count": 1
@@ -9400,38 +9502,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608120512.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e470481112",
-      "title": "KFS Turns to Space Technology to Track Kenya's Forests and Boost Tree-Growing Drive",
-      "summary": "[Capital FM] Nairobi -- The Kenya Forest Service (KFS) is turning to satellite technology and Earth observation data to strengthen monitoring of the country's forests as Kenya accelerates efforts to expand national tree cover.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-12T16:36:04+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608120510.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608120510.html"
         }
       ],
       "confirmation_count": 1
@@ -10589,38 +10659,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "6f2ce48f4f",
-      "title": "Ethiopia's Gli Exemplary Response to Climate Crisis - Sahrawi Ambassador",
-      "summary": "[ENA] Addis Ababa -- Ethiopia's environmental conservation efforts under its Green Legacy Initiative (GLI) offer an exemplary response to the climate crisis facing Africa, Ambassador of the Sahrawi Republic to Ethiopia and the African Union Lamine Baali said.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-11T04:22:31+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608110075.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608110075.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "dba0c0a8e1",
       "title": "Health Ministry's Officials Ordered to Submit Accurate Health and HIV/Aids Reports to the Parliamentary Committee",
       "summary": "[Daily News] Dar es Salaam -- THE Deputy Minister for Health, Dr Florence Samizi, has directed officials at the Ministry of Health to ensure that reports submitted to the Parliamentary Standing Committee on Health and HIV/AIDS are accurate, supported by reliable data and clear evidence, and reflect the actual implementation of the Ministry's responsibilities.",
@@ -10648,38 +10686,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608110076.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "49ecdc44d1",
-      "title": "Uganda's Widows Need More Than Laws On Matters Land",
-      "summary": "[Independent (Kampala)] The gap we face today is no longer primarily legislative; it is a crisis of enforcement, awareness, and institutional practice",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-11T04:22:30+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608110074.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608110074.html"
         }
       ],
       "confirmation_count": 1
