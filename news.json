@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-16T04:50:11.427399+00:00",
+  "generated_at": "2026-08-16T05:42:32.823156+00:00",
   "stats": {
-    "total_signals": 425,
+    "total_signals": 426,
     "verified_signals": 5,
     "countries_covered": 24,
     "sources_active": 40,
     "per_country": {
+      "SOM": 2,
       "NGA": 63,
       "MOZ": 45,
       "GIN": 3,
@@ -27,12 +28,11 @@
       "MDG": 2,
       "GNB": 5,
       "NER": 1,
-      "SOM": 1,
       "CPV": 1,
       "SLE": 1
     },
     "west_signals": 190,
-    "east_signals": 235
+    "east_signals": 236
   },
   "sources": [
     {
@@ -277,6 +277,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "65f08b4da5",
+      "title": "How diaspora steady Mogadishu economy in times of turmoil",
+      "summary": "Remittance inflows from Somali citizens living abroad hit $6.78 billion in 2025, up from $6.43...",
+      "country": "SOM",
+      "category": "MACRO",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-16T04:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/diaspora-steady-mogadishu-economy-in-times-of-turmoil-5558440"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/diaspora-steady-mogadishu-economy-in-times-of-turmoil-5558440"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "bc0aeee7c6",
       "title": "Nigeria: nouveaux affrontements intercommunautaires meurtriers dans le centre du pays",
@@ -3417,6 +3449,38 @@
           "name": "African Business",
           "tier": 2,
           "url": "https://african.business/2026/08/trade-investment/tanzania-seeks-fresh-investors-in-growth-bid"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "042e872828",
+      "title": "Anamola Opens Investigation to Assess Political Dispute Involving Alleged Members",
+      "summary": "[AIM] Maputo -- The National Alliance for a Free and Autonomous Mozambique (Anamola), led by former presidential candidate Venancio Mondlane, has decided to open an internal investigation to assess the circumstances related to a political dispute involving its alleged members.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-05T11:29:36+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608050468.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608050468.html"
         }
       ],
       "confirmation_count": 1
@@ -12313,38 +12377,6 @@
           "name": "AllAfrica · Côte d'Ivoire",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608050129.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9dd2a4ad8a",
-      "title": "UNECA Reaffirmed Commitment to Deepening Cooperation With Mozambique",
-      "summary": "[AIM] Maputo -- The United Nations Economic Commission for Africa (UNECA) has reaffirmed its commitment to deepening cooperation with Mozambique and supporting the implementation of the country's national development priorities.",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-05T05:31:53+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608050044.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608050044.html"
         }
       ],
       "confirmation_count": 1
