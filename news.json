@@ -1,35 +1,36 @@
 {
-  "generated_at": "2026-08-20T17:45:56.669893+00:00",
+  "generated_at": "2026-08-20T18:59:55.589155+00:00",
   "stats": {
     "total_signals": 403,
     "verified_signals": 10,
-    "countries_covered": 21,
+    "countries_covered": 22,
     "sources_active": 40,
     "per_country": {
+      "NGA": 69,
       "GHA": 34,
-      "NGA": 67,
       "KEN": 54,
       "UGA": 28,
-      "MOZ": 43,
+      "MOZ": 33,
       "ETH": 37,
-      "MLI": 18,
-      "GIN": 4,
+      "MLI": 19,
+      "GIN": 6,
       "SOM": 3,
       "TZA": 32,
-      "SEN": 40,
-      "LBR": 5,
-      "CIV": 19,
+      "SEN": 39,
+      "LBR": 6,
+      "CIV": 21,
       "MDG": 1,
       "GNB": 5,
-      "TGO": 3,
-      "BEN": 1,
+      "TGO": 4,
+      "BEN": 2,
       "CPV": 2,
       "MWI": 4,
       "RWA": 2,
+      "BDI": 1,
       "GMB": 1
     },
-    "west_signals": 199,
-    "east_signals": 204
+    "west_signals": 208,
+    "east_signals": 195
   },
   "sources": [
     {
@@ -275,6 +276,38 @@
   ],
   "signals": [
     {
+      "id": "4e2fe4400e",
+      "title": "Dozens dead after boat capsizes in northwestern Nigeria",
+      "summary": "Residents say at least 46 bodies already recovered, as rescue operations continue before officials can confirm toll.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T18:37:47+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/8/20/dozens-dead-after-boat-sinks-in-northwestern-nigeria?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/8/20/dozens-dead-after-boat-sinks-in-northwestern-nigeria?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "715cca0a12",
       "title": "Ghana Loses Over U.S.$3bn Annually to Corruption - NCCE",
       "summary": "[Ghanaian Times] Ghana loses more than US$3 billion every year through corruption, the Deputy Chairman, Operations, of the National Commission for Civic Education (NCCE), Mr Samuel Asare Akuamoah, has disclosed.",
@@ -409,38 +442,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "005152b939",
-      "title": "Southern African mothers plead for sons lured to Russia’s war",
-      "summary": "Instead of celebrating her son’s birthday this month, Zimbabwean mother Rodwin Chitewere spent the day praying for his body to be brought home from Russia, where he was reportedly killed fighting Moscow’s war against Ukraine. In Botswana and South Africa, too, women are desperate for sons and husbands to return from a conflict many say…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T13:41:02+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/southern-african-mothers-plead-for-sons-lured-to-russias-war/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/southern-african-mothers-plead-for-sons-lured-to-russias-war/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "2cc279d3e8",
       "title": "Nigeria's federal government moves to decriminalise attempted suicide",
       "summary": "Health Minister Ali Pate said the reform aims at reducing suicide deaths and attempts by 15 per cent by 2030.",
@@ -473,38 +474,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "b7e74ee4fe",
-      "title": "Ghana : 975 millions de dollars versés pour consolider la confiance sur le marché de la dette",
-      "summary": "Le gouvernement ghanéen a procédé au versement de l’équivalent de 975 millions de dollars (10,82 milliards de GH¢) au bénéfice des détenteurs d’obligations. Réalisée dans le cadre du Programme d’échange de la dette intérieure (DDEP), cette opération marque une avancée significative vers le rétablissement durable de la confiance des investisseurs sur le marché national.\nCe paiement constitue le troisième versement consécutif d’intérêts effectué intégralement en espèces et…",
-      "country": "GHA",
-      "category": "MACRO",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-20T12:34:19+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/08/20/ghana-975-millions-de-dollars-verses-pour-consolider-la-confiance-sur-le-marche-de-la-dette/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/08/20/ghana-975-millions-de-dollars-verses-pour-consolider-la-confiance-sur-le-marche-de-la-dette/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "b9d29f58b1",
       "title": "Xenophobia - 83 Nigerians Return From South Africa, FG Says 90 Killed Since 2022",
       "summary": "[Premium Times] Upon arrival, the returnees were received by Haruna Ali-Gombe, the director, African Affairs Department, Ministry of Foreign Affairs.",
@@ -532,38 +501,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200437.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ac8b608ccb",
-      "title": "Mozambique honours Juan Martinez de León for contribution to cardiovascular and thoracic surgery",
-      "summary": "The Ministry of Health (MISAU) on Tuesday, 18 August, honoured Professor Juan Martinez de León, a cardiovascular and thoracic surgeon, in recognition of his invaluable contribution to the development of this medical speciality in Mozambique. In his remarks, Health Minister Ussene Isse highlighted the honouree’s career and his role in strengthening the National Health System,…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T11:24:42+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-honours-juan-martinez-de-leon-for-contribution-to-cardiovascular-and-thoracic-surgery/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-honours-juan-martinez-de-leon-for-contribution-to-cardiovascular-and-thoracic-surgery/"
         }
       ],
       "confirmation_count": 1
@@ -890,38 +827,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200205.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9c410b0e38",
-      "title": "Mozambique : ExxonMobil engage 1,1 milliard de dollars pour son projet Rovuma LNG",
-      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-20T06:22:30+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/08/20/mozambique-exxonmobil-engage-11-milliard-de-dollars-pour-son-projet-rovuma-lng/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/08/20/mozambique-exxonmobil-engage-11-milliard-de-dollars-pour-son-projet-rovuma-lng/"
         }
       ],
       "confirmation_count": 1
@@ -1385,6 +1290,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "b95d823b0e",
+      "title": "MTN Ghana : un chiffre d’affaires de 1,36 milliard de dollars au premier semestre 2026",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-18T10:23:22+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/08/18/mtn-ghana-un-chiffre-daffaires-de-136-milliard-de-dollars-au-premier-semestre-2026/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/08/18/mtn-ghana-un-chiffre-daffaires-de-136-milliard-de-dollars-au-premier-semestre-2026/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "7bff5f1e2f",
       "title": "Drought Threatens Livelihoods of Irob Minority Community in Eastern Tigray",
       "summary": "[Addis Standard] Addis Abeba -- A worsening shortage of rainfall is putting the livelihoods of the Irob community in eastern Tigray at growing risk, with local authorities warning that prolonged dry conditions could lead to livestock deaths, disease and starvation.",
@@ -1836,70 +1773,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200546.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "819f9542bf",
-      "title": "Mozambique: Nuvunga challenges GCCC decision to close investigation into aircraft purchase",
-      "summary": "A prominent Mozambican NGO, the Centre for Democracy and Development (CDD), on Wednesday challenged the decision by the country’s Central Office for the Fight against Corruption (GCCC) to close an investigation into alleged irregularities in aircraft acquisitions by employees of the publicly-owned company Air Mozambique (formerly known as Mozambique Airlines, LAM). Last February, the GCCC,…\nSource",
-      "country": "MOZ",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T14:05:50+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-nuvunga-challenges-gccc-decision-to-close-investigation-into-aircraft-purchase/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-nuvunga-challenges-gccc-decision-to-close-investigation-into-aircraft-purchase/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "7bda657d78",
-      "title": "Mozambique: South African Business Chamber calls for the Temane–Inhambane Energy Hub to be championed as a national flagship as South Africa assumes the SADC Chairmanship",
-      "summary": "Chamber says a ready pipeline of private, development-finance-backed investments can deliver President Chapo’s vision of “transforming gas into industry, into income and real opportunities for Mozambicans” Maputo, 17 August 2026 — As South Africa formally assumes the Chairpersonship of the Southern African Development Community (SADC) at the 46th Summit in Durban, the South African Chamber…\nSource",
-      "country": "MOZ",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T14:04:40+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-south-african-business-chamber-calls-for-the-temane-inhambane-energy-hub-to-be-championed-as-a-national-flagship-as-south-africa-assumes-the-sadc-chairmanship/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-south-african-business-chamber-calls-for-the-temane-inhambane-energy-hub-to-be-championed-as-a-national-flagship-as-south-africa-assumes-the-sadc-chairmanship/"
         }
       ],
       "confirmation_count": 1
@@ -2834,6 +2707,102 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608190395.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7e2eb92682",
+      "title": "Guinée équatoriale : le vice-président Teodoro Nguema Obiang Mangue mise sur Davos pour séduire les investisseurs",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-19T10:16:04+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/08/19/guinee-equatoriale-le-vice-president-teodoro-nguema-obiang-mangue-mise-sur-davos-pour-seduire-les-investisseurs/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/08/19/guinee-equatoriale-le-vice-president-teodoro-nguema-obiang-mangue-mise-sur-davos-pour-seduire-les-investisseurs/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ffc88b7149",
+      "title": "Mozambique-Afrique du Sud : 980 millions de meticais pour moderniser le poste-frontière de Ressano Garcia",
+      "summary": "Environ 980 millions de meticais, soit environ 15,2 millions de dollars, seront investis dans la modernisation du poste-frontière de Ressano Garcia, principal point de passage terrestre entre le Mozambique et l’Afrique du Sud, situé dans le district de Moamba (province de Maputo). Sur cette enveloppe, environ 450 millions de meticais (6,9 millions de dollars) sont consacrés à la construction et à la modernisation du terminal touristique. La première pierre a été posée le…",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-19T05:58:59+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/08/19/mozambique-afrique-du-sud-980-millions-de-meticais-pour-moderniser-le-poste-frontiere-de-ressano-garcia/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/08/19/mozambique-afrique-du-sud-980-millions-de-meticais-pour-moderniser-le-poste-frontiere-de-ressano-garcia/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3b67d0b79e",
+      "title": "Sénégal : NDAM sanctionnée pour rupture abusive, Xerus condamnée à verser 192,8 millions FCFA",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-19T05:45:30+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/08/19/senegal-ndam-sanctionnee-pour-rupture-abusive-xerus-condamnee-a-verser-1928-millions-fcfa/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/08/19/senegal-ndam-sanctionnee-pour-rupture-abusive-xerus-condamnee-a-verser-1928-millions-fcfa/"
         }
       ],
       "confirmation_count": 1
@@ -4061,72 +4030,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "cc61882e96",
-      "title": "Sénégal : Comment restaurer la soutenabilité de la dette lorsque les créanciers du souverain sont aussi au cœur du système financier domestique ou régional ?",
-      "summary": "Alors qu’une mission du FMI a entamé de nouvelles discussions avec les autorités sénégalaises sur les réformes économiques et budgétaires, la question de la soutenabilité de la dette revient au premier plan. Dans cette analyse, Sansan Vincent de Paul Kambou, macroéconomiste et expert en dette souveraine au CERDI-UCA (Centre d’études et de recherches en développement international), examine les défis posés par une restructuration de la dette dans un contexte où les…",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-20T12:48:26+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/08/20/senegal-comment-restaurer-la-soutenabilite-de-la-dette-lorsque-les-creanciers-du-souverain-sont-aussi-au-coeur-du-systeme-financier-domestique-ou-regional/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/08/20/senegal-comment-restaurer-la-soutenabilite-de-la-dette-lorsque-les-creanciers-du-souverain-sont-aussi-au-coeur-du-systeme-financier-domestique-ou-regional/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e2ff02f6f0",
-      "title": "Mozambique: “Tolerância de ponto” granted as Quelimane marks 84th anniversary",
-      "summary": "Workers in the city of Quelimane have been granted a day off on Friday, 21 August, to mark the 84th anniversary of the city’s elevation to city status. The decision was announced by the Minister of Labour, Gender and Social Action, Ivete Alane, pursuant to the Regulation on “Tolerância de Ponto”, approved by Decree No.…\nSource",
-      "country": "MOZ",
-      "category": "FINANCING",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "GRANT"
-      ],
-      "lang": "en",
-      "published": "2026-08-20T12:03:01+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-tolerancia-de-ponto-granted-as-quelimane-marks-84th-anniversary/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-tolerancia-de-ponto-granted-as-quelimane-marks-84th-anniversary/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "837015e0a6",
       "title": "Guinée : l'activiste Bella Bah condamné à 6 mois de prison pour \"injures envers un Imam\"",
       "summary": "🇬🇳 En Guinée, l’activiste Bella Bah condamné à 6 mois de prison, dont 5 avec sursis, pour injure et diffamation envers un grand imam de Conakry. Ancien membre du FNDC, il est connu pour ses critiques du pouvoir guinéen.",
@@ -4737,6 +4640,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "45fe5555e7",
+      "title": "Tabacs : Légère hausse du chiffre d’affaires de la Société Ivoirienne des Tabacs au premier semestre 2026",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-18T15:39:25+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/08/18/tabacs-legere-hausse-du-chiffre-daffaires-de-la-societe-ivoirienne-des-tabacs-au-premier-semestre-2026/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/08/18/tabacs-legere-hausse-du-chiffre-daffaires-de-la-societe-ivoirienne-des-tabacs-au-premier-semestre-2026/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "bd8b026af4",
       "title": "Growth Slows to 5.1 Percent in May 2026 - Gss",
       "summary": "[Ghanaian Times] Ghana's economy continued to expand in May 2026, although at a slower pace than a year earlier, with growth driven largely by the services sector, the Monthly Indicator of Economic Growth (MIEG) has revealed.",
@@ -4764,6 +4699,38 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608180377.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3b925e1a1a",
+      "title": "Dividendes 2025 : La société Servair Abidjan revoie à la hausse le dividende global à verser à ses actionnaires",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-18T10:46:38+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/08/18/dividendes-2025-la-societe-servair-abidjan-revoie-a-la-hausse-le-dividende-global-a-verser-a-ses-actionnaires/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/08/18/dividendes-2025-la-societe-servair-abidjan-revoie-a-la-hausse-le-dividende-global-a-verser-a-ses-actionnaires/"
         }
       ],
       "confirmation_count": 1
@@ -5084,6 +5051,102 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607200408.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6389883c9e",
+      "title": "First group of US deportees, out of an expected 1,200, arrive in Liberia",
+      "summary": "Liberia is part of a growing list of partners under US President Donald Trump to accept third-country deportations.",
+      "country": "LBR",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T18:22:58+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "81a5a90bb7",
+      "title": "Russian paramilitaries in Mali kill nine, including children: HRW",
+      "summary": "Human Rights Watch alleges that the killings by Africa Corps troops took place in the presence of Malian soldiers.",
+      "country": "MLI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T18:13:49+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "726578c514",
+      "title": "Nigeria’s SEC wants crypto firms to share transaction data",
+      "summary": "Under new rules, crypto businesses targeting Nigerian users to register with the SEC, even if they operate from outside the country.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T18:07:21+00:00",
+      "lead_source": {
+        "id": "techcabal",
+        "name": "TechCabal",
+        "tier": 2,
+        "url": "https://techcabal.com/2026/08/20/nigerias-sec-wants-crypto-firms-to-share-transaction-data/"
+      },
+      "confirming_sources": [
+        {
+          "id": "techcabal",
+          "name": "TechCabal",
+          "tier": 2,
+          "url": "https://techcabal.com/2026/08/20/nigerias-sec-wants-crypto-firms-to-share-transaction-data/"
         }
       ],
       "confirmation_count": 1
@@ -5569,38 +5632,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "4ff0dbbe6a",
-      "title": "Vatican says ‘serious concerns’ over Israel-Lebanon deal implementation",
-      "summary": "The Vatican expressed “serious concerns” Thursday about problems implementing a US-brokered deal between Israel and Lebanon, following a meeting between Pope Leo XIV and Lebanese President Joseph Aoun. During a private, 30-minute audience at the Vatican, Aoun had urged the pontiff to support Beirut’s push to secure the withdrawal of Israeli forces from south Lebanon…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T14:47:11+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/vatican-says-serious-concerns-over-israel-lebanon-deal-implementation/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/vatican-says-serious-concerns-over-israel-lebanon-deal-implementation/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "f0b49457db",
       "title": "The Startups Braving Converting Old Fuel Vehicles To EVs In Nigeria’s Vast Public Transport Scene",
       "summary": "One commercial transporter who lives in Lagos says he hasn’t had to visit\nThe post The Startups Braving Converting Old Fuel Vehicles To EVs In Nigeria’s Vast Public Transport Scene appeared first on WeeTracker.",
@@ -5916,38 +5947,6 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/08/20/senegal-saint-louis-face-a-loubli-de-son-passe-esclavagiste/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "0b08e1a82d",
-      "title": "Mozambique: Chissano calls for behavioural change to build “a culture of non-corruption”",
-      "summary": "Former Mozambican President Joaquim Chissano says Mozambique needs to develop a genuine “culture of non-corruption” to tackle a phenomenon that, in his view, is deeply rooted in society and cannot be fought solely through legal proceedings or administrative measures. Chissano’s remarks come at a time when the country is closely following the scandal involving the…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T12:30:09+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-chissano-calls-for-behavioural-change-to-build-a-culture-of-non-corruption/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-chissano-calls-for-behavioural-change-to-build-a-culture-of-non-corruption/"
         }
       ],
       "confirmation_count": 1
@@ -6337,38 +6336,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "33d97f8219",
-      "title": "Mozambique: Chapo expected in Chimoio ahead of Frelimo national conference",
-      "summary": "Frelimo President Daniel Chapo is expected to arrive in Chimoio, Manica province, on Thursday afternoon to preside over the 11th National Conference of Frelimo Cadres, which runs from Friday until Sunday. The provincial capital of Manica is seeing a heavy influx of delegates and guests attending the major Frelimo meeting, which is being held ten…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T11:02:34+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-chapo-expected-in-chimoio-ahead-of-frelimo-national-conference/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-chapo-expected-in-chimoio-ahead-of-frelimo-national-conference/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "dac0fb9e0e",
       "title": "Donor Cuts, Govt Inaction Push HIV Patients Towards Death, Uncertainty in Rivers, Akwa Ibom (2)",
       "summary": "[Premium Times] In the second part of this three-part series, PREMIUM TIMES found that while governments approved budgets for HIV programmes, critical funds often failed to reach the health system.",
@@ -6401,70 +6368,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "5e6b2c97eb",
-      "title": "Mozambique: Global Finance once again recognises Millennium bim for excellence in digital banking",
-      "summary": "New awards recognise the quality of the Bank’s digital solutions and reinforce a year of major international accolades for Millennium bim Millennium bim has been recognised by Global Finance with the Best Consumer Digital Bank in Mozambique 2026 and Overall Best Corporate Digital Bank in Mozambique 2026 awards, as part of the World’s Best Digital…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T10:44:26+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-global-finance-once-again-recognises-millennium-bim-for-excellence-in-digital-banking/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-global-finance-once-again-recognises-millennium-bim-for-excellence-in-digital-banking/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c9b34e5a3b",
-      "title": "‘I was born in South Africa’, says beauty queen facing legal bid to deport her",
-      "summary": "Beauty queen Chidimma Adetshina, who is facing deportation from South Africa, has reiterated that she was born in the country and believes she has been “treated unfairly and targeted”. South African officials want her detained as they pursue her deportation after she was declared a prohibited person in 2024. Adetshina, 25, whose mother has Mozambican…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T10:43:00+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/i-was-born-in-south-africa-says-beauty-queen-facing-legal-bid-to-deport-her/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/i-was-born-in-south-africa-says-beauty-queen-facing-legal-bid-to-deport-her/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "5edb43b5dd",
       "title": "Driver Jailed 15 Years for Attempted Robbery",
       "summary": "[Ghanaian Times] An Accra Circuit Court has sentenced a 32-year-old driver, Emmanuel Akpatsa, to 15 years' imprisonment for unlawful entry and attempting to rob his former employer.",
@@ -6492,38 +6395,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200296.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "349376e927",
-      "title": "Sénégal–FMI : Diba, Sarr, Touré face à Vera Martin, les 7 dossiers d’une négociation décisive …",
-      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-20T10:30:16+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/08/20/senegal-fmi-diba-sarr-toure-face-a-vera-martin-les-7-dossiers-dune-negociation-decisive/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/08/20/senegal-fmi-diba-sarr-toure-face-a-vera-martin-les-7-dossiers-dune-negociation-decisive/"
         }
       ],
       "confirmation_count": 1
@@ -7329,6 +7200,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "1a2277678e",
+      "title": "Why It's Necessary for Cross River to Continue Engaging Federal Government - Official",
+      "summary": "[Premium Times] The official was reacting to recent criticisms by Alphonsus Eba, the deputy governorship candidate of the Peoples Democratic Party (PDP) in Cross River, who said that Governor Otu hardly stayed in the state.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T07:18:25+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200212.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200212.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "612c2675f6",
+      "title": "'My Marriage Ended in 2024' - Bashir El-Rufai's Ex-Wife Opens Up On Divorce, Single Motherhood",
+      "summary": "[Premium Times] She reflects on becoming a single mother to twin boys, her doubts about marriage, finding love again after her divorce and suffering another heartbreak.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T07:18:25+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200213.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200213.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "c2d316d88f",
       "title": "Bah Oury : « Il n’y a pas de régime militaire caché en Guinée »",
       "summary": "Deux ans et demi après sa nomination, la page de la transition désormais tournée, le Premier ministre guinéen a fait sien le discours de Mamadi Doumbouya. Sans nuances. Reconduit à la tête du gouvernement, il revient sur la place de l’opposition, les disparitions, les priorités de l’exécutif et l’avenir du pays.",
@@ -7457,38 +7392,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "30cd484a9f",
-      "title": "Tinubu Orders Preparation of Nigeria's Five-Year Security Threat Assessment, Defence Plan",
-      "summary": "[Premium Times] The president's Special Adviser on Homeland Security, Adeyinka Famadewa, will coordinate and provide secretariat support for the 11-man committee.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T06:31:42+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200183.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200183.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "63216e0d11",
       "title": "Nigeria's APC in major election scare ahead of 2027 vote",
       "summary": "A key election in Osun state ended in defeat for President Tinubu's APC - but the ruling party is spinning it as a win for democracy.",
@@ -7612,38 +7515,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200167.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "bf85b71c28",
-      "title": "'Chidimma, Go Home' - South Africans Protest Outside Court As Beauty Queen Battles Immigration Case",
-      "summary": "[Leadership] South Africans took to the streets in Cape Town on Wednesday, August 19, demanding that Nigerian beauty queen Chidimma Adetshina leave the country as her legal battle over her immigration status came before the Cape Town Regional Court.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T05:48:09+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200157.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200157.html"
         }
       ],
       "confirmation_count": 1
@@ -9729,6 +9600,102 @@
       "confirmation_count": 1
     },
     {
+      "id": "79647d37e7",
+      "title": "Burundi : le budget général face aux défis du terrain",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "BDI",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-18T13:32:13+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/08/18/burundi-le-budget-general-face-aux-defis-du-terrain/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/08/18/burundi-le-budget-general-face-aux-defis-du-terrain/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5cc0169f27",
+      "title": "Exclusif : Emmanuel Macron attendu à Cotonou",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "BEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-18T13:20:38+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/08/18/exclusif-emmanuel-macron-attendu-a-cotonou/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/08/18/exclusif-emmanuel-macron-attendu-a-cotonou/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4efaa928ca",
+      "title": "Guinée équatoriale : l’Etat durcit le contrôle des recettes non pétrolières",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-18T13:15:49+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/08/18/guinee-equatoriale-letat-durcit-le-controle-des-recettes-non-petrolieres/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/08/18/guinee-equatoriale-letat-durcit-le-controle-des-recettes-non-petrolieres/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "0fa9d1401e",
       "title": "CJID Opens 2026 Awards to Reporters and Editors, Introduces Human Rights Category.",
       "summary": "[CJID] 18 August, 2026 - Abuja, Nigeria",
@@ -9950,6 +9917,38 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608180341.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f8faad19bf",
+      "title": "Togo : Faure Gnassingbé refonde le haut commandement militaire avec un vaste remaniement",
+      "summary": "Au Togo, le président du Conseil, Faure Gnassingbé, a procédé à un vaste remaniement au sommet des Forces armées togolaises (FAT) et de plusieurs agences stratégiques de l’État. Ce, à travers une série de huit décrets publiés dans la soirée du lundi 17 aout, lesquels redessinent la chaîne de commandement militaire, du renseignement et de l’aviation civile, dans un contexte sécuritaire toujours tendu au nord du pays.\nUn nouveau patron pour les armées\nAu cœur de ce…",
+      "country": "TGO",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-18T10:11:40+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/08/18/togo-faure-gnassingbe-refonde-le-haut-commandement-militaire-avec-un-vaste-remaniement/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/08/18/togo-faure-gnassingbe-refonde-le-haut-commandement-militaire-avec-un-vaste-remaniement/"
         }
       ],
       "confirmation_count": 1
