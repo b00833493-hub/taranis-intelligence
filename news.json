@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-20T04:52:54.937699+00:00",
+  "generated_at": "2026-08-20T05:46:19.660720+00:00",
   "stats": {
-    "total_signals": 453,
-    "verified_signals": 9,
+    "total_signals": 454,
+    "verified_signals": 10,
     "countries_covered": 23,
     "sources_active": 40,
     "per_country": {
-      "KEN": 61,
+      "ETH": 40,
+      "MLI": 21,
+      "KEN": 60,
       "GIN": 5,
       "MOZ": 42,
       "NGA": 70,
       "SOM": 9,
-      "ETH": 40,
       "TZA": 33,
       "CIV": 21,
       "GHA": 39,
-      "SEN": 40,
+      "SEN": 41,
       "UGA": 35,
-      "MLI": 20,
-      "SSD": 5,
+      "SSD": 4,
+      "RWA": 5,
       "BEN": 3,
       "LBR": 5,
       "MDG": 3,
-      "RWA": 4,
       "TGO": 3,
       "GNB": 3,
       "CPV": 1,
@@ -30,8 +30,8 @@
       "BDI": 3,
       "GMB": 1
     },
-    "west_signals": 211,
-    "east_signals": 242
+    "west_signals": 213,
+    "east_signals": 241
   },
   "sources": [
     {
@@ -277,14 +277,110 @@
   ],
   "signals": [
     {
+      "id": "4c36e00f06",
+      "title": "Chinese Firms Dominate Shortlist for Ethiopia's $12.5 Billion Bishoftu Airport Project",
+      "summary": "[Addis Standard] Addis Abeba -- Chinese companies or joint ventures involving Chinese firms account for the majority of shortlisted bidders competing for the construction of Ethiopia's forthcoming USD12.5 billion Bishoftu International Airport, according to aviation intelligence provider and  news portal ch-aviation.",
+      "country": "ETH",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:31:45+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200135.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200135.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "92285d7076",
+      "title": "Ethiopia's Birr Hits Record Low Despite Billions Spent to Support Currency",
+      "summary": "[Addis Standard] Addis Abeba -- Ethiopia's birr has fallen to a record low against the US dollar despite the central bank spending about $2.2 billion this year to support the currency, Bloomberg reported, as rising import costs and strong demand for foreign currency continue to put pressure on the exchange rate.",
+      "country": "ETH",
+      "category": "MACRO",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:31:44+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200133.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200133.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "fa1e7fffc3",
+      "title": "Russia's 'Africa Corps' Massacres Villagers",
+      "summary": "[HRW] Nairobi -- 9 Civilians Killed, Homes Burned in Islamist Armed Group-Held Village",
+      "country": "MLI",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-20T05:29:29+00:00",
+      "lead_source": {
+        "id": "aa-mli",
+        "name": "AllAfrica · Mali",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200131.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-mli",
+          "name": "AllAfrica · Mali",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200131.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "db3362caea",
       "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
       "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
       "country": "KEN",
       "category": "AUTRE",
       "severity": 4,
-      "credibility": 2,
-      "verified": false,
+      "credibility": 4,
+      "verified": true,
       "theme": null,
       "legal_status": null,
       "regulatory": false,
@@ -304,9 +400,15 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200142.html"
         }
       ],
-      "confirmation_count": 1
+      "confirmation_count": 2
     },
     {
       "id": "60700bff90",
@@ -1411,6 +1513,166 @@
       "confirmation_count": 2
     },
     {
+      "id": "93e15a0485",
+      "title": "From 40% to the 90s - How Kemsa Is Rewriting Kenya's Health Supply Chain",
+      "summary": "[Capital FM] Nairobi -- The Kenya Medical Supplies Authority (KEMSA) has raised its order fill rate from about 40 per cent in 2022 to more than 90 per cent, marking a significant turnaround in the availability of medicines and health products in public health facilities.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "FINANCING",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:36:08+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200143.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200143.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8e83c2b594",
+      "title": "MPs Demand Action As Political Goonism Threatens Public Gatherings",
+      "summary": "[Capital FM] Nairobi -- A section of National Assembly members has raised the alarm over the growing use of organised groups to disrupt political rallies, funerals and other lawful public gatherings, warning that political goonism is threatening citizens' constitutional freedoms and could fuel violence ahead of the 2027 General Election.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "FINANCING",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:36:01+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200137.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200137.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9d55cb4ee7",
+      "title": "MSF Expands Healthcare Response in Oromia's Wollega Zones Amid Critical Service Gaps",
+      "summary": "[Addis Standard] Addis Abeba -- Médecins Sans Frontières (MSF), also known as Doctors Without Borders, has launched a comprehensive primary and secondary healthcare support program in Ethiopia's East and West Wollega zones, seeking to restore access to essential services in areas where conflict, displacement, disease outbreaks and damaged health infrastructure have left communities with significant unmet needs.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:31:44+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200134.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200134.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8315a1cc5e",
+      "title": "Housing Finance Bank to Lead Real Estate and Infrastructure Dialogue in Mbarara",
+      "summary": "[Nile Post] Mbarara is positioning itself as a key market for property and infrastructure investment in Western Uganda, driven by population growth, expanding commercial activity and its role as a business hub for the wider Ankole region.",
+      "country": "UGA",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:29:28+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200129.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200129.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5e0345ae72",
+      "title": "Police Fire Shots As Kyebando Residents Protest Disputed Village Election Results",
+      "summary": "[Nile Post] Police in Wakiso District fired shots into the air and onto the ground on Wednesday to disperse angry residents of Kyebando in Mumyuka Sub-County who attempted to occupy an office they claimed was being used by a village chairperson who fraudulently won the recent election.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:27:09+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200124.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200124.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "68d12f3b3d",
       "title": "Govt to Pay All Medical Interns Shs1.2m Monthly",
       "summary": "[Nile Post] Government has resolved to continue facilitating all medical interns with Shs1.2 million per month, subject to tax, as Cabinet undertakes a wider review of the policy governing internship training in the health sector.",
@@ -1470,38 +1732,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200077.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f1a4e3ba94",
-      "title": "Gilbert Agaba Among Top URSB Bosses Sent On Mandatory Leave",
-      "summary": "[Nile Post] Justice and Constitutional Affairs Minister Norbert Mao has placed Uganda Registration Services Bureau (URSB) Commissioner for Registration Services Gilbert Agaba on mandatory leave, bringing him into the widening government investigation that has engulfed the agency's top management.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T03:00:54+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200072.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200072.html"
         }
       ],
       "confirmation_count": 1
@@ -3187,6 +3417,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "0777bacf15",
+      "title": "Rwanda FDA chief arrested amid crackdown on illicit liquors",
+      "summary": "Emile Bienvenu is being investigated for allegedly providing documents without complying with...",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-14T18:45:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-fda-chief-arrested-amid-crackdown-on-illicit-liquors-5558206"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-fda-chief-arrested-amid-crackdown-on-illicit-liquors-5558206"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "609e537dab",
       "title": "State, Determinants, Dynamics, and Fate of Media and Free Expression Rights in Burkina Faso, Mali, Niger and Guinea",
       "summary": "[MFWA] This report examines the state of press freedom and freedom of expression in Burkina Faso, Mali, Niger and Guinea, four West African countries under military-led governments that have experienced coups since 2021.",
@@ -4021,70 +4283,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "7e7932ddbd",
-      "title": "Uganda Signs Agreement to Establish UNODC Office in Kampala",
-      "summary": "[Nile Post] The Ministry of Foreign Affairs of the Republic of Uganda today hosted the United Nations Office on Drugs and Crime (UNODC) at its headquarters in Kampala, where Uganda and UNODC signed a Host Country Agreement for the establishment of a UNODC office in Uganda.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T03:00:54+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200073.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200073.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "13af24c87d",
-      "title": "Mercy Kainobwisho's Strategic Reforms At URSB Put Registration Mafias &#x26;amp; Night Dancers On Notice",
-      "summary": "[Nile Post] - For years, Uganda's registration environment carried the burden of slow processes, fragmented systems, weak transparency and the possibility of abuse by individuals seeking to manipulate corporate and registration records.",
-      "country": "UGA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T03:00:53+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200071.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200071.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "63d3d82e45",
       "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
       "summary": "Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.",
@@ -4616,38 +4814,6 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/afrique/20260819-madagascar-annonce-le-d%C3%A9mant%C3%A8lement-d-un-r%C3%A9seau-de-falsification-de-dipl%C3%B4mes"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "2cd7d19995",
-      "title": "Maraga Issues Seven-Day Ultimatum to Ruto Over Police Reforms Report",
-      "summary": "[Capital FM] Nairobi -- Former Chief Justice David Maraga has given President William Ruto seven days to release the complete and unedited report of the National Taskforce on Police Reforms, warning that he will publish it himself if the President fails to do so.",
-      "country": "KEN",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T05:28:19+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190118.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190118.html"
         }
       ],
       "confirmation_count": 1
@@ -5203,6 +5369,326 @@
       "confirmation_count": 1
     },
     {
+      "id": "0ec9577631",
+      "title": "Obiri, Kipruto to Defend New York Marathon Titles Amid Tough Competition",
+      "summary": "[Capital FM] NAIROBI, Kenya, August 19, 2026 - Kenya's Benson Kipruto and Hellen Obiri will return to defend their New York Marathon titles at this year's edition, set for November 1.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:36:05+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200141.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200141.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "30f3ce5343",
+      "title": "MPs Demand Crackdown On Rogue Auctioneers Accused of Using Goons to Intimidate Kenyans",
+      "summary": "[Capital FM] Nairobi -- Members of Parliament have called for tougher action against rogue auctioneers accused of using goons and excessive force to seize property, warning that weak enforcement and inadequate penalties are leaving Kenyans vulnerable to intimidation, abuse and financial losses.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:36:04+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200139.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200139.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0fdc6352d8",
+      "title": "Kindiki Sets August 2027 Target for Universal SHA Registration",
+      "summary": "[Capital FM] Nairobi -- The government will intensify efforts to register all Kenyans under the Social Health Authority (SHA) to ensure universal access to healthcare through the Taifa Care programme, Deputy President Kithure Kindiki has said.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:36:03+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200138.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200138.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "37d6f32557",
+      "title": "Track Queen Faith Kipyegon Reveals Heartbreaking Update On Hamstring Injury",
+      "summary": "[Capital FM] NAIROBI, Kenya, August 19, 2026 - Triple Olympic champion Faith Kipyegon has revealed she will be out of action for a longer spell than initially anticipated due to a hamstring injury.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:36:01+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200136.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200136.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "68ab99efb4",
+      "title": "Judge Allows Trump Administration to End TPS Protection for Ethiopians",
+      "summary": "[Addis Standard] Addis Abeba -- A US federal judge has ruled that the administration of President Donald Trump can terminate Temporary Protected Status (TPS) for more than 5,000 Ethiopians, clearing the way for their potential deportation despite concerns over security and humanitarian conditions in Ethiopia.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:31:44+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200132.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200132.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "72a0cc6348",
+      "title": "Museveni Tells Isingiro Residents to Turn Political Victory Into Economic Gains",
+      "summary": "[Nile Post] President Museveni has urged residents of Isingiro District to turn their political support for the National Resistance Movement (NRM) into tangible economic gains by embracing government wealth-creation programmes and working to improve household incomes.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:29:27+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200128.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200128.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1ea9ca3432",
+      "title": "Judiciary, UN Drugs &#x26;amp; Crime Office Move to Deepen Cooperation On Case Backlog, Prison Decongestion",
+      "summary": "[Nile Post] The Judiciary and the United Nations Office on Drugs and Crime (UNODC) are seeking to strengthen cooperation on reducing case backlog, decongesting prisons and improving access to justice.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:29:26+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200127.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200127.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0afed60682",
+      "title": "Besigye Discussed How He Would Take Power in Athens, Witness Tells Court",
+      "summary": "[Nile Post] Prosecution witness Andrew Wilson Orlando has told court that the finer details of an alleged plan by Dr Kizza Besigye and his associates to seize power were discussed during a meeting in Athens on September 28, 2024.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:27:10+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200125.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200125.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ddacfdd97e",
+      "title": "MP Nyakato Urges Busunju-Kiboga-Hoima Road Contractor to Expedite Works",
+      "summary": "[Nile Post] Hoima City Woman MP Asinansi Nyakato has urged the contractor rehabilitating the 145-kilometre Busunju-Kiboga-Hoima road to accelerate works and ensure the project is completed within the agreed timeframe.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:27:10+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200126.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200126.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4fefef3ab8",
+      "title": "Senegal opposition presses president to set local election date",
+      "summary": "Senegal’s opposition is urging President Bassirou Diomaye Faye to set a date for local elections, turning the vote into a potential early showdown with former ally Ousmane Sonko.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T04:58:24+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/08/20/senegal-opposition-presses-president-to-set-local-election-date/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/08/20/senegal-opposition-presses-president-to-set-local-election-date/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "5565d3192d",
       "title": "V&#x26;amp;A Sherry Backs Kenneth Mugabi's 10-Year Music Journey",
       "summary": "[Nile Post] V&amp;A Sherry has partnered with singer-songwriter Kenneth Mugabi as he prepares to celebrate 10 years in the music industry with a concert that will also mark his birthday.",
@@ -5358,136 +5844,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200074.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e67addbc16",
-      "title": "NCHE Reviews 700 University Programmes As Uganda Shifts to Competence-Based Education",
-      "summary": "[Nile Post] The National Council for Higher Education (NCHE) has begun reviewing 700 higher education programmes as Uganda moves to a competence-based education system aimed at equipping graduates with practical skills for the workplace.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T03:00:53+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200070.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200070.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "64d2734dea",
-      "title": "22 Arrested in Nakaseke Over Illegal Wildlife Possession",
-      "summary": "[Nile Post] Police in Nakaseke District have arrested 22 people after they were intercepted transporting suspected wildlife products and hunting equipment during a night operation at Mijumwa Trading Centre.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T03:00:52+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200069.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200069.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b386e5799c",
-      "title": "Balaam Warns Local Governments Over Misuse of Conditional Grants",
-      "summary": "[Nile Post] Local Government Minister Balaam Barugahara has warned officials against the misuse, diversion and theft of conditional grants, saying corruption is undermining the delivery of essential public services to Ugandans.",
-      "country": "UGA",
-      "category": "FINANCING",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "GRANT"
-      ],
-      "lang": "en",
-      "published": "2026-08-20T03:00:49+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200068.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200068.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d71cd7f734",
-      "title": "Kosti Ngai: South Sudan’s liberation hero who chose cleaner path in sea of corruption",
-      "summary": "Kosti is evidence that South Sudan's failure was not inevitable.",
-      "country": "SSD",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T03:00:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/kosti-ngai-south-sudan-liberation-hero-5563384"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/kosti-ngai-south-sudan-liberation-hero-5563384"
         }
       ],
       "confirmation_count": 1
@@ -6933,38 +7289,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "1c78823a1a",
-      "title": "Egypt's Aggressive Nile Policy No Longer Serves the Region",
-      "summary": "[Reporter] The Blue Nile water policy maintained by Cairo is a manifestation of an outdated, rigid, and aggressive posture that defies modern standards of international cooperation. While the river has sustained civilizations for millennia across the Horn and Northeast Africa, modern geopolitics have transformed this natural gift into a persistent arena of contention. At the center of this tension lies Egypt's historical water policy--a framework defined not by equity,…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T12:18:28+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190464.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190464.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "c92751c15a",
       "title": "EU Rights Report Calls Out Stalled Transitional Justice Process",
       "summary": "[Reporter] The European Union highlights conflict-related abuses and humanitarian restrictions linked to the continued presence of Eritrean forces in northern Ethiopia as major concerns, while reporting that Ethiopia's transitional justice process has stalled despite the government's approval of a national policy and roadmap.",
@@ -6992,102 +7316,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608190457.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "054a323a4e",
-      "title": "Ethiopia's Nominal GDP Dropped By USD 50bln After Floating - EU Chamber Report",
-      "summary": "[Reporter] Forecasts single-digit inflation ambitions out of reach this year",
-      "country": "ETH",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T12:15:37+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190451.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190451.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "5266c1da5e",
-      "title": "Over 80 Percent of Health Facilities in Conflict-Affected African Regions Crippled, New Report Reveals",
-      "summary": "[Reporter] A newly released joint report by the Institute for Peace and Security Studies (IPSS) and the United Nations Population Fund (UNFPA) reveals that up to 80 percent of health facilities in conflict-affected areas across Africa have been rendered non-operational due to widespread infrastructural destruction.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "OPERATIONAL",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T12:14:55+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190450.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190450.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "2d9042626b",
-      "title": "Saudi Deportations Double As Migrant Protection Concerns Mount",
-      "summary": "[Reporter] The Kingdom of Saudi Arabia deported 26,400 Ethiopians over the first three months of 2026, more than doubling the number recorded during the same period last year as concerns continue to mount over the safety and treatment of Ethiopian migrants along the route to the Gulf country.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T12:13:35+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190448.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190448.html"
         }
       ],
       "confirmation_count": 1
@@ -8471,6 +8699,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "2603ea7cd1",
+      "title": "FCT Residents Battle Poor Connectivity, Water Scarcity",
+      "summary": "[Daily Trust] In Kundu, a rural community in Kwali Area Council of the Federal Capital Territory, getting a mobile phone signal is not as simple as making a call.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-19T07:31:09+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608190169.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608190169.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b0e93428f8",
       "title": "James Agalga Thanks Ghanaians for Confidence After Election As Majority Leader",
       "summary": "[Ghanaian Times] Majority Leader of Parliament, James Agalga, has expressed gratitude to Ghanaians for the confidence reposed in him following his elevation to the position.",
@@ -8663,134 +8923,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "2a5e0104c6",
-      "title": "'They Are Coming for You' - Gachagua Warns Oburu As ODM Leadership Fued Deepens",
-      "summary": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has escalated his criticism of Orange Democratic Movement (ODM) leader Oburu Oginga, questioning the veteran politician's capacity to lead the party as a wider battle for control of the opposition outfit takes shape ahead of the 2027 General Election.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T05:28:23+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190126.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190126.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "08493e45db",
-      "title": "NCIC Summons Gachagua Over Public Utterances, Warns of Arrest",
-      "summary": "[Capital FM] Nairobi -- The National Cohesion and Integration Commission (NCIC) has summoned former Deputy President Rigathi Gachagua to appear before it over a series of utterances made at different public forums.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T05:28:23+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190127.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190127.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "5f8d8b39b8",
-      "title": "Government Moves to Fast-Track Mau Summit-Eldoret-Malaba Road Project",
-      "summary": "[Capital FM] Nairobi -- The government has stepped up preparations for the construction of the Mau Summit-Eldoret-Malaba road, with a high-level inter-agency committee directing state agencies to urgently resolve outstanding issues ahead of the project's commencement.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T05:28:22+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190124.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190124.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "48f462de64",
-      "title": "Kaluma to NCIC - Give Me the Correct Transcript Before I Appear",
-      "summary": "[Capital FM] Nairobi -- Homa Bay Town MP George Kaluma has challenged a summons issued by the National Cohesion and Integration Commission (NCIC), disputing the transcription and translation of remarks attributed to him and asking the commission to provide what he termed the correct version before he responds.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T05:28:21+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190122.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190122.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "3cf7846b3f",
       "title": "Samia Suluhu Hassan Hails Hichilema's Zambia Re-Election Victory",
       "summary": "[Daily News] Dar es Salaam -- PRESIDENT Samia Suluhu Hassan has congratulated Zambia's President-elect Hakainde Hichilema on his re-election, saying the result reflects the confidence Zambians have placed in his leadership.",
@@ -8914,70 +9046,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608190117.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "2787c19c99",
-      "title": "Methu Dismisses Nyoro's Outfit As 'Wheelbarrow Party' Amid Opposition Realignment",
-      "summary": "[Capital FM] Nairobi -- Democratic Congress Party (DCP) deputy party leader John Methu has dismissed Kiharu MP Ndindi Nyoro's newly unveiled political vehicle as another \"wheelbarrow\", as the former President William Ruto ally steps up efforts to build an opposition movement ahead of the 2027 General Election.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T05:28:16+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190113.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190113.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "0d41b3d11a",
-      "title": "Irungu Nyakera Shifts Focus From Nairobi Governor Race to Makadara MP Seat",
-      "summary": "[Capital FM] Nairobi -- Former Treasury Principal Secretary Irungu Nyakera has abandoned his bid for the Nairobi gubernatorial seat and will instead seek to become the next Member of Parliament for Makadara Constituency on a Democratic Congress Party (DCP) ticket.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T05:28:16+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190114.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190114.html"
         }
       ],
       "confirmation_count": 1
@@ -9170,38 +9238,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608190103.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e2500e71b6",
-      "title": "Social Media Influencer Arrested in Lagos Over Alleged Cocaine Ring",
-      "summary": "[This Day] The National Drug Law Enforcement Agency (NDLEA) has broken up an international cocaine trafficking ring that used Nigeria as a transit point for shipments bound for the United Kingdom, other parts of Europe, and Asia, arresting the syndicate's Nigerian ringleader as he tried to leave the country.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T05:19:41+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190100.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190100.html"
         }
       ],
       "confirmation_count": 1
