@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-08-20T09:50:30.256819+00:00",
+  "generated_at": "2026-08-20T10:46:47.631364+00:00",
   "stats": {
-    "total_signals": 446,
-    "verified_signals": 8,
+    "total_signals": 444,
+    "verified_signals": 9,
     "countries_covered": 23,
     "sources_active": 40,
     "per_country": {
-      "NGA": 66,
-      "MOZ": 42,
       "KEN": 58,
+      "GHA": 37,
+      "MOZ": 44,
+      "NGA": 64,
       "UGA": 35,
       "ETH": 40,
       "MLI": 18,
@@ -16,22 +17,21 @@
       "SOM": 7,
       "TZA": 33,
       "CIV": 21,
-      "GHA": 38,
       "SEN": 43,
-      "LBR": 7,
       "SSD": 5,
+      "LBR": 7,
       "RWA": 5,
       "MDG": 2,
       "TGO": 3,
       "GNB": 3,
       "BEN": 2,
       "CPV": 1,
-      "MWI": 7,
+      "MWI": 6,
       "BDI": 3,
       "GMB": 1
     },
-    "west_signals": 209,
-    "east_signals": 237
+    "west_signals": 206,
+    "east_signals": 238
   },
   "sources": [
     {
@@ -276,6 +276,172 @@
     }
   ],
   "signals": [
+    {
+      "id": "db3362caea",
+      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "summary": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:41:25+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200142.html"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
+      "id": "b3155b2cb9",
+      "title": "Govt Pays Gh&#xA2;10.8bn to Ddep Bondholders",
+      "summary": "[Ghanaian Times] The government has paid GH¢10.8 billion to bondholders under the Domestic Debt Exchange Programme (DDEP), bringing the total amount paid in fulfilment of its obligations to GH¢41.36 billion since 2025.",
+      "country": "GHA",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:28:42+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200294.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200294.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ca80052b2b",
+      "title": "Absa Mozambique profits rise 29.6% YoY to 1.094bn meticais in H1",
+      "summary": "The profits of Absa Bank Mozambique, one of the country’s five largest banks, rose 29.6% year on year in the first half of the year to 1.094 billion meticais (€15 million). According to the bank’s interim financial statements, to which Lusa had access today, net profit stood at 1.094 billion meticais (€15 million), compared with…\nSource",
+      "country": "MOZ",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:24:15+00:00",
+      "lead_source": {
+        "id": "club-moz",
+        "name": "Club of Mozambique",
+        "tier": 2,
+        "url": "https://clubofmozambique.com/news/absa-mozambique-profits-rise-29-6-yoy-to-1-094bn-meticais-in-h1/"
+      },
+      "confirming_sources": [
+        {
+          "id": "club-moz",
+          "name": "Club of Mozambique",
+          "tier": 2,
+          "url": "https://clubofmozambique.com/news/absa-mozambique-profits-rise-29-6-yoy-to-1-094bn-meticais-in-h1/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0d6edabad0",
+      "title": "Mozambique to nearly triple public investment allocation to 34.7bn meticais by 2029",
+      "summary": "The Mozambican Government plans to nearly triple the amount of allocable domestic public investment by 2029, to 34.7 billion meticais (€475 million), with the largest share going to infrastructure, according to data compiled by Lusa today. The new Medium-Term Fiscal Framework (CFMP), a document recently approved by the Council of Ministers as part of the…\nSource",
+      "country": "MOZ",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:12:46+00:00",
+      "lead_source": {
+        "id": "club-moz",
+        "name": "Club of Mozambique",
+        "tier": 2,
+        "url": "https://clubofmozambique.com/news/mozambique-to-nearly-triple-public-investment-allocation-to-34-7bn-meticais-by-2029/"
+      },
+      "confirming_sources": [
+        {
+          "id": "club-moz",
+          "name": "Club of Mozambique",
+          "tier": 2,
+          "url": "https://clubofmozambique.com/news/mozambique-to-nearly-triple-public-investment-allocation-to-34-7bn-meticais-by-2029/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3417275ffb",
+      "title": "Malawi's Power Crisis Deepens As Mozambique Lifeline Misses Third Deadline",
+      "summary": "[Nyasa Times] Malawi is entering yet another dark chapter in its electricity crisis. The much-touted Mozambique-Malawi Interconnection Project, meant to inject urgently needed power into the national grid, has missed its third commissioning deadline.",
+      "country": "MOZ",
+      "category": "RENEWABLE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:12:11+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200278.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200278.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "484b8375af",
       "title": "Military Moves Plateau Headquarters After Killings",
@@ -535,38 +701,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "870b4f60eb",
-      "title": "Ecuador Intelligence Chief, Wife Among Seven Killed in Samburu Helicopter Crash",
-      "summary": "[Capital FM] Nairobi -- Ecuador's intelligence chief Michele Sensi-Contugi and his wife, Stephany Hollihan Vasconez, were among seven people killed when a helicopter crashed at Mt Ololokwe in Samburu County on Wednesday.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T05:36:08+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200142.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200142.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "4c36e00f06",
       "title": "Chinese Firms Dominate Shortlist for Ethiopia's $12.5 Billion Bishoftu Airport Project",
       "summary": "[Addis Standard] Addis Abeba -- Chinese companies or joint ventures involving Chinese firms account for the majority of shortlisted bidders competing for the construction of Ethiopia's forthcoming USD12.5 billion Bishoftu International Airport, according to aviation intelligence provider and  news portal ch-aviation.",
@@ -661,44 +795,6 @@
         }
       ],
       "confirmation_count": 1
-    },
-    {
-      "id": "db3362caea",
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 4,
-      "verified": true,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T21:32:15+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/kenya-tourist-helicopter-crash-kills-7-including-americans-and-ecuador-security-chief/"
-        }
-      ],
-      "confirmation_count": 2
     },
     {
       "id": "60700bff90",
@@ -1515,6 +1611,70 @@
       "confirmation_count": 2
     },
     {
+      "id": "be1e9a4cd1",
+      "title": "Expedition strengthens knowledge of Mozambique’s fisheries resources",
+      "summary": "A scientific expedition aboard the Norwegian research vessel Dr Fridtjof Nansen is strengthening knowledge of Mozambique’s marine biodiversity and fisheries potential by collecting data on biomass, species distribution and the state of marine ecosystems. The results of the first stage of the expedition and the launch of the mission’s second phase were presented on Wednesday,…\nSource",
+      "country": "MOZ",
+      "category": "RENEWABLE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": "BIOMASS",
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:34:44+00:00",
+      "lead_source": {
+        "id": "club-moz",
+        "name": "Club of Mozambique",
+        "tier": 2,
+        "url": "https://clubofmozambique.com/news/expedition-strengthens-knowledge-of-mozambiques-fisheries-resources/"
+      },
+      "confirming_sources": [
+        {
+          "id": "club-moz",
+          "name": "Club of Mozambique",
+          "tier": 2,
+          "url": "https://clubofmozambique.com/news/expedition-strengthens-knowledge-of-mozambiques-fisheries-resources/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "bf566829b9",
+      "title": "Co-Op Bank to Sell Sony Sugar Property Over Sh862mn Debt",
+      "summary": "[Capital FM] Nairobi -- Co-operative Bank of Kenya has issued a 40-day statutory notice indicating its intention to sell a property belonging to South Nyanza Sugar Company (Sony Sugar) over an outstanding debt of Sh862.3 million.",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T09:50:57+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200254.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200254.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "e907ad08d6",
       "title": "Nigéria : la campagne pour la présidentielle de 2027 officiellement lancée",
       "summary": "Le Nigeria ouvre officiellement la campagne présidentielle. Dans cinq mois, le pays le plus peuplé d’Afrique élira son prochain président, sur fond d’inflation, de difficultés économiques et de violences liées aux groupes criminels et terroristes.",
@@ -1574,38 +1734,6 @@
           "name": "TheCable Nigeria",
           "tier": 2,
           "url": "https://www.thecable.ng/nuprc-deep-offshore-tax-order-to-unlock-50bn-investment-add-1m-bpd-to-production/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "061030df58",
-      "title": "Former Liberian vice president charged in transnational drug probe",
-      "summary": "Liberia has charged former Vice President Jewel Howard-Taylor with drug trafficking, money laundering and related offences in an investigation into an alleged transnational narcotics network.",
-      "country": "LBR",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T08:53:46+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/08/20/former-liberian-vice-president-charged-in-transnational-drug-probe/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/08/20/former-liberian-vice-president-charged-in-transnational-drug-probe/"
         }
       ],
       "confirmation_count": 1
@@ -1766,38 +1894,6 @@
           "name": "Club of Mozambique",
           "tier": 2,
           "url": "https://clubofmozambique.com/news/1/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9485e0b79d",
-      "title": "Prince Harry and Meghan are returning to the UK with their children",
-      "summary": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won’t resume their roles as working members of the royal family, The Associated Press learned Wednesday. The couple’s children, Prince Archie, 7, and Princess Lilibet, 5, have already enrolled at British schools…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T06:44:50+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/prince-harry-and-meghan-are-returning-to-the-uk-with-their-children/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/prince-harry-and-meghan-are-returning-to-the-uk-with-their-children/"
         }
       ],
       "confirmation_count": 1
@@ -2118,38 +2214,6 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20260819-l-industrie-musicale-africaine-mdundo-une-plateforme-africaine-pour-mieux-r%C3%A9mun%C3%A9rer-les-artistes-4-10"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "5ac750a53f",
-      "title": "Two accused of drug trafficking after UK-Nigeria investigation",
-      "summary": "The Metropolitan Police say the man and woman were arrested following the seizure of more than 180kg (397lb) of cocaine this month.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T19:59:06+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/c77gpz8nd11o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/c77gpz8nd11o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "confirmation_count": 1
@@ -3117,38 +3181,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "cfcc395c9c",
-      "title": "GIPA Seeks Parliament's Backing for Investment Reforms",
-      "summary": "[Ghanaian Times] The Parliamentary Select Committee on Trade, Industry and Tourism has commended the Ghana Investment Promotion Authority (GIPA) for its efforts to attract quality investments into the country and pledged its support for reforms aimed at strengthening the investment climate.",
-      "country": "GHA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-18T08:45:15+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608180225.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608180225.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "bd6e9c3178",
       "title": "Rehabilitation of Ressano Garcia Border Post Budgeted At 980 Million",
       "summary": "[AIM] Maputo -- The Mozambican Minister of Transport and Logistics, João Matlombe, on Monday laid the first stone for the rehabilitation of Ressano Garcia One-Stop Border Post, which is budgeted at 980 million meticais (14.9 million dollars at the current exchange rate).",
@@ -3599,38 +3631,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "99b53a0cd5",
-      "title": "Govt to Review Over 1,000 Laws to Attract Tech",
-      "summary": "[Daily News] Dar es Salaam -- THE government plans to review more than 1,000 laws to create a regulatory framework capable of supporting artificial intelligence, digital commerce and technologydriven investment as it seeks to make Tanzania's economy more competitive.",
-      "country": "TZA",
-      "category": "MACRO",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-12T10:03:59+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608120146.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608120146.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "6c3cf813a4",
       "title": "TVS Motor Launches iQube Electric Scooter In Kenya",
       "summary": "TVS Motor Company has launched its iQube electric scooter in Kenya, the Indian manufacturer’s first entry into the African market....\nSource",
@@ -3722,38 +3722,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608100314.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "eb017db274",
-      "title": "Mozambique Urged to Continue Investing in Water Revolving Fund",
-      "summary": "[AIM] Maputo, 10 (AIM) - Augusto Chipenembe, chairperson of Mozambique's public water company (AdeM), believes that the country must continue betting on the Water Revolving Fund because it enables low-income households to make connections by paying the associated costs in installments.",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-10T04:42:07+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608100022.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608100022.html"
         }
       ],
       "confirmation_count": 1
@@ -4241,6 +4209,108 @@
       "confirmation_count": 1
     },
     {
+      "id": "95a41f9521",
+      "title": "Ride-Hailing Price Increases Could Reshape Commuter Choices",
+      "summary": "[Capital FM] Nairobi -- Nearly half of ride-hailing users would turn to matatus if fares increase.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:18:51+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200288.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200288.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f263973b2f",
+      "title": "Former Liberian vice-president charged in drug-trafficking probe",
+      "summary": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+      "country": "LBR",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:11:26+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/08/20/former-liberian-vice-president-charged-in-transnational-drug-probe/"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
+      "id": "746c564f8b",
+      "title": "No, Nigerian Presidential Hopeful Peter Obi Didn't Say Soldiers Should Reject New Salary Increases",
+      "summary": "[Africa Check] IN SHORT: Several Facebook posts claim that politician and presidential aspirant Peter Obi urged Nigerian soldiers to reject the new salary increases until after the 2027 election. But Obi has dismissed the claim as \"entirely untrue\".",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T09:43:58+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200250.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200250.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "7152be5022",
       "title": "Adetshina’s deportation case adjorned as S’Africa protesters demand she returns to Nigeria",
       "summary": "Anti-migrant protesters gathered outside the Cape Town regional court on Wednesday as the trial of Chidimma Adetshina, the…\nThe post Adetshina’s deportation case adjorned as S’Africa protesters demand she returns to Nigeria appeared first on TheCable.",
@@ -4434,38 +4504,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200168.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "63d3d82e45",
-      "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
-      "summary": "Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T00:06:05+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -4740,38 +4778,6 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4ccbe1f1ba",
-      "title": "Ghana: Tema Port sharpens its edge against Abidjan and Lomé",
-      "summary": "As competition intensifies among West Africa’s ports, Ghana’s Tema facility is consolidating its position. This success, driven by container traffic growth, is spreading to its other business lines.",
-      "country": "GHA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T06:00:00+00:00",
-      "lead_source": {
-        "id": "africa-rep",
-        "name": "The Africa Report",
-        "tier": 2,
-        "url": "https://www.theafricareport.com/427862/ghana-tema-port-sharpens-its-edge-against-abidjan-and-lome/"
-      },
-      "confirming_sources": [
-        {
-          "id": "africa-rep",
-          "name": "The Africa Report",
-          "tier": 2,
-          "url": "https://www.theafricareport.com/427862/ghana-tema-port-sharpens-its-edge-against-abidjan-and-lome/"
         }
       ],
       "confirmation_count": 1
@@ -5327,6 +5333,390 @@
       "confirmation_count": 1
     },
     {
+      "id": "5e6b2c97eb",
+      "title": "Mozambique: Global Finance once again recognises Millennium bim for excellence in digital banking",
+      "summary": "New awards recognise the quality of the Bank’s digital solutions and reinforce a year of major international accolades for Millennium bim Millennium bim has been recognised by Global Finance with the Best Consumer Digital Bank in Mozambique 2026 and Overall Best Corporate Digital Bank in Mozambique 2026 awards, as part of the World’s Best Digital…\nSource",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:44:26+00:00",
+      "lead_source": {
+        "id": "club-moz",
+        "name": "Club of Mozambique",
+        "tier": 2,
+        "url": "https://clubofmozambique.com/news/mozambique-global-finance-once-again-recognises-millennium-bim-for-excellence-in-digital-banking/"
+      },
+      "confirming_sources": [
+        {
+          "id": "club-moz",
+          "name": "Club of Mozambique",
+          "tier": 2,
+          "url": "https://clubofmozambique.com/news/mozambique-global-finance-once-again-recognises-millennium-bim-for-excellence-in-digital-banking/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c9b34e5a3b",
+      "title": "‘I was born in South Africa’, says beauty queen facing legal bid to deport her",
+      "summary": "Beauty queen Chidimma Adetshina, who is facing deportation from South Africa, has reiterated that she was born in the country and believes she has been “treated unfairly and targeted”. South African officials want her detained as they pursue her deportation after she was declared a prohibited person in 2024. Adetshina, 25, whose mother has Mozambican…\nSource",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:43:00+00:00",
+      "lead_source": {
+        "id": "club-moz",
+        "name": "Club of Mozambique",
+        "tier": 2,
+        "url": "https://clubofmozambique.com/news/i-was-born-in-south-africa-says-beauty-queen-facing-legal-bid-to-deport-her/"
+      },
+      "confirming_sources": [
+        {
+          "id": "club-moz",
+          "name": "Club of Mozambique",
+          "tier": 2,
+          "url": "https://clubofmozambique.com/news/i-was-born-in-south-africa-says-beauty-queen-facing-legal-bid-to-deport-her/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5edb43b5dd",
+      "title": "Driver Jailed 15 Years for Attempted Robbery",
+      "summary": "[Ghanaian Times] An Accra Circuit Court has sentenced a 32-year-old driver, Emmanuel Akpatsa, to 15 years' imprisonment for unlawful entry and attempting to rob his former employer.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:30:43+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200296.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200296.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "037476a524",
+      "title": "Mahama to Inaugurate &#x20AC;10.2m Northshore Apparel Factory in Savelugu",
+      "summary": "[Ghanaian Times] President John Dramani Mahama is scheduled to officially inaugurate Northshore Apparel Ghana Limited in the Savelugu Municipality of the Northern Region on Friday, August 21, 2026.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:30:16+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200295.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200295.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "42f2ae22ea",
+      "title": "Govt Rallies Nation to Fight Youth Drug Abuse",
+      "summary": "[Ghanaian Times] The Minister of Youth Development and Empowerment, Mr George Opare Addo, has called for a concerted national effort to tackle drug abuse among the youth.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:28:16+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200293.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200293.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c7bc41bc1f",
+      "title": "Govt Seeks Urgent Measures On Cement Prices",
+      "summary": "[Daily News] Dodoma -- THE government has directed cement manufacturers to propose measures to address ongoing supply shortages and rising prices, in a bid to stabilise the market.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:27:47+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200292.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200292.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "fbed04e514",
+      "title": "Suspect Arrested Over Alleged Theft of More Than 600 Bikes",
+      "summary": "[Independent (Kampala)] Mbale -- Police in Mbale City have arrested a suspected motorcycle thief who allegedly confessed to stealing more than 600 motorcycles from the Sebei sub-region and neighbouring districts over the past two years. The suspect, identified as Victor Kiplangat alias Boyi, a resident of Mengya in Kween District, was arrested in Mbale City while allegedly riding a motorcycle reported stolen from Cheptarere Sub-county in Bukwo District.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:24:35+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200291.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200291.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ec4fb7ec7d",
+      "title": "Six Ugandan Truck Drivers Missing After Armed Men Seize Vehicles in South Sudan",
+      "summary": "[Independent (Kampala)] Juba -- Six Ugandan truck drivers are missing after armed men reportedly abducted them and seized their trucks in Bor Town, Jonglei State, South Sudan.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:23:46+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200289.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200289.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "453fa8738c",
+      "title": "Woman to Face Court Over Alleged Deceased Estate Land Fraud",
+      "summary": "[Capital FM] Nairobi -- A woman accused of fraudulently dealing with property belonging to a deceased estate is set to appear before the Ruiru Law Courts.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:17:42+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200286.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200286.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d0a93adb7b",
+      "title": "Uproar in Anambra Market As Police Shoot Two Traders",
+      "summary": "[Premium Times] The incident, PREMIUM TIMES gathered, forced traders to stage a protest along the road, which disrupted both human and vehicular movements in the area.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:12:50+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200280.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200280.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "239c264e5f",
+      "title": "Sewage, Blocked Drains Worsen Abuja Flooding - Govt",
+      "summary": "[Vanguard] The Federal Ministry of Environment has blamed blocked manholes and underground drainage channels for worsening the flash flood that occurred at Blantyre Crescent, Adetokunbo Ademola, Wuse II, Abuja, on Saturday, August 15, 2026.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:12:10+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200276.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200276.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "51d82ef990",
+      "title": "Islamist Terrorists Have Stepped Up Recruitment in Cabo Delgado - UN",
+      "summary": "[AIM] Maputo -- An United Nations report submitted to the Security Council points out that the Islamist terrorists have stepped up recruitment in the northern Mozambican province of Cabo Delgado, growing to between 400 and 500 fighters.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T10:12:09+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200275.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200275.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "8fbf7ee02d",
       "title": "No Evidence Kenyan Opposition Politician Matiang'i Has Hinted At Relocating to the Us If Defeated in 2027 Elections",
       "summary": "[Africa Check] IN SHORT: A graphic circulating on social media quotes Kenyan opposition politician Fred Matiang'i as hinting at relocating to the US if defeated in the 2027 general election. But we found no evidence that he made such remarks.",
@@ -5425,7 +5815,7 @@
     {
       "id": "6e907725d2",
       "title": "Ethiopia’s Tigray rebels say drone hits Mekelle residential area",
-      "summary": "New drone stroke on the regional capital may have caused civilian casualties.",
+      "summary": "Details of possible civilian casualties are unknown after another air raid on the regional capital in Tigray.",
       "country": "ETH",
       "category": "AUTRE",
       "severity": 1,
@@ -5546,6 +5936,38 @@
           "name": "TheCable Nigeria",
           "tier": 2,
           "url": "https://www.thecable.ng/this-one-cannot-rule-nigeria-donald-duke-reveals-how-ibb-warned-obasanjo-about-atiku/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5b7da3184d",
+      "title": "Marta Lança publica memórias entre Lisboa, Paris, Mindelo, Luanda, Maputo e Rio de Janeiro",
+      "summary": "Neste programa, conversamos com Marta Lança, a autora de “Essas pessoas na sala de jantar”, um livro que conta as histórias de uma vida escrita entre Lisboa, Paris, Mindelo, Luanda, Maputo, Rio de Janeiro e outras geografias, tendo como fio condutor as mudanças de casa e os encontros com novas pessoas que enchem salas de jantar transformadas em lugares de resistência e comunidades de pensamento e de arte. Este é o seu segundo livro, depois de “infinitas-pessoas-mais-uma”,…",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-08-20T08:38:04+00:00",
+      "lead_source": {
+        "id": "rfi-pt",
+        "name": "RFI Português",
+        "tier": 1,
+        "url": "https://www.rfi.fr/pt/programas/em-directo-da-redac%C3%A7%C3%A3o/20260820-marta-lan%C3%A7a-publica-mem%C3%B3rias-entre-lisboa-paris-mindelo-luanda-maputo-e-rio-de-janeiro"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-pt",
+          "name": "RFI Português",
+          "tier": 1,
+          "url": "https://www.rfi.fr/pt/programas/em-directo-da-redac%C3%A7%C3%A3o/20260820-marta-lan%C3%A7a-publica-mem%C3%B3rias-entre-lisboa-paris-mindelo-luanda-maputo-e-rio-de-janeiro"
         }
       ],
       "confirmation_count": 1
@@ -6223,104 +6645,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "89a3bc746e",
-      "title": "Tinubu Directs Seized Funds By EFCC, Unclaimed Dividends From Capital Market Be Channeled to Nelfund",
-      "summary": "[This Day] Abuja -- President Bola Tinubu on Wednesday directed that all funds recovered by the Economic and Financial Crimes Commission (EFCC) be channelled into the Nigerian Education Loan Fund (NELFUND) to support the tertiary education of Nigerian students.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "DEBT"
-      ],
-      "lang": "en",
-      "published": "2026-08-20T06:33:31+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200194.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200194.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "bd955a7d8d",
-      "title": "Retired Military Personnel Protest Delay Implementation of Pension Adjustment As Defence Ministry Reiterates Commitment to Veterans' Welfare",
-      "summary": "[This Day] Abuja -- The retired military personnel on Wednesday protested against delayed in the implementation of consequential pension adjustments, while security operatives comprising military and police personnel barricaded the Ministry of Defence in Abuja to prevent military pensioners from assembling for a the protest.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T06:33:31+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200195.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200195.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "48e1c02c3a",
-      "title": "Wizkid Marks Third Anniversary of Mother's Passing",
-      "summary": "[Vanguard] Nigerian Afrobeats star Ayodeji Balogun, popularly known as Wizkid, has marked the third anniversary of the death of his mother, Mrs Jane Dolapo Balogun.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T06:33:30+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200192.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200192.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "30cd484a9f",
       "title": "Tinubu Orders Preparation of Nigeria's Five-Year Security Threat Assessment, Defence Plan",
       "summary": "[Premium Times] The president's Special Adviser on Homeland Security, Adeyinka Famadewa, will coordinate and provide secretariat support for the 11-man committee.",
@@ -6353,70 +6677,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "c864b753ab",
-      "title": "Zambia opposition leader to challenge Hichilema election victory in court",
-      "summary": "Zambian opposition leader ⁠Brian Mundubile says he will challenge the country’s presidential election result in ⁠court, alleging voting fraud in the contest that handed President Hakainde Hichilema a second term in office. “Our campaign has documented serious irregularities, inconsistencies and circumstances surrounding ‌the conduct, counting, transmission and declaration of results,” Mundubile said in a statement…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T06:23:31+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/zambia-opposition-leader-to-challenge-hichilema-election-victory-in-court/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/zambia-opposition-leader-to-challenge-hichilema-election-victory-in-court/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "3f0bb82a2c",
-      "title": "Faced with historic drought, the Dutch rethink water management",
-      "summary": "On the banks of the Waal, the Dutch branch of the Rhine, swimmers are sunning themselves on a Nijmegen beach that did not exist before the river level dropped a few months ago. Like many European countries, the Netherlands has been hit by a historic summer drought caused by a prolonged dry spell, exceptional heat…\nSource",
-      "country": "MOZ",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T06:16:13+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/faced-with-historic-drought-the-dutch-rethink-water-management/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/faced-with-historic-drought-the-dutch-rethink-water-management/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "63216e0d11",
       "title": "Nigeria's APC in major election scare ahead of 2027 vote",
       "summary": "A key election in Osun state ended in defeat for President Tinubu's APC - but the ruling party is spinning it as a win for democracy.",
@@ -6444,40 +6704,6 @@
           "name": "African Business",
           "tier": 2,
           "url": "https://african.business/2026/08/politics/nigerias-apc-in-major-election-scare-ahead-of-2027-vote"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d5c642e73d",
-      "title": "Mozambique: Construction begins on SME Village at MozParks Topuito Industrial Park",
-      "summary": "Construction of the SME Village at MozParks Topuito Industrial Park in Nampula Province officially began today with a groundbreaking ceremony, marking the start of a 12-month project that will create dedicated infrastructure for small and medium-sized businesses operating in and around Topuito. Financed by the Government of Mozambique and World Bank through CONECTA Negócios –…\nSource",
-      "country": "MOZ",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "CONSTRUCTION",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "DFI"
-      ],
-      "lang": "en",
-      "published": "2026-08-20T06:02:03+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-construction-begins-on-sme-village-at-mozparks-topuito-industrial-park/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-construction-begins-on-sme-village-at-mozparks-topuito-industrial-park/"
         }
       ],
       "confirmation_count": 1
@@ -7027,70 +7253,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "5565d3192d",
-      "title": "V&#x26;amp;A Sherry Backs Kenneth Mugabi's 10-Year Music Journey",
-      "summary": "[Nile Post] V&amp;A Sherry has partnered with singer-songwriter Kenneth Mugabi as he prepares to celebrate 10 years in the music industry with a concert that will also mark his birthday.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T03:08:41+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200083.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200083.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "144e68b4b6",
-      "title": "They Demanded Shs4m, Got Shs1m - Did Medical Interns Really Have a Choice?",
-      "summary": "[Nile Post] For months, Uganda's medical interns have been caught between a professional obligation to serve and a government decision they say does not adequately recognise the value of their work.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T03:08:40+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200081.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200081.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "d71cd7f734",
       "title": "Kosti Ngai: South Sudan’s liberation hero who chose cleaner path in sea of corruption",
       "summary": "Kosti is evidence that South Sudan's failure was not inevitable.",
@@ -7118,38 +7280,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/kosti-ngai-south-sudan-liberation-hero-5563384"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "7eff6bdf0a",
-      "title": "Private Debt Emerges As Alternative Financing for Kenyan MSMEs",
-      "summary": "[Capital FM] Nairobi -- Private debt is emerging as an alternative source of financing for Kenyan micro, small and medium enterprises (MSMEs), as businesses struggle with high borrowing costs, stringent collateral requirements and limited access to formal credit.",
-      "country": "KEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T01:46:38+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200044.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200044.html"
         }
       ],
       "confirmation_count": 1
@@ -8853,38 +8983,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ddf5dc6b0f",
-      "title": "EACC, Sweden Step Up Cooperation to Track Hidden Assets and Illicit Financial Flows",
-      "summary": "[Capital FM] Nairobi -- The Ethics and Anti-Corruption Commission (EACC) and Sweden have agreed to deepen cooperation in tackling increasingly sophisticated financial crimes, including the concealment of digital assets and illicit financial flows.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T09:12:10+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190212.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190212.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "e7ee7101b5",
       "title": "Nigerian influencer arrested over alleged international cocaine trafficking network",
       "summary": "Nigerian authorities have arrested a social media personality they say was a senior figure in an international cocaine trafficking operation following the seizure of 184.5kg of the drug in Lagos.",
@@ -10583,38 +10681,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "0797040703",
-      "title": "TDC, TMA Clash Over Development Authority in Tema",
-      "summary": "[Ghanaian Times] The Tema Development Company Limited (TDC) has clarified its disagreement with the Tema Metropolitan Assembly (TMA) over development planning and permitting authority within the Tema metropolis.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-18T08:45:14+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608180223.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608180223.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "05273a665e",
       "title": "Kenya opposition draws large crowds despite efforts to disrupt rally",
       "summary": "Leaders of Kenya's opposition Linda Mwananchi movement brought their message of political change to Homa Bay County on Sunday, despite coordinated efforts to disrupt their rallies.",
@@ -10834,38 +10900,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608180095.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "66d66b6a9e",
-      "title": "Cameroon women celebrate WAFCON title during victory parade",
-      "summary": "The Indomitable Lionesses are home and Yaoundé is celebrating. A day after making history with a 3–0 victory over Malawi to win Cameroon’s first Women’s AFCON title, the champions received a hero’s welcome.",
-      "country": "MWI",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-18T05:21:11+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/08/18/cameroon-women-celebrate-wafcon-title-during-victory-parade/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/08/18/cameroon-women-celebrate-wafcon-title-during-victory-parade/"
         }
       ],
       "confirmation_count": 1
@@ -11250,38 +11284,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "447af18e00",
-      "title": "The History of Club Atl&#xE9;tico Banfield",
-      "summary": "[Ghanaian Times] Club Atlético Banfield is one of the oldest and most respected football clubs in Argentina. And now you can also try sport betting Zambia - 1xbet.com.zm/en also has wagers on Argentinian football too.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-17T13:27:23+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608170601.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608170601.html"
         }
       ],
       "confirmation_count": 1
@@ -12471,38 +12473,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "6f4b3bc365",
-      "title": "Ghana Must Shift From Vehicle Imports to Local Assembly - Prof. Hinson",
-      "summary": "[Ghanaian Times] Ghana's automobile industry must move beyond vehicle importation and sales to embrace full-scale local assembly and manufacturing to boost the economy and enhance job creation, Professor Robert Ebo Hinson, has stated.",
-      "country": "GHA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-14T10:38:35+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608140169.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608140169.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "3cc261426d",
       "title": "Afcon 2027 - for Tanzanians, By Tanzanians!",
       "summary": "[Daily News] Dar es Salaam -- WHEN the Confederation of African Football awarded the hosting rights of AFCON 2027 to Kenya, Tanzania and Uganda, it did more than give us 90 minutes of football.",
@@ -13234,38 +13204,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608100023.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a64fc3b3c5",
-      "title": "Reconstruction of Flood-Affected Areas Must Be On Top",
-      "summary": "[AIM] Maputo, 10 (AIM) - Mozambican President Daniel Chapo calls on the new governor of the southern province of Gaza, Alfeu Cuna, to put the reconstruction of flood-affected areas on top of his administration in order to revitalize the province's economic development.",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-10T04:42:08+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608100024.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608100024.html"
         }
       ],
       "confirmation_count": 1
