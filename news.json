@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-21T11:40:42.943644+00:00",
+  "generated_at": "2026-08-21T13:10:20.165157+00:00",
   "stats": {
     "total_signals": 423,
     "verified_signals": 9,
     "countries_covered": 24,
     "sources_active": 40,
     "per_country": {
-      "TZA": 34,
+      "NGA": 68,
       "KEN": 57,
-      "NGA": 69,
-      "SEN": 39,
+      "TZA": 34,
+      "SEN": 38,
       "MDG": 1,
       "CIV": 19,
       "GHA": 33,
       "UGA": 34,
-      "MOZ": 33,
-      "ETH": 41,
+      "MOZ": 32,
+      "ETH": 40,
       "MLI": 20,
-      "GIN": 5,
+      "GIN": 7,
       "SOM": 6,
       "RWA": 3,
       "SSD": 2,
-      "BEN": 2,
+      "BEN": 4,
       "LBR": 4,
       "CPV": 5,
       "GNB": 5,
@@ -31,8 +31,8 @@
       "BDI": 2,
       "GMB": 1
     },
-    "west_signals": 206,
-    "east_signals": 217
+    "west_signals": 208,
+    "east_signals": 215
   },
   "sources": [
     {
@@ -277,6 +277,72 @@
     }
   ],
   "signals": [
+    {
+      "id": "802099b86e",
+      "title": "Nigerians Turn to Faith Healers As HIV Aid Dries Up",
+      "summary": "[SciDev.Net] Kano, Scidev.Net -- Aisha* once relied on free antiretroviral therapy (ART) from a clinic in Maiduguri, northeastern Nigeria, funded through the US President's Emergency Plan for AIDS Relief (PEPFAR) programme. The treatment kept her HIV suppressed.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "GRANT"
+      ],
+      "lang": "en",
+      "published": "2026-08-21T12:11:09+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608210435.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608210435.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "190168f579",
+      "title": "Gachagua Visits Late MP Ngeno Family, Pledges Support for Hospitalised Relative",
+      "summary": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has repeated his call for independent, foreign-led investigations into the chopper crash that killed former Emurua Dikirr.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-21T12:11:08+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608210434.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608210434.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "d47dc80475",
       "title": "New Emergency Care Skills Help Tanzania's Frontline Doctors Save Lives",
@@ -854,38 +920,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "9c410b0e38",
-      "title": "Mozambique : ExxonMobil engage 1,1 milliard de dollars pour son projet Rovuma LNG",
-      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-20T06:22:30+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/08/20/mozambique-exxonmobil-engage-11-milliard-de-dollars-pour-son-projet-rovuma-lng/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/08/20/mozambique-exxonmobil-engage-11-milliard-de-dollars-pour-son-projet-rovuma-lng/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "f5f399e103",
       "title": "Govt Seeks Shs843bn Loan to Upgrade 137km Jinja-Bukungu Road Network",
       "summary": "[Nile Post] The government has asked Parliament to approve a €207.77 million (about Shs843 billion) loan from Citi Bank and other international financial institutions to upgrade roads in the Busoga sub-region.",
@@ -1146,44 +1180,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "7ea3694105",
-      "title": "Uganda, Ethiopia Agree to Deepen Trade, Investment and Air Connectivity Ties",
-      "summary": "[Nile Post] Foreign Affairs Minister Adonia Ayebare has held talks with Ethiopia's Ambassador to Uganda, Etsegenet Bezabih Yimenu, with both sides agreeing to enhance bilateral cooperation in trade, investment and air connectivity.",
-      "country": "ETH",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 4,
-      "verified": true,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T12:06:51+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190433.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190433.html"
-        },
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190433.html"
-        }
-      ],
-      "confirmation_count": 2
-    },
-    {
       "id": "127a451c26",
       "title": "Activists Call On Community in Arusha to Speak Out Against Child Abuse",
       "summary": "[Daily News] Arusha -- THE community has been urged to speak out and report cases of child abuse and work together to curb the vice to ensure victims receive the support they deserve.",
@@ -1408,6 +1404,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "93d7c4a89b",
+      "title": "Angola and Mozambique Ombuds Analyze Cooperation",
+      "summary": "[ANGOP] Luanda -- The Ombudsmen of Angola and Mozambique, João Manuel Francisco and Isaac Chande respectively, analyzed on Tuesday (11) the strengthening of institutional cooperation and the sharing of experiences.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-14T18:03:21+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608140489.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608140489.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "fca2771e7b",
       "title": "24 Hours to Beat Transfer Deadline",
       "summary": "[Daily News] Dar es Salaam -- MAINLAND Premier League clubs have just 24 hours left to complete their player registrations before the window for the 2026/27 season closes at 5:59 pm tomorrow.",
@@ -1604,6 +1632,70 @@
         }
       ],
       "confirmation_count": 2
+    },
+    {
+      "id": "fcd529dc3d",
+      "title": "Beyond the Cotton Field - The Race to Build Kenya's Cotton-to-Textile Industry",
+      "summary": "[allAfrica] Kenya is growing more cotton again, but the bigger opportunity lies in what happens after the harvest -- from ginning and spinning to fabric, garments, jobs and industrial investment. For decades, Kenya's cotton story has largely been told from the farm.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-21T12:34:30+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608210477.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608210477.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8dd60682fb",
+      "title": "Guinée-Bissau: le parti d'opposition PAIGC appelle à boycotter le référendum sur la réforme constitutionnelle",
+      "summary": "En Guinée-Bissau, le référendum constitutionnel du 30 décembre approche à grands pas, moins d'un an après le coup d'État du 26 novembre 2025. Cette nouvelle Constitution, très controversée, prévoit un renforcement des pouvoirs du président. Le PAIGC, parti indépendantiste historique du pays et désormais dans l'opposition, appelle donc à boycotter le scrutin.",
+      "country": "GIN",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-21T12:34:24+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260821-guin%C3%A9e-bissau-le-parti-d-opposition-paigc-appelle-%C3%A0-boycotter-le-r%C3%A9f%C3%A9rendum-sur-la-r%C3%A9forme-constitutionnelle"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260821-guin%C3%A9e-bissau-le-parti-d-opposition-paigc-appelle-%C3%A0-boycotter-le-r%C3%A9f%C3%A9rendum-sur-la-r%C3%A9forme-constitutionnelle"
+        }
+      ],
+      "confirmation_count": 1
     },
     {
       "id": "387b593652",
@@ -1921,38 +2013,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608210106.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d673291c1a",
-      "title": "Terrorists Planning to Attack Sokoto Tertiary Institutions - DSS",
-      "summary": "[Vanguard] The Department of State Services, DSS, Sokoto State Command, has issued a stark security warning over intelligence indicating plans by terrorists and bandit groups to attack tertiary institutions across the state, raising fears of possible abductions of students, lecturers, staff and their family members.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-21T06:07:41+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608210101.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608210101.html"
         }
       ],
       "confirmation_count": 1
@@ -2278,40 +2338,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "0564184bc7",
-      "title": "Invest Kenya, Eavca Partner to Attract Private Capital",
-      "summary": "[Capital FM] Nairobi -- The Kenya Investment Authority (Invest Kenya) and the East Africa Venture Capital Association (EAVCA) have signed a partnership to attract more private capital into the country and position Kenya as a leading hub for investment in East Africa.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "PE_VC"
-      ],
-      "lang": "en",
-      "published": "2026-08-20T15:55:10+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200546.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200546.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "e907ad08d6",
       "title": "Nigéria : la campagne pour la présidentielle de 2027 officiellement lancée",
       "summary": "Le Nigeria ouvre officiellement la campagne présidentielle. Dans cinq mois, le pays le plus peuplé d’Afrique élira son prochain président, sur fond d’inflation, de difficultés économiques et de violences liées aux groupes criminels et terroristes.",
@@ -2504,6 +2530,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "fbbb11d7f9",
+      "title": "Betika Commits Shs100m to Ntugasaze FC As Club Enters Uganda Premier League",
+      "summary": "[Independent (Kampala)] Kampala -- Betika Uganda has announced a Shs100 million partnership with newly promoted Ntugasaze Football Club, backing the club's historic debut in the Uganda Premier League during the 2026/27 season.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-19T16:52:53+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608190593.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608190593.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "163be8f450",
       "title": "Nigeria has taught entrepreneurship for years. Is it actually converting?",
       "summary": "Nigeria has spent nearly two decades embedding entrepreneurship education in higher education. But with 85% of surveyed institutions supporting it for at least six years, the question is whether that investment is producing economic outcomes.",
@@ -2568,33 +2626,33 @@
       "confirmation_count": 1
     },
     {
-      "id": "e80b144b24",
-      "title": "Reach a Hand Africa Launches 'Be Better' Campaign to Address Youth Well-Being",
-      "summary": "[Independent (Kampala)] Kampala -- Reach A Hand Africa (formerly Reach A Hand Uganda) has launched a year-long, student-focused campaign to promote the well-being of young people across the country. The \"Be Better\" initiative was unveiled on 12th August 2026 during a school outreach at Namiryango SSS in Mukono.",
-      "country": "UGA",
-      "category": "AUTRE",
+      "id": "7ea3694105",
+      "title": "Uganda, Ethiopia Agree to Deepen Trade, Investment and Air Connectivity Ties",
+      "summary": "[Nile Post] Foreign Affairs Minister Adonia Ayebare has held talks with Ethiopia's Ambassador to Uganda, Etsegenet Bezabih Yimenu, with both sides agreeing to enhance bilateral cooperation in trade, investment and air connectivity.",
+      "country": "ETH",
+      "category": "FINANCING",
       "severity": 3,
       "credibility": 2,
       "verified": false,
       "theme": null,
-      "legal_status": "ANNOUNCED",
+      "legal_status": null,
       "regulatory": false,
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-08-19T12:23:05+00:00",
+      "published": "2026-08-19T12:06:51+00:00",
       "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202608190473.html"
+        "url": "https://allafrica.com/stories/202608190433.html"
       },
       "confirming_sources": [
         {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202608190473.html"
+          "url": "https://allafrica.com/stories/202608190433.html"
         }
       ],
       "confirmation_count": 1
@@ -2954,35 +3012,33 @@
       "confirmation_count": 1
     },
     {
-      "id": "41a0dacf71",
-      "title": "Nigeria’s Terra Industries Raises USD 18 M, Closes USD 52 M Seed Round",
-      "summary": "Nigerian defence technology startup Terra Industries has raised an additional USD 18 M,\nThe post Nigeria’s Terra Industries Raises USD 18 M, Closes USD 52 M Seed Round appeared first on WeeTracker.",
-      "country": "NGA",
-      "category": "FINANCING",
+      "id": "11ee2c3cfc",
+      "title": "Police Foil Planned Bank Robbery At Labone",
+      "summary": "[Ghanaian Times] The Ghana Police Service has foiled a planned robbery attack on three banks at Labone in Accra, arresting one suspect and killing two others during a shootout.",
+      "country": "GHA",
+      "category": "AUTRE",
       "severity": 3,
       "credibility": 2,
       "verified": false,
       "theme": null,
-      "legal_status": "FINANCING",
+      "legal_status": null,
       "regulatory": false,
-      "fdi": true,
-      "sectors": [
-        "PE_VC"
-      ],
+      "fdi": false,
+      "sectors": [],
       "lang": "en",
-      "published": "2026-08-17T09:38:10+00:00",
+      "published": "2026-08-17T10:20:17+00:00",
       "lead_source": {
-        "id": "weetracker",
-        "name": "WeeTracker",
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
         "tier": 2,
-        "url": "https://weetracker.com/2026/08/17/nigeria-terra-industries-18m-52m-seed-round/"
+        "url": "https://allafrica.com/stories/202608170294.html"
       },
       "confirming_sources": [
         {
-          "id": "weetracker",
-          "name": "WeeTracker",
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
           "tier": 2,
-          "url": "https://weetracker.com/2026/08/17/nigeria-terra-industries-18m-52m-seed-round/"
+          "url": "https://allafrica.com/stories/202608170294.html"
         }
       ],
       "confirmation_count": 1
@@ -3239,38 +3295,6 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/tvs-motor-launches-iqube-electric-scooter-in-kenya/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f03c6bbfa3",
-      "title": "250 Million Dollars Mozcommunity Project Launched",
-      "summary": "[AIM] Maputo -- Mozambican President Daniel Chapo on Monday launched a 250 million US dollars project named MozCommunity, which is aimed at improving infrastructures of 56 districts of the northern provinces of Cabo Delgado, Nampula e Niassa.",
-      "country": "MOZ",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-11T11:46:52+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608110361.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608110361.html"
         }
       ],
       "confirmation_count": 1
@@ -4272,6 +4296,44 @@
       "confirmation_count": 1
     },
     {
+      "id": "e8c0c9f3f2",
+      "title": "Gachagua to Ruto - 'Kenya Is Not Uganda or Tanzania' As He Warns Against Election Disruption",
+      "summary": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has warned President William Ruto against any attempt to undermine Kenya's democratic process, insisting that the 2027 General Election must be held as constitutionally scheduled.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-19T10:58:44+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608190375.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608190375.html"
+        },
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608190375.html"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
       "id": "3fa8fe9859",
       "title": "Tanzania, DR Congo strengthen ties on trade",
       "summary": "The two countries intend to diversify their trade beyond mining products.",
@@ -4657,6 +4719,134 @@
           "name": "AllAfrica · Côte d'Ivoire",
           "tier": 2,
           "url": "https://allafrica.com/stories/202607210794.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e8f9a9630b",
+      "title": "La Guinée officiellement candidate à l’organisation de la CAN 2032 ou 2036",
+      "summary": "C’est à travers ses médias sociaux que le Premier ministre Bah Oury a donné l’information : la Guinée va bien déposer une candidature afin d’organiser une prochaine CAN. 2032 et 2036 sont en ligne de mire.",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-21T12:46:46+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique-foot/20260821-la-guin%C3%A9e-officiellement-candidate-%C3%A0-l-organisation-de-la-can-2032-ou-2036"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260821-la-guin%C3%A9e-officiellement-candidate-%C3%A0-l-organisation-de-la-can-2032-ou-2036"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "bd99375da6",
+      "title": "Health PS Muthoni Embarks On Nationwide Caravan to Amplify Govt Agenda",
+      "summary": "[Capital FM] Nairobi -- Health PS Mary Muthoni has embarked on a nationwide Jamii Imara Mashinani caravan to amplify the government agenda at the grassroots, hailing President William Ruto's development record in Rongai.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-21T12:28:31+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608210476.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608210476.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "505baec48c",
+      "title": "Benin cyberactivist Steve Amoussou freed after two-year sentence",
+      "summary": "Beninese cyberactivist Steve Amoussou has been released after serving a two-year prison sentence for charges including politically motivated insult and spreading false news. His case had become a prominent test of the government's treatment of critics and online dissent.",
+      "country": "BEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-21T11:45:31+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/08/21/benin-cyberactivist-steve-amoussou-freed-after-two-year-sentence/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/08/21/benin-cyberactivist-steve-amoussou-freed-after-two-year-sentence/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8a1ad51e89",
+      "title": "Notation : Bloomfield maintient inchangées les notes de long et court terme de la BOA Bénin",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "BEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-21T11:44:13+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/08/21/notation-bloomfield-maintient-inchangees-les-notes-de-long-et-court-terme-de-la-boa-benin/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/08/21/notation-bloomfield-maintient-inchangees-les-notes-de-long-et-court-terme-de-la-boa-benin/"
         }
       ],
       "confirmation_count": 1
@@ -6966,38 +7156,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "737749bb67",
-      "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
-      "summary": "Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": "HYDRO",
-      "legal_status": null,
-      "regulatory": true,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-21T02:11:33+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "7f66f02a06",
       "title": "Why Nigeria's one-time political giant may face extinction",
       "summary": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
@@ -7025,38 +7183,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "20b9d5a516",
-      "title": "L'industrie musicale africaine: au Sénégal, le stream comme moyen de rémunérer des artistes locaux? [5/10]",
-      "summary": "Dans un monde du streaming qui ne rémunère pas ou peu les artistes du continent, certains pays ouvrent la voie. C’est le cas du Sénégal, seul pays d’Afrique subsaharienne francophone où les chanteurs bénéficient de la monétisation des streams sur YouTube.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-20T22:04:04+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20260820-l-industrie-musicale-africaine-au-s%C3%A9n%C3%A9gal-le-stream-comme-moyen-de-r%C3%A9mun%C3%A9rer-des-artistes-locaux-5-10"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20260820-l-industrie-musicale-africaine-au-s%C3%A9n%C3%A9gal-le-stream-comme-moyen-de-r%C3%A9mun%C3%A9rer-des-artistes-locaux-5-10"
         }
       ],
       "confirmation_count": 1
@@ -7409,70 +7535,6 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/08/20/togo-rsf-exige-la-liberation-de-deux-journalistes-francais/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ccfe3162d3",
-      "title": "NCBA Golf Series Heads to Nyali As Busy Weekend of Golf Takes Shape",
-      "summary": "[Capital FM] NAIROBI -- The NCBA Golf Series heads to the coast this weekend with the Nyali Golf &amp; Country Club set to host the latest qualifying leg of the nationwide series on Saturday, August 22.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T16:02:01+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200558.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200558.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "14f5e693c4",
-      "title": "Aga Khan University Hospital Performs Region's First Robotic Gallbladder Surgery",
-      "summary": "[Capital FM] Nairobi -- Aga Khan University Hospital, Nairobi (AKUH,N) has performed the region's first robotic-assisted gallbladder removal surgery, marking a milestone in minimally invasive surgical care.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T15:55:31+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200547.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200547.html"
         }
       ],
       "confirmation_count": 1
@@ -9686,38 +9748,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "e8c0c9f3f2",
-      "title": "Gachagua to Ruto - 'Kenya Is Not Uganda or Tanzania' As He Warns Against Election Disruption",
-      "summary": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has warned President William Ruto against any attempt to undermine Kenya's democratic process, insisting that the 2027 General Election must be held as constitutionally scheduled.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T10:58:44+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190375.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190375.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "4969857020",
       "title": "Tz Intensifies Fight to Eliminate Malaria By 2030",
       "summary": "[Daily News] Dodoma -- THE government has intensified its fight against Malaria by strengthening prevention, testing and treatment interventions, with the aim of eliminating the disease by 2030.",
@@ -11256,70 +11286,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "bb9fe71ecf",
-      "title": "Mogcsp Targets Zero Child Marriage By 2030 &#xB7; Advocates Support for Teenage Mothers to Return to Sch",
-      "summary": "[Ghanaian Times] The Ministry of Gender, Children and Social Protection (MoGCSP) has called for stronger support systems to enable teenage mothers to return to school and continue their education after childbirth.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-17T11:57:17+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608170483.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608170483.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "26b43863d6",
-      "title": "Poor Oral Health Linked to Diabetes, Hypertension",
-      "summary": "[Ghanaian Times] KOFORIDUA -- Poor oral hygiene and gum disease could contribute to poor blood sugar control and high blood pressure, a dental surgeon has warned, urging Ghanaians to take oral health seriously as part of efforts to prevent non-communicable diseases.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-17T11:56:36+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608170482.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608170482.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "010e2929af",
       "title": "Anarme Seizes Unspecified Quantity of Unlabeled Medicine",
       "summary": "[AIM] Maputo -- Mozambique's National Medicine Regulatory Authority (ANARME) has seized an unspecified quantity of unlabeled medicine and substances from a private clinic located in the country's capital, Maputo.",
@@ -11475,6 +11441,38 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608170296.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "88787c9b95",
+      "title": "Govt Targets 100,000 Hectares Palm Plantation",
+      "summary": "[Ghanaian Times] The Government has reaffirmed its commitment to transforming Ghana's oil palm industry, with plans to support the establishment of 100,000 hectares of new oil palm plantations as part of efforts to boost domestic production, create jobs and reduce the country's dependence on imported palm oil.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-17T10:19:29+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608170292.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608170292.html"
         }
       ],
       "confirmation_count": 1
