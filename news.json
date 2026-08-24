@@ -1,17 +1,16 @@
 {
-  "generated_at": "2026-08-24T10:03:38.479764+00:00",
+  "generated_at": "2026-08-24T10:53:35.603099+00:00",
   "stats": {
     "total_signals": 425,
     "verified_signals": 8,
     "countries_covered": 23,
     "sources_active": 40,
     "per_country": {
-      "KEN": 64,
+      "KEN": 63,
       "NGA": 59,
-      "CPV": 4,
       "GIN": 9,
-      "SOM": 5,
-      "UGA": 34,
+      "SOM": 8,
+      "UGA": 32,
       "SEN": 29,
       "RWA": 7,
       "TZA": 37,
@@ -20,6 +19,7 @@
       "ETH": 40,
       "MLI": 23,
       "BDI": 5,
+      "CPV": 4,
       "CIV": 19,
       "BEN": 4,
       "TGO": 5,
@@ -277,8 +277,40 @@
   ],
   "signals": [
     {
-      "id": "a86044f5e9",
-      "title": "Kenya : 18 éléphants morts à Amboseli, la piste d’un empoisonnement",
+      "id": "ed6a7b4b0b",
+      "title": "Govt Plans to Rename KUSCCO to KEFESCO After Sh13bn Loss",
+      "summary": "[Capital FM] Nairobi -- The Government plans to rename the Kenya Union of Savings and Credit Cooperatives (KUSCCO) to the Kenya Federation of Savings and Credit Cooperatives (KEFESCO) following a financial crisis that left Saccos with billions of shillings in losses.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-24T10:34:45+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608240331.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608240331.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4cd734af2b",
+      "title": "Kenya : quatre arrestations après la mort suspecte de 18 éléphants à Amboseli",
       "summary": "Les autorités kényanes enquêtent sur la mort de 18 éléphants dans l’écosystème d’Amboseli, dans le sud du pays. Quatre personnes ont été interpellées dans le cadre des investigations et une cinquième est recherchée.",
       "country": "KEN",
       "category": "AUTRE",
@@ -291,19 +323,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "fr",
-      "published": "2026-08-24T09:43:27+00:00",
+      "published": "2026-08-24T09:54:17+00:00",
       "lead_source": {
         "id": "afnews-fr",
         "name": "Africanews FR",
         "tier": 2,
-        "url": "http://fr.africanews.com/2026/08/24/kenya-18-elephants-morts-a-amboseli-la-piste-dun-empoisonnement/"
+        "url": "http://fr.africanews.com/2026/08/24/kenya-quatre-arrestations-apres-la-mort-suspecte-de-18-elephants-a-amboseli/"
       },
       "confirming_sources": [
         {
           "id": "afnews-fr",
           "name": "Africanews FR",
           "tier": 2,
-          "url": "http://fr.africanews.com/2026/08/24/kenya-18-elephants-morts-a-amboseli-la-piste-dun-empoisonnement/"
+          "url": "http://fr.africanews.com/2026/08/24/kenya-quatre-arrestations-apres-la-mort-suspecte-de-18-elephants-a-amboseli/"
         }
       ],
       "confirmation_count": 1
@@ -368,38 +400,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608240202.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9da7c53f02",
-      "title": "Despiste na Marginal de Cascais provoca um morto",
-      "summary": "Um veículo ligeiro despistou-se, pelas 7h00 na Estrada Nacional 6, junto à praia da Parede. Uma pessoa morreu. Às 8h00 estavam no local nove operacionais, com o apoio de quatro veículos.",
-      "country": "CPV",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-08-24T07:34:08+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/2026/08/24/um-morto-em-despiste-de-um-carro-na-avenida-marginal-junto-a-praia-da-parede/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/2026/08/24/um-morto-em-despiste-de-um-carro-na-avenida-marginal-junto-a-praia-da-parede/"
         }
       ],
       "confirmation_count": 1
@@ -1673,6 +1673,102 @@
       "confirmation_count": 2
     },
     {
+      "id": "af89454dfd",
+      "title": "Somalie : la sécheresse plonge six millions de personnes dans la faim",
+      "summary": "La Somalie fait face à une nouvelle crise humanitaire majeure, alimentée par la sécheresse, les conflits et la diminution de l’aide internationale.",
+      "country": "SOM",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-24T10:49:04+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/08/24/somalie-la-secheresse-plonge-six-millions-de-personnes-dans-la-faim/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/08/24/somalie-la-secheresse-plonge-six-millions-de-personnes-dans-la-faim/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3adfa34409",
+      "title": "Sudan Says It Downed 'Hostile' Drone Launched From Ethiopian Territory",
+      "summary": "[Addis Standard] Addis Abeba -- Sudan's Defense Ministry said it shot down a \"hostile\" drone over Blue Nile State near the border with Ethiopia, alleging that the aircraft had been launched from Ethiopian territory.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-24T10:32:46+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608240328.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608240328.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "40911b799b",
+      "title": "US-Africa Week Ahead: Nigeria next steps, Iran sanctions and Ghana investment summit",
+      "summary": "US Christian activists make the case for maintaining pressure on the Tinubu administration in Nigeria. Washington is set to announce ‘tougher’ sanctions on Iran, and in New York, the UN Security Council discusses the situation in Sudan and South Sudan.",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-24T10:30:00+00:00",
+      "lead_source": {
+        "id": "africa-rep",
+        "name": "The Africa Report",
+        "tier": 2,
+        "url": "https://www.theafricareport.com/428500/us-africa-week-ahead-nigeria-next-steps-iran-sanctions-and-ghana-investment-summit/"
+      },
+      "confirming_sources": [
+        {
+          "id": "africa-rep",
+          "name": "The Africa Report",
+          "tier": 2,
+          "url": "https://www.theafricareport.com/428500/us-africa-week-ahead-nigeria-next-steps-iran-sanctions-and-ghana-investment-summit/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "c8fa8bf72e",
       "title": "Uganda Declared Free of Latest Polio Outbreak",
       "summary": "[Independent (Kampala)] Uganda detected poliovirus in May 2024, prompting health authorities to strengthen surveillance and outbreak response activities",
@@ -1833,6 +1929,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "081ee3774d",
+      "title": "Acidente na Marginal. Corpo encontrado na praia da Parede",
+      "summary": "Carro despistou-se na EN6, no sentido Cascais-Lisboa, junto à praia da Parede. Um homem de 50 anos foi encontrado sem vida juntos às rochas. PSP vai investigar se o corpo foi projetado da viatura.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-08-24T07:34:08+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/08/24/um-morto-em-despiste-de-um-carro-na-avenida-marginal-junto-a-praia-da-parede/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/08/24/um-morto-em-despiste-de-um-carro-na-avenida-marginal-junto-a-praia-da-parede/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "9c289555cf",
       "title": "Niger State Orders Security Forces to Rescue Abducted Worshippers in Borgu",
       "summary": "[Premium Times] Suspected terrorists reportedly attacked the Kpenya Mosque while Muslims were observing Juma'at prayers.",
@@ -1897,38 +2025,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "814ab2a558",
-      "title": "Osun Guber - Adeleke's Tinubu Backing Punctures Opposition's 2027 Plan - Presidency",
-      "summary": "[Vanguard] ABUJA: The Presidency has said Governor Ademola Adeleke's decision to support President Bola Tinubu's re-election bid has undermined opposition efforts to use the Osun governorship election as a launching pad for a broader coalition against the All Progressives Congress, APC, ahead of the 2027 general elections.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-24T06:08:49+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608240155.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608240155.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "c019638296",
       "title": "Sasol Paid More Than 670 Million Dollars in Taxes Over Past 11 Year",
       "summary": "[AIM] Maputo -- The South African petrochemical giant Sasol paid, over the past 11 years, more than 670 million US dollars to Mozambican State in taxes.",
@@ -1988,38 +2084,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608240050.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "48812c95c4",
-      "title": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
-      "summary": "As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-24T02:09:40+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -3238,38 +3302,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608170457.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "11ee2c3cfc",
-      "title": "Police Foil Planned Bank Robbery At Labone",
-      "summary": "[Ghanaian Times] The Ghana Police Service has foiled a planned robbery attack on three banks at Labone in Accra, arresting one suspect and killing two others during a shootout.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-17T10:20:17+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608170294.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608170294.html"
         }
       ],
       "confirmation_count": 1
@@ -4815,6 +4847,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "3a16d08d61",
+      "title": "In One Year, the UK Medical Tribunal Sanctioned 16 Nigerian Doctors for Fraud, Rape, Theft, Others",
+      "summary": "[Premium Times] Although the majority of the cases handled by the UK tribunal did not involve Nigerians, the tribunal heard at least one case involving a Nigerian each month during this period, except in January.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-24T10:30:12+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608240319.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608240319.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "8ef8bdda12",
       "title": "Comment le konpa est devenu la nouvelle tendance musicale en Afrique de l’Est",
       "summary": "Loin des pistes de danse des Caribes et des soirées de leur diaspora, le konpa, musique emblématique d’Haïti, s’est imposé ces dernières années sur les dance floors du monde, prenant une place particulière en Afrique de l’Est. De Nairobi à Dar es Salaam, la jeunesse africaine réinvente ce rythme mythique, transformant une influence lointaine en un phénomène sous-régional majeur.",
@@ -5290,6 +5354,70 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1836065/politique/togo-les-dessous-du-remaniement-a-la-tete-de-larmee-et-des-renseignements/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c029cee81c",
+      "title": "Layoffs, asset sales signal end of Somalia’s security mission",
+      "summary": "A deepening funding crisis threatens the logistical backbone of the country's international...",
+      "country": "SOM",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-24T07:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/layoffs-asset-sales-signal-end-of-somalia-s-security-mission-5566848"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/layoffs-asset-sales-signal-end-of-somalia-s-security-mission-5566848"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b2e6131ff4",
+      "title": "Somalia: Clashes expose widening rift between Mogadishu and federal states",
+      "summary": "As long as the regions and the federal government cannot agree on an election timetable, such...",
+      "country": "SOM",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-24T06:45:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/somalia-clashes-expose-widening-rift-5566946"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/somalia-clashes-expose-widening-rift-5566946"
         }
       ],
       "confirmation_count": 1
@@ -8339,38 +8467,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "3627530831",
-      "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
-      "summary": "The overloaded boat was taking people, including many children, to farms to harvest rice.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-21T10:48:01+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "6b04c9c4bd",
       "title": "Tanzania court: Lissu has case to answer on treason charges",
       "summary": "Tundu Lissu has been in detention for 14 months.",
@@ -8686,38 +8782,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608210130.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "2a34602bb4",
-      "title": "Nairobi Level Five Hospitals Get More Control Over Finances, Staffing",
-      "summary": "[Capital FM] Nairobi -- Nairobi's new health law is giving Level Five hospitals greater financial and administrative autonomy, but the facilities will remain firmly subject to public accountability rules.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-21T08:13:48+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608210127.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608210127.html"
         }
       ],
       "confirmation_count": 1
@@ -11027,38 +11091,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "e93899a448",
-      "title": "Illegal TPLF Faction Exploiting Tigray Youth to Serve Destructive Agendas of Shaebia, Egypt - Former ENDF Officer",
-      "summary": "[ENA] Addis Ababa -- The illegal TPLF faction is exposing the youth of Tigray Region to exploitation to advance the destructive agendas of Eritrea's regime, Shaebia and Egypt, Colonel Gebrewahid Hailu, stated.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T05:28:18+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190117.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190117.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "51177d03e8",
       "title": "UNESCO Hails Tanapa's Efforts in Conservation of Serengeti National Park",
       "summary": "[Daily News] Arusha -- TANZANIA's Permanent Representative to the United Nations Educational, Scientific and Cultural Organization (UNESCO), Ambassador Saidi Othman Yakubu, has commended the Tanzania National Parks Authority (TANAPA) for its efforts to protect Serengeti National Park, one of the country's UNESCO World Heritage sites.",
@@ -11829,38 +11861,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "5337be41ba",
-      "title": "Uganda joins risky military mission in Gaza as it eyes UN top seat",
-      "summary": "Military officials say participation in the Gaza mission could help demonstrate Uganda’s...",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-18T03:00:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/uganda-joins-risky-military-mission-in-gaza-eyes-un-top-seat-5561694"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/uganda-joins-risky-military-mission-in-gaza-eyes-un-top-seat-5561694"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "671a2782fa",
       "title": "The goat is now a celebrity - how this Nigerian graduation gift went viral",
       "summary": "Described as a calm character, Promise Okoro's goat loves fried rice and has become celebrated locally.",
@@ -11888,38 +11888,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/articles/c3w03y2wgxeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "752cdbb350",
-      "title": "Ugandan revenue authority turns up heat on taxpayers",
-      "summary": "Since June 2026, more than 1,000 compliance notices have been issued to various taxpayers.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-17T18:00:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/business-tech/ugandan-revenue-authority-turns-up-heat-on-taxpayers-5561674"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/business-tech/ugandan-revenue-authority-turns-up-heat-on-taxpayers-5561674"
         }
       ],
       "confirmation_count": 1
@@ -11989,6 +11957,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "f934467fab",
+      "title": "Traditional Moral Values, Free Speech and the Role of Chieftaincy in Ghana",
+      "summary": "[Ghanaian Times] When the LGBTQ+ debate was raging in Ghanaian society, one of the most frequently advanced and seemingly convincing arguments was that same-sex relationships were contrary to, and even abhorrent within, the traditional moral values of Ghanaian society. Appeals were repeatedly made to our cultural heritage, traditional institutions, communal values and the moral authority of our ancestors. The underlying argument was that Ghanaian society should not…",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-17T15:17:52+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608170661.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608170661.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "c69534d3ef",
       "title": "Ipswich sign Ivorian midfielder Ouattara from Strasbourg",
       "summary": "Ipswich Town complete the signing of Julio Enciso and Abdoul Ouattara from French club Strasbourg.",
@@ -12048,6 +12048,38 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608170505.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "bb9fe71ecf",
+      "title": "Mogcsp Targets Zero Child Marriage By 2030 &#xB7; Advocates Support for Teenage Mothers to Return to Sch",
+      "summary": "[Ghanaian Times] The Ministry of Gender, Children and Social Protection (MoGCSP) has called for stronger support systems to enable teenage mothers to return to school and continue their education after childbirth.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-17T11:57:17+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608170483.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608170483.html"
         }
       ],
       "confirmation_count": 1
@@ -12176,38 +12208,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608170296.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "88787c9b95",
-      "title": "Govt Targets 100,000 Hectares Palm Plantation",
-      "summary": "[Ghanaian Times] The Government has reaffirmed its commitment to transforming Ghana's oil palm industry, with plans to support the establishment of 100,000 hectares of new oil palm plantations as part of efforts to boost domestic production, create jobs and reduce the country's dependence on imported palm oil.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-17T10:19:29+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608170292.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608170292.html"
         }
       ],
       "confirmation_count": 1
