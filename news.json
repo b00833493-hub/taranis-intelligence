@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-08-24T17:47:21.260525+00:00",
+  "generated_at": "2026-08-24T18:59:05.060110+00:00",
   "stats": {
-    "total_signals": 432,
-    "verified_signals": 6,
+    "total_signals": 436,
+    "verified_signals": 7,
     "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
+      "SSD": 3,
       "GIN": 12,
       "KEN": 64,
       "GHA": 37,
-      "NGA": 58,
+      "NGA": 60,
       "SOM": 9,
-      "UGA": 34,
+      "UGA": 35,
       "SEN": 28,
       "RWA": 9,
       "TZA": 37,
@@ -23,17 +24,16 @@
       "BEN": 4,
       "NER": 1,
       "MUS": 1,
-      "TGO": 5,
-      "SSD": 2,
-      "CPV": 2,
+      "CPV": 3,
+      "TGO": 4,
       "GNB": 3,
       "LBR": 2,
       "SLE": 1,
       "MWI": 2,
       "GMB": 1
     },
-    "west_signals": 197,
-    "east_signals": 235
+    "west_signals": 199,
+    "east_signals": 237
   },
   "sources": [
     {
@@ -279,6 +279,38 @@
   ],
   "signals": [
     {
+      "id": "f1c053c0f6",
+      "title": "Soudan du Sud: deux Casques bleus éthiopiens tués dans une embuscade dans le centre du pays",
+      "summary": "La Mission de l'ONU au Soudan du Sud (Minuss) a annoncé ce lundi 24 août 2026 la mort de deux Casques bleus éthiopiens dans le centre du pays. Trois autres soldats ont été blessés, ansi que des policiers et des employés civils, dénonce également l'ONU.",
+      "country": "SSD",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-24T18:21:58+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260824-soudan-du-sud-deux-casques-bleus-%C3%A9thiopiens-tu%C3%A9s-dans-une-embuscade-dans-le-centre-du-pays"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260824-soudan-du-sud-deux-casques-bleus-%C3%A9thiopiens-tu%C3%A9s-dans-une-embuscade-dans-le-centre-du-pays"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "bb8183dc9a",
       "title": "Guinée : une décharge s’effondre, le bilan s’alourdit",
       "summary": "En Guinée, les recherches se poursuivent après le drame de la décharge de Dar-es-Salam, à Conakry. Le bilan est d’au moins 30 morts après l’effondrement d’une montagne de déchets provoqué par les fortes pluies.",
@@ -293,7 +325,7 @@
       "fdi": false,
       "sectors": [],
       "lang": "fr",
-      "published": "2026-08-24T16:48:39+00:00",
+      "published": "2026-08-24T17:27:46+00:00",
       "lead_source": {
         "id": "afnews-fr",
         "name": "Africanews FR",
@@ -830,38 +862,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608240116.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "24f4b2ba99",
-      "title": "Investigation - the Multi-Million Dollar Norwegian Scam and the Role of a Nigerian",
-      "summary": "[Premium Times] This is the story of a sophisticated scam network that cost its victims millions of dollars in different parts of the world.",
-      "country": "NGA",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-24T05:49:16+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608240102.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608240102.html"
         }
       ],
       "confirmation_count": 1
@@ -4545,38 +4545,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "6501ada140",
-      "title": "Turn NRM Political Victory Into Economic Growth, Museveni Urges Isingiro People",
-      "summary": "[Nile Post] President Museveni has urged residents of Isingiro District in western Uganda to turn the National Resistance Movement's political success in the recent general elections into an economic victory by embracing hard work and government wealth creation programmes.",
-      "country": "UGA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T05:53:59+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608200168.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608200168.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "cd649db4a5",
       "title": "Nine Senior Lam Officials to Face Trial for Mismanagement",
       "summary": "[AIM] Maputo -- The Central Office for the Fight against Corruption (GCCC) has announced that nine senior officials of the publicly-owned company Air Mozambique (formerly known as Mozambique Airlines, LAM) will face court proceedings over alleged mismanagement.",
@@ -4639,6 +4607,44 @@
         }
       ],
       "confirmation_count": 1
+    },
+    {
+      "id": "e8c0c9f3f2",
+      "title": "Gachagua to Ruto - 'Kenya Is Not Uganda or Tanzania' As He Warns Against Election Disruption",
+      "summary": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has warned President William Ruto against any attempt to undermine Kenya's democratic process, insisting that the 2027 General Election must be held as constitutionally scheduled.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-19T10:58:44+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608190375.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608190375.html"
+        },
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608190375.html"
+        }
+      ],
+      "confirmation_count": 2
     },
     {
       "id": "3fa8fe9859",
@@ -5031,6 +5037,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "7f8fd85adf",
+      "title": "MTN expects Nigeria rebound as airtime lending resumes",
+      "summary": "MTN Group expects its Nigerian business to regain momentum in the second half of 2026 after airtime lending resumed after a regulatory suspension in April.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-24T18:35:03+00:00",
+      "lead_source": {
+        "id": "techcabal",
+        "name": "TechCabal",
+        "tier": 2,
+        "url": "https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/"
+      },
+      "confirming_sources": [
+        {
+          "id": "techcabal",
+          "name": "TechCabal",
+          "tier": 2,
+          "url": "https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d33920e6ef",
+      "title": "Gaza : vers un possible déploiement de troupes ougandaises et burundaises ?",
+      "summary": "Des responsables militaires ougandais et burundais se sont rendus en Israël la semaine dernière pour discuter du déploiement de troupes à Gaza.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-24T18:10:11+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/08/24/gaza-vers-un-possible-deploiement-de-troupes-ougandaises-et-burundaises/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/08/24/gaza-vers-un-possible-deploiement-de-troupes-ougandaises-et-burundaises/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "1dc900103c",
       "title": "Libération des mercenaires de Wagner au Mali : le clan Haftar, nouvel interlocuteur privilégié du FLA",
       "summary": "Saddam Haftar, le fils du maître de l’est libyen, a orchestré le transfert jusqu’à Benghazi des deux ex-mercenaires de Wagner, libérés le 20 août par le Front de libération de l’Azawad (FLA). Voici ce que l’on sait du dessous de ces négociations.",
@@ -5058,6 +5128,70 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1837375/politique/liberation-des-mercenaires-de-wagner-au-mali-le-clan-haftar-nouvel-interlocuteur-privilegie-du-fla/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5cca8533d9",
+      "title": "Colisão entre dois parapentes causa ferido grave em Alcobaça",
+      "summary": "O choque entre os dois parapentes na praia de Paredes de Vitória resultou em dois feridos, um deles em estado crítico. Quando voavam a cerca de 10 metros, um dos intervenientes caiu em queda livre.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-08-24T18:05:57+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/08/24/colisao-entre-dois-parapentes-causa-ferido-grave-no-concelho-de-alcobaca/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/08/24/colisao-entre-dois-parapentes-causa-ferido-grave-no-concelho-de-alcobaca/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8d03c1f50c",
+      "title": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
+      "summary": "Mass kidnappings highlight Nigeria's security crisis in the north as elections approach.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-24T18:02:50+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -5508,6 +5642,38 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/world-bank-debars-ecitizen-builder-webmasters-kenya-for-5-years/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9f738bf695",
+      "title": "Lagos Govt Mourns Veteran Actor Ogogo",
+      "summary": "[Premium Times] The Lagos State Government said Ogogo was not only an entertainer but also a custodian of Yoruba culture and a gifted storyteller who used his career to promote the heritage.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-24T12:31:37+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608240500.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608240500.html"
         }
       ],
       "confirmation_count": 1
@@ -7590,38 +7756,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/business-tech/south-sudan-never-ending-cash-crunch-hurts-state-plans-5566864"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b3d9efcc35",
-      "title": "Lomé s'exprime pour la première fois sur l'arrestation de deux journalistes français au Togo",
-      "summary": "Dans un communiqué publié samedi 22 août, le gouvernement togolais affirme que la justice dispose « d'indices graves et concordants » à l'encontre de Gaël Mocaër et Sebastian Perez Pezzani. Les deux réalisateurs français partis tourner dans le pays un épisode de l'émission « Les routes de l'impossible », une série documentaire diffusée sur France Télévisions, ont été arrêtés le 27 juillet.",
-      "country": "TGO",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-23T02:58:33+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260823-lom%C3%A9-s-exprime-pour-la-premi%C3%A8re-fois-sur-l-arrestation-de-deux-journalistes-fran%C3%A7ais-au-togo"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260823-lom%C3%A9-s-exprime-pour-la-premi%C3%A8re-fois-sur-l-arrestation-de-deux-journalistes-fran%C3%A7ais-au-togo"
         }
       ],
       "confirmation_count": 1
@@ -10635,6 +10769,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "72a0cc6348",
+      "title": "Museveni Tells Isingiro Residents to Turn Political Victory Into Economic Gains",
+      "summary": "[Nile Post] President Museveni has urged residents of Isingiro District to turn their political support for the National Resistance Movement (NRM) into tangible economic gains by embracing government wealth-creation programmes and working to improve household incomes.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-20T05:29:27+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608200128.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608200128.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "1ea9ca3432",
       "title": "Judiciary, UN Drugs &#x26;amp; Crime Office Move to Deepen Cooperation On Case Backlog, Prison Decongestion",
       "summary": "[Nile Post] The Judiciary and the United Nations Office on Drugs and Crime (UNODC) are seeking to strengthen cooperation on reducing case backlog, decongesting prisons and improving access to justice.",
@@ -11110,38 +11276,6 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/kenyas-ca-targets-digital-skills-training-for-120000-people/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e8c0c9f3f2",
-      "title": "Gachagua to Ruto - 'Kenya Is Not Uganda or Tanzania' As He Warns Against Election Disruption",
-      "summary": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has warned President William Ruto against any attempt to undermine Kenya's democratic process, insisting that the 2027 General Election must be held as constitutionally scheduled.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-19T10:58:44+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608190375.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608190375.html"
         }
       ],
       "confirmation_count": 1
