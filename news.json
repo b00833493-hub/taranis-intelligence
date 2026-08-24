@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-24T16:55:18.378371+00:00",
+  "generated_at": "2026-08-24T17:47:21.260525+00:00",
   "stats": {
-    "total_signals": 430,
+    "total_signals": 432,
     "verified_signals": 6,
-    "countries_covered": 23,
+    "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
       "GIN": 12,
       "KEN": 64,
-      "GHA": 36,
+      "GHA": 37,
       "NGA": 58,
       "SOM": 9,
       "UGA": 34,
@@ -16,11 +16,13 @@
       "RWA": 9,
       "TZA": 37,
       "MOZ": 33,
-      "ETH": 40,
+      "ETH": 39,
       "MLI": 24,
       "BDI": 5,
       "CIV": 19,
       "BEN": 4,
+      "NER": 1,
+      "MUS": 1,
       "TGO": 5,
       "SSD": 2,
       "CPV": 2,
@@ -30,7 +32,7 @@
       "MWI": 2,
       "GMB": 1
     },
-    "west_signals": 195,
+    "west_signals": 197,
     "east_signals": 235
   },
   "sources": [
@@ -276,6 +278,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "bb8183dc9a",
+      "title": "Guinée : une décharge s’effondre, le bilan s’alourdit",
+      "summary": "En Guinée, les recherches se poursuivent après le drame de la décharge de Dar-es-Salam, à Conakry. Le bilan est d’au moins 30 morts après l’effondrement d’une montagne de déchets provoqué par les fortes pluies.",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-24T16:48:39+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/08/24/guinee-une-decharge-seffondre-le-bilan-salourdit/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/08/24/guinee-une-decharge-seffondre-le-bilan-salourdit/"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "a57452ca54",
       "title": "Guinée : colère à Conakry après l'éboulement meurtrier d'une décharge",
@@ -1961,38 +1995,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "67f33aef9b",
-      "title": "Photos: Towering landfill collapse kills 30 in Guinea’s capital, Conakry",
-      "summary": "A landfill collapse in Conakry kills 30, injures six, and destroys homes after heavy rains in Guinea's capital.",
-      "country": "GIN",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-24T11:38:43+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/gallery/2026/8/24/photos-towering-landfill-collapse-kills-30-in-guineas-capital-conakry?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/gallery/2026/8/24/photos-towering-landfill-collapse-kills-30-in-guineas-capital-conakry?traffic_source=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "3adfa34409",
       "title": "Sudan Says It Downed 'Hostile' Drone Launched From Ethiopian Territory",
       "summary": "[Addis Standard] Addis Abeba -- Sudan's Defense Ministry said it shot down a \"hostile\" drone over Blue Nile State near the border with Ethiopia, alleging that the aircraft had been launched from Ethiopian territory.",
@@ -2760,38 +2762,6 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/08/21/somalie-six-millions-de-personnes-confrontees-a-une-insecurite-alimentaire-aigue/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f1ec539dd2",
-      "title": "Éthiopie : une frappe de drone fait 13 blessés au Tigré",
-      "summary": "L’attaque intervient alors que les tensions entre les autorités fédérales et les forces tigréennes font craindre une reprise du conflit qui a ravagé la région",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-21T08:51:20+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/08/21/ethiopie-une-frappe-de-drone-fait-13-blesses-au-tigre/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/08/21/ethiopie-une-frappe-de-drone-fait-13-blesses-au-tigre/"
         }
       ],
       "confirmation_count": 1
@@ -4997,6 +4967,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "213254e1db",
+      "title": "Le Niger reprend son uranium en main malgré le risque des arbitrages internationaux",
+      "summary": "En réattribuant à deux sociétés publiques les permis autrefois détenus par Orano et Goviex, Niamey accélère sa politique de souveraineté minière. Mais ces décisions interviennent alors que plusieurs procédures arbitrales sont toujours en cours.",
+      "country": "NER",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-24T19:28:29+00:00",
+      "lead_source": {
+        "id": "ja",
+        "name": "Jeune Afrique",
+        "tier": 2,
+        "url": "https://www.jeuneafrique.com/1837213/economie-entreprises/le-niger-reprend-son-uranium-en-main-malgre-le-risque-des-arbitrages-internationaux/"
+      },
+      "confirming_sources": [
+        {
+          "id": "ja",
+          "name": "Jeune Afrique",
+          "tier": 2,
+          "url": "https://www.jeuneafrique.com/1837213/economie-entreprises/le-niger-reprend-son-uranium-en-main-malgre-le-risque-des-arbitrages-internationaux/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "359ebd05b2",
+      "title": "Thierry Hebraud (MCB) : « Si le gaz est important en Europe, pourquoi cela ne serait pas le cas en Afrique ? »",
+      "summary": "Boom gazier, électrification, commerce intra-africain… Le patron de la Mauritius Commercial Bank (MCB) détaille la stratégie de son groupe, notamment pour relever les défis énergétiques.",
+      "country": "MUS",
+      "category": "RENEWABLE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-24T18:54:33+00:00",
+      "lead_source": {
+        "id": "ja",
+        "name": "Jeune Afrique",
+        "tier": 2,
+        "url": "https://www.jeuneafrique.com/1837348/economie-entreprises/thierry-hebraud-mcb-si-le-gaz-est-important-en-europe-pourquoi-cela-ne-serait-pas-le-cas-en-afrique/"
+      },
+      "confirming_sources": [
+        {
+          "id": "ja",
+          "name": "Jeune Afrique",
+          "tier": 2,
+          "url": "https://www.jeuneafrique.com/1837348/economie-entreprises/thierry-hebraud-mcb-si-le-gaz-est-important-en-europe-pourquoi-cela-ne-serait-pas-le-cas-en-afrique/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "1dc900103c",
       "title": "Libération des mercenaires de Wagner au Mali : le clan Haftar, nouvel interlocuteur privilégié du FLA",
       "summary": "Saddam Haftar, le fils du maître de l’est libyen, a orchestré le transfert jusqu’à Benghazi des deux ex-mercenaires de Wagner, libérés le 20 août par le Front de libération de l’Azawad (FLA). Voici ce que l’on sait du dessous de ces négociations.",
@@ -5024,6 +5058,38 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1837375/politique/liberation-des-mercenaires-de-wagner-au-mali-le-clan-haftar-nouvel-interlocuteur-privilegie-du-fla/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "79c0ddd687",
+      "title": "Regina Duarte \"definitivamente não\" voltaria à política",
+      "summary": "Mãe e filha atrizes deram uma entrevista conjunta para promover uma peça, mas foi o \"tema Bolsonaro\" a dominar, com Gabriela a tentar travar as respostas da mãe, sem sucesso.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-08-24T17:24:32+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/08/24/regina-duarte-definitivamente-nao-voltaria-a-politica-e-comenta-passagem-por-governo-de-bolsonaro-tem-gente-que-nao-me-perdoa-ate-hoje/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/08/24/regina-duarte-definitivamente-nao-voltaria-a-politica-e-comenta-passagem-por-governo-de-bolsonaro-tem-gente-que-nao-me-perdoa-ate-hoje/"
         }
       ],
       "confirmation_count": 1
@@ -6151,6 +6217,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "ca006dd4d0",
+      "title": "BBNaija Season 11 - Cassi Evicted As Abi Emerges As Most Influential Player",
+      "summary": "[Premium Times] His exit makes him the fourth housemate to be evicted from the \"Show Ya Sef\" season.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-24T07:09:59+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608240168.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608240168.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "817376c5c0",
       "title": "Idele Commends Tinubu for Appointment, Pledges Effective Women Mobilisation for 2027",
       "summary": "[Leadership] Dr Mary Idele has expressed appreciation to President Bola Ahmed Tinubu for appointing her as Secretary of the Women Mobilisation Directorate of the Presidential Campaign Council.",
@@ -6466,38 +6564,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608240094.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "3f9d7a105a",
-      "title": "Police Rescue 75 Passengers Abducted By Gunmen in Kaduna",
-      "summary": "[Leadership] Operatives of the Nigeria Police Force have rescued 75 kidnapped men, women and children after armed kidnappers abducted them from commercial buses in Birnin Gwari Local Government Area of Kaduna State.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-24T05:43:47+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608240084.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608240084.html"
         }
       ],
       "confirmation_count": 1
