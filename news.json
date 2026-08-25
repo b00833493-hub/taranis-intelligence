@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-25T20:45:32.860154+00:00",
+  "generated_at": "2026-08-25T21:43:42.799915+00:00",
   "stats": {
-    "total_signals": 442,
+    "total_signals": 447,
     "verified_signals": 9,
     "countries_covered": 27,
     "sources_active": 40,
     "per_country": {
+      "GIN": 15,
+      "NGA": 57,
       "KEN": 61,
-      "UGA": 38,
+      "UGA": 39,
       "MOZ": 42,
       "GHA": 35,
-      "GIN": 13,
-      "NGA": 57,
-      "SSD": 5,
-      "ETH": 43,
+      "SSD": 4,
+      "ETH": 44,
       "RWA": 12,
-      "TZA": 37,
+      "TZA": 38,
       "MLI": 26,
       "SEN": 28,
       "LBR": 1,
@@ -23,8 +23,8 @@
       "SOM": 6,
       "BDI": 5,
       "CIV": 17,
+      "CPV": 2,
       "BFA": 1,
-      "CPV": 1,
       "TGO": 4,
       "NER": 2,
       "MUS": 1,
@@ -34,8 +34,8 @@
       "MWI": 1,
       "GMB": 1
     },
-    "west_signals": 190,
-    "east_signals": 252
+    "west_signals": 193,
+    "east_signals": 254
   },
   "sources": [
     {
@@ -280,6 +280,70 @@
     }
   ],
   "signals": [
+    {
+      "id": "5c3b6f3d7a",
+      "title": "Eboulement en Guinée : après le choc, la solidarité s'organise",
+      "summary": "L’urgence humanitaire en Guinée après l’éboulement meurtrier d'une décharge dans la nuit de samedi à dimanche. Le bilan fait état d'au moins 31 morts. Plusieurs centaines de personnes ont été évacuées vers une école transformée en centre d’hébergement temporaire. Sur place, une chaîne de solidarité s’organise. La Correspondance à Conakry de Malick Diakité.",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-25T20:58:31+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260825-eboulement-en-guin%C3%A9e-apr%C3%A8s-le-choc-la-solidarit%C3%A9-s-organise"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260825-eboulement-en-guin%C3%A9e-apr%C3%A8s-le-choc-la-solidarit%C3%A9-s-organise"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1a6508fdb3",
+      "title": "Nigeria launches operation to rescue 600 kidnapped victims",
+      "summary": "Nigerian President Bola Ahmed Tinubu announced a rescue operation on Tuesday for victims of 600-person mass abduction.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-25T20:37:42+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "a5aa189508",
       "title": "Sanitary Pads, Diaper Maker Softcare Kenya Revenue Up 17.4pc to Sh7.2bn",
@@ -1065,7 +1129,7 @@
       "country": "GIN",
       "category": "AUTRE",
       "severity": 4,
-      "credibility": 5,
+      "credibility": 4,
       "verified": true,
       "theme": null,
       "legal_status": "ANNOUNCED",
@@ -1088,19 +1152,13 @@
           "url": "https://www.france24.com/fr/vid%C3%A9o/20260824-guin%C3%A9e-plusieurs-morts-dans-l-%C3%A9boulement-d-une-d%C3%A9charge-%C3%A0-conakry"
         },
         {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260823-guin%C3%A9e-un-%C3%A9boulement-fait-au-moins-31-morts-dans-une-d%C3%A9charge-%C3%A0-conakry"
-        },
-        {
           "id": "afnews-fr",
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/08/24/guinee-au-moins-30-morts-dans-leffondrement-dune-decharge-a-conakry/"
         }
       ],
-      "confirmation_count": 3
+      "confirmation_count": 2
     },
     {
       "id": "58978f0d4e",
@@ -5493,6 +5551,134 @@
       "confirmation_count": 1
     },
     {
+      "id": "067c0d3e8a",
+      "title": "«Un effacement d'une partie de l'histoire»: en Guinée, la destruction de la Maison centrale de Conakry a commencé",
+      "summary": "À Conakry, une page de l’histoire carcérale du pays est en train de se tourner. La Maison centrale de Conakry, dans la commune de Kaloum, est progressivement démolie depuis le samedi 22 août. Construite en 1933, pendant la période coloniale, cette prison était devenue au fil des décennies l’un des lieux les plus emblématiques du système pénitentiaire guinéen. Après l'indépendance, elle a vu passer nombre d'acteurs politiques de premier plan, comme les ex-présidents Alpha…",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-25T21:28:40+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260825-un-effacement-d-une-partie-de-l-histoire-en-guin%C3%A9e-la-destruction-de-la-maison-centrale-de-conakry-a-commenc%C3%A9"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260825-un-effacement-d-une-partie-de-l-histoire-en-guin%C3%A9e-la-destruction-de-la-maison-centrale-de-conakry-a-commenc%C3%A9"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "46b6922940",
+      "title": "Défice de Cabo Verde agrava para 1,9% do PIB",
+      "summary": "A instituição afirma que o orçamento assenta num \"cenário macroeconómico globalmente plausível\", mas alerta para aumento do défice para 1,9% do PIB e a despesa com mais 8,6% do que o previsto.",
+      "country": "CPV",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-08-25T21:11:27+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/08/25/conselho-das-financas-publicas-de-cabo-verde-alerta-para-defice-e-aumento-da-despesa-orcamental/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/08/25/conselho-das-financas-publicas-de-cabo-verde-alerta-para-defice-e-aumento-da-despesa-orcamental/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c1dbe01af3",
+      "title": "Understanding Nigeria’s new policy on working hours and locum employment",
+      "summary": "In September 2025, Dr Oluwafemi Rotifa, 28, died after being found unresponsive in a call room at Rivers…\nThe post Understanding Nigeria’s new policy on working hours and locum employment appeared first on TheCable.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-25T19:34:31+00:00",
+      "lead_source": {
+        "id": "thecable",
+        "name": "TheCable Nigeria",
+        "tier": 2,
+        "url": "https://www.thecable.ng/understanding-nigerias-new-policy-on-working-hours-and-locum-employment/"
+      },
+      "confirming_sources": [
+        {
+          "id": "thecable",
+          "name": "TheCable Nigeria",
+          "tier": 2,
+          "url": "https://www.thecable.ng/understanding-nigerias-new-policy-on-working-hours-and-locum-employment/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "193f6c22ce",
+      "title": "After Tanzania Vice President Nchimbi's resignation, what happens next?",
+      "summary": "The appointment must be made as soon as possible and, in any case, within 14 days of the...",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-25T18:47:20+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/after-tanzania-vice-president-nchimbi-s-resignation-what-happens-next--5570898"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/after-tanzania-vice-president-nchimbi-s-resignation-what-happens-next--5570898"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "f93bb2c2df",
       "title": "Comment Coris est devenu la première banque de l’UEMOA, aux côtés d’Ecobank",
       "summary": "Pour la première fois depuis 2013, le groupe burkinabè d’Idrissa Nassa égale Ecobank avec 8,6 % des actifs. Derrière cette première place partagée, le secteur se recompose autour d’acteurs ancrés localement.",
@@ -5584,6 +5770,38 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1837238/politique/ceeac-pourquoi-le-centrafricain-jean-jacques-demafouth-fait-son-retour-au-gabon/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "50f2c13f13",
+      "title": "Tigray tensions erect hurdles for Ethiopia’s peace path",
+      "summary": "The military build-up is also complicating efforts to rebuild institutions, restore basic...",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-25T17:22:41+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/tigray-tensions-erect-hurdles-for-ethiopia-s-peace-path-5570972"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/tigray-tensions-erect-hurdles-for-ethiopia-s-peace-path-5570972"
         }
       ],
       "confirmation_count": 1
@@ -6418,6 +6636,38 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1837212/politique/rdc-rwanda-cinq-questions-pour-comprendre-le-bras-de-fer-sur-lavenir-des-fdlr/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e533889195",
+      "title": "Ebola: quatre chefs d’État africains réclament des financements rapides et traçables",
+      "summary": "Quatre chefs d’État africains interpellent les partenaires engagés dans la riposte contre Ebola : Félix Tshisekedi (RDC), Yoweri Museveni (Ouganda), Faustin-Archange Touadéra (Centrafrique) et Évariste Ndayishimiye (Burundi). Avec Jean Kaseya, directeur général d’Africa CDC, ils publient une tribune dans Jeune Afrique. Leur message : les financements doivent parvenir plus rapidement sur le terrain et être mieux coordonnés. Cette prise de position intervient au moment où…",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-25T12:21:26+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260825-ebola-quatre-chefs-d-%C3%A9tat-africains-r%C3%A9clament-des-financements-rapides-et-tra%C3%A7ables"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260825-ebola-quatre-chefs-d-%C3%A9tat-africains-r%C3%A9clament-des-financements-rapides-et-tra%C3%A7ables"
         }
       ],
       "confirmation_count": 1
@@ -8951,70 +9201,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "132b507d13",
-      "title": "NDPHC seeks NPA collaboration to end bureaucratic bottlenecks delaying delivery of power sector equipment",
-      "summary": "The Nigerian Ports Authority (NPA) has facilitated the recovery and clearance of critical power equipment belonging to the…\nThe post NDPHC seeks NPA collaboration to end bureaucratic bottlenecks delaying delivery of power sector equipment appeared first on TheCable.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-24T22:09:28+00:00",
-      "lead_source": {
-        "id": "thecable",
-        "name": "TheCable Nigeria",
-        "tier": 2,
-        "url": "https://www.thecable.ng/ndphc-seeks-npa-collaboration-to-end-bureaucratic-bottlenecks-delaying-delivery-of-power-sector-equipment/"
-      },
-      "confirming_sources": [
-        {
-          "id": "thecable",
-          "name": "TheCable Nigeria",
-          "tier": 2,
-          "url": "https://www.thecable.ng/ndphc-seeks-npa-collaboration-to-end-bureaucratic-bottlenecks-delaying-delivery-of-power-sector-equipment/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "3078e5c7ae",
-      "title": "Gbajabiamila: Nigeria can’t rely on one police structure to tackle security challenges",
-      "summary": "Femi Gbajabiamila, chief of staff (CoS) to President Bola Tinubu, says Nigeria can no longer rely solely on…\nThe post Gbajabiamila: Nigeria can’t rely on one police structure to tackle security challenges appeared first on TheCable.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-24T22:01:11+00:00",
-      "lead_source": {
-        "id": "thecable",
-        "name": "TheCable Nigeria",
-        "tier": 2,
-        "url": "https://www.thecable.ng/gbajabiamila-nigeria-cant-rely-on-one-police-structure-to-tackle-security-challenges/"
-      },
-      "confirming_sources": [
-        {
-          "id": "thecable",
-          "name": "TheCable Nigeria",
-          "tier": 2,
-          "url": "https://www.thecable.ng/gbajabiamila-nigeria-cant-rely-on-one-police-structure-to-tackle-security-challenges/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "3a38b7de66",
       "title": "Ethiopia's National Dialogue Lays Foundation for Nation-Building - Participants",
       "summary": "[ENA] Addis Ababa -- Ethiopia's National Dialogue Conference has laid the groundwork for building a resilient nation and nurturing a generation that embraces dialogue, participants told ENA.",
@@ -10873,6 +11059,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "8b6eb9da89",
+      "title": "Equator Voice Africa Expands Digital Journalism Footprint in East Africa",
+      "summary": "[Independent (Kampala)] Kampala -- Equator Voice Africa, an emerging digital media portal headquartered in Kampala, continues to expand its editorial coverage, positioning itself as a growing digital hub for Pan-African news, cultural reporting, and regional analysis.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-21T15:17:31+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608210595.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608210595.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "298ed65807",
       "title": "Police Commander Arrested for Illegal Mining",
       "summary": "[AIM] Maputo -- The Police commander of Chinde District, in the central Mozambican province of Zambezia, has been arrested on suspicion of involvement in the illegal mining of tantalite.",
@@ -11193,9 +11411,9 @@
       "confirmation_count": 1
     },
     {
-      "id": "80486eeba6",
-      "title": "Jambojet to Resume Nairobi Entebbe Flights After Six Year Hiatus",
-      "summary": "[Independent (Kampala)] Kampala, Uganda -- Jambojet will resume flights between Nairobi and Entebbe on October 1, 2026, ending a six- year absence from the Ugandan market as the regional low-cost carrier seeks to tap growing demand for air travel, tourism and cross-border trade.",
+      "id": "058c63002c",
+      "title": "More Than 500 Pupils Share Three Teachers At Nebbi School",
+      "summary": "[Nile Post] Every morning, 538 children squeeze into three cramped classrooms at Paleo NFE School in Nebbi District, where a severe shortage of teachers, classrooms and desks has left pupils learning in overcrowded and difficult conditions.",
       "country": "UGA",
       "category": "AUTRE",
       "severity": 1,
@@ -11207,51 +11425,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-08-21T09:34:10+00:00",
+      "published": "2026-08-21T08:20:35+00:00",
       "lead_source": {
         "id": "aa-uga",
         "name": "AllAfrica · Ouganda",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202608210202.html"
+        "url": "https://allafrica.com/stories/202608210132.html"
       },
       "confirming_sources": [
         {
           "id": "aa-uga",
           "name": "AllAfrica · Ouganda",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202608210202.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d98060b0ec",
-      "title": "Minister Orders 100-Day Crackdown On Ramshackle Taxis in Kampala",
-      "summary": "[Independent (Kampala)] Kampala, Uganda -- The Ministry of Works and Transport has ordered a 100-day crackdown to get them off the road commuter taxis in dangerous mechanical condition off the road in the Kampala Metropolitan area.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-21T09:34:09+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608210201.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608210201.html"
+          "url": "https://allafrica.com/stories/202608210132.html"
         }
       ],
       "confirmation_count": 1
@@ -12052,38 +12238,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200132.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d71cd7f734",
-      "title": "Kosti Ngai: South Sudan’s liberation hero who chose cleaner path in sea of corruption",
-      "summary": "Kosti is evidence that South Sudan's failure was not inevitable.",
-      "country": "SSD",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-20T03:00:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/kosti-ngai-south-sudan-liberation-hero-5563384"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/kosti-ngai-south-sudan-liberation-hero-5563384"
         }
       ],
       "confirmation_count": 1
