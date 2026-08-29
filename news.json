@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-29T14:28:34.875457+00:00",
+  "generated_at": "2026-08-29T18:27:52.150454+00:00",
   "stats": {
-    "total_signals": 426,
-    "verified_signals": 11,
+    "total_signals": 427,
+    "verified_signals": 13,
     "countries_covered": 23,
     "sources_active": 40,
     "per_country": {
+      "NER": 14,
       "GIN": 5,
       "NGA": 56,
       "KEN": 58,
@@ -16,21 +17,20 @@
       "CIV": 13,
       "MWI": 2,
       "ETH": 38,
-      "SEN": 32,
+      "SEN": 33,
       "TZA": 36,
       "MLI": 26,
-      "NER": 14,
       "SOM": 6,
       "SSD": 3,
       "CPV": 3,
-      "GNB": 5,
-      "BEN": 3,
+      "BEN": 4,
+      "GNB": 4,
       "RWA": 8,
       "MDG": 2,
       "TGO": 1,
       "GMB": 1
     },
-    "west_signals": 198,
+    "west_signals": 199,
     "east_signals": 228
   },
   "sources": [
@@ -276,6 +276,82 @@
     }
   ],
   "signals": [
+    {
+      "id": "37a24fbc22",
+      "title": "Niger military says it is regaining control after attempted mutiny",
+      "summary": "Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.",
+      "country": "NER",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-29T17:03:10+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss"
+        },
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/08/29/niger-military-gradually-regaining-control-after-mutiny/"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
+      "id": "08521fee05",
+      "title": "Niger : situation confuse après des explosions et des tirs entendus à Niamey",
+      "summary": "🇳🇪 Au Niger, des explosions et des tirs entendus depuis la nuit à Niamey, notamment autour de l’aéroport et du palais présidentiel. Alors que les raisons de ces combats restent floues, la junte affirme \"reprendre le contrôle\" de la situation. Les casernes sont en alerte maximale.",
+      "country": "NER",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-29T16:52:23+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260829-niger-situation-confuse-apr%C3%A8s-des-explosions-et-des-tirs-entendus-%C3%A0-niamey"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260829-niger-situation-confuse-apr%C3%A8s-des-explosions-et-des-tirs-entendus-%C3%A0-niamey"
+        },
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260829-niger-des-explosions-et-des-tirs-entendus-dans-la-capitale"
+        }
+      ],
+      "confirmation_count": 2
+    },
     {
       "id": "58116b0b93",
       "title": "Guinée : Algassimou Diallo, la chute d’un magistrat jadis porté aux nues",
@@ -1187,38 +1263,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "fc9487b33d",
-      "title": "Over 7,000 People Kidnapped Across Nigeria, Boko Haram Got 90% of Ransom - Report",
-      "summary": "[Premium Times] SBM Intelligence, a research think tank, said about 7,825 people were kidnapped in one year, with at least N7.78 billion paid in ransom, while Boko Haram pocketed over 90 per cent of the proceeds.",
-      "country": "NGA",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-28T04:28:02+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608280076.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608280076.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "aaf23b0816",
       "title": "MPs Summon Finance, Works Officials Over Shs46bn Stalled Bridge Projects",
       "summary": "[Nile Post] The Parliamentary Committee on Government Assurance and Implementation has summoned officials from the Ministries of Finance, Planning and Economic Development and Works and Transport, together with contractors handling 30 stalled bridge projects worth Shs46 billion.",
@@ -1571,38 +1615,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "d43ccfcdbf",
-      "title": "Livestock Deaths and Water Scarcity Devastate Afar's Kori Woreda As El Ni&#xF1;o Threat Grows",
-      "summary": "[Addis Standard] Addis Abeba -- A severe water and livelihood crisis is unfolding in Kori Woreda of Ethiopia's Afar Region, where residents report widespread livestock deaths, drying water sources and mounting pressure on families already struggling with prolonged drought and inadequate rainfall.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-25T05:19:17+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608250071.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608250071.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "d47dc80475",
       "title": "New Emergency Care Skills Help Tanzania's Frontline Doctors Save Lives",
       "summary": "[IPS] Dar es Salaam, Tanzania -- The 14-year-old girl arrived at the hospital fighting for her life. After a tragic hit-and-run car accident, she was rushed into the emergency department with serious abdominal injuries. Every passing minute brought her closer to death.",
@@ -1769,8 +1781,8 @@
       "confirmation_count": 2
     },
     {
-      "id": "89911a7d76",
-      "title": "Niger says its security forces have ‘contained’ a coup attempt",
+      "id": "9f5488f61e",
+      "title": "Niger says mutinying soldiers launched coup attempt",
       "summary": "Armed men launch attacks on capital Niamey and briefly take over state television station",
       "country": "NER",
       "category": "AUTRE",
@@ -1783,7 +1795,7 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-08-29T12:50:55+00:00",
+      "published": "2026-08-29T18:11:37+00:00",
       "lead_source": {
         "id": "ft-africa",
         "name": "Financial Times · Africa",
@@ -1796,6 +1808,40 @@
           "name": "Financial Times · Africa",
           "tier": 1,
           "url": "https://www.ft.com/content/25f0b3ef-db30-4a86-b75e-ca56ff4494fd?syn-25a6b1a6=1"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f182064211",
+      "title": "Football: l'international sénégalais Nicolas Jackson signe à Aston Villa pour 75 millions d'euros",
+      "summary": "Le marché des transferts continue de s'agiter en Angleterre, avec l'arrivée le 28 août dans la soirée de l'international sénégalais Nicolas Jackson à Aston Villa, en provenance de Chelsea, pour 75 millions d'euros bonus compris. Considéré comme l'un des attaquants africains les plus prometteurs, l'attaquant des Lions de la Teranga sort d'une saison sans éclat en prêt au Bayern Munich et tentera de se relancer à Birmingham en Premier League.",
+      "country": "SEN",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "fr",
+      "published": "2026-08-29T17:45:05+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique-foot/20260829-football-le-s%C3%A9n%C3%A9galais-nicolas-jackson-signe-%C3%A0-aston-villa-pour-75-millions-d-euros"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260829-football-le-s%C3%A9n%C3%A9galais-nicolas-jackson-signe-%C3%A0-aston-villa-pour-75-millions-d-euros"
         }
       ],
       "confirmation_count": 1
@@ -1929,6 +1975,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "7888c3cdc7",
+      "title": "Panic as gunshots, explosions ring out at Niger Republic airport, presidential palace",
+      "summary": "Gunfire and explosions were heard in several parts of Niamey, Niger Republic’s capital, early Saturday as attackers targeted…\nThe post Panic as gunshots, explosions ring out at Niger Republic airport, presidential palace appeared first on TheCable.",
+      "country": "NER",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-29T08:18:14+00:00",
+      "lead_source": {
+        "id": "thecable",
+        "name": "TheCable Nigeria",
+        "tier": 2,
+        "url": "https://www.thecable.ng/panic-as-gunshots-explosions-ring-out-at-niger-republic-airport-presidential-palace/"
+      },
+      "confirming_sources": [
+        {
+          "id": "thecable",
+          "name": "TheCable Nigeria",
+          "tier": 2,
+          "url": "https://www.thecable.ng/panic-as-gunshots-explosions-ring-out-at-niger-republic-airport-presidential-palace/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "51301015fa",
       "title": "Rare war of words exposes tension within South Sudan top leadership",
       "summary": "Public spat between President Kiir and his vice Rebecca Nyandeng raises fresh questions...",
@@ -1988,38 +2066,6 @@
           "name": "The Africa Report",
           "tier": 2,
           "url": "https://www.theafricareport.com/429180/niger-gunfire-and-explosions-heard-in-niamey/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f21b0abae1",
-      "title": "Niger: des explosions et des tirs entendus à Niamey, la junte annonce «reprendre le contrôle» de la situation",
-      "summary": "Au Niger, le régime militaire au pouvoir affirme à la mi-journée «reprendre progressivement le contrôle» de la situation. Depuis cette nuit, des coups de feu et des tirs à l’arme lourde sont entendus à Niamey, autour de l’aéroport, mais aussi dans le centre-ville, dans la zone du palais présidentiel. À l’heure actuelle, on ignore qui se trouve derrière ces combats et quels sont les rapports de force. D’après les informations de RFI, les casernes de Niamey sont en alerte…",
-      "country": "NER",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-29T03:05:27+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260829-niger-des-explosions-et-des-tirs-entendus-dans-la-capitale"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260829-niger-des-explosions-et-des-tirs-entendus-dans-la-capitale"
         }
       ],
       "confirmation_count": 1
@@ -2820,38 +2866,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608280057.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a716ace2e3",
-      "title": "Terrorists Kill 4, Including Islamic Scholar, Abduct Scores in Sokoto",
-      "summary": "[Leadership] Barely days after 65 people died in a boat mishap in Gorau village, Goronyo Local Government Area of Sokoto State, suspected terrorists have attacked the community, killing four people, abducting four others and injuring several residents.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-28T04:10:17+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608280038.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608280038.html"
         }
       ],
       "confirmation_count": 1
@@ -4113,6 +4127,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "785d081dd9",
+      "title": "Moody’s revises Nigeria’s outlook to positive, cites ‘stronger-than-expected’ economic growth",
+      "summary": "Moody’s Ratings, a US-based rating agency, has revised Nigeria’s sovereign outlook to positive from stable, citing improvements in…\nThe post Moody’s revises Nigeria’s outlook to positive, cites ‘stronger-than-expected’ economic growth appeared first on TheCable.",
+      "country": "NGA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-29T10:14:03+00:00",
+      "lead_source": {
+        "id": "thecable",
+        "name": "TheCable Nigeria",
+        "tier": 2,
+        "url": "https://www.thecable.ng/moodys-revises-nigerias-outlook-to-positive-cites-stronger-than-expected-economic-growth/"
+      },
+      "confirming_sources": [
+        {
+          "id": "thecable",
+          "name": "TheCable Nigeria",
+          "tier": 2,
+          "url": "https://www.thecable.ng/moodys-revises-nigerias-outlook-to-positive-cites-stronger-than-expected-economic-growth/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "fe78e3d550",
       "title": "Sénégal: report de la déclaration de politique générale du Premier ministre devant l’Assemblée",
       "summary": "Au Sénégal, le nouveau Premier ministre Al Aminou Lô ne pourra finalement pas prononcer sa déclaration de politique générale (DPG) le 1ᵉʳ septembre comme annoncé par décret par le président Bassirou Diomaye Faye. Dans un communiqué publié vendredi 28 août 2026, l’Assemblée nationale estime que plusieurs « confusions » entourent la démarche et les dates retenues.",
@@ -4696,6 +4742,12 @@
           "url": "https://allafrica.com/stories/202608280124.html"
         },
         {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608260091.html"
+        },
+        {
           "id": "aa-tza",
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
@@ -4714,7 +4766,7 @@
           "url": "https://allafrica.com/stories/202608100108.html"
         }
       ],
-      "confirmation_count": 6
+      "confirmation_count": 7
     },
     {
       "id": "39ff301b15",
@@ -5627,6 +5679,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "055008d0cf",
+      "title": "Bénin : à Nikki, la Gaani célèbre l’histoire et l’unité des peuples du Nord",
+      "summary": "Ambiance des grands jours dans les rues de Nikki au Bénin, ce jour des milliers de personnes accompagnent des dignitaires vêtu d’apparats multicolores vers la grande place des fêtes.",
+      "country": "BEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-08-29T15:57:49+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/08/29/benin-a-nikki-la-gaani-celebre-lhistoire-et-lunite-des-peuples-du-nord/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/08/29/benin-a-nikki-la-gaani-celebre-lhistoire-et-lunite-des-peuples-du-nord/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "ddceac2299",
       "title": "Guiné-Bissau: referendo da Lei Eleitoral \"preocupa\", nomeadamente devido a caução de 76 mil euros a candidatos à Presidência",
       "summary": "Os guineenses vão a referendo este domingo para validar ou invalidar a adopção da nova Constituição e lei eleitoral, escritas pelo Conselho Nacional da Transição que tomou o poder pela força em novembro de 2025. Se os textos forem adoptados, qualquer candidato à presidência passará a ter de apresentar uma caução de 76 mil euros. \"A democracia deixa de ser uma participação cidadã e passa a ser uma participação das pessoas com dinheiro\", lamenta o sociólogo guineense…",
@@ -5691,9 +5775,9 @@
       "confirmation_count": 1
     },
     {
-      "id": "8c87d4d319",
-      "title": "Niger's military 'gradually regaining control' after mutiny at military base",
-      "summary": "Niger’s military says it’s “gradually regaining control” after a mutiny at an army base near the international airport in Niamey.",
+      "id": "baa6046bac",
+      "title": "Niger : des « insurgés de l'armée » ont tenté de pénétrer dans le palais présidentiel",
+      "summary": "La télévision nationale nigérienne a cessé d'émettre samedi après une nuit marquée par d'intenses échanges de tirs dans certains quartiers de la capitale,",
       "country": "NER",
       "category": "AUTRE",
       "severity": 1,
@@ -5704,20 +5788,20 @@
       "regulatory": false,
       "fdi": false,
       "sectors": [],
-      "lang": "en",
-      "published": "2026-08-29T13:26:12+00:00",
+      "lang": "fr",
+      "published": "2026-08-29T13:23:57+00:00",
       "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
+        "id": "afnews-fr",
+        "name": "Africanews FR",
         "tier": 2,
-        "url": "http://www.africanews.com/2026/08/29/niger-military-gradually-regaining-control-after-mutiny/"
+        "url": "http://fr.africanews.com/2026/08/29/niger-des-insurges-de-larmee-ont-tente-de-penetrer-dans-le-palais-presidentiel/"
       },
       "confirming_sources": [
         {
-          "id": "afnews-en",
-          "name": "Africanews",
+          "id": "afnews-fr",
+          "name": "Africanews FR",
           "tier": 2,
-          "url": "http://www.africanews.com/2026/08/29/niger-military-gradually-regaining-control-after-mutiny/"
+          "url": "http://fr.africanews.com/2026/08/29/niger-des-insurges-de-larmee-ont-tente-de-penetrer-dans-le-palais-presidentiel/"
         }
       ],
       "confirmation_count": 1
@@ -5750,38 +5834,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/08/29/gaani-festival-celebrates-history-of-resilient-peoples-united-by-shared-history/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "baa6046bac",
-      "title": "Niger : des « insurgés de l'armée » ont tenté de pénétrer dans le palais présidentiel",
-      "summary": "La télévision nationale nigérienne a cessé d'émettre samedi après une nuit marquée par d'intenses échanges de tirs dans certains quartiers de la capitale,",
-      "country": "NER",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-29T11:53:47+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/08/29/niger-des-insurges-de-larmee-ont-tente-de-penetrer-dans-le-palais-presidentiel/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/08/29/niger-des-insurges-de-larmee-ont-tente-de-penetrer-dans-le-palais-presidentiel/"
         }
       ],
       "confirmation_count": 1
@@ -5910,38 +5962,6 @@
           "name": "Observador",
           "tier": 2,
           "url": "https://observador.pt/2026/08/29/buscas-de-jovem-ucraniano-desaparecido-na-praia-da-ursa-retomadas-por-mar-e-terra/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "19823fd454",
-      "title": "Explosões e tiros ouvidos em vários bairros no Níger",
-      "summary": "\"Há intensos tiroteios e explosões perto da Base 101 em Niamey\", disse um habitante local à agência de notícias France-Presse, declaração confirmada por várias outras testemunhas.",
-      "country": "NER",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-08-29T09:01:40+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/2026/08/29/explosoes-e-tiros-ouvidos-em-varios-bairros-da-capital-do-niger/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/2026/08/29/explosoes-e-tiros-ouvidos-em-varios-bairros-da-capital-do-niger/"
         }
       ],
       "confirmation_count": 1
@@ -8639,6 +8659,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "140dfccf0e",
+      "title": "Traders Back Tobacco Controls, Oppose 'Duplicate' Licensing Requirements",
+      "summary": "[Capital FM] Nairobi -- The Bar and Liquor Traders Association of Kenya (BAHLITA) has urged the National Assembly to ensure affected traders are included in the public participation process on the Tobacco Control (Amendment) Bill, 2024, warning that proposed licensing and registration requirements could raise compliance costs for small businesses.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-28T10:27:35+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608280189.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608280189.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "066b20144a",
       "title": "15 NYSC Members Reportedly Abducted in Kogi While Returning From Camp",
       "summary": "[Premium Times] The corps members were reportedly abducted along the Ofu/Itobe-Onicha-Igo axis in Kogi while travelling to Abuja after completing their orientation camp.",
@@ -9729,38 +9781,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "253d0da0ba",
-      "title": "Nairobi Identifies 16 Flood Hotspots As County Steps Up El Ni&#xF1;o Preparations",
-      "summary": "[Capital FM] Nairobi -- Nairobi has intensified preparations for the anticipated El Niño rains, with Governor Johnson Sakaja saying multi-agency teams have been mobilised to minimise flooding and other emergencies.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-28T04:13:25+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608280039.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608280039.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "6ea5c90af6",
       "title": "Ugandan Journalist Remmy Asiteza Detained On 'Fake News' Charges",
       "summary": "[CPJ] Nairobi -- The Committee to Protect Journalists calls on Ugandan authorities to immediately and unconditionally release journalist Remmy Asiteza, who has been charged with publishing \"fake news\" in connection to his coverage of corruption allegations in the ministry of the presidency.",
@@ -9889,38 +9909,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "7b8d1c55ff",
-      "title": "MTN Uganda and Starlink Partner to Extend Connectivity to Remote Areas",
-      "summary": "[Independent (Kampala)] Kampala -- MTN Uganda has partnered with Starlink to extend the MTN Group-Starlink partnership in Uganda, bringing satellite-enabled connectivity closer to enterprise customers operating in remote, underserved and hard-to-reach areas.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-27T15:45:30+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202608270612.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202608270612.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "72a2b3ea6b",
       "title": "Daniel Laryea to Officiate Medeama V Nations FC Champion of Champions Clash",
       "summary": "[Ghanaian Times] Experienced referee, Daniel Laryea, has been appointed to officiate the 2026 Champion of Champions contest between Ghana Premier League champions, Medeama SC, and MTN FA Cup winners, Nations FC.",
@@ -10012,38 +10000,6 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/vid%C3%A9o/20260827-au-s%C3%A9n%C3%A9gal-le-pari-d-un-traitement-contre-la-dr%C3%A9panocytose-fabriqu%C3%A9-en-afrique"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4ebacf6dda",
-      "title": "Guiné-Bissau: Presidente de transição apela ao voto no referendo",
-      "summary": "O Presidente de transição da Guiné-Bissau, o General Horta Inta-a apelou nesta quarta-feira nas redes sociais à mobilização dos eleitores no referendo constitucional do próximo domingo cuja campanha termina já nesta sexta-feira.",
-      "country": "GNB",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-08-27T14:28:21+00:00",
-      "lead_source": {
-        "id": "rfi-pt",
-        "name": "RFI Português",
-        "tier": 1,
-        "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260827-guin%C3%A9-bissau-presidente-de-transi%C3%A7%C3%A3o-apela-ao-voto-no-referendo"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-pt",
-          "name": "RFI Português",
-          "tier": 1,
-          "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260827-guin%C3%A9-bissau-presidente-de-transi%C3%A7%C3%A3o-apela-ao-voto-no-referendo"
         }
       ],
       "confirmation_count": 1
@@ -10465,6 +10421,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "109aa4c5e3",
+      "title": "Museveni Backs Balam, Nameere Anti-Corruption Inspection",
+      "summary": "[Independent (Kampala)] Kampala -- President Yoweri Museveni has defended the anti-corruption inspection tours being conducted by Local Government Minister Balaam Barugahara and State Minister Justine Nameere, dismissing concerns that the ministers could be \"Kutomera\" or blindly searching for wrongdoing.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-27T10:47:00+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608270320.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608270320.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "fa5cf68613",
       "title": "Former Rwandan presidential guard chief dies in Kigali prison",
       "summary": "Col Tom Byabagamba, who headed President Kagame’s presidential guard, had served 12 years out...",
@@ -10620,6 +10608,38 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608270198.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2590318471",
+      "title": "Unpaid Arrears - Plateau Varsity Lecturers Begin Indefinite Strike",
+      "summary": "[Premium Times] Lecturers at Plateau State University, Bokkos, have declared an indefinite strike over unpaid salary-related arrears and other unresolved demands.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-27T09:43:45+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608270150.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608270150.html"
         }
       ],
       "confirmation_count": 1
@@ -11746,6 +11766,38 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608250052.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1b9d34f60e",
+      "title": "Ethiopia Concludes Landmark 40-Day National Dialogue",
+      "summary": "[Horn Diplomat] Addis Ababa (Horndiplomat) -- Ethiopia concluded its National Dialogue Conference on Saturday after nearly 4,000 Ethiopians from diverse backgrounds spent 40 days deliberating on some of the country's most consequential national questions.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-24T14:15:13+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202608240603.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202608240603.html"
         }
       ],
       "confirmation_count": 1
