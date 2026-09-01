@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-09-01T18:30:21.744933+00:00",
+  "generated_at": "2026-09-01T21:47:07.391752+00:00",
   "stats": {
-    "total_signals": 407,
-    "verified_signals": 6,
+    "total_signals": 414,
+    "verified_signals": 8,
     "countries_covered": 22,
     "sources_active": 40,
     "per_country": {
-      "SEN": 27,
-      "NGA": 45,
-      "KEN": 58,
+      "SEN": 29,
+      "NGA": 46,
+      "KEN": 57,
       "UGA": 40,
-      "ETH": 36,
+      "ETH": 38,
       "BFA": 2,
       "GIN": 8,
       "GHA": 37,
       "NER": 25,
-      "MOZ": 33,
+      "MOZ": 35,
       "TZA": 38,
       "MLI": 19,
       "CIV": 11,
       "BEN": 4,
-      "SOM": 4,
+      "SOM": 5,
       "SSD": 2,
-      "MDG": 2,
-      "GNB": 6,
+      "GNB": 7,
+      "MDG": 1,
       "LBR": 2,
       "RWA": 6,
       "MUS": 1,
       "MWI": 1
     },
-    "west_signals": 186,
-    "east_signals": 221
+    "west_signals": 190,
+    "east_signals": 224
   },
   "sources": [
     {
@@ -275,6 +275,144 @@
     }
   ],
   "signals": [
+    {
+      "id": "d18e105e85",
+      "title": "Sénégal : accord avec le FMI en vue d'un programme d'aide de plus de 2 milliards de dollars",
+      "summary": "Le FMI est parvenu à un accord avec le gouvernement du Sénégal en vue de la mise en place d'un programme d'aide \"d'environ 2,2 milliards de dollars\" pour la période 2026-2029, a annoncé le Fonds monétaire international.  Cette annonce intervient près de trois ans après la suspension par l’institution de son dernier prêt, suite à la révélation par Dakar d’une dette cachée contractée par l’administration précédente. A Dakar, les précisions de Sarah Sakho.",
+      "country": "SEN",
+      "category": "MACRO",
+      "severity": 4,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "fr",
+      "published": "2026-09-01T20:58:34+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260901-s%C3%A9n%C3%A9gal-accord-avec-le-fmi-en-vue-d-un-programme-d-aide-de-plus-de-2-milliards-de-dollars"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260901-s%C3%A9n%C3%A9gal-accord-avec-le-fmi-en-vue-d-un-programme-d-aide-de-plus-de-2-milliards-de-dollars"
+        },
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/09/01/le-fmi-et-le-senegal-scellent-un-accord-de-22-milliards-de-dollars/"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
+      "id": "1b6476d4ac",
+      "title": "Presidency Spends N37.6bn On Trips",
+      "summary": "[Daily Trust] The Presidency's domestic and foreign travel-related expenditure has gulped N37.64 billion in three years, an analysis of government expenditure records has shown.",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T19:33:15+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010630.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010630.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "eec45fd119",
+      "title": "Senegal and IMF agree new $2.2 billion loan programme",
+      "summary": "Senegal has reached an agreement with the International Monetary Fund on a new $2.2 billion debt programme, the financial institution said on Tuesday. An earlier agreement was suspended in 2024 after the discovery of underreported debt.",
+      "country": "SEN",
+      "category": "MACRO",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "en",
+      "published": "2026-09-01T19:21:29+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/09/01/senegal-and-imf-agree-new-22-billion-loan-programme/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/09/01/senegal-and-imf-agree-new-22-billion-loan-programme/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8dc976df15",
+      "title": "Sénégal–FMI : un programme 2,2 milliards de dollars sans restructuration",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "SEN",
+      "category": "MACRO",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-01T19:12:10+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/09/01/senegal-fmi-un-programme-22-milliards-de-dollars-sans-restructuration/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/09/01/senegal-fmi-un-programme-22-milliards-de-dollars-sans-restructuration/"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "2f2bd09322",
       "title": "Sénégal : le FMI ouvre la voie à 2,2 milliards de dollars, Dakar accepte de restructurer sa dette",
@@ -2232,38 +2370,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "e284a54137",
-      "title": "Police Fire Tear Gas At Pensioners Protesting Arrears At Lagos House",
-      "summary": "[Premium Times] Monday's protest at Lagos House has now added a new dimension to the dispute, with the pensioners questioning the decision to use teargas to disperse them.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-01T08:25:15+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010103.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010103.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "7b37bea0ea",
       "title": "Investigation - Oil Companies Violate Nigerian Laws, Flare Gas, Face No Sanctions (1)",
       "summary": "[Premium Times] Four years after Nigeria tightened its anti-gas flaring laws, a PREMIUM TIMES investigation finds weak enforcement, rising methane emissions, with oil-producing communities paying severely for these.",
@@ -3898,6 +4004,44 @@
       "confirmation_count": 1
     },
     {
+      "id": "78dbe5efd4",
+      "title": "Guinea-Bissau referendum nods to expansion of presidential powers",
+      "summary": "The National Electoral Commission says 70 percent of voters cast their ballots in favour of the changes.",
+      "country": "GNB",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T19:59:30+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/9/1/guinea-bissau-referendum-nods-to-expansion-of-presidential-powers?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/9/1/guinea-bissau-referendum-nods-to-expansion-of-presidential-powers?traffic_source=rss"
+        },
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/08/30/guinea-bissau-votes-in-referendum-to-expand-presidential-powers/"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
       "id": "2768a8969f",
       "title": "Kenya : l'aéroport de Nairobi paralysé par une grève des travailleurs",
       "summary": "🇰🇪 Au Kenya, une grève des travailleurs du secteur aérien provoque depuis dimanche d’importants retards et annulations de vols. Cette mobilisation d’employés dénonçant leurs conditions de travail perturbe fortement les déplacements de passagers.",
@@ -4246,38 +4390,6 @@
         }
       ],
       "confirmation_count": 2
-    },
-    {
-      "id": "d07815186e",
-      "title": "Ibom Air's Latest Airbus Aircraft Is Second Among the 10 Ordered By Ex-Gov Emmanuel's Administration",
-      "summary": "[Premium Times] Besides establishing Ibom Air and overseeing its steady growth, the Emmanuel administration also built the new international terminal at the Uyo airport, which has continued to enthrall air passengers.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-01T06:42:05+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010076.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010076.html"
-        }
-      ],
-      "confirmation_count": 1
     },
     {
       "id": "7a1201503f",
@@ -4970,6 +5082,166 @@
       "confirmation_count": 1
     },
     {
+      "id": "17298f9c66",
+      "title": "Moçambique. PS questiona Governo sobre linha de 500 milhões",
+      "summary": "José Luís Carneiro, em visita a Maputo, promete pergunta parlamentar ao Ministério das Finanças sobre a linha de crédito acordada em dezembro, na Cimeira do Porto.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-01T21:24:52+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/09/01/ps-vai-questionar-governo-sobre-linha-de-500-milhoes-de-euros-para-investimentos-em-mocambique/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/09/01/ps-vai-questionar-governo-sobre-linha-de-500-milhoes-de-euros-para-investimentos-em-mocambique/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3e873d832e",
+      "title": "Carneiro diz que Montenegro não deve dar \"razões\" ao Chega",
+      "summary": "José Luís Carneiro, em Maputo, avisa que o prolongar do caso do MAI \"degrada a autoridade política do Estado\" e deixa a responsabilidade nas mãos do primeiro-ministro.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-01T20:37:22+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/09/01/carneiro-diz-que-montenegro-nao-deve-dar-razoes-para-efeitos-pirotecnicos-do-chega-sobre-luis-neves/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/09/01/carneiro-diz-que-montenegro-nao-deve-dar-razoes-para-efeitos-pirotecnicos-do-chega-sobre-luis-neves/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "67c99e45de",
+      "title": "N1.36trn Electricity Unpaid in 2025 - Report",
+      "summary": "[Daily Trust] The Nigerian Electricity Regulatory Commission (NERC) has stated N1.36trn worth of electricity was lost and unpaid for in the 2025.",
+      "country": "NGA",
+      "category": "RENEWABLE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T19:33:18+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010637.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010637.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "25f9c3f4ac",
+      "title": "Dangote Rejects $38bn Wealth Ranking, Says Refinery Crosses $40bn",
+      "summary": "[Daily Trust] Alhaji Aliko Dangote, Africa's richest man and President of Dangote Group, has dismissed recent estimates of his personal wealth, saying he pays little attention to wealth rankings and that his businesses are worth significantly more than such figures suggest.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T19:33:17+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010636.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010636.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "987054e9c1",
+      "title": "Renováveis em alta, mas importação bate máximos",
+      "summary": "Consumo de eletricidade cresceu 3,1% nos primeiros oito meses do ano. Nigéria e EUA dominaram o fornecimento de gás natural, com Rússia a representar 6%.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-01T18:31:04+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/09/01/consumo-de-eletricidade-sobe-31-ate-agosto-com-producao-solar-a-bater-recorde/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/09/01/consumo-de-eletricidade-sobe-31-ate-agosto-com-producao-solar-a-bater-recorde/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b9fcc8a2ef",
       "title": "IMF agrees $2.2bn bailout for Senegal",
       "summary": "West African nation will seek to restructure its external debts after last year’s revelations of extensive misreported borrowing",
@@ -5260,6 +5532,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "001c9578bc",
+      "title": "Türkiye expands security footprint in Somalia with anti-piracy operation",
+      "summary": "Ankara is complementing its other efforts in Somalia, including training local troops...",
+      "country": "SOM",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T15:43:22+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/tuerkiye-expands-security-footprint-in-somalia-with-anti-piracy-operation-5580048"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/tuerkiye-expands-security-footprint-in-somalia-with-anti-piracy-operation-5580048"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "5c8c9423fa",
       "title": "Sénégal : les familles de migrants disparus en mer témoignent",
       "summary": "🇸🇳 Au Sénégal, à l’occasion de la Journée internationale des personnes disparues, des familles de migrants disparus en mer se sont rassemblées ce lundi. Elles ont rendu hommage à leurs proches et interpellent les autorités sur le sort des disparus.",
@@ -5287,6 +5591,38 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/vid%C3%A9o/20260901-s%C3%A9n%C3%A9gal-les-familles-de-migrants-disparus-en-mer-t%C3%A9moignent"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e47cfb9363",
+      "title": "Kenya fresh produce exporters lose $3m daily in aviation workers’ go-slow",
+      "summary": "The disruption came at a critical time for exporters of high-value and highly perishable...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T15:02:59+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-fresh-produce-exporters-lose-3m-daily-in-aviation-workers-go-slow-5580000"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-fresh-produce-exporters-lose-3m-daily-in-aviation-workers-go-slow-5580000"
         }
       ],
       "confirmation_count": 1
@@ -7246,38 +7582,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "176ea0f4ea",
-      "title": "Nigerians Too Poor Not to Be Subsidised, ADC Tells Tinubu",
-      "summary": "[Daily Trust] The African Democratic Congress (ADC) has rejected the Presidency's claim that restoring petrol subsidy to support a pump price of about N600 per litre could cost Nigeria N19.1 trillion annually, saying Nigerians are too poor to afford unsubsidised fuel.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-01T06:42:05+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010077.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010077.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "f517394994",
       "title": "Aviation Workers Call Off Strike After Deal On Pay, Union Dues",
       "summary": "[Capital FM] Nairobi -- Aviation workers have called off their industrial action and resumed normal duties after reaching a return-to-work agreement with their employers, ending a standoff that threatened to disrupt operations in the aviation sector.",
@@ -7721,38 +8025,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608310790.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "8050bea7ab",
-      "title": "Madagascar : QMM suspend ses activités minières",
-      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
-      "country": "MDG",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-31T22:32:37+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/08/31/madagascar-qmm-suspend-ses-activites-minieres/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/08/31/madagascar-qmm-suspend-ses-activites-minieres/"
         }
       ],
       "confirmation_count": 1
@@ -9648,6 +9920,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "ad5a868f3a",
+      "title": "Ethiopia’s Power Halved Djibouti’s Bills, Gazes at a Bigger Market",
+      "summary": "Our subscribers to the print edition are entitled to get a bonus in a form of early access to our digital edition.Use the bank detail...",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-30T02:55:30+00:00",
+      "lead_source": {
+        "id": "addis-fort",
+        "name": "Addis Fortune",
+        "tier": 2,
+        "url": "https://addisfortune.news/ethiopias-power-halved-djiboutis-bills-gazes-at-a-bigger-market"
+      },
+      "confirming_sources": [
+        {
+          "id": "addis-fort",
+          "name": "Addis Fortune",
+          "tier": 2,
+          "url": "https://addisfortune.news/ethiopias-power-halved-djiboutis-bills-gazes-at-a-bigger-market"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "2b8bc5c1f0",
       "title": "Direct Sales Give Eastern Uganda's Cotton Farmers a Stronger Hand",
       "summary": "[Bird Story Agency] Cotton farmers in eastern Uganda are bypassing village middlemen and selling collectively or directly to ginneries. The emerging model is giving growers greater control over weighing, payment and market access - and helping women turn seasonal cotton earnings into education, land, homes and productive assets.",
@@ -10159,38 +10463,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608280577.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1e9a02a3cd",
-      "title": "Sénégal : la Cour suprême maintient le flou sur la date des élections locales",
-      "summary": "🇸🇳 Au Sénégal, toujours pas de date pour les élections municipales et locales. La Cour suprême a rejeté, ce jeudi, le recours d'une partie de l’opposition et de la société civile, qui lui demandait de contraindre le président de la République à fixer la date du scrutin. Le mandat des élus expire dans quelques mois.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-08-28T16:24:34+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260828-s%C3%A9n%C3%A9gal-la-cour-supr%C3%AAme-maintient-le-flou-sur-la-date-des-%C3%A9lections-locales"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260828-s%C3%A9n%C3%A9gal-la-cour-supr%C3%AAme-maintient-le-flou-sur-la-date-des-%C3%A9lections-locales"
         }
       ],
       "confirmation_count": 1
@@ -11702,38 +11974,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "dee3f3ad4f",
-      "title": "Kenya resists EAC deferral on vehicle assembly rules",
-      "summary": "The bloc has decided to delay enforcement of the rules by a year.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-26T15:00:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-resists-eac-deferral-on-vehicle-assembly-rules-5572134"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-resists-eac-deferral-on-vehicle-assembly-rules-5572134"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "84bb6e849c",
       "title": "Mondlane Summoned By Supreme Court Over Five Criminal Charges",
       "summary": "[AIM] Maputo -- Mozambique's Supreme Court has issued a summons to Venancio Mondlane, former presidential candidate and leader of the National Alliance for a Free and Autonomous Mozambique (Anamola), for trial on five criminal charges related to post-election mass demonstrations.",
@@ -11761,38 +12001,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608260287.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e364fdb40a",
-      "title": "Grain import delays compound Kenya’s food security",
-      "summary": "Millers say they have not received the required C60 import permits, raising concerns that...",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-26T09:45:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/business-tech/grain-import-delays-compound-kenya-s-food-security-5571504"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/business-tech/grain-import-delays-compound-kenya-s-food-security-5571504"
         }
       ],
       "confirmation_count": 1
@@ -11987,6 +12195,38 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "246ef78b1a",
+      "title": "Ethiopia May Not Be Ready to Catch Coffee Price Spike",
+      "summary": "A sudden squeeze in Arabica supplies has pushed coffee prices to a half-year high, handing exporters from Ethiopia a brief opening even as forecasters call...",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-08-23T02:54:41+00:00",
+      "lead_source": {
+        "id": "addis-fort",
+        "name": "Addis Fortune",
+        "tier": 2,
+        "url": "https://addisfortune.news/ethiopia-may-not-be-ready-to-catch-coffee-price-spike"
+      },
+      "confirming_sources": [
+        {
+          "id": "addis-fort",
+          "name": "Addis Fortune",
+          "tier": 2,
+          "url": "https://addisfortune.news/ethiopia-may-not-be-ready-to-catch-coffee-price-spike"
         }
       ],
       "confirmation_count": 1
