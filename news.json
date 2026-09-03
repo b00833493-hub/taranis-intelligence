@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-03T00:15:28.779210+00:00",
+  "generated_at": "2026-09-03T04:36:37.531966+00:00",
   "stats": {
-    "total_signals": 422,
+    "total_signals": 423,
     "verified_signals": 11,
     "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
       "SEN": 40,
+      "MLI": 21,
       "TZA": 35,
       "ETH": 40,
       "NGA": 56,
       "UGA": 40,
       "MDG": 2,
-      "KEN": 59,
-      "CIV": 13,
+      "KEN": 60,
+      "CIV": 12,
       "GHA": 32,
       "GIN": 10,
       "MOZ": 33,
-      "MLI": 20,
       "GNB": 7,
       "BEN": 3,
       "NER": 14,
@@ -33,7 +33,7 @@
       "MWI": 1
     },
     "west_signals": 200,
-    "east_signals": 222
+    "east_signals": 223
   },
   "sources": [
     {
@@ -278,6 +278,72 @@
     }
   ],
   "signals": [
+    {
+      "id": "64daaff886",
+      "title": "Sénégal: la société civile réagit au lendemain de l'accord avec le FMI",
+      "summary": "Au Sénégal, au lendemain de l’accord avec le Fonds monétaire international sur un prêt de 2,2 milliards de dollars pour soulager les finances de ce pays très endetté, des voix au sein de la société civile s’inquiètent des engagements pris par Dakar pour l'obtenir. Elles réclament plus de transparence vis-à-vis des citoyens sur de possibles mesures d’austérité financière, qui pourraient pénaliser les Sénégalais dans les prochains mois, et notamment sur la stratégie pour…",
+      "country": "SEN",
+      "category": "MACRO",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "fr",
+      "published": "2026-09-03T02:45:06+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260903-s%C3%A9n%C3%A9gal-la-soci%C3%A9t%C3%A9-civile-r%C3%A9agit-au-lendemain-de-l-accord-avec-le-fmi"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260903-s%C3%A9n%C3%A9gal-la-soci%C3%A9t%C3%A9-civile-r%C3%A9agit-au-lendemain-de-l-accord-avec-le-fmi"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "402974e561",
+      "title": "Mali: carburant et électricité sont disponibles à Bamako, la fourniture reste erratique dans le pays",
+      "summary": "Au Mali, cela fait désormais un an – depuis septembre 2025 – que les jihadistes du Jnim, lié à al-Qaïda, ont décrété un embargo sur les importations de carburant. Les attaques de camions-citernes ont fait des dizaines de morts et provoqué de graves pénuries d'hydrocarbures et d'électricité, mais la mise en place d'escortes militaires a progressivement permis de sécuriser des convois. Depuis des mois, l'approvisionnement du pays est très fluctuant. Ces dernières semaines,…",
+      "country": "MLI",
+      "category": "RENEWABLE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-03T02:40:07+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260903-mali-carburant-et-%C3%A9lectricit%C3%A9-sont-disponibles-%C3%A0-bamako-la-fourniture-reste-erratique-dans-le-pays"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260903-mali-carburant-et-%C3%A9lectricit%C3%A9-sont-disponibles-%C3%A0-bamako-la-fourniture-reste-erratique-dans-le-pays"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "153ae63317",
       "title": "Dégradation de Moody’s : le Sénégal face à l’urgence de réinventer son modèle de financement",
@@ -2071,7 +2137,7 @@
       "country": "GIN",
       "category": "AUTRE",
       "severity": 3,
-      "credibility": 5,
+      "credibility": 4,
       "verified": true,
       "theme": null,
       "legal_status": "ANNOUNCED",
@@ -2094,19 +2160,13 @@
           "url": "https://www.france24.com/fr/vid%C3%A9o/20260902-guin%C3%A9e-bissau-le-oui-l-emporte-au-r%C3%A9f%C3%A9rendum-sur-la-nouvelle-constitution"
         },
         {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260901-guin%C3%A9e-bissau-le-oui-au-r%C3%A9f%C3%A9rendum-constitutionnel-l-emporte-largement"
-        },
-        {
           "id": "afnews-fr",
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/09/02/la-guinee-bissau-vote-oui-au-referendum-sur-une-nouvelle-constitution/"
         }
       ],
-      "confirmation_count": 3
+      "confirmation_count": 2
     },
     {
       "id": "42016bb924",
@@ -4667,38 +4727,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "a1d7cb9213",
-      "title": "La Côte d'Ivoire maintient le prix du cacao à 1 200 francs CFA pour la nouvelle campagne",
-      "summary": "Le ministre ivoirien de l'Agriculture Bruno Nabagné Koné a annoncé, mardi 1er septembre 2026, à l'ouverture de la 10e édition des Journées nationales du cacao et du chocolat, que le prix minimum bord champ du kilogramme de cacao reste inchangé : il est fixé à 1 200 francs CFA pour la nouvelle campagne, comme pour celle qui vient de s'achever. Cette décision intervient pourtant au moment où les cours mondiaux du cacao amorcent un net rebond.",
-      "country": "CIV",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-01T16:59:21+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260901-la-c%C3%B4te-d-ivoire-maintient-le-prix-du-cacao-%C3%A0-1-200-francs-cfa-pour-la-nouvelle-campagne"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260901-la-c%C3%B4te-d-ivoire-maintient-le-prix-du-cacao-%C3%A0-1-200-francs-cfa-pour-la-nouvelle-campagne"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "2768a8969f",
       "title": "Kenya : l'aéroport de Nairobi paralysé par une grève des travailleurs",
       "summary": "🇰🇪 Au Kenya, une grève des travailleurs du secteur aérien provoque depuis dimanche d’importants retards et annulations de vols. Cette mobilisation d’employés dénonçant leurs conditions de travail perturbe fortement les déplacements de passagers.",
@@ -5058,6 +5086,38 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3a168045bb",
+      "title": "Kenya: un rédacteur en chef du «Standard» retrouvé après son enlèvement",
+      "summary": "Au Kenya, un des rédacteurs en chef du Standard, journal quotidien de référence, a été retrouvé sain et sauf mercredi 2 septembre dans la matinée, après avoir fait l’objet d’un enlèvement la veille au soir. Alex Kiprotich a été emmené par des hommes armés aux alentours de 21h30, vers la ville de Nakuru, dans le centre du pays. Le Standard et les professionnels de la presse kényane dénoncent une campagne d’intimidation de la part des autorités.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-03T02:35:05+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260903-kenya-un-r%C3%A9dacteur-en-chef-du-standard-retrouv%C3%A9-apr%C3%A8s-son-enl%C3%A8vement"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260903-kenya-un-r%C3%A9dacteur-en-chef-du-standard-retrouv%C3%A9-apr%C3%A8s-son-enl%C3%A8vement"
         }
       ],
       "confirmation_count": 1
@@ -8966,38 +9026,6 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/afrique/20260902-madagascar-l-ancien-pr%C3%A9sident-du-s%C3%A9nat-condamn%C3%A9-%C3%A0-dix-ans-de-travaux-forc%C3%A9s"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "6f2b0b2052",
-      "title": "Sénégal: une initiative pour améliorer la gestion des ordures ménagères dans un quartier de Rufisque",
-      "summary": "À Thiawlène, un quartier de la commune de Rufisque, dans l'ouest du Sénégal, l'insalubrité a longtemps empoisonné le quotidien des habitants. Pour y remédier, une équipe engagée dans la protection de l'environnement a créé un point de collecte et de recyclage des déchets. Une initiative qui contribue aujourd'hui à changer les habitudes de la population en matière de gestion des ordures.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-01T22:54:32+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260901-s%C3%A9n%C3%A9gal-une-initiative-pour-am%C3%A9liorer-la-gestion-des-ordures-m%C3%A9nag%C3%A8res-dans-un-quartier-de-rufisque"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260901-s%C3%A9n%C3%A9gal-une-initiative-pour-am%C3%A9liorer-la-gestion-des-ordures-m%C3%A9nag%C3%A8res-dans-un-quartier-de-rufisque"
         }
       ],
       "confirmation_count": 1
