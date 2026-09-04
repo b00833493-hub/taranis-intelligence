@@ -1,40 +1,38 @@
 {
-  "generated_at": "2026-09-04T18:24:17.255636+00:00",
+  "generated_at": "2026-09-04T21:28:24.641158+00:00",
   "stats": {
-    "total_signals": 430,
-    "verified_signals": 11,
-    "countries_covered": 26,
+    "total_signals": 431,
+    "verified_signals": 10,
+    "countries_covered": 24,
     "sources_active": 40,
     "per_country": {
+      "MOZ": 45,
+      "UGA": 39,
       "GIN": 6,
       "NGA": 58,
-      "KEN": 66,
-      "MOZ": 43,
-      "UGA": 38,
-      "SEN": 39,
+      "KEN": 67,
+      "SEN": 38,
       "BFA": 3,
-      "GHA": 39,
-      "ETH": 35,
+      "GHA": 37,
+      "ETH": 34,
       "SOM": 6,
       "CIV": 12,
       "MDG": 2,
       "TZA": 33,
       "MLI": 19,
-      "CPV": 1,
       "BEN": 6,
       "NER": 9,
       "SSD": 1,
-      "RWA": 5,
+      "RWA": 6,
       "DJI": 1,
-      "GNB": 3,
-      "LBR": 1,
+      "LBR": 2,
+      "GNB": 4,
       "BDI": 1,
-      "TGO": 1,
       "MUS": 1,
       "MWI": 1
     },
-    "west_signals": 197,
-    "east_signals": 233
+    "west_signals": 194,
+    "east_signals": 237
   },
   "sources": [
     {
@@ -279,6 +277,70 @@
     }
   ],
   "signals": [
+    {
+      "id": "0ba739e25a",
+      "title": "Um morto em ataque a acampamento turístico de Queiroz",
+      "summary": "O acampamento turístico do ex-treinador luso-moçambicano Carlos Queiroz foi saqueado, queimado e vandalizado por insurgentes vindos da província de Cabo Delgado. Dois mil pessoas foram deslocadas.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-04T21:02:53+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/09/04/mocambique-um-morto-e-dois-mil-deslocados-em-ataque-a-acampamento-turistico-do-treinador-carlos-queiroz/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/09/04/mocambique-um-morto-e-dois-mil-deslocados-em-ataque-a-acampamento-turistico-do-treinador-carlos-queiroz/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "064cb05000",
+      "title": "Ouganda : hommage national au roi Oyo à l’arrivée de sa dépouille",
+      "summary": "L’Ouganda rend hommage au roi Oyo Nyimba Kabamba Iguru Rukidi IV, souverain du royaume traditionnel de Tooro, mort à l’âge de 34 ans des suites d’un cancer. Décédé aux États-Unis, où il suivait un traitement, il avait régné pendant 31 ans.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-04T19:18:33+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/09/04/ouganda-hommage-national-au-roi-oyo-a-larrivee-de-sa-depouille/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/09/04/ouganda-hommage-national-au-roi-oyo-a-larrivee-de-sa-depouille/"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "d3a288f207",
       "title": "Guinée : l'arnaque à la cryptomonnaie fait des centaines de victimes",
@@ -1458,38 +1520,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "1f2c9ae707",
-      "title": "\"C'est dur\" : au Sénégal, le ras-le-bol des ménages face à la vie chère",
-      "summary": "Au Sénégal, la hausse des prix alimente la colère des ménages. Une campagne citoyenne réclame des mesures contre la vie chère, alors que Dakar a conclu mardi un accord de principe avec le FMI pour un programme d'aide de 2,2 milliards de dollars sur la période 2026-2029.",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-02T10:45:57+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/afrique/20260902-c-est-dur-s%C3%A9n%C3%A9gal-ras-le-bol-m%C3%A9nages-vie-ch%C3%A8re-inflation"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/afrique/20260902-c-est-dur-s%C3%A9n%C3%A9gal-ras-le-bol-m%C3%A9nages-vie-ch%C3%A8re-inflation"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "539949edaf",
       "title": "Ouganda : le sort incertain de l'opposant Kizza Besigye, incarcéré et malade",
       "summary": "Kizza Besigye a été transféré vendredi soir de sa prison de Kampala à un hôpital proche de la capitale ougandaise. Mardi, des défenseurs des droits humains ont accusé le Kenya, impliqué dans son arrestation, d'avoir conduit l'opposant ougandais \"sur son lit de mort\".",
@@ -1613,38 +1643,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/09/02/activists-blame-kenya-for-ugandan-opposition-figures-plight/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1381201383",
-      "title": "Le FMI et le Sénégal scellent un accord de 2,2 milliards de dollars",
-      "summary": "Le Sénégal et le Fonds monétaire international (FMI) ont conclu un accord au niveau des services sur un nouveau programme d’aide de 2,2 milliards de dollars, pour la période 2026-2029. L’annonce a été faite mardi 1er septembre à l’issue d’une mission du FMI à Dakar.",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-02T08:33:16+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/09/01/le-fmi-et-le-senegal-scellent-un-accord-de-22-milliards-de-dollars/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/09/01/le-fmi-et-le-senegal-scellent-un-accord-de-22-milliards-de-dollars/"
         }
       ],
       "confirmation_count": 1
@@ -2036,33 +2034,33 @@
       "confirmation_count": 1
     },
     {
-      "id": "8a47e6dff3",
-      "title": "Brasil e Portugal querem reforçar negócios com Cabo Verde",
-      "summary": "Fórum Empresarial Brasil—Cabo Verde—Portugal reuniu esta sexta-feira empresários e governantes em Praia para debater cooperação e investimento no arquipélago.",
-      "country": "CPV",
-      "category": "AUTRE",
+      "id": "0eb9ff1f88",
+      "title": "Mozambique: Chinese manufacturer of solar panels starts construction at MozParks Beluluane Industrial Park",
+      "summary": "Construction of a new integrated solar manufacturing facility officially began today at MozParks Beluluane Industrial Park, marking a significant new investment in Mozambique’s emerging green manufacturing sector. Developed by Lumira Moz Energy, a Chinese company investing in Mozambique, the project is designed to establish a vertically integrated industrial base for the production of photovoltaic cells,…\nSource",
+      "country": "MOZ",
+      "category": "RENEWABLE",
       "severity": 3,
       "credibility": 2,
       "verified": false,
-      "theme": null,
+      "theme": "SOLAR",
       "legal_status": null,
-      "regulatory": false,
+      "regulatory": true,
       "fdi": false,
       "sectors": [],
-      "lang": "pt",
-      "published": "2026-09-04T16:40:50+00:00",
+      "lang": "en",
+      "published": "2026-09-04T18:36:23+00:00",
       "lead_source": {
-        "id": "observador",
-        "name": "Observador",
+        "id": "club-moz",
+        "name": "Club of Mozambique",
         "tier": 2,
-        "url": "https://observador.pt/2026/09/04/brasil-e-portugal-querem-reforcar-negocios-com-cabo-verde-e-apostar-no-mercado-africano/"
+        "url": "https://clubofmozambique.com/news/mozambique-chinese-manufacturer-of-solar-panels-starts-construction-at-mozparks-beluluane-industrial-park/"
       },
       "confirming_sources": [
         {
-          "id": "observador",
-          "name": "Observador",
+          "id": "club-moz",
+          "name": "Club of Mozambique",
           "tier": 2,
-          "url": "https://observador.pt/2026/09/04/brasil-e-portugal-querem-reforcar-negocios-com-cabo-verde-e-apostar-no-mercado-africano/"
+          "url": "https://clubofmozambique.com/news/mozambique-chinese-manufacturer-of-solar-panels-starts-construction-at-mozparks-beluluane-industrial-park/"
         }
       ],
       "confirmation_count": 1
@@ -2742,6 +2740,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "615b52125f",
+      "title": "Terrorist Attacks Declining, Security Forces Gaining Ground - Defence Minister",
+      "summary": "[Leadership] The minister of defence, Gen. Christopher Musa (retd.), said Nigeria had recorded significant improvements in its security situation, with terrorist groups no longer able to carry out the brazen attacks that characterised previous years.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-04T04:17:33+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609040020.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609040020.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "8e4aeae576",
       "title": "Amantin Rural Bank Posts Gh&#xA2;9.33m Profit in 2025",
       "summary": "[Ghanaian Times] Amantin and Kasei Community Bank PLC recorded a positive financial performance in 2025, with profit before tax rising by 6.54 per cent to GH¢9.33 million, from GH¢8.75 million the previous year.",
@@ -2833,38 +2863,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609030652.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "7b745ecd12",
-      "title": "Dividende : Standard Chartered Bank Ghana verse environ 8,66 millions USD au régime national de retraite",
-      "summary": "Standard Chartered Bank Ghana PLC a versé 97,8 millions de cédis (8,66 millions USD) de dividendes au Social Security and National Insurance Trust (SSNIT) au titre de l’exercice 2025. Ce versement s’inscrit dans une distribution globale de 673,95 millions de cédis (59,66 millions USD) approuvée par les actionnaires lors de la 56ᵉ assemblée générale annuelle de la banque à Accra.\nLe dividende final s’établit à 4,98 cédis (0,44 USD) par action ordinaire, pour un montant de…",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-03T18:51:27+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/09/03/dividende-standard-chartered-bank-ghana-verse-environ-866-millions-usd-au-regime-national-de-retraite/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/09/03/dividende-standard-chartered-bank-ghana-verse-environ-866-millions-usd-au-regime-national-de-retraite/"
         }
       ],
       "confirmation_count": 1
@@ -3486,6 +3484,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "ae2ed33642",
+      "title": "Tanzania Moves to Broaden Investment Ties With Serbia in Agriculture, Tourism, Blue Economy",
+      "summary": "[Daily News] Belgrade -- TANZANIA will continue strengthening its relations and cooperation with the Republic of Serbia, particularly in trade and investment, agriculture, tourism and the Blue Economy, President of Zanzibar and Chairman of the Revolutionary Council, Dr Hussein Ali Mwinyi, has said.",
+      "country": "TZA",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T11:54:39+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010346.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010346.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b28bade735",
+      "title": "Tanzania Hits 130pc Food Sufficiency - Tphpa",
+      "summary": "[Daily News] Dodoma -- TANZANIA'S food production exceeded 23 million tonnes in the past financial year, as the country also expanded access to key export markets, the Tanzania Plant Health and Pesticides Authority (TPHPA) has said.",
+      "country": "TZA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T11:54:12+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010345.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010345.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "c96852bc43",
       "title": "Apexbrasil Calls for New Economic Partnerships Between Mozambique and Brazil",
       "summary": "[AIM] Maputo -- The chairperson of the Brazilian Trade and Investment Promotion Agency (ApexBrasil), Laudemir Müller, has guaranteed that the political path is open for a new generation of economic partnerships between Brazil and Mozambique.",
@@ -3550,6 +3612,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "4469522eae",
+      "title": "Over 1.8 Million Children Reached in Online Safety Push",
+      "summary": "[Daily News] Dodoma -- MORE than 1.8 million children have been reached with education on online safety, as part of efforts to protect them from abuse, exploitation and other digital risks.",
+      "country": "TZA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T10:43:19+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010237.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010237.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "a09bc8451f",
       "title": "Central Bank Orders Commercial Banks to Return Over 1.15 Million to Customers",
       "summary": "[AIM] Maputo -- The Bank of Mozambique, in its role as regulator of the national financial system, has ordered credit institutions and financial companies, including mobile wallet operators, to refund a total of 1.15 million US dollars to their customers, following improper commission and fee charges applied in the first half of this year.",
@@ -3609,6 +3703,38 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/absa-kq-visa-unveil-co-branded-travel-card-in-kenya/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "474b9c8d0b",
+      "title": "Religion, Power and Politics - What's Behind the Violent Attacks On Ethiopia's Orthodox Tewahedo Church",
+      "summary": "[The Conversation Africa] The Ethiopian Orthodox Tewahedo Church has been one of Ethiopia's most influential institutions for more than 1,600 years. Church and state were closely intertwined from the official adoption of Christianity in the 4th century until the overthrow of the imperial regime in 1974.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T03:54:40+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010005.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010005.html"
         }
       ],
       "confirmation_count": 1
@@ -4188,44 +4314,6 @@
         }
       ],
       "confirmation_count": 1
-    },
-    {
-      "id": "edefb348e8",
-      "title": "Modernization of Media Crucial for Public Communication",
-      "summary": "[AIM] Maputo -- The Director of the Mozambican government's press office (GABINFO), Luís Cahemba, believes that modernization of media outlets is crucial for making public communication more efficient and inclusive.",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 4,
-      "verified": true,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-04T12:15:29+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609040383.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609040383.html"
-        },
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-modernization-of-media-crucial-for-public-communication/"
-        }
-      ],
-      "confirmation_count": 2
     },
     {
       "id": "c0bcf8e9b5",
@@ -4992,38 +5080,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "1bc24affff",
-      "title": "AG Hails OCPD's Role in Legal Reforms",
-      "summary": "[Daily News] Dodoma -- Attorney General (AG) Hamza Johari has commended the The Office of Chief Parliamentary Draftsman for its immense contribution to the preparation of the Written Laws (Miscellaneous Amendments) Bill, 2026, which was presented to the National Assembly in Dodoma today (September 1, 2026).",
-      "country": "TZA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-02T19:01:09+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609020728.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609020728.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "e8384dfacf",
       "title": "Ethiopia's Post-Reform Security Transformation Strengthens Defense Capability - Lawmaker",
       "summary": "[ENA] Addis Ababa -- Ethiopia's post-reform security transformation has significantly strengthened the defense capabilities of the country's federal police, intelligence services and national defense forces, Deputy Chairman of the House of People's Representatives (HPR) Foreign Relations and Peace Affairs Standing Committee, Fethi Mahdi said.",
@@ -5123,6 +5179,38 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609020434.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c63ddbb284",
+      "title": "Financial Inclusion and Strategic Banking Innovation - Reimagining Access in Ghana",
+      "summary": "[Ghanaian Times] In today's rapidly evolving financial ecosystem, financial inclusion can no longer be measured simply by the number of people who own bank accounts. Across the world, and particularly in emerging economies such as Ghana, the conversation has shifted towards ensuring that individuals and businesses have meaningful access to financial services that improve their lives, support their ambitions, and enable them to participate fully in economic growth.",
+      "country": "GHA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-02T10:57:29+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609020342.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609020342.html"
         }
       ],
       "confirmation_count": 1
@@ -5416,6 +5504,134 @@
       "confirmation_count": 1
     },
     {
+      "id": "44b5be13dd",
+      "title": "Liberia : Jewel Howard-Taylor retrouve sa liberté sous contrôle judiciaire au lendemain de la visite mouvementée de George Weah à la prison",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "LBR",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-04T20:50:34+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/09/04/liberia-jewel-howard-taylor-retrouve-sa-liberte-sous-controle-judiciaire-au-lendemain-de-la-visite-mouvementee-de-george-weah-a-la-prison/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/09/04/liberia-jewel-howard-taylor-retrouve-sa-liberte-sous-controle-judiciaire-au-lendemain-de-la-visite-mouvementee-de-george-weah-a-la-prison/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "dd3c4f4318",
+      "title": "Dorcy Rugamba : « Les enfants gâtés de Butare », raconter la vie avant le génocide",
+      "summary": "Dramaturge, comédien, metteur en scène et écrivain rwandais, Dorcy Rugamba publie Les enfants gâtés de Butare aux éditions JC Lattès. Après Hewa Rwanda, l’auteur revient vers le Rwanda de sa jeunesse, mais choisit cette fois la fiction. À travers Binwa, un cinéaste qui retourne chaque année à Butare, il ressuscite une ville universitaire et intellectuelle, les amitiés, les amours et l’insouciance d’une génération, avant le génocide des Tutsi de 1994.\n \nUn roman…",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-04T20:41:25+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-dorcy-rugamba-les-enfants-g%C3%A2t%C3%A9s-de-butare-raconter-la-vie-avant-le-g%C3%A9nocide"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-dorcy-rugamba-les-enfants-g%C3%A2t%C3%A9s-de-butare-raconter-la-vie-avant-le-g%C3%A9nocide"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7a3f476505",
+      "title": "S&P abaisse la note du Sénégal à « CC » et juge le défaut sur la dette extérieure presque inévitable",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "SEN",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-04T20:23:25+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/09/04/sp-abaisse-la-note-du-senegal-a-cc-et-juge-le-defaut-sur-la-dette-exterieure-presque-inevitable/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/09/04/sp-abaisse-la-note-du-senegal-a-cc-et-juge-le-defaut-sur-la-dette-exterieure-presque-inevitable/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "43c332fea3",
+      "title": "Body of King Oyo returns to Uganda ahead of burial",
+      "summary": "The body of Ugandan King Oyo Nyimba Kabamba Iguru Rukidi IV, recognised as the world's youngest reigning monarch, arrived back in Uganda on Friday following his death in the United States at age 34.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-04T19:11:45+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/09/04/body-of-king-oyo-returns-to-uganda-ahead-of-burial/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/09/04/body-of-king-oyo-returns-to-uganda-ahead-of-burial/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "6232e491ed",
       "title": "Amini AI, la start-up aux avant-postes de la souveraineté numérique africaine",
       "summary": "Fruit du parcours atypique et fulgurant de Kate Kallot, Amini AI compte parmi les ovnis de l’intelligence artificielle sur le continent. Pour ce 5e épisode de la saison 2 de notre série Disrupt, la start-up nous entraîne à Nairobi, là où se construit une partie de la future souveraineté numérique de l’Afrique.",
@@ -5443,6 +5659,38 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1840505/economie-entreprises/amini-ai-la-start-up-aux-avant-postes-de-la-souverainete-numerique-africaine/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2aceac58f4",
+      "title": "UE apela ao Estado de Direito após referendo na Guiné-Bissau",
+      "summary": "Bruxelas tomou nota dos resultados, que a oposição contesta. O \"sim\" venceu com 70%, mas a oposição fala em abstenção superior a 90%.",
+      "country": "GNB",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-04T18:29:30+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/09/04/ue-pede-processo-transparente-e-inclusivo-apos-referendo-constitucional-na-guine-bissau-vencer-com-70/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/09/04/ue-pede-processo-transparente-e-inclusivo-apos-referendo-constitucional-na-guine-bissau-vencer-com-70/"
         }
       ],
       "confirmation_count": 1
@@ -5635,38 +5883,6 @@
           "name": "RFI Português",
           "tier": 1,
           "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260904-uni%C3%A3o-africana-espera-avan%C3%A7o-da-guin%C3%A9-bissau-rumo-a-presidenciais-transparentes-e-inclusivas"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "386e2641a5",
-      "title": "17h. Moção de Censura. Leitão Amaro fala em \"coreografia”",
-      "summary": "E garante que o tema não esteve em cima da mesa do Conselho de Ministros por não ser algo prioritário. Ainda, MAI  vai ser ouvido no Parlamento na terça-feira de manhã.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-09-04T16:21:15+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/programas/noticiario/17h-mocao-de-censura-leitao-amaro-fala-em-coreografia/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/programas/noticiario/17h-mocao-de-censura-leitao-amaro-fala-em-coreografia/"
         }
       ],
       "confirmation_count": 1
@@ -6019,6 +6235,38 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/culture/20260904-desmond-tutu-et-la-folie-du-pardon-the-foolishness-of-god-ouvre-le-fifda-%C3%A0-paris"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3714b5a328",
+      "title": "Kenya's Sichenje out for season with knee injury",
+      "summary": "Charlton Athletic defender Collins Sichenje is set to miss the remainder of the 2026-27 season with a knee injury.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-04T13:55:36+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgy7zkzj8go?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvgy7zkzj8go?at_medium=RSS&at_campaign=rss"
         }
       ],
       "confirmation_count": 1
@@ -6403,6 +6651,38 @@
           "name": "TechCabal",
           "tier": 2,
           "url": "https://techcabal.com/2026/09/04/uber-restores-visa-payments-in-kenya-after-eight-month-pause/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "edefb348e8",
+      "title": "Modernization of Media Crucial for Public Communication",
+      "summary": "[AIM] Maputo -- The Director of the Mozambican government's press office (GABINFO), Luís Cahemba, believes that modernization of media outlets is crucial for making public communication more efficient and inclusive.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-04T12:15:29+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609040383.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609040383.html"
         }
       ],
       "confirmation_count": 1
@@ -7880,38 +8160,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "55ba40bf3e",
-      "title": "Emir Dies After 46 Years On Throne",
-      "summary": "[Premium Times] According to official statement, the traditional ruler died on Thursday afternoon at an Egyptian hospital",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-04T07:07:15+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609040104.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609040104.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "3d136ab816",
       "title": "Nairobi murder and why East African borders no longer safe havens for fugitives",
       "summary": "Cross-border policing is increasingly finding ways to nabs fugitives, but draws scrutiny over...",
@@ -8901,38 +9149,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609030647.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9338784f65",
-      "title": "Traditional Authorities to Play Bigger Role in Mining - Minerals Commission",
-      "summary": "[Ghanaian Times] Traditional authorities are set to play a more significant role in mining operations under proposed amendments to Ghana's mining laws, with prospective miners expected to secure the support of host communities before commencing operations.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-03T21:24:44+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609030648.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609030648.html"
         }
       ],
       "confirmation_count": 1
@@ -10542,134 +10758,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "6654adf497",
-      "title": "Rwanda Drawn With Tanzania and Ethiopia in Afcon U20 Qualifiers",
-      "summary": "[New Times] Rwanda have been drawn in Group A alongside hosts Tanzania and Ethiopia for the CECAFA U-20 Africa Cup of Nations qualifiers, scheduled for September 15-25 at Uhuru Stadium in Dar es Salaam.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-02T19:11:01+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609020736.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609020736.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "eaca130f6e",
-      "title": "Tanzania Registers 71,183 Traditional Medicine Practitioners",
-      "summary": "[Daily News] Mbeya -- THE Tanzanian government says it is continuing efforts to strengthen and formalise the Traditional and Alternative Medicine sector in Tanzania, while urging members of the public to seek services from registered practitioners and facilities.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-02T19:01:10+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609020730.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609020730.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f484344416",
-      "title": "President Hichilema Pledges to Uphold Zambia's Sovereign, Peace and Stability",
-      "summary": "[Daily News] Lusaka -- President Hakainde Hichilema has said the country will remain a sovereign and peaceful nation while strengthening cooperation with neighbouring countries in Africa and the international community in pursuit of lasting peace.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-02T19:01:10+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609020731.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609020731.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "bc73e3663f",
-      "title": "Jury Convicts Duane 'Keffe d' Davis of Murder for 1996 Killing of Tupac Shakur",
-      "summary": "[Daily News] Las Vegas -- A jury found Duane \"Keffe D\" Davis guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, finally bringing a measure of resolution to a case that had gripped hip-hop fans and lingered in the public imagination for decades.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-02T19:01:09+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609020729.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609020729.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "e7a9063454",
       "title": "Vague d’arrestations au Niger : l’ex-ministre Kalla Moutari a été interpellé",
       "summary": "Au lendemain de la mutinerie qui a fait vaciller la junte dirigée par Abdourahamane Tiani, les arrestations se multiplient. Outre des militaires, plusieurs personnalités politiques ont été interpellées, dont l’ancien ministre de la Défense. Le journaliste Moussa Kaka est, lui aussi, porté disparu.",
@@ -11248,38 +11336,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "463468bf00",
-      "title": "Togo : deux réalisateurs français et leur collaborateur local remis en liberté provisoire",
-      "summary": "Arrêtés le 27 juillet dans le nord du Togo où ils tournaient un épisode d'une série documentaire diffusée sur France Télévisions, les Français Gaël Mocaër et Sebastian Perez Pezzani, ainsi que leur collaborateur togolais Fred Vedomey ont été remis en liberté provisoire.",
-      "country": "TGO",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-02T09:30:35+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/afrique/20260902-togo-liberation-deux-journalistes-fran%C3%A7ais-et-leur-collaborateur-local-remis-en-libert%C3%A9-provisoire"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/afrique/20260902-togo-liberation-deux-journalistes-fran%C3%A7ais-et-leur-collaborateur-local-remis-en-libert%C3%A9-provisoire"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "0c9cadba3b",
       "title": "PSG reject Man City offers for midfielder Echegini",
       "summary": "Paris St-Germain reject several Manchester City offers for their Nigerian midfielder Jennifer Echegini.",
@@ -11760,6 +11816,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "37e63cd29c",
+      "title": "Indian National Defense College Delegation Visits Ministry of Foreign Affairs",
+      "summary": "[ENA] Addis Ababa -- Director General for Middle East, Asia and Pacific Affairs at the Ministry of Foreign Affairs, Ambassador Dewano Kedir, today received a multinational delegation from India's National Defense College, led by Major General Pawanpal Singh, Senior Directing Staff, as part of its study visit to Ethiopia.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T12:28:57+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010427.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010427.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "ce8277bdab",
       "title": "President Taye Urges Religious Institutions to Help Safeguard Ethiopia's Moral Values",
       "summary": "[ENA] Addis Ababa -- President Taye Atske-Selassie has called on religious institutions to strengthen their role in preserving Ethiopia's moral values and promoting national unity.",
@@ -11851,6 +11939,72 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609010356.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "faafe9c6b2",
+      "title": "Leaders, Analysts Credit Constitution for Peaceful Transitions",
+      "summary": "[Daily News] Dodoma -- TANZANIA'S Constitution has demonstrated remarkable resilience in guiding the country through sensitive leadership transitions without unrest, political leaders and analysts have said.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T11:55:56+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010352.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010352.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d6b3275bbf",
+      "title": "Reps Committee Urges Stricter Student Loan Repayment",
+      "summary": "[Daily News] Dar es Salaam -- THE Social Welfare Committee of the Zanzibar House of Representatives has urged the Higher Education Students' Loans Board (HESLB) to strengthen loan recovery measures to ensure the revolving fund remains sustainable for future generations.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "en",
+      "published": "2026-09-01T11:55:35+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010351.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010351.html"
         }
       ],
       "confirmation_count": 1
@@ -11979,70 +12133,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/business-tech/treasury-yields-choke-uganda-s-corporate-bond-market-5578914"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "57fd093e88",
-      "title": "Egypt Plotted to Cut Ethiopia Off From the Red Sea - Former Water Minister Shiferaw",
-      "summary": "[ENA] Addis Aaba -- Ethiopia's role as the source of the Abay River fueled plots by Egyptian politicians and their allies to weaken the nation and deny it Red Sea access, former Water Minister and Ambassador Shiferaw Jarso told ENA.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-01T08:36:07+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010108.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010108.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f7a4c973a9",
-      "title": "Egypt Mismanages Abay Water, Reservoirs Face Major Evaporation Losses, Says Former GERD Negotiator",
-      "summary": "[ENA] Addis Aaba -- Water stored in Egypt's downstream reservoirs suffers from high rates of evaporation due to the country's hot desert climate, according to Fekahmed Negash, Chairperson of the Advisory Team on Transboundary Water and GERD at Ethiopia's Ministry of Water and Energy.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": "HYDRO",
-      "legal_status": null,
-      "regulatory": true,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-01T08:36:06+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010107.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010107.html"
         }
       ],
       "confirmation_count": 1
@@ -12630,38 +12720,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "5399ab3168",
-      "title": "World's youngest reigning traditional monarch dies aged 34",
-      "summary": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-28T11:13:24+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "4157c00d97",
       "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
       "summary": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
@@ -12689,38 +12747,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "8e47221ac0",
-      "title": "Ethiopia submits official bid to host Afcon 2028",
-      "summary": "Ethiopia submits a bid to host the 2028 Africa Cup of Nations despite lacking enough stadiums to host a 24-team tournament.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-25T15:38:41+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2e0dl2xkzko?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/sport/football/articles/c2e0dl2xkzko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "confirmation_count": 1
