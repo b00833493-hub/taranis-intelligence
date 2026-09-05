@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-09-05T09:04:43.069442+00:00",
+  "generated_at": "2026-09-05T12:42:53.685529+00:00",
   "stats": {
-    "total_signals": 433,
+    "total_signals": 428,
     "verified_signals": 6,
     "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
       "GMB": 1,
-      "GIN": 11,
-      "UGA": 41,
-      "RWA": 7,
+      "GIN": 10,
+      "UGA": 39,
       "NGA": 56,
-      "KEN": 67,
-      "BFA": 3,
+      "RWA": 7,
+      "KEN": 68,
+      "BFA": 2,
       "GHA": 36,
-      "SEN": 35,
-      "ETH": 34,
+      "SEN": 33,
+      "ETH": 33,
       "SOM": 5,
       "CIV": 12,
       "MOZ": 43,
-      "MDG": 3,
-      "TZA": 33,
+      "MDG": 4,
       "MLI": 19,
       "BEN": 6,
       "NER": 10,
+      "TZA": 32,
       "DJI": 1,
+      "GNB": 4,
       "TGO": 1,
       "LBR": 3,
-      "GNB": 3,
       "BDI": 1,
       "MUS": 1,
       "MWI": 1
     },
-    "west_signals": 196,
-    "east_signals": 237
+    "west_signals": 193,
+    "east_signals": 235
   },
   "sources": [
     {
@@ -434,6 +434,38 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609050031.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d01baa5435",
+      "title": "Dangote Refinery Sets IPO Price At $0.40 Per Share After SEC Approval",
+      "summary": "[Daba Finance] Dangote Petroleum Refinery has received approval from Nigeria's Securities and Exchange Commission to sell 4.1 billion shares at ₦525 ($0.40) each, clearing the way for an initial public offering that could raise about ₦2.15 trillion, or $1.6 billion. The order book is expected to open on September 14, putting the company on course for one of Africa's largest public offerings.",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-04T23:24:14+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609040832.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609040832.html"
         }
       ],
       "confirmation_count": 1
@@ -1551,70 +1583,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "6b9719f1a6",
-      "title": "Sénégal : un accord conclut avec le FMI pour relancer l’économie",
-      "summary": "Le Sénégal et le FMI sont tombés d'accord pour la mise en place d'un programme d'aide de 2,2 milliards de dollars sur la période de 2026 - 2029. Cet accord doit encore être soumis à l'approbation du Conseil d'administration du Fonds monétaire international.",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-02T11:05:34+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260902-s%C3%A9n%C3%A9gal-un-accord-conclut-avec-le-fmi-pour-relancer-l-%C3%A9conomie"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260902-s%C3%A9n%C3%A9gal-un-accord-conclut-avec-le-fmi-pour-relancer-l-%C3%A9conomie"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "539949edaf",
-      "title": "Ouganda : le sort incertain de l'opposant Kizza Besigye, incarcéré et malade",
-      "summary": "Kizza Besigye a été transféré vendredi soir de sa prison de Kampala à un hôpital proche de la capitale ougandaise. Mardi, des défenseurs des droits humains ont accusé le Kenya, impliqué dans son arrestation, d'avoir conduit l'opposant ougandais \"sur son lit de mort\".",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-02T09:59:13+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/09/02/ouganda-le-sort-incertain-de-lopposant-kizza-besigye-incarcere-et-malade/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/09/02/ouganda-le-sort-incertain-de-lopposant-kizza-besigye-incarcere-et-malade/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "2369be711d",
       "title": "Brighton sign Nigeria winger Azeez from Millwall",
       "summary": "Brighton secure a deadline-day deal for Nigeria winger Femi Azeez in a deal worth up to £15m.",
@@ -1898,38 +1866,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608310118.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "767b02919a",
-      "title": "Tanzania blamed for 39pc of EAC trade barriers as deadline lapses",
-      "summary": "The trade restrictions imposed by Dodoma have triggered a sharp decline in domestic exports...",
-      "country": "TZA",
-      "category": "MACRO",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-31T03:15:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/business-tech/tanzania-blamed-for-39pc-of-eac-trade-barriers-5575306"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/business-tech/tanzania-blamed-for-39pc-of-eac-trade-barriers-5575306"
         }
       ],
       "confirmation_count": 1
@@ -3509,70 +3445,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ae2ed33642",
-      "title": "Tanzania Moves to Broaden Investment Ties With Serbia in Agriculture, Tourism, Blue Economy",
-      "summary": "[Daily News] Belgrade -- TANZANIA will continue strengthening its relations and cooperation with the Republic of Serbia, particularly in trade and investment, agriculture, tourism and the Blue Economy, President of Zanzibar and Chairman of the Revolutionary Council, Dr Hussein Ali Mwinyi, has said.",
-      "country": "TZA",
-      "category": "MACRO",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-01T11:54:39+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010346.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010346.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b28bade735",
-      "title": "Tanzania Hits 130pc Food Sufficiency - Tphpa",
-      "summary": "[Daily News] Dodoma -- TANZANIA'S food production exceeded 23 million tonnes in the past financial year, as the country also expanded access to key export markets, the Tanzania Plant Health and Pesticides Authority (TPHPA) has said.",
-      "country": "TZA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-01T11:54:12+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010345.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010345.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "c96852bc43",
       "title": "Apexbrasil Calls for New Economic Partnerships Between Mozambique and Brazil",
       "summary": "[AIM] Maputo -- The chairperson of the Brazilian Trade and Investment Promotion Agency (ApexBrasil), Laudemir Müller, has guaranteed that the political path is open for a new generation of economic partnerships between Brazil and Mozambique.",
@@ -3632,38 +3504,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609010242.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4469522eae",
-      "title": "Over 1.8 Million Children Reached in Online Safety Push",
-      "summary": "[Daily News] Dodoma -- MORE than 1.8 million children have been reached with education on online safety, as part of efforts to protect them from abuse, exploitation and other digital risks.",
-      "country": "TZA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-01T10:43:19+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010237.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010237.html"
         }
       ],
       "confirmation_count": 1
@@ -4117,6 +3957,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "3fd4525636",
+      "title": "La plateforme américaine de VTC, Uber, quitte le Nigeria après 12 ans d'activité",
+      "summary": "Uber a annoncé son retrait immédiat du Nigeria et de l’Ouganda. En pleine restructuration mondiale, cette décision intervient surtout alors que la plateforme de VTC américaine a fortement perdu du terrain face à ses concurrents dans ces deux pays.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-05T11:02:02+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-la-plateforme-am%C3%A9ricaine-de-vtc-uber-quitte-le-nigeria-apr%C3%A8s-12-ans-d-activit%C3%A9"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-la-plateforme-am%C3%A9ricaine-de-vtc-uber-quitte-le-nigeria-apr%C3%A8s-12-ans-d-activit%C3%A9"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "29a1480d71",
       "title": "RD Congo : Kinshasa annonce le transfert de son ambassade à Jerusalem",
       "summary": "🇨🇩 🇮🇱 La RDC annonce le transfert de son ambassade en Israël de Tel-Aviv à Jérusalem, à l’issue de la visite du président Félix Tshisekedi. Cette visite a également permis à Kinshasa d’évoquer le conflit qui l’oppose au Rwanda. Une situation délicate pour Israël, qui entretient des liens avec les deux pays.",
@@ -4373,10 +4245,10 @@
       "confirmation_count": 1
     },
     {
-      "id": "b38c7f8ec5",
+      "id": "26697cd6f6",
       "title": "All of Africa Today - September 4, 2026",
       "summary": "[allAfrica]",
-      "country": "KEN",
+      "country": "NGA",
       "category": "AUTRE",
       "severity": 2,
       "credibility": 4,
@@ -4389,12 +4261,18 @@
       "lang": "en",
       "published": "2026-09-04T06:34:07+00:00",
       "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
         "tier": 2,
         "url": "https://allafrica.com/stories/202609040084.html"
       },
       "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609040084.html"
+        },
         {
           "id": "aa-ken",
           "name": "AllAfrica · Kenya",
@@ -4426,7 +4304,39 @@
           "url": "https://allafrica.com/stories/202608100108.html"
         }
       ],
-      "confirmation_count": 5
+      "confirmation_count": 6
+    },
+    {
+      "id": "08abd04637",
+      "title": "How Uber Exit Affects Drivers, Passengers",
+      "summary": "[Daily Trust] The decision by Uber to wind down its ride-hailing operations in Nigeria has triggered concerns among drivers, passengers and industry stakeholders, with fears that the exit could reduce competition, increase transportation costs and further weaken earning opportunities for app-based transporters.",
+      "country": "NGA",
+      "category": "RENEWABLE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-04T06:27:37+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609040069.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609040069.html"
+        }
+      ],
+      "confirmation_count": 1
     },
     {
       "id": "d366d1586a",
@@ -4799,6 +4709,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "1bc24affff",
+      "title": "AG Hails OCPD's Role in Legal Reforms",
+      "summary": "[Daily News] Dodoma -- Attorney General (AG) Hamza Johari has commended the The Office of Chief Parliamentary Draftsman for its immense contribution to the preparation of the Written Laws (Miscellaneous Amendments) Bill, 2026, which was presented to the National Assembly in Dodoma today (September 1, 2026).",
+      "country": "TZA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-02T19:01:09+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609020728.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609020728.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "e8384dfacf",
       "title": "Ethiopia's Post-Reform Security Transformation Strengthens Defense Capability - Lawmaker",
       "summary": "[ENA] Addis Ababa -- Ethiopia's post-reform security transformation has significantly strengthened the defense capabilities of the country's federal police, intelligence services and national defense forces, Deputy Chairman of the House of People's Representatives (HPR) Foreign Relations and Peace Affairs Standing Committee, Fethi Mahdi said.",
@@ -4826,38 +4768,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609020638.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f1aa97e34f",
-      "title": "Guinée-Bissau : le \"Oui\" l'emporte au référendum sur la nouvelle constitution",
-      "summary": "🇬🇼 En Guinée-Bissau, les électeurs approuvent le projet de nouvelle Constitution, qui prévoit de renforcer les pouvoirs du président et de remplacer l’actuel régime semi-parlementaire. Les résultats du référendum ont été annoncés mardi par la Commission électorale après le dépouillement de l’ensemble des suffrages.",
-      "country": "GIN",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-02T14:23:20+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260902-guin%C3%A9e-bissau-le-oui-l-emporte-au-r%C3%A9f%C3%A9rendum-sur-la-nouvelle-constitution"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260902-guin%C3%A9e-bissau-le-oui-l-emporte-au-r%C3%A9f%C3%A9rendum-sur-la-nouvelle-constitution"
         }
       ],
       "confirmation_count": 1
@@ -5151,6 +5061,166 @@
       "confirmation_count": 1
     },
     {
+      "id": "4946a3c94e",
+      "title": "Futebol: FC Canchungo estreia-se na Liga dos Campeões africanos",
+      "summary": "O Campeão nacional da Guiné-Bissau, o Futebol Clube de Canchungo entra hoje para o seu primeiro jogo das pré-eliminatórias de acesso à fase de grupos da Liga dos Campeões Africanos de futebol.",
+      "country": "GNB",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-05T12:39:28+00:00",
+      "lead_source": {
+        "id": "rfi-pt",
+        "name": "RFI Português",
+        "tier": 1,
+        "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260905-futebol-fc-canchungo-estreia-se-na-liga-dos-campe%C3%B5es-africanos"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-pt",
+          "name": "RFI Português",
+          "tier": 1,
+          "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260905-futebol-fc-canchungo-estreia-se-na-liga-dos-campe%C3%B5es-africanos"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b83a91a420",
+      "title": "Manifestations Gen Z à Madagascar : l'ex-président du Sénat condamné à dix ans de prison",
+      "summary": "À Madagascar, la justice frappe l'un des visages les plus redoutés de l'ancien régime. L'ex-président du Sénat, le général Richard Ravalomanana, a été condamné à dix ans de travaux forcés pour son rôle dans la répression sanglante des manifestations de la Gen Z, en septembre et octobre 2025.",
+      "country": "MDG",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-05T10:58:14+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-manifestations-gen-z-%C3%A0-madagascar-l-ex-pr%C3%A9sident-du-s%C3%A9nat-condamn%C3%A9-%C3%A0-dix-ans-de-prison"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260905-manifestations-gen-z-%C3%A0-madagascar-l-ex-pr%C3%A9sident-du-s%C3%A9nat-condamn%C3%A9-%C3%A0-dix-ans-de-prison"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c70fedd28a",
+      "title": "Uber’s $14 ride problem in Nigeria",
+      "summary": "Uber spent 12 years in Nigeria and decided to leave because the market it operated in could not deliver the economies of scale required to support its future ambitions.",
+      "country": "NGA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-05T09:41:10+00:00",
+      "lead_source": {
+        "id": "techcabal",
+        "name": "TechCabal",
+        "tier": 2,
+        "url": "https://techcabal.com/2026/09/05/uber-14-ride-problem-nigeria/"
+      },
+      "confirming_sources": [
+        {
+          "id": "techcabal",
+          "name": "TechCabal",
+          "tier": 2,
+          "url": "https://techcabal.com/2026/09/05/uber-14-ride-problem-nigeria/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "78b3125842",
+      "title": "Le Togo se félicite de l'adoption de la résolution visant à corriger la carte du monde",
+      "summary": "Lomé a porté la campagne Campagne ‘’Correct the Map’’ consacrée à la reconnaissance des dimensions réelles des continents.",
+      "country": "TGO",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-05T09:21:11+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/09/05/le-togo-se-felicite-de-ladoption-de-la-resolution-visant-a-corriger-la-carte-du-monde/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/09/05/le-togo-se-felicite-de-ladoption-de-la-resolution-visant-a-corriger-la-carte-du-monde/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "dbeaf27b5d",
+      "title": "What next? Somalia prepares to defend its territory when A. Union troops leave",
+      "summary": "Top officials met to discuss transitioning full domestic security responsibilities to Somalia...",
+      "country": "SOM",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-05T09:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/somalia-prepares-to-defend-its-territory-when-au-troops-leave-5584272"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/somalia-prepares-to-defend-its-territory-when-au-troops-leave-5584272"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "3a3420747d",
       "title": "Crise au Niger, accord FMI-Sénégal, bataille électorale au Maroc… Les 5 infos qu’il ne fallait pas manquer",
       "summary": "Cette semaine, le Brief de Jeune Afrique revient sur la mutinerie qui a fait vaciller le pouvoir d’Abdourahamane Tiani au Niger, décrypte l’accord conclu entre le Sénégal et le FMI, s’intéresse aux premiers pas de Romuald Wadagni à la tête du Bénin, revient sur la chute du colonel malien Alpha Yaya Sangaré et analyse la stratégie de l’Istiqlal de Nizar Baraka à l’approche des élections législatives marocaines.",
@@ -5178,6 +5248,38 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1840032/politique/crise-au-niger-accord-fmi-senegal-bataille-electorale-au-maroc-les-5-infos-quil-ne-fallait-pas-manquer/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "63e419d97e",
+      "title": "Foreigners can now pay in Kenya without a local SIM card – but it comes at a cost",
+      "summary": "Across Africa, accessing digital payment options, let alone affordable ones, is limited for...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-05T08:30:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/foreigners-can-now-pay-in-kenya-without-a-local-sim-card-at-cost-5584292"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/foreigners-can-now-pay-in-kenya-without-a-local-sim-card-at-cost-5584292"
         }
       ],
       "confirmation_count": 1
@@ -5247,6 +5349,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "8f10e39721",
+      "title": "Milk shortage persists in Kenya, Rwanda",
+      "summary": "Some top supermarkets in Kenya have started restricting purchases to fewer than five packets...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-05T08:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/milk-shortage-persists-in-kenya-rwanda-5584224"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/milk-shortage-persists-in-kenya-rwanda-5584224"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "06ab144cb6",
       "title": "Argentina ordered to return Nazi-looted painting to Jewish collector’s heir",
       "summary": "Argentina must return an 18th-century painting stolen by Nazis from a Dutch Jewish art collector to the rightful owner’s heir, a judge ruled Friday. “Portrait of a Lady” by Italian baroque painter Giuseppe Ghislandi was missing for eight decades before being photographed last year hanging in the home of the daughter of a senior Nazi…\nSource",
@@ -5311,38 +5445,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "78b3125842",
-      "title": "Le Togo se félicite de l'adoption de la résolution visant à corriger la carte du monde",
-      "summary": "Lomé a porté la campagne Campagne ‘’Correct the Map’’ consacrée à la reconnaissance des dimensions réelles des continents.",
-      "country": "TGO",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-05T06:59:05+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/09/05/le-togo-se-felicite-de-ladoption-de-la-resolution-visant-a-corriger-la-carte-du-monde/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/09/05/le-togo-se-felicite-de-ladoption-de-la-resolution-visant-a-corriger-la-carte-du-monde/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "447652772b",
       "title": "The best five: Kenyan writer Gladwell Pamba makes 2026 Caine Prize shortlist",
       "summary": "She stands a chance of bagging $13,533 if she emerges the eventual winner in October.",
@@ -5370,40 +5472,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/magazine/kenyan-writer-gladwell-pamba-2026-caine-prize-shortlist-5583898"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ef7482a877",
-      "title": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
-      "summary": "The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return.",
-      "country": "ETH",
-      "category": "FINANCING",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "DEBT"
-      ],
-      "lang": "en",
-      "published": "2026-09-05T03:05:28+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -5660,38 +5728,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609050032.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "0f9aaf47d7",
-      "title": "Accountants Urged to Champion Affordable Finance and Wealth Creation",
-      "summary": "[Nile Post] Accountants have been urged to play a more active role in Uganda's socio-economic transformation by supporting Savings and Credit Cooperative Organisations (Saccos), groups and microfinance institutions to expand access to affordable financing and promote grassroots wealth creation.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-04T23:02:49+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609040815.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609040815.html"
         }
       ],
       "confirmation_count": 1
@@ -7649,70 +7685,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "69496ae936",
-      "title": "'Mint Africa to Drive Digital Transformation of Africa's Financial Economy'",
-      "summary": "[Vanguard] GITEX NIGERIA has concluded plans to explore how new technologies and regulatory models can widen access to capital, modernise financial infrastructure and enable African consumers and enterprises to participate more fully in the digital economy, saying MINT AFRICA is the solution.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-04T11:47:43+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609040304.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609040304.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e3ab0e1ec3",
-      "title": "Opay - Committed to Nigeria, Advancing Inclusive Finance Through Technology",
-      "summary": "[Vanguard] Leading Nigerian fintech, OPay, has dismissed viral claims of an impending shutdown and reaffirmed its long-term commitment to Nigeria's digital economy, customers, and merchants.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-04T11:45:07+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609040298.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609040298.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "d6066bfde5",
       "title": "Oburu Odinga in High Spirits As John Methu Checks On Him",
       "summary": "[Capital FM] Nairobi -- Siaya Senator and ODM leader Oburu Odinga has received another visit at his Nairobi residence, with Nyandarua Senator John Methu saying he found him in high spirits.",
@@ -7740,70 +7712,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609040297.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "49799bd599",
-      "title": "Benue Ranches - Lawyers Alert Threatens Legal Battle Against FG",
-      "summary": "[Vanguard] Lawyers Alert, a legal and human rights organisation, has resolved to institute a legal action against the Federal Government of Nigeria over its reported plan to establish ranches in Benue State as part of efforts to address the protracted herders crisis in the country.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-04T11:42:19+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609040291.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609040291.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4f4528a0e0",
-      "title": "Lagos Govt Begins Work On Parkview, Banana Island Access Roads",
-      "summary": "[Vanguard] The Lagos State Government has concluded plans to commence an immediate work on two major infrastructure projects, Parkview, Banana Island access roads with a six-month delivery timeline and a work plan designed to avoid disruption to businesses and residents along the corridors..",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-04T11:41:54+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609040290.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609040290.html"
         }
       ],
       "confirmation_count": 1
@@ -7964,6 +7872,38 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609040283.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "af8c38558e",
+      "title": "Apesar de avanços na prevenção e tratamento, a malária continua a ser endémica na Guiné-Bissau",
+      "summary": "Na Guiné-Bissau, apesar dos avanços, o paludismo continua a ser uma doença endémica e uma das maiores preocupações de saúde pública, sobretudo no leste, no sul e no arquipélago dos Bijagós.",
+      "country": "GNB",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-04T11:17:39+00:00",
+      "lead_source": {
+        "id": "rfi-pt",
+        "name": "RFI Português",
+        "tier": 1,
+        "url": "https://www.rfi.fr/pt/programas/em-directo-da-redac%C3%A7%C3%A3o/20260904-apesar-de-avan%C3%A7os-na-preven%C3%A7%C3%A3o-e-tratamento-a-mal%C3%A1ria-continua-a-ser-end%C3%A9mica-na-guin%C3%A9-bissau"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-pt",
+          "name": "RFI Português",
+          "tier": 1,
+          "url": "https://www.rfi.fr/pt/programas/em-directo-da-redac%C3%A7%C3%A3o/20260904-apesar-de-avan%C3%A7os-na-preven%C3%A7%C3%A3o-e-tratamento-a-mal%C3%A1ria-continua-a-ser-end%C3%A9mica-na-guin%C3%A9-bissau"
         }
       ],
       "confirmation_count": 1
@@ -9539,38 +9479,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "f7261be8f7",
-      "title": "Uber is gone. Its users must find another way around Nigeria.",
-      "summary": "For thousands of Nigerians who frequently use ride-hailing platforms, Uber's exit after 12 years came as a surprise, raising questions about what comes next.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-03T16:43:58+00:00",
-      "lead_source": {
-        "id": "techcabal",
-        "name": "TechCabal",
-        "tier": 2,
-        "url": "https://techcabal.com/2026/09/03/uber-is-gone-its-users-must-find-another-way-around-nigeria/"
-      },
-      "confirming_sources": [
-        {
-          "id": "techcabal",
-          "name": "TechCabal",
-          "tier": 2,
-          "url": "https://techcabal.com/2026/09/03/uber-is-gone-its-users-must-find-another-way-around-nigeria/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "46f6d918da",
       "title": "Ethiopian Airlines Nears Deal for Up to 10 Boeing Cargo Planes",
       "summary": "[Addis Standard] Addis Abeba -- Ethiopian Airlines is nearing a deal to acquire up to 10 long-haul Boeing freighter aircraft as the national carrier moves to expand its cargo operations and strengthen its position as a major aviation hub in Africa, according to Reuters, citing two industry sources.",
@@ -10503,6 +10411,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "4434e641e5",
+      "title": "Uganda's Oil Can Transform Economy If Managed Well - Museveni",
+      "summary": "[Nile Post] President Museveni has said Uganda's petroleum resources have the potential to significantly transform the country's economy if they are managed strategically and linked to industrial development.",
+      "country": "UGA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-03T08:33:29+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609030113.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609030113.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "e70fe1aa67",
       "title": "Ethiopia Deploys Youths to African Countries to Share Green Legacy Experience",
       "summary": "[ENA] Addis Ababa -- Ethiopia is deploying young people to African Countries to share the country's experience in implementing the Green Legacy Initiative (GLI).",
@@ -10887,6 +10827,134 @@
       "confirmation_count": 1
     },
     {
+      "id": "6654adf497",
+      "title": "Rwanda Drawn With Tanzania and Ethiopia in Afcon U20 Qualifiers",
+      "summary": "[New Times] Rwanda have been drawn in Group A alongside hosts Tanzania and Ethiopia for the CECAFA U-20 Africa Cup of Nations qualifiers, scheduled for September 15-25 at Uhuru Stadium in Dar es Salaam.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-02T19:11:01+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609020736.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609020736.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "eaca130f6e",
+      "title": "Tanzania Registers 71,183 Traditional Medicine Practitioners",
+      "summary": "[Daily News] Mbeya -- THE Tanzanian government says it is continuing efforts to strengthen and formalise the Traditional and Alternative Medicine sector in Tanzania, while urging members of the public to seek services from registered practitioners and facilities.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-02T19:01:10+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609020730.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609020730.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f484344416",
+      "title": "President Hichilema Pledges to Uphold Zambia's Sovereign, Peace and Stability",
+      "summary": "[Daily News] Lusaka -- President Hakainde Hichilema has said the country will remain a sovereign and peaceful nation while strengthening cooperation with neighbouring countries in Africa and the international community in pursuit of lasting peace.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-02T19:01:10+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609020731.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609020731.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "bc73e3663f",
+      "title": "Jury Convicts Duane 'Keffe d' Davis of Murder for 1996 Killing of Tupac Shakur",
+      "summary": "[Daily News] Las Vegas -- A jury found Duane \"Keffe D\" Davis guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, finally bringing a measure of resolution to a case that had gripped hip-hop fans and lingered in the public imagination for decades.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-02T19:01:09+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609020729.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609020729.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "e7a9063454",
       "title": "Vague d’arrestations au Niger : l’ex-ministre Kalla Moutari a été interpellé",
       "summary": "Au lendemain de la mutinerie qui a fait vaciller la junte dirigée par Abdourahamane Tiani, les arrestations se multiplient. Outre des militaires, plusieurs personnalités politiques ont été interpellées, dont l’ancien ministre de la Défense. Le journaliste Moussa Kaka est, lui aussi, porté disparu.",
@@ -11049,38 +11117,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "0fb462c3a7",
-      "title": "Sénégal : l’accord avec le FMI, une bouffée d’oxygène face à la cherté de la vie ?",
-      "summary": "Les Sénégalais espèrent que l’accord pour le programme d’aide conclut avec le FMI sera une bouffée d'oxygène pour eux. L'économie du pays est en plein marasme, plombée par la dette et au quotidien, la crise se fait de plus en plus sentir.",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-02T16:02:13+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260902-s%C3%A9n%C3%A9gal-l-accord-avec-le-fmi-une-bouff%C3%A9e-d-oxyg%C3%A8ne-face-%C3%A0-la-chert%C3%A9-de-la-vie"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260902-s%C3%A9n%C3%A9gal-l-accord-avec-le-fmi-une-bouff%C3%A9e-d-oxyg%C3%A8ne-face-%C3%A0-la-chert%C3%A9-de-la-vie"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "ba2a2973bf",
       "title": "Kenya defends deportations as rights watchers call for accountability",
       "summary": "In recent years, refugees, dissidents and other foreigners on Kenyan soil have been deported.",
@@ -11172,38 +11208,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609020463.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "583cea4cff",
-      "title": "Burkina Faso : culture de l'ananas, un fruit tropical dans le Sahel",
-      "summary": "🇧🇫 Au Burkina Faso, des producteurs réussissent à cultiver l’ananas malgré un sol rouge, sableux et caillouteux, loin des terres tropicales auxquelles ce fruit est habituellement associé. Une adaptation qui repose sur l’innovation. 🍍",
-      "country": "BFA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-02T12:15:39+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260902-burkina-faso-culture-de-l-ananas-un-fruit-tropical-dans-le-sahel"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260902-burkina-faso-culture-de-l-ananas-un-fruit-tropical-dans-le-sahel"
         }
       ],
       "confirmation_count": 1
@@ -11561,38 +11565,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "4a871ef8e7",
-      "title": "Guinea-Bissau votes 'yes' in referendum for new constitution",
-      "summary": "Under the new text, the country will abandon the old system whereby the prime minister came from the parliamentary majority, which has led to uncomfortable power-sharing",
-      "country": "GNB",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-02T06:17:20+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/09/02/guinea-bissau-votes-yes-in-referendum-for-new-constitution/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/09/02/guinea-bissau-votes-yes-in-referendum-for-new-constitution/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "3a51419b0f",
       "title": "Sudan's War Caught in the Ethiopia-Eritrea Crossfire",
       "summary": "[Ayin Network] Sudan's war is increasingly becoming intertwined with the longstanding rivalry between Ethiopia and Eritrea, diplomatic sources told Ayin, raising fears that renewed tensions between Addis Ababa and Asmara could further regionalise the conflict.",
@@ -11913,38 +11885,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "37e63cd29c",
-      "title": "Indian National Defense College Delegation Visits Ministry of Foreign Affairs",
-      "summary": "[ENA] Addis Ababa -- Director General for Middle East, Asia and Pacific Affairs at the Ministry of Foreign Affairs, Ambassador Dewano Kedir, today received a multinational delegation from India's National Defense College, led by Major General Pawanpal Singh, Senior Directing Staff, as part of its study visit to Ethiopia.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-01T12:28:57+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010427.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010427.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "ce8277bdab",
       "title": "President Taye Urges Religious Institutions to Help Safeguard Ethiopia's Moral Values",
       "summary": "[ENA] Addis Ababa -- President Taye Atske-Selassie has called on religious institutions to strengthen their role in preserving Ethiopia's moral values and promoting national unity.",
@@ -12036,72 +11976,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609010356.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "faafe9c6b2",
-      "title": "Leaders, Analysts Credit Constitution for Peaceful Transitions",
-      "summary": "[Daily News] Dodoma -- TANZANIA'S Constitution has demonstrated remarkable resilience in guiding the country through sensitive leadership transitions without unrest, political leaders and analysts have said.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-01T11:55:56+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010352.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010352.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d6b3275bbf",
-      "title": "Reps Committee Urges Stricter Student Loan Repayment",
-      "summary": "[Daily News] Dar es Salaam -- THE Social Welfare Committee of the Zanzibar House of Representatives has urged the Higher Education Students' Loans Board (HESLB) to strengthen loan recovery measures to ensure the revolving fund remains sustainable for future generations.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "DEBT"
-      ],
-      "lang": "en",
-      "published": "2026-09-01T11:55:35+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010351.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010351.html"
         }
       ],
       "confirmation_count": 1
@@ -12230,6 +12104,38 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/business-tech/treasury-yields-choke-uganda-s-corporate-bond-market-5578914"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "57fd093e88",
+      "title": "Egypt Plotted to Cut Ethiopia Off From the Red Sea - Former Water Minister Shiferaw",
+      "summary": "[ENA] Addis Aaba -- Ethiopia's role as the source of the Abay River fueled plots by Egyptian politicians and their allies to weaken the nation and deny it Red Sea access, former Water Minister and Ambassador Shiferaw Jarso told ENA.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T08:36:07+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010108.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010108.html"
         }
       ],
       "confirmation_count": 1
@@ -12459,38 +12365,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "fd19d661d2",
-      "title": "Beyond the farm gate: Uganda eyes a place on East Africa’s coffee tourism trail",
-      "summary": "The country is reworking its strategy to transform the produce from just another anonymous bean...",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-08-31T03:00:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/business-tech/uganda-eyes-a-place-on-ea-s-coffee-tourism-trail-5575300"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/business-tech/uganda-eyes-a-place-on-ea-s-coffee-tourism-trail-5575300"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "8a4c1b3d42",
       "title": "Brexiters’ effort to resettle Chagos Islands hit by lack of proper boat",
       "summary": "Nigel Farage-backed expedition is part of attempts to block UK’s contentious deal giving sovereignty over the archipelago to Mauritius",
@@ -12550,40 +12424,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c1e7291032",
-      "title": "How World Bank sanctions exposed procurement risks in Somalia",
-      "summary": "Within six years, the multilateral lender blacklisted six firms for fraud and corruption linked...",
-      "country": "SOM",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "DFI"
-      ],
-      "lang": "en",
-      "published": "2026-08-30T04:00:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/business-tech/how-world-bank-sanctions-exposed-procurement-risks-somalia-5575246"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/business-tech/how-world-bank-sanctions-exposed-procurement-risks-somalia-5575246"
         }
       ],
       "confirmation_count": 1
