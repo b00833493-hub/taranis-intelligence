@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-07T22:50:34.661230+00:00",
+  "generated_at": "2026-09-08T01:12:32.261328+00:00",
   "stats": {
-    "total_signals": 427,
+    "total_signals": 426,
     "verified_signals": 6,
     "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
-      "NGA": 63,
+      "NGA": 61,
       "CPV": 12,
       "UGA": 38,
       "KEN": 69,
-      "TZA": 35,
+      "TZA": 36,
       "BEN": 2,
       "GIN": 12,
       "RWA": 4,
@@ -32,8 +32,8 @@
       "MUS": 1,
       "MWI": 1
     },
-    "west_signals": 198,
-    "east_signals": 229
+    "west_signals": 196,
+    "east_signals": 230
   },
   "sources": [
     {
@@ -1948,6 +1948,40 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200131.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a7ea791d7c",
+      "title": "Sénégal : 13 septembre, un mur de la dette à repousser",
+      "summary": "Le 13 septembre prochain, le Sénégal devra honorer le coupon de son Eurobond en dollars arrivant à maturité en 2048. Dans une vie financière ordinaire, l’opération relèverait de la mécanique habituelle du service de la dette. Mais nous ne sommes plus dans une vie financière ordinaire. Les détenteurs du papier sénégalais sont en alerte et la courbe publiée par Cbonds en donne une représentation assez saisissante : le 1er septembre à l’annonce du Plan de Traitement de la…",
+      "country": "SEN",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": true,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "fr",
+      "published": "2026-09-07T22:32:40+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/09/07/senegal-13-septembre-un-mur-de-la-dette-a-repousser/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/09/07/senegal-13-septembre-un-mur-de-la-dette-a-repousser/"
         }
       ],
       "confirmation_count": 1
@@ -4173,7 +4207,7 @@
       "country": "TZA",
       "category": "AUTRE",
       "severity": 2,
-      "credibility": 4,
+      "credibility": 5,
       "verified": true,
       "theme": null,
       "legal_status": null,
@@ -4196,13 +4230,19 @@
           "url": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609070421.html"
+        },
+        {
           "id": "aa-tza",
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609070421.html"
         }
       ],
-      "confirmation_count": 2
+      "confirmation_count": 3
     },
     {
       "id": "08ed6cafe5",
@@ -4424,38 +4464,6 @@
           "name": "TechCabal",
           "tier": 2,
           "url": "https://techcabal.com/2026/09/07/nigeria-gdp-growth-jobs-telecoms/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4b9b99c4ca",
-      "title": "Okonjo-Iweala, US Lawmakers Excited As Donald Trump Signs Bill for Two-Year Extension of AGOA",
-      "summary": "[This Day] Abuja -- The Director General of the World Trade Organisation (WTO), Dr. Ngozi Okonjo-Iweala, and some members of the United States Congress have expressed excitement as President Donald Trump signed the bill for a two-year extension of the African Growth and Opportunity Act (AGOA), after the enabling law elapsed on September 30, 2025.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-07T11:04:40+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609070260.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609070260.html"
         }
       ],
       "confirmation_count": 1
@@ -5137,38 +5145,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "c63ddbb284",
-      "title": "Financial Inclusion and Strategic Banking Innovation - Reimagining Access in Ghana",
-      "summary": "[Ghanaian Times] In today's rapidly evolving financial ecosystem, financial inclusion can no longer be measured simply by the number of people who own bank accounts. Across the world, and particularly in emerging economies such as Ghana, the conversation has shifted towards ensuring that individuals and businesses have meaningful access to financial services that improve their lives, support their ambitions, and enable them to participate fully in economic growth.",
-      "country": "GHA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-02T10:57:29+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609020342.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609020342.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "1938f225f5",
       "title": "EU's Global Gateway, Homegrown Reform Agenda Complementary - HPR Standing Committee Chair",
       "summary": "[ENA] Addis Ababa -- Ethiopia's Homegrown Economic Reform Agenda and the European Union's Global Gateway initiative are complementary frameworks that can foster sustainable economic partnership, House of People's Representatives Foreign Relations and Peace Affairs Standing Committee Chairperson Dima Noggo said.",
@@ -5196,6 +5172,38 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609020108.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c67fcfa0b9",
+      "title": "Relief As Tanzania Reduces Prices of Petroleum Products",
+      "summary": "[Daily News] Dar es Salaam -- THE Energy and Water Utilities Regulatory Authority (EWURA) has announced a reduction in the prices of petroleum products for September 2026.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-02T06:41:07+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609020074.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609020074.html"
         }
       ],
       "confirmation_count": 1
@@ -5361,9 +5369,9 @@
       "confirmation_count": 1
     },
     {
-      "id": "7d0900e0a5",
-      "title": "Estoril Praia e Arouca encerram jornada com 'nulo'",
-      "summary": "Estoril Praia e Arouca empataram esta segunda-feira a 0-0. O Arouca somou o seu primeiro empate esta edição e o Estoril Praia somou dois pontos, até ao momento.",
+      "id": "934aa68272",
+      "title": "00h. Estoril Praia e Arouca encerram jornada com ‘nulo’",
+      "summary": "O Arouca mantém-se em 5º lugar e o Estoril Praia permanece na 17ª posição. Ainda, o Governo garante que não está a lucrar com a crise energética.",
       "country": "CPV",
       "category": "AUTRE",
       "severity": 1,
@@ -5375,19 +5383,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "pt",
-      "published": "2026-09-07T22:11:23+00:00",
+      "published": "2026-09-07T23:15:43+00:00",
       "lead_source": {
         "id": "observador",
         "name": "Observador",
         "tier": 2,
-        "url": "https://observador.pt/2026/09/07/estoril-praia-e-arouca-encerram-jornada-com-nulo-na-amoreira/"
+        "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2414/"
       },
       "confirming_sources": [
         {
           "id": "observador",
           "name": "Observador",
           "tier": 2,
-          "url": "https://observador.pt/2026/09/07/estoril-praia-e-arouca-encerram-jornada-com-nulo-na-amoreira/"
+          "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2414/"
         }
       ],
       "confirmation_count": 1
@@ -5644,38 +5652,6 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1840688/politique/au-senegal-la-coalition-fdr-peut-elle-tirer-profit-de-la-rivalite-entre-diomaye-faye-et-sonko/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "79f44c508b",
-      "title": "When does a family meal become a luxury in Nigeria?",
-      "summary": "‘5,000 naira used to make a pot of soup, now 10,000 naira isn't enough.’",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-07T16:53:11+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/when-does-a-family-meal-become-a-luxury-in-nigeria?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/when-does-a-family-meal-become-a-luxury-in-nigeria?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -7436,6 +7412,38 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/09/07/un-creates-international-day-for-elimination-of-child-marriage/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "fc1c56d5bc",
+      "title": "President's Husband Dies",
+      "summary": "[Capital FM] Nairobi -- Tanzania is mourning the death of Hafidh Ameir Hassan, the husband of President Samia Suluhu Hassan, who died on Monday morning while receiving treatment in Zanzibar.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-07T08:56:02+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609070138.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609070138.html"
         }
       ],
       "confirmation_count": 1
@@ -9587,38 +9595,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "105970fee6",
-      "title": "Sénégal : FMI, PTDS, les enjeux et défis d’un nouveau départ",
-      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-04T16:10:14+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/09/04/senegal-fmi-ptds-les-enjeux-et-defis-dun-nouveau-depart/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/09/04/senegal-fmi-ptds-les-enjeux-et-defis-dun-nouveau-depart/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "b84f7a489e",
       "title": "Equity Bank Facility Helps Vurra Secondary School Complete Dormitory",
       "summary": "[Independent (Kampala)] Arua -- Set against the vibrant landscape of Arua in West Nile, Vurra Secondary School is expanding to keep pace with a rapidly growing student population. School leaders are racing to add classrooms and dormitories to ensure every learner has space to study, live, and thrive.",
@@ -11091,6 +11067,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "a6b3be866f",
+      "title": "Veep Calls for Stronger Coordination to Drive Decentralisation",
+      "summary": "[Ghanaian Times] The Vice President, Professor Naana Jane Opoku-Agyemang, has called for stronger coordination among government institutions to ensure the effective implementation of Ghana's new decentralisation policy.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-03T21:24:46+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609030650.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609030650.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b8293f3079",
       "title": "Guinée : les avocats du FNDC saisissent l’ONU après la découverte d’un charnier à Forécariah",
       "summary": "Après la découverte de six corps ligotés et les yeux bandés près de Forécariah, l’indépendance de l’enquête menée par la justice guinéenne est mise en cause. Les avocats du Front national pour la défense de la Constitution ont saisi le haut-commissaire des Nations unies aux droits de l’homme.",
@@ -12080,38 +12088,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609020353.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "05833a1e4f",
-      "title": "Cement Prices Under Government Review",
-      "summary": "[Daily News] Dodoma -- CEMENT prices are being closely monitored as the government seeks to ensure that lower production and transport costs translate into affordable prices for consumers, particularly in regions hosting major cement factories.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-02T11:01:30+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609020346.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609020346.html"
         }
       ],
       "confirmation_count": 1
