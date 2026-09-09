@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-09-09T19:47:15.959712+00:00",
+  "generated_at": "2026-09-09T22:33:40.191330+00:00",
   "stats": {
-    "total_signals": 400,
+    "total_signals": 398,
     "verified_signals": 12,
-    "countries_covered": 23,
+    "countries_covered": 24,
     "sources_active": 40,
     "per_country": {
-      "UGA": 32,
+      "KEN": 75,
+      "UGA": 31,
       "NGA": 52,
-      "TZA": 29,
+      "TZA": 30,
       "MOZ": 39,
       "GMB": 7,
-      "CIV": 11,
-      "SEN": 33,
-      "KEN": 74,
+      "CIV": 10,
+      "SEN": 32,
       "ETH": 31,
-      "CPV": 8,
-      "GHA": 37,
+      "CPV": 7,
+      "GHA": 36,
       "MLI": 20,
       "NER": 6,
       "SLE": 4,
@@ -25,13 +25,14 @@
       "GIN": 3,
       "SOM": 1,
       "DJI": 1,
+      "GNB": 1,
       "BEN": 1,
       "TGO": 1,
       "BFA": 1,
       "MUS": 1
     },
-    "west_signals": 184,
-    "east_signals": 216
+    "west_signals": 181,
+    "east_signals": 217
   },
   "sources": [
     {
@@ -276,6 +277,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "218faa2348",
+      "title": "Kenya records 19 Mpox deaths as cases rise to 1,298",
+      "summary": "At least 19 people have died from mox since the outbreak was confirmed in Kenya three months ago, according to a statement released Monday by the Kenyan Ministry of Health.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-09T19:35:50+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/09/09/kenya-records-19-mpox-deaths-as-cases-rise-to-1298/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/09/09/kenya-records-19-mpox-deaths-as-cases-rise-to-1298/"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "2f4abff945",
       "title": "Uganda Takes 'Pearl Sweet' Crude to Global Market At Appec 2026",
@@ -1145,38 +1178,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "327b34c069",
-      "title": "At least 25 dead in Cape Verde bus crash, most of them children and teenagers",
-      "summary": "At least 25 people, mostly children and teenagers, were killed in a bus crash on Cape Verde's Fogo Island, public radio network RCV said on Sunday.",
-      "country": "CPV",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-07T08:07:17+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/09/06/at-least-25-dead-in-cape-verde-bus-crash-most-of-them-children-and-teenagers/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/09/06/at-least-25-dead-in-cape-verde-bus-crash-most-of-them-children-and-teenagers/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "938d8588d1",
       "title": "Cap-Vert : funérailles de plusieurs victimes d'un accident d'un bus",
       "summary": "Au Cap-Vert, les funérailles de certains enfants tués dans un accident de la route sur l'île de Fogo ont été organisées dimanche. Le président capverdien José Maria Neves a assisté à la cérémonie.",
@@ -1716,38 +1717,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609090639.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b6fb646614",
-      "title": "Entrada na REN \"foi a notícia que mais gostei de dar\"",
-      "summary": "Investimento do Estado na REN começou a ser preparado em 2024 e foi tema central na visita de Montenegro à China no ano passado. Ministra da Energia diz que permitirá influenciar a partir de dentro.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-09-09T16:51:43+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/2026/09/09/entrada-do-estado-na-ren-foi-a-noticia-que-mais-gostei-de-dar-diz-ministra-da-energia/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/2026/09/09/entrada-do-estado-na-ren-foi-a-noticia-que-mais-gostei-de-dar-diz-ministra-da-energia/"
         }
       ],
       "confirmation_count": 1
@@ -3007,38 +2976,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "bbfd2cdf46",
-      "title": "Côte d’Ivoire: la liquidation de la Commission électorale lancée, sa succession reste à définir",
-      "summary": "Quatre mois après sa dissolution, la Côte d’Ivoire a ouvert officiellement le chapitre de la liquidation de la Commission électorale indépendante (CEI). La passation de charges entre le Secrétaire général sortant de la CEI et le liquidateur de cette institution s’est déroulée ce 7 septembre 2026 à Abidjan.",
-      "country": "CIV",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-08T12:19:40+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260908-c%C3%B4te-d-ivoire-la-liquidation-de-la-commission-%C3%A9lectorale-lanc%C3%A9e-sa-succession-reste-%C3%A0-d%C3%A9finir"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260908-c%C3%B4te-d-ivoire-la-liquidation-de-la-commission-%C3%A9lectorale-lanc%C3%A9e-sa-succession-reste-%C3%A0-d%C3%A9finir"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "f48019c743",
       "title": "Marrupa Residents Return Home Following Terrorist Attack",
       "summary": "[AIM] Maputo -- The Secretary of State for the northern province of Niassa, Silva Livone, has revealed that the residents of Marrupa district, in the southern boundary of Niassa Special Reserve, are already returning to their homes, following a terrorist attack on Thursday that forced about 15 employees from Mozambique Wild Adventures (MWA) tourist camps to flee.",
@@ -3391,6 +3328,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "05bc2782f7",
+      "title": "Zanzibar, Unesco Launch Parent-Child Health Toolkit",
+      "summary": "[Daily News] Zanzibar -- ZANZIBAR has launched a communication toolkit to help parents discuss reproductive health with their children, a move aimed at strengthening parenting, child protection and the wellbeing of young people.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-07T11:50:16+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609070355.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609070355.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "31b6e0fb1a",
       "title": "Emose Compensates 9,000 Agricultural Producers",
       "summary": "[AIM] Maputo -- Mozambique's largest insurance company, the publicly owned EMOSE, disbursed 25 million meticais (390,000 US dollars at the current exchange rate) to compensate about 9,000 agricultural producers for the 2024-2025 seasons.",
@@ -3546,38 +3515,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609070221.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "79c1ff5845",
-      "title": "Samia Seals Dodoma Milestone, 37 Permanent Offices Ready",
-      "summary": "[Daily News] Dodoma -- DODOMA'S seven-year transition from temporary government offices to a permanent administrative hub reaches a defining moment tomorrow, as President Dr Samia Suluhu Hassan launches Government City in Mtumba, completing a major phase of the capital's transformation.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-07T09:15:51+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609070150.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609070150.html"
         }
       ],
       "confirmation_count": 1
@@ -3930,6 +3867,38 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c96852bc43",
+      "title": "Apexbrasil Calls for New Economic Partnerships Between Mozambique and Brazil",
+      "summary": "[AIM] Maputo -- The chairperson of the Brazilian Trade and Investment Promotion Agency (ApexBrasil), Laudemir Müller, has guaranteed that the political path is open for a new generation of economic partnerships between Brazil and Mozambique.",
+      "country": "MOZ",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-01T10:48:41+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609010246.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609010246.html"
         }
       ],
       "confirmation_count": 1
@@ -5591,38 +5560,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "1e60248828",
-      "title": "Hafidh Ameir Hassan - Tanzanians Mourn the Death of Dr Samia's Husband",
-      "summary": "[Daily News] VICE-President Deogratius Ndejembi has announced the death of Hafidh Ameir Hassan, husband of President Samia Suluhu Hassan.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-07T09:19:34+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609070152.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609070152.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "8d7f125824",
       "title": "Ethiopia Achieving Significant Results, Moving Toward Greater Prosperity - Deputy PM",
       "summary": "[ENA] Addis Ababa -- Deputy Prime Minister Temesgen Tiruneh affirmed that Ethiopia has been registering significant results and steadily moving toward greater prosperity through comprehensive economic transformation, increased productivity and expanded domestic production.",
@@ -5879,6 +5816,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "fc2720d2a7",
+      "title": "Morreu antigo ministro da Guiné-Bissau Orlando Mendes Viegas",
+      "summary": "Mendes Viegas foi vice-presidente e membro da Comissão Executiva do PRS e deputado ao Parlamento eleito em várias legislaturas. Ocupou o cargo de presidente da Câmara Municipal de Bissau em 2002.",
+      "country": "GNB",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-09T21:59:22+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/09/09/morreu-orlando-mendes-viegas-antigo-ministro-da-guine-bissau-tinha-66-anos/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/09/09/morreu-orlando-mendes-viegas-antigo-ministro-da-guine-bissau-tinha-66-anos/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2102198e29",
+      "title": "Kenya : les autorités mettent en garde contre la propagation de la variole du singe",
+      "summary": "La maladie touche 40 des 47 comtés du pays depuis trois mois.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-09T20:17:37+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/09/09/kenya-les-autorites-alertent-sur-la-propagation-de-la-variole-du-singe/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/09/09/kenya-les-autorites-alertent-sur-la-propagation-de-la-variole-du-singe/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "e69d451ce1",
       "title": "Kenyan start-up makes robotic limbs to sign for deaf kids",
       "summary": "A Kenyan start-up has built a mechanical hand that can translate a teachers' voice into sign language in real time, allowing deaf children to learn alongside their hearing counterparts",
@@ -6130,38 +6131,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609090689.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9ee295df1b",
-      "title": "Sudanese refugee returning home ’to make buildings for our country’",
-      "summary": "The UN says Uganda hosts more than 96,000 Sudanese refugees, but a programme intends to fly at least 1,300 people home.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-09T17:46:44+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -9019,38 +8988,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "315b0e283c",
-      "title": "«Il y a des témoignages de violence»: plus d'un millier de migrants secourus dans l’Atlantique dans un état critique",
-      "summary": "Médecins sans frontières tire la sonnette d'alarme. En seulement une semaine, fin août, 1 046 personnes qui tentaient de rejoindre clandestinement les îles espagnoles des Canaries à bord de plusieurs embarcations de fortune, ont été secourues. Elles ont été débarquées dans un état critique en Mauritanie et au Sénégal, et prises en charge par les équipes médicales de l'organisation. Explications de Fouzia Bara, responsable du programme Migration à MSF.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-08T14:41:37+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20260908-il-y-a-des-t%C3%A9moignages-de-violence-plus-d-un-millier-de-migrants-secourus-dans-l-atlantique-dans-un-%C3%A9tat-critique"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20260908-il-y-a-des-t%C3%A9moignages-de-violence-plus-d-un-millier-de-migrants-secourus-dans-l-atlantique-dans-un-%C3%A9tat-critique"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "c8320e881b",
       "title": "Downstream Countries Should Have Shared Ethiopia's Watershed Restoration, Afforestation Costs - Senior Water Expert",
       "summary": "[ENA] Addis Ababa -- The Nile downstream countries, Egypt and Sudan, should have shared the cost of Ethiopia's large-scale watershed restoration and afforestation efforts because they have been directly benefiting from the improved watershed conditions, a senior transboundary water expert said.",
@@ -9174,38 +9111,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/09/08/kenya-temporary-amnesty-eases-fears-among-east-african-migrants/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "04831b4d91",
-      "title": "Africa’s last-mile electricity problem cannot be solved by markets alone",
-      "summary": "Kenya illustrates the problem. Successive governments have spent years extending the national grid, including through the Last Mile Connectivity and rural electrification programmes. But Gitonga points to populations whose lifestyles make it particularly difficult to implement conventional electrical infrastructure.",
-      "country": "KEN",
-      "category": "RENEWABLE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-08T13:42:11+00:00",
-      "lead_source": {
-        "id": "techcabal",
-        "name": "TechCabal",
-        "tier": 2,
-        "url": "https://techcabal.com/2026/09/08/africa-last-mile-electricity-cannot-be-markets-alone/"
-      },
-      "confirming_sources": [
-        {
-          "id": "techcabal",
-          "name": "TechCabal",
-          "tier": 2,
-          "url": "https://techcabal.com/2026/09/08/africa-last-mile-electricity-cannot-be-markets-alone/"
         }
       ],
       "confirmation_count": 1
@@ -10358,6 +10263,70 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/mastercard-flowcart-bring-in-chat-payments-to-kenya/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f92ef469fa",
+      "title": "Chacha Urges Preservation of Cultural Traditions Nationwide",
+      "summary": "[Daily News] Mwanza -- CHAMA Cha Mapinduzi (CCM) National Executive Committee Secretary for Organisation, Mr Paul Chacha has urged the public to preserve and promote positive traditions of the country's ethnic groups, saying they are essential for building a morally upright and prosperous society.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-07T11:57:18+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609070369.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609070369.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3e60ff1989",
+      "title": "DC Intervenes in Iptl Housing Dispute",
+      "summary": "[Daily News] Dar es Salaam -- THE Kinondoni District Commissioner (DC), Mr Saad Mtambule, has intervened in a long-running dispute between Independent Power Tanzania Limited (IPTL) and residents occupying houses at Tegeta, Dar es Salaam, with both sides expected to meet at his office today to seek a peaceful solution.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-07T11:55:35+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609070363.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609070363.html"
         }
       ],
       "confirmation_count": 1
@@ -12058,38 +12027,6 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/kenya-opens-call-for-high-impact-ai-use-cases/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "47fa5a8bb6",
-      "title": "Increasing Domestic Production Crucial for Attracting Foreign Currency - Chapo",
-      "summary": "[AIM] Marracuene -- Mozambican President Daniel Chapo believes that increasing domestic production and exports is crucial to boosting the availability of foreign currency, particularly US dollars.",
-      "country": "MOZ",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-01T09:51:36+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609010177.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609010177.html"
         }
       ],
       "confirmation_count": 1
