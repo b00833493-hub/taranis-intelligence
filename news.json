@@ -1,36 +1,37 @@
 {
-  "generated_at": "2026-09-11T19:42:32.089335+00:00",
+  "generated_at": "2026-09-11T22:35:21.308641+00:00",
   "stats": {
     "total_signals": 396,
-    "verified_signals": 6,
-    "countries_covered": 22,
+    "verified_signals": 5,
+    "countries_covered": 23,
     "sources_active": 40,
     "per_country": {
-      "NGA": 54,
+      "BFA": 2,
+      "NGA": 55,
       "MOZ": 39,
       "TZA": 32,
       "SEN": 29,
       "UGA": 37,
       "RWA": 4,
-      "KEN": 75,
-      "GMB": 5,
+      "KEN": 73,
+      "GMB": 4,
       "ETH": 33,
-      "CIV": 9,
-      "MLI": 20,
+      "CIV": 10,
+      "MLI": 19,
+      "GIN": 6,
       "NER": 2,
       "GHA": 34,
-      "SOM": 3,
-      "GIN": 4,
+      "SOM": 2,
       "MDG": 5,
       "DJI": 1,
-      "CPV": 5,
+      "BEN": 1,
+      "CPV": 4,
       "SSD": 2,
       "GNB": 1,
-      "BFA": 1,
       "MUS": 1
     },
-    "west_signals": 164,
-    "east_signals": 232
+    "west_signals": 167,
+    "east_signals": 229
   },
   "sources": [
     {
@@ -275,6 +276,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "e668a25a56",
+      "title": "Burkina Faso : 104 milliards de FCFA pour accélérer l’électrification",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "BFA",
+      "category": "RENEWABLE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-11T20:31:13+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/09/11/burkina-faso-104-milliards-de-fcfa-pour-accelerer-lelectrification/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/09/11/burkina-faso-104-milliards-de-fcfa-pour-accelerer-lelectrification/"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "86c0410f4a",
       "title": "Ogun Releases N6.75bn for Gratuity, Additional Pension Benefits",
@@ -730,40 +763,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "c31d862d03",
-      "title": "Obore, Six Others Granted Bail",
-      "summary": "[Nile Post] Interdicted Parliament Director of Communications and Public Affairs Chris Obore and six colleagues facing charges in the alleged Shs27 billion corruption scandal have been granted bail by the Anti-Corruption Court.",
-      "country": "UGA",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "GRANT"
-      ],
-      "lang": "en",
-      "published": "2026-09-09T08:24:19+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609090127.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609090127.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "894f282d1a",
       "title": "Senegal lawmakers push back against PM Lo over IMF agreement",
       "summary": "The International Monetary Fund took centre stage on Tuesday during debates in Senegal's National Assembly. Laying out the government’s general policy statement, Prime Minister Ahmadou Al Aminou Mohamed Lo defended its recent agreement with the IMF on a three year aid programme worth $2.2 billion.",
@@ -825,38 +824,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609090028.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "2c50c92ff6",
-      "title": "Foreigners in Kenya given 90 days to regularise documents",
-      "summary": "The Kenyan government on Tuesday gave foreigners running businesses in the country 90 days to obtain or update required documents, including work permits and business licenses. The move followed remarks by the president about foreign-owned businesses that sparked panic in immigrant communities.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-09T05:21:08+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/09/09/foreigners-in-kenya-given-90-days-to-regularise-documents/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/09/09/foreigners-in-kenya-given-90-days-to-regularise-documents/"
         }
       ],
       "confirmation_count": 1
@@ -1177,6 +1144,38 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200131.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d14c171e85",
+      "title": "Guinée : Nimba Mining Company obtient un préfinancement de plus de 300 millions de dollars de Glencore",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-11T21:38:04+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/09/11/guinee-nimba-mining-company-obtient-un-prefinancement-de-plus-de-300-millions-de-dollars-de-glencore/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/09/11/guinee-nimba-mining-company-obtient-un-prefinancement-de-plus-de-300-millions-de-dollars-de-glencore/"
         }
       ],
       "confirmation_count": 1
@@ -2046,9 +2045,9 @@
       "confirmation_count": 1
     },
     {
-      "id": "675cecdd5e",
-      "title": "23 Million Children Vaccinated Against Polio, Other Diseases in Six Months - Report",
-      "summary": "[Premium Times] The report, titled \"Expanding Reach, Readiness and Resilience: Data-Driven Health Systems Across Africa,\" indicates that the vaccination figure was part of a broader set of interventions implemented during the first half of 2026.",
+      "id": "5eca31e74c",
+      "title": "Nigeria Begins Local Production of Insecticide-Treated Mosquito Nets",
+      "summary": "[Premium Times] The health ministry noted that at full capacity, the facility is expected to produce about 10 million nets annually and create more than 600 jobs.",
       "country": "NGA",
       "category": "FINANCING",
       "severity": 3,
@@ -2060,19 +2059,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-09-11T08:19:24+00:00",
+      "published": "2026-09-11T08:21:14+00:00",
       "lead_source": {
         "id": "aa-nga",
         "name": "AllAfrica · Nigeria",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202609110047.html"
+        "url": "https://allafrica.com/stories/202609110050.html"
       },
       "confirming_sources": [
         {
           "id": "aa-nga",
           "name": "AllAfrica · Nigeria",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202609110047.html"
+          "url": "https://allafrica.com/stories/202609110050.html"
         }
       ],
       "confirmation_count": 1
@@ -2496,6 +2495,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "15eed40970",
+      "title": "Motorcycles Blamed for 60 Percent of Road Crashes in Kigezi",
+      "summary": "[Independent (Kampala)] Kabale -- A total of 5,298 road traffic accident cases were recorded in the Kigezi region during the 2025/2026 financial year, with adult males identified as the most affected group.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-09T14:53:36+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609090509.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609090509.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "71eb4ec763",
       "title": "The Rwandan eyeing Champions League history against Man Utd",
       "summary": "Rwanda forward Joy-Lance Mickels has helped Azerbaijan's Sabah reach the Champions League proper on their competition debut, and is now looking to down the team he supports.",
@@ -2528,11 +2559,11 @@
       "confirmation_count": 1
     },
     {
-      "id": "90c67db43f",
-      "title": "Gambie : la colère monte après plusieurs semaines de coupures d'électricité",
-      "summary": "🇬🇲 En Gambie, des milliers de personnes ont manifesté contre les coupures d’électricité qui se prolongent depuis plusieurs semaines. Ils ont bloqué des routes et brûlé des pneus pour dénoncer l’inaction du gouvernement.",
-      "country": "GMB",
-      "category": "RENEWABLE",
+      "id": "bcb05753fe",
+      "title": "Nira Staffing Crisis Leaves Millions of IDs Gathering Dust",
+      "summary": "[Independent (Kampala)] Kampala -- The National Identification and Registration Authority (NIRA) is grappling with a severe service-delivery crisis.",
+      "country": "UGA",
+      "category": "AUTRE",
       "severity": 3,
       "credibility": 2,
       "verified": false,
@@ -2541,20 +2572,20 @@
       "regulatory": false,
       "fdi": false,
       "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-09T12:45:13+00:00",
+      "lang": "en",
+      "published": "2026-09-09T14:36:29+00:00",
       "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260909-gambie-la-col%C3%A8re-monte-apr%C3%A8s-plusieurs-semaines-de-coupures-d-%C3%A9lectricit%C3%A9"
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609090461.html"
       },
       "confirming_sources": [
         {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260909-gambie-la-col%C3%A8re-monte-apr%C3%A8s-plusieurs-semaines-de-coupures-d-%C3%A9lectricit%C3%A9"
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609090461.html"
         }
       ],
       "confirmation_count": 1
@@ -3040,33 +3071,33 @@
       "confirmation_count": 1
     },
     {
-      "id": "b7a59d9fa8",
-      "title": "$15 Million Wildlife Project Launched",
-      "summary": "[AIM] Maputo -- Mozambique's National Administration of Conservation Areas (ANAC) has announced the implementation of \"Landscape-Scale Wildlife Conservation and Livelihood Transformation\" project, budgeted at 15 million US dollars.",
+      "id": "6cc39b9eed",
+      "title": "EDM Records Estimated Losses of 76 Million Dollars Due to Extreme Weather Events",
+      "summary": "[AIM] Marracuene -- Extreme weather events have caused losses estimated at 76 million US dollars to Mozambique's publicly-owned electricity company, EDM.",
       "country": "MOZ",
       "category": "FINANCING",
       "severity": 3,
       "credibility": 2,
       "verified": false,
       "theme": null,
-      "legal_status": "ANNOUNCED",
+      "legal_status": null,
       "regulatory": false,
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-09-03T10:12:25+00:00",
+      "published": "2026-09-03T11:26:12+00:00",
       "lead_source": {
         "id": "aa-moz",
         "name": "AllAfrica · Mozambique",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202609030185.html"
+        "url": "https://allafrica.com/stories/202609030307.html"
       },
       "confirming_sources": [
         {
           "id": "aa-moz",
           "name": "AllAfrica · Mozambique",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202609030185.html"
+          "url": "https://allafrica.com/stories/202609030307.html"
         }
       ],
       "confirmation_count": 1
@@ -3520,6 +3551,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "a022b237c1",
+      "title": "Nigeria: Abuja bans all official visits to South Africa amid anti-immigrant violence",
+      "summary": "As violence in South Africa continues against immigrants, the Nigerian National Assembly has announced it is banning all official visits to the country.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-11T16:22:31+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/09/11/nigeria-abuja-bans-all-official-visits-to-south-africa-amid-anti-immigrant-violence/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/09/11/nigeria-abuja-bans-all-official-visits-to-south-africa-amid-anti-immigrant-violence/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "41863a0476",
       "title": "Ethiopia Reaffirms Reform Momentum, Brics Commitment At Finance Leaders' Meeting",
       "summary": "[ENA] Addis Ababa -- Ethiopia has reaffirmed its commitment to advancing economic reforms and contributing to BRICS' shared financial agenda, as its delegation participated in the Second BRICS Finance Ministers and Central Bank Governors (FMCBG) Meeting in Mumbai, India.",
@@ -3623,44 +3686,6 @@
           "name": "Club of Mozambique",
           "tier": 2,
           "url": "https://clubofmozambique.com/news/mozambique-chapo-inaugurates-polytechnic-institute-in-quissico-zavala-district/"
-        }
-      ],
-      "confirmation_count": 2
-    },
-    {
-      "id": "a5b280f7cf",
-      "title": "Nigeria suspends official visits to South Africa over anti-migrant violence",
-      "summary": "Months of anti-foreigner protests across South Africa have forced tens of thousands to leave the country.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 4,
-      "verified": true,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-11T15:12:23+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/news/2026/9/11/nigeria-suspends-official-visits-to-south-africa-over-anti-migrant-violence?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/news/2026/9/11/nigeria-suspends-official-visits-to-south-africa-over-anti-migrant-violence?traffic_source=rss"
-        },
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/09/11/nigeria-abuja-bans-all-official-visits-to-south-africa-amid-anti-immigrant-violence/"
         }
       ],
       "confirmation_count": 2
@@ -5015,6 +5040,166 @@
       "confirmation_count": 1
     },
     {
+      "id": "b436abd3ff",
+      "title": "Côte d'Ivoire: l’opposant et ex-ministre Justin Koné Katinan placé sous mandat de dépôt",
+      "summary": "Justin Koné Katinan placé sous mandat de dépôt en Côte d’Ivoire ce vendredi 11 septembre. Le 4e vice-président du PPA-CI était entendu depuis mercredi, où il avait été auditionné à la préfecture d’Abidjan, suite à une plainte du RHDP, le parti au pouvoir, pour diffamation notamment, avant d’être déféré ce vendredi matin à la section antiterroriste pour une seconde affaire, et c’est à la suite de cette audition qu’il a été inculpé.",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-11T21:54:35+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260911-c%C3%B4te-d-ivoire-l-opposant-et-ex-ministre-justin-kon%C3%A9-katinan-plac%C3%A9-sous-mandat-de-d%C3%A9p%C3%B4t"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260911-c%C3%B4te-d-ivoire-l-opposant-et-ex-ministre-justin-kon%C3%A9-katinan-plac%C3%A9-sous-mandat-de-d%C3%A9p%C3%B4t"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c595a67246",
+      "title": "Guinée: deux anciens ministres proches d’Alpha Condé autorisés à se faire soigner à l’étranger",
+      "summary": "En Guinée, l’ancien Premier ministre Ibrahima Kassory Fofana et l’ex-président de l’Assemblée nationale Amadou Damaro Camara sont autorisés à quitter la Guinée pour poursuivre leurs soins à l’étranger. Une décision du parquet saluée par les avocats des deux hommes qui ont été condamnés par la Cour de répression des infractions économiques et financières (Crief).",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-11T21:53:06+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260911-guin%C3%A9e-deux-anciens-ministres-proches-d-alpha-cond%C3%A9-autoris%C3%A9s-%C3%A0-se-faire-soigner-%C3%A0-l-%C3%A9tranger"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260911-guin%C3%A9e-deux-anciens-ministres-proches-d-alpha-cond%C3%A9-autoris%C3%A9s-%C3%A0-se-faire-soigner-%C3%A0-l-%C3%A9tranger"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f1330da3f5",
+      "title": "Penser la ville de demain à la première biennale pan-africaine d'architecture au Kenya",
+      "summary": "Comment penser la ville africaine de demain ? Une ville adaptée à la croissance de la population, aux changements climatiques et affranchie d'un passé colonial encore parfois très présent. La toute première biennale pan-africaine d'architecture qui s'est déroulée cette semaine au Kenya essaie de répondre à cette question.",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-11T21:45:37+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260911-penser-la-ville-de-demain-%C3%A0-la-premi%C3%A8re-biennale-pan-africaine-d-architecture-au-kenya"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260911-penser-la-ville-de-demain-%C3%A0-la-premi%C3%A8re-biennale-pan-africaine-d-architecture-au-kenya"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "925a999aa6",
+      "title": "Sines recebeu 95% do gás e três navios russos em 2025",
+      "summary": "A Nigéria representou 50% das operações de descarga, de acordo com um documento divulgado esta sexta-feira. Seguem-se os Estados Unidos, com 43%, e a Rússia, com os restantes 7%.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-11T21:16:49+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/09/11/sines-recebeu-95-do-gas-que-entrou-em-portugal-e-tres-navios-russos-em-2025/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/09/11/sines-recebeu-95-do-gas-que-entrou-em-portugal-e-tres-navios-russos-em-2025/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "552281e95d",
+      "title": "Bénin : à la découverte de l’univers du plasticien Dominique Zinkpè",
+      "summary": "Dominique Zinkpè est l’une des figures de l’art contemporain béninois. Pourtant, rien ne le destinait vraiment à devenir artiste. Né à Cotonou en 1969, passé par une école de couture, largement autodidacte, il apprend notamment la peinture dans les livres avant de construire un univers singulier, entre peinture, dessin, sculpture et assemblage.\n \nSes œuvres puisent dans le vodun et les traditions yoruba. Ses spectaculaires assemblages d’ibedji, petites statuettes liées…",
+      "country": "BEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-11T21:03:24+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260911-b%C3%A9nin-%C3%A0-la-d%C3%A9couverte-de-l-univers-du-plasticien-dominique-zinkp%C3%A8"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260911-b%C3%A9nin-%C3%A0-la-d%C3%A9couverte-de-l-univers-du-plasticien-dominique-zinkp%C3%A8"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "6aefa0df99",
       "title": "Cabo Verde recebeu mais 9% de hóspedes no segundo trimestre",
       "summary": "Cabo Verde recebeu mais 9% em comparação com 2025. Contabilizando 277 mil hóspedes no segundo trimestre. Um quarto dos quais oriundo do Reino Unido, principal país de origem.",
@@ -5490,38 +5675,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609110498.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a74cfe5087",
-      "title": "Corpo de homem encontrado na Praia de Lagoa de Albufeira",
-      "summary": "O alerta foi recebido às 06h45, sendo ativados os respetivos elementos de segurança. A Autoridade Marítima Nacional desconhece as causas por detrás da ocorrência.",
-      "country": "CPV",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-09-11T15:48:52+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/2026/09/11/corpo-de-homem-encontrado-na-praia-da-lagoa-de-albufeira/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/2026/09/11/corpo-de-homem-encontrado-na-praia-da-lagoa-de-albufeira/"
         }
       ],
       "confirmation_count": 1
@@ -7385,38 +7538,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "7d3ad4039d",
-      "title": "U.S. Delivers Military Equipment to Nigeria",
-      "summary": "[Premium Times] The equipment is part of a foreign military sales agreement that furthers the US-Nigerian partnership...\"",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-11T09:08:43+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609110099.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609110099.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "4aceec7a14",
       "title": "UN warns of persistent corruption and violence ahead of S.Sudan polls",
       "summary": "South Sudan has seen no progress on corruption or political stability, a United Nations commission warned on Thursday after touring the country ahead of its first-ever elections.",
@@ -7444,38 +7565,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/09/11/un-warns-of-persistent-corruption-and-violence-ahead-of-ssudan-polls/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "281edefe42",
-      "title": "Shell Faces Trial Over Alleged Misleading Evidence in Nigeria Oil Spill Case",
-      "summary": "[Premium Times] A UK High Court has ruled that allegations that witnesses who testified for Shell during earlier proceedings gave false or misleading evidence can be examined ahead of the full trial of a long-running oil pollution case brought by two Niger Delta communities.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-11T09:03:38+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609110093.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609110093.html"
         }
       ],
       "confirmation_count": 1
@@ -7833,6 +7922,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "2b251c7394",
+      "title": "Nigeria Records Reverse Medical Tourism As Foreigners Seek IVF, Experts Say",
+      "summary": "[This Day] · Experts seek regulation, insurance coverage, local production of fertility drugs",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-11T08:23:07+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609110054.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609110054.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "0a85b89887",
       "title": "Govt Urges Asal Residents to Relocate From Flood-Prone Areas Ahead of Heavy Rains",
       "summary": "[Capital FM] Nairobi -- The Government has intensified preparedness measures in arid and semi-arid lands (ASALs), urging communities living in flood-prone areas to relocate to safer ground ahead of anticipated heavy rains.",
@@ -8116,6 +8237,38 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609110026.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2bb7fb1245",
+      "title": "Sanwo-Olu Lauds Dangote's Resilience Despite Lagos Refinery Obstacles",
+      "summary": "[This Day] Governor Babajide Sanwo-Olu of Lagos State has described the Dangote Refinery as more than merely an industrial project, asserting that its construction showcased Africa's ability to execute ambitious projects on a market-changing scale.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-11T05:03:53+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609110020.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609110020.html"
         }
       ],
       "confirmation_count": 1
@@ -9053,38 +9206,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "63b16c61b3",
-      "title": "Mali: des bébés siamois séparés par une opération chirurgicale à Bamako, une première pour le pays",
-      "summary": "Au Mali, deux sœurs siamoises nées le 26 août dernier ont pu être séparées grâce à une opération chirurgicale délicate réalisée le 2 septembre à l'hôpital Gabriel Touré de Bamako. Les deux petites filles ont désormais un peu plus de deux semaines et se portent bien. Cette prouesse médicale est une première dans le pays, d'après le ministère malien de la Santé qui salue un « exploit scientifique ».",
-      "country": "MLI",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-10T14:54:34+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260910-mali-des-b%C3%A9b%C3%A9s-siamois-s%C3%A9par%C3%A9s-par-une-op%C3%A9ration-chirurgicale-%C3%A0-bamako-une-premi%C3%A8re-pour-le-pays"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260910-mali-des-b%C3%A9b%C3%A9s-siamois-s%C3%A9par%C3%A9s-par-une-op%C3%A9ration-chirurgicale-%C3%A0-bamako-une-premi%C3%A8re-pour-le-pays"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "ed1ea1efe3",
       "title": "Kenyan FM says move to regularise status of foreign workers not 'discriminatory'",
       "summary": "As it seeks to backtrack from the concern, Kenya has warned foreign workers they have 90 days to regularise their status. The foreign minister says the move to regularise the status of foreign workers is not 'discriminatory'.",
@@ -9144,38 +9265,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "bf3575128e",
-      "title": "Changement climatique: à la Biennale panafricaine, une réflexion sur une architecture plus adaptée en Afrique",
-      "summary": "Réfléchir à l’architecture de l’Afrique depuis le continent : tel est l’objectif de la Biennale panafricaine qui se tient à Nairobi du 7 au 11 septembre. Ces cinq jours doivent permettre aux architectes et urbanistes d’Afrique d’échanger, de confronter leurs idées et de présenter leurs projets à travers des groupes de travail et des panels de discussion. Plusieurs thèmes y sont évoqués. Parmi eux, le lien entre urbanisme et écologie, alors que le continent subit de plein…",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-10T12:37:41+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260910-changement-climatique-%C3%A0-la-biennale-panafricaine-une-r%C3%A9flexion-sur-une-architecture-plus-adapt%C3%A9e-en-afrique"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260910-changement-climatique-%C3%A0-la-biennale-panafricaine-une-r%C3%A9flexion-sur-une-architecture-plus-adapt%C3%A9e-en-afrique"
         }
       ],
       "confirmation_count": 1
@@ -9816,38 +9905,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609100212.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "bde16c4e07",
-      "title": "En marge de l’Assemblée générale de l’ONU, le travail de lobbying du Somaliland pour sa reconnaissance",
-      "summary": "L’Assemblée générale de l’ONU a démarré mardi 8 septembre 2026. En marge de l'événement, une petite délégation africaine non conviée a fait un gros travail de lobbying : celle du Somaliland. Pour la première fois de l'histoire de cette république autro-proclamée qui s’est séparée de la Somalie en 1991, un État - Israël - l’a en effet reconnue en décembre dernier. Alors désormais, celle-ci espère que d’autres pays - dont les États-Unis - emboiteront le pas à l'État hébreu,…",
-      "country": "SOM",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-10T09:48:03+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260910-en-marge-de-l-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu-le-travail-de-lobbying-du-somaliland-pour-sa-reconnaissance"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260910-en-marge-de-l-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu-le-travail-de-lobbying-du-somaliland-pour-sa-reconnaissance"
         }
       ],
       "confirmation_count": 1
@@ -10941,40 +10998,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "d0c2115f24",
-      "title": "Kenya : des Burundais prêts à partir après la répression des commerces étrangers",
-      "summary": "Des centaines de Burundais vivant au Kenya se sont rendus en masse à leur ambassade à Nairobi, lundi, pour obtenir des documents de voyage afin de quitter le pays, quelques jours après que le président William Ruto a ordonné la fermeture des petits commerces tenus par des étrangers.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "DEBT"
-      ],
-      "lang": "fr",
-      "published": "2026-09-09T08:55:37+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/09/09/kenya-des-burundais-prets-a-partir-apres-la-repression-des-commerces-etrangers/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/09/09/kenya-des-burundais-prets-a-partir-apres-la-repression-des-commerces-etrangers/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "c447c89f27",
       "title": "Uncertainty for Burundians in Kenya after president orders foreign-owned businesses closed",
       "summary": "Burundians in Nairobi flocked to their embassy on Monday to get travel documents, days after Kenyan president William Ruto ordered the closure of small businesses run by foreigners.",
@@ -11002,38 +11025,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/09/09/uncertainty-for-burundians-in-kenya-after-president-orders-foreign-owned-businesses-closed/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "74c529c5a3",
-      "title": "17 Tororo Villages Struggle for Safe Water As Dry Spell Bites",
-      "summary": "[Nile Post] The prolonged dry spell sweeping across the country has deepened the water crisis in several communities in Tororo District, leaving residents walking long distances in search of clean and safe water.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-09T08:24:20+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609090129.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609090129.html"
         }
       ],
       "confirmation_count": 1
@@ -11839,9 +11830,9 @@
       "confirmation_count": 1
     },
     {
-      "id": "ff57b30c6a",
-      "title": "Expansion of Beira-Feruka Oil Pipeline Crucial for Strengthening Economic Integration",
-      "summary": "[AIM] Maputo -- Mozambican President Daniel Chapo believes that the expansion of the Beira-Feruka oil pipeline is a major milestone for strengthening economic integration between Mozambique and Zimbabwe.",
+      "id": "16d11b16b2",
+      "title": "CTA Aproxima Startups Brasileiras De Empreendedores Mo&#xE7;ambicanos",
+      "summary": "[AIM] Maputo -- A Confederação das Associações Económicas de Moçambique (CTA) recebeu, na sua sede, uma delegação de startups brasileiras para uma sessão de intercâmbio com empreendedores tecnológicos moçambicanos, à margem da 61.ª edição da Feira Internacional de Maputo (FACIM), onde o Brasil participa como País de Honra.",
       "country": "MOZ",
       "category": "AUTRE",
       "severity": 1,
@@ -11853,19 +11844,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-09-03T10:12:26+00:00",
+      "published": "2026-09-03T11:01:03+00:00",
       "lead_source": {
         "id": "aa-moz",
         "name": "AllAfrica · Mozambique",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202609030186.html"
+        "url": "https://allafrica.com/stories/202609030255.html"
       },
       "confirming_sources": [
         {
           "id": "aa-moz",
           "name": "AllAfrica · Mozambique",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202609030186.html"
+          "url": "https://allafrica.com/stories/202609030255.html"
         }
       ],
       "confirmation_count": 1
