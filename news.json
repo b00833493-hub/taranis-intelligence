@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-16T20:07:19.171377+00:00",
+  "generated_at": "2026-09-16T22:56:10.642643+00:00",
   "stats": {
-    "total_signals": 407,
+    "total_signals": 405,
     "verified_signals": 2,
     "countries_covered": 22,
     "sources_active": 40,
     "per_country": {
-      "MOZ": 41,
       "NGA": 56,
+      "UGA": 37,
+      "MOZ": 41,
       "GHA": 33,
-      "SEN": 34,
+      "SEN": 32,
       "ETH": 33,
-      "KEN": 74,
+      "KEN": 75,
       "TZA": 32,
-      "UGA": 38,
       "RWA": 2,
       "MLI": 20,
       "CIV": 10,
@@ -22,14 +22,14 @@
       "NER": 4,
       "BFA": 1,
       "CPV": 3,
-      "DJI": 4,
+      "DJI": 3,
+      "MDG": 4,
       "BEN": 4,
-      "MDG": 3,
       "GNB": 3,
       "SOM": 2,
       "MUS": 1
     },
-    "west_signals": 175,
+    "west_signals": 173,
     "east_signals": 232
   },
   "sources": [
@@ -275,6 +275,70 @@
     }
   ],
   "signals": [
+    {
+      "id": "390267b40d",
+      "title": "Dangote Refinery Gains From Europe Fuel Shortage With $1.82b Profit",
+      "summary": "[Daba Finance] Dangote Petroleum Refinery reported $1.82 billion in net profit for the first half of 2026 as disruptions to Middle East fuel exports increased demand for products from its Lagos plant. Revenue exceeded $13 billion, compared with a $476 million loss for all of 2025, according to the refinery's IPO prospectus.",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T20:57:03+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160672.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160672.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0e734601eb",
+      "title": "French Firms Eye More Than $4 Billion Investment in Uganda",
+      "summary": "[Nile Post] French companies could invest more than $4 billion (about Shs15.7 trillion) in Uganda by the end of 2027, as the country seeks to attract capital into green energy, agro-processing, waste management and digital services.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T20:34:08+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160657.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160657.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "82c90ffc8d",
       "title": "Land and Environment Secretary due in Macau as Mozambique debuts at global timber forum",
@@ -823,38 +887,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609150230.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "31df81d7bb",
-      "title": "Tooro Prince David Kijanangoma Dies At Mulago Cancer Institute",
-      "summary": "[Independent (Kampala)] Fort Portal -- Tooro Prince David Kijanangoma Araali has died at the Uganda Cancer Institute in Mulago, where he had been receiving treatment for throat cancer. Kijanangoma's death was confirmed on Tuesday by Vincent Mugume, the Tooro Kingdom spokesperson.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-15T09:52:18+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609150205.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609150205.html"
         }
       ],
       "confirmation_count": 1
@@ -1431,6 +1463,102 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608200131.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0b3c6354e6",
+      "title": "Creditchek Buys Uganda's Algosys to Expand in East Africa",
+      "summary": "[Daba Finance] Nigerian fintech CreditChek has acquired Ugandan banking software company Algosys for an undisclosed amount, giving the company its first operating base in East Africa. The deal follows a $600,000 funding round in June that CreditChek raised to expand into Uganda, Kenya and Rwanda.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "FINANCING",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T20:57:04+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160673.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160673.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "169f3626f0",
+      "title": "Education Stakeholders Raise Concern Over Absenteeism in Health Professions Exams",
+      "summary": "[Nile Post] Education stakeholders have raised concern over the number of students who register for health professions examinations but fail to sit them, with financial difficulties and family responsibilities cited among the factors contributing to absenteeism.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "FINANCING",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T20:34:08+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160659.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160659.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2f4eb3e100",
+      "title": "Equity Group Roadshow Seeks to Unlock Cross-Border Trade and Investment",
+      "summary": "[Nile Post] Uganda's Minister of Trade, Industry and Cooperatives, Sanjay Tanna, has called for stronger investment in value addition, manufacturing, innovation and skills to accelerate the country's economic transformation.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T20:34:07+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160656.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160656.html"
         }
       ],
       "confirmation_count": 1
@@ -2270,40 +2398,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "af7b034ff3",
-      "title": "Le président sénégalais Bassirou Diomaye Faye rencontre la directrice générale du FMI à Washington",
-      "summary": "Le président sénégalais Bassirou Diomaye Faye est aux États-Unis du dimanche 13 au mardi 15 septembre 2026 au soir. Une offensive diplomatique pour décrocher des investissements auprès d’entreprises américaines, mais aussi rencontrer les institutions de Bretton Woods : la Banque mondiale lundi et le Fonds monétaire international (FMI) ce mardi.",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "DFI"
-      ],
-      "lang": "fr",
-      "published": "2026-09-15T22:28:33+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "http://www.rfi.fr/fr/afrique/20260915-s%C3%A9n%C3%A9gal-bassirou-diomaye-faye-rencontre-la-directrice-g%C3%A9n%C3%A9rale-du-fmi-%C3%A0-washington"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "http://www.rfi.fr/fr/afrique/20260915-s%C3%A9n%C3%A9gal-bassirou-diomaye-faye-rencontre-la-directrice-g%C3%A9n%C3%A9rale-du-fmi-%C3%A0-washington"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "f1098c27bf",
       "title": "Paris : un million d’euros dérobé à un homme d’affaires malien",
       "summary": "En plein cœur de Paris, un réputé homme d'affaires malien s'est fait voler un million d'euros. Le vol a eu lieu le 9 septembre au Plaza Athénée, un palace parisien. La victime est Oumar Gambi, très connu au Mali.",
@@ -2402,38 +2496,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "256d146878",
-      "title": "MTN Momo Injects Shs15m Into Lwakataka's Motorsport Comeback",
-      "summary": "[Independent (Kampala)] Kampala -- MTN Mobile Money Uganda has injected Shs15 million into the Sprint for Lwakataka, supporting preparations for veteran rally driver Ponsiano Lwakataka's return to competitive motorsport as he marks 25 years on Uganda's rally circuit.",
-      "country": "UGA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-15T15:17:49+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609150490.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609150490.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "8d02ad1c87",
       "title": "Traceability Seals to Curb Medicine Theft Introduced",
       "summary": "[AIM] Maputo -- Mozambique's Ministry of Health (MISAU) has launched a traceability seal for medicines and medical supplies to track products within the National Health Service (SNS) and combat theft.",
@@ -2525,38 +2587,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609150236.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1e0e650253",
-      "title": "FDC Raises Concern Over Besigye's Deteriorating Health in Detention",
-      "summary": "[Independent (Kampala)] Kampala -- The Forum for Democratic Change (FDC) has raised fresh concern over the reported deterioration in the health of its founding president, Dr Kizza Besigye, who has been in detention for more than two years. The party is calling for Besigye's immediate and unconditional release on medical and humanitarian grounds, arguing that his political differences with the government should not prevent him from receiving proper medical care.",
-      "country": "UGA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "FINANCING",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-15T09:53:45+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609150210.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609150210.html"
         }
       ],
       "confirmation_count": 1
@@ -4158,38 +4188,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "dccf1f6dbf",
-      "title": "Attorney-General to Introduce New Bill to Regulate Discipline of Lawyers",
-      "summary": "[Ghanaian Times] The Attorney-General and Minister for Justice, Dr. Dominic Ayine, has announced plans to introduce a new Bill to strengthen the legal framework for the discipline of lawyers in Ghana.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-15T21:07:07+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609150645.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609150645.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "4bf0df7af8",
       "title": "Mozambique and Brazil Sign Agreement for Cooperation in Public Administration",
       "summary": "[AIM] Maputo -- The governments of Mozambique and Brazil have signed a Memorandum of Understanding aimed at exchange of experiences and staff training in sectors such as public procurement, payroll management, digital transformation, and administrative modernization.",
@@ -4446,38 +4444,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "a5f637c9e4",
-      "title": "Nandom MP Announces Gh&#xA2;282,000 Scholarship for 98 Students",
-      "summary": "[Ghanaian Times] Ninety-eight students in the Nandom Constituency of the Upper West Region are set to receive bursaries from the Member of Parliament (MP) of the area to support their education in the 2026/27 academic year.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-14T15:13:35+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609140633.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609140633.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "41863a0476",
       "title": "Ethiopia Reaffirms Reform Momentum, Brics Commitment At Finance Leaders' Meeting",
       "summary": "[ENA] Addis Ababa -- Ethiopia has reaffirmed its commitment to advancing economic reforms and contributing to BRICS' shared financial agenda, as its delegation participated in the Second BRICS Finance Ministers and Central Bank Governors (FMCBG) Meeting in Mumbai, India.",
@@ -4700,6 +4666,358 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608270549.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e2ebdbdd4a",
+      "title": "À Madagascar, comment le sac gony malgache est devenu une industrie",
+      "summary": "À la campagne comme à la ville, les gony malagasy, ces grands sacs tissés en polypropylène, sont devenus des objets du quotidien. Ils servent aujourd’hui à transporter et stocker toutes sortes de récoltes. Ces sacs sont fabriqués et commercialisés localement depuis 50 ans par une entreprise familiale qui n'a cessé de s’adapter pour rester leader sur le marché de l’océan Indien.",
+      "country": "MDG",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-16T22:08:57+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "http://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20260916-%C3%A0-madagascar-comment-le-sac-gony-malgache-est-devenu-une-industrie"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "http://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20260916-%C3%A0-madagascar-comment-le-sac-gony-malgache-est-devenu-une-industrie"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c6591150a3",
+      "title": "Pourquoi le Kenya souhaite interdire les exportations de minerais non transformés?",
+      "summary": "Nairobi a pour projet d'interdire ses exportations de minerais bruts pour développer leur transformation sur place et en tirer davantage de valeur. L'interdiction concernerait notamment l'or, dont ce pays est, pour l'heure, un tout petit producteur.",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-16T22:03:57+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "http://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20260916-pourquoi-le-kenya-souhaite-interdire-les-exportations-de-minerais-non-transform%C3%A9s"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "http://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20260916-pourquoi-le-kenya-souhaite-interdire-les-exportations-de-minerais-non-transform%C3%A9s"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a191b7bf33",
+      "title": "Acting Volta Education Director Urges Girls to Focus On Education",
+      "summary": "[Ghanaian Times] The Acting Volta Regional Director of Education, Mrs Marian Jemima Adzroe, has urged adolescent girls in basic and second-cycle institutions to remain focused on their education to prepare themselves for the future with confidence.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T21:58:43+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160684.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160684.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ce0823abe8",
+      "title": "Selective Silence Will Hurt GBA - Chief Justice",
+      "summary": "[Ghanaian Times] The Ghana Bar Association (GBA) must jealously guard its reputation as the conscience of the legal profession and resist any perception that it is an appendage of the government or the political party in power, the Chief Justice, Justice Paul Baffoe-Bonnie, has cautioned.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T21:48:23+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160680.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160680.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e9a49040b3",
+      "title": "The Military Should Become Ghana's Most Reliable Construction Force",
+      "summary": "[Ghanaian Times] The recent inspection tour by the Minister for Roads and Highways, Mr Kwami Governs Agbodza, has brought an important issue into the national conversation, which is whether Ghana should make greater use of the abundant expertise and discipline of its Armed Forces in the construction and maintenance of critical public infrastructure such as roads.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T21:48:23+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160681.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160681.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "21c17f592c",
+      "title": "A University of Continental Standing Is Paying the Price",
+      "summary": "[Ghanaian Times] Ashesi University sits at Berekuso in the Akuapem South District of the Eastern Region, on the foothills of the Aburi ridge. It was founded in 2002 and moved to the Berekuso campus in 2011. It is a private, not-for-profit institution built with private money and philanthropic support, and it now draws students from Nigeria, Kenya, Rwanda, Zimbabwe, South Africa and many other African countries.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T21:48:22+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160677.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160677.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9c7411c86b",
+      "title": "Protect Atewa, Protect Our Future",
+      "summary": "[Ghanaian Times] The call for the government to fast-track the conversion of the Atewa Range Forest Reserve into a national park deserves serious attention.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T21:48:22+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160678.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160678.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "223738ec9c",
+      "title": "Deputy Chief of Staff Orders Restoration of Kpeshie Lagoon",
+      "summary": "[Ghanaian Times] The Deputy Chief of Staff in charge of Operations, Stan Xoese Dogbe, has directed the Greater Accra Regional Coordinating Council (GARCC) to begin the ecological restoration of reclaimed sections of the Kpeshie Lagoon following the removal of illegal structures at the Laboma Beach Resort.",
+      "country": "GHA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T21:48:22+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160679.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160679.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8e547555b5",
+      "title": "Chemutai Urges Sector Skills Experts to Drive Uganda's Skills Agenda",
+      "summary": "[Nile Post] The State Minister for Primary Education and Sports, Phyllis Chemutai, has urged newly appointed Sector Skills Expert Committees (SSECs) to approach their work with patriotism and a sense of national duty, saying Uganda must align skills development with the country's changing economic needs.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T20:34:09+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160660.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160660.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "cd99c320a0",
+      "title": "Fly Entebbe Express Urges Passengers to Claim Abandoned Luggage",
+      "summary": "[Nile Post] Fly Entebbe Express taxi operators have appealed to passengers who have left behind luggage and other personal belongings in their vehicles to come forward and claim them, as a growing number of items remain uncollected for months.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T20:34:08+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160658.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160658.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "69f8f02b27",
+      "title": "Chen Yuanyu Beats Omar Assar in WTT Champions Opener",
+      "summary": "[Ghanaian Times] Chen Yuanyu opened WTT Champions Macao on 8 September with a 3-0 victory over Omar Assar, but the individual games were considerably tighter than the match score suggests.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T20:16:49+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160655.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160655.html"
         }
       ],
       "confirmation_count": 1
@@ -5340,38 +5658,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/09/16/edouard-mendy-set-to-retire-from-senegal-duty-after-59-caps/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d6eebd4786",
-      "title": "Djibouti calls for assistance as thousands of Yemenis flee to country",
-      "summary": "More than 2,500 Yemenis have arrived since last week, with Djibouti warning the number could rise to 10,000.",
-      "country": "DJI",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-16T15:16:07+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -7491,38 +7777,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "970c92fe85",
-      "title": "2027 - PDP Backs Wike's Rainbow Coalition for Tinubu's Re-Election, Says APC Governors Underperformed",
-      "summary": "[Premium Times] The PDP attributed the governors' opposition to fear of defeat at the polls, alleging that some of them had underperformed in office.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-16T09:55:45+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609160200.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609160200.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "f5e492dac7",
       "title": "One Man's Quest to End Female Genital Mutilation (FGM) in Mali",
       "summary": "[IPS] United Nations -- After years of defending FGM as a cultural practice, Sidi Haidara came to a realization: No tradition should come at the expense of a girl's health, rights, or future.",
@@ -8352,38 +8606,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "aec8b6b861",
-      "title": "Richard Dogbe Declares Bid for NDC Greater Accra Deputy Youth Organiser Position",
-      "summary": "[Ghanaian Times] Businessman and NDC stalwart, Richard Dogbe, affectionately known as Alhaji ATM, has declared his intention to contest for the position of Deputy Greater Accra Regional Youth Organiser of the National Democratic Congress (NDC).",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-15T21:07:07+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609150646.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609150646.html"
         }
       ],
       "confirmation_count": 1
@@ -9257,38 +9479,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "3e8ef2fe76",
-      "title": "Babiito Reject Attorney General's Advice On Tooro Succession",
-      "summary": "[Independent (Kampala)] Fort Portal -- The Babiito royal clan of Tooro Kingdom has rejected the Attorney General's advice that the late Omukama Oyo Nyimba Kabamba Iguru Rukidi IV's purported will should guide the succession process, saying the legal opinion was addressed to President Yoweri Kaguta Museveni and does not direct the clan to take any action.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-15T09:51:47+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609150204.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609150204.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "ef3e08ba56",
       "title": "Renewed hope for Somalia peace mission as US softens stance on UN support unit",
       "summary": "US proposal could buy critical time for the UN, AU troop-contributing countries and Somalia...",
@@ -9545,38 +9735,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "332314ebaf",
-      "title": "General Muhoozi Reinstates Uganda's Participation in 2027 Invictus Games",
-      "summary": "[Nile Post] Chief of Defence Forces (CDF) Gen Muhoozi Kainerugaba has reinstated Uganda's participation in the 2027 Invictus Games in Birmingham, United Kingdom, following clarification from Buckingham Palace on the position of King Charles III.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-15T05:45:16+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609150051.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609150051.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "df10c3c8bf",
       "title": "Ghanaian Ambassador to Angola Gives Positive Assessment of Bilateral Relations",
       "summary": "[ANGOP] Luanda -- President João Lourenço on Monday received Ghana's outgoing ambassador to Angola, Mavis Esi Kusorgbor, who gave a positive assessment of relations between the two countries.",
@@ -9636,38 +9794,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609150046.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "39f2bd5fa6",
-      "title": "Ghana's Local Architecture Has Adapted to Change for Centuries. It Can Teach Us About Climate Resilience",
-      "summary": "[The Conversation Africa] When people discuss architecture in Ghana, attention often focuses on modern buildings: concrete houses, glass offices, shopping malls and ambitious urban developments. Yet across the country, another architectural tradition continues to offer lessons about how people have built and lived for generations.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-15T05:16:38+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609150019.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609150019.html"
         }
       ],
       "confirmation_count": 1
@@ -9929,38 +10055,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "461f28c04c",
-      "title": "SCC Inmates Commended for 100 Percent Pass in Bece",
-      "summary": "[Ghanaian Times] Juvenile inmates at the Senior Correctional Centre (SCC), Accra, have achieved a 100 per cent pass rate in the 2026 Basic Education Certificate Examination (BECE), demonstrating the transformative power of education and rehabilitation.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-14T15:12:41+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609140632.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609140632.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "e08f3e12b0",
       "title": "Kenya Appoints Two Members To National Cybersecurity Agency Board",
       "summary": "Kenya has appointed Lorna A. Omondi Ogolla and Dr Joy Kibor to the Board of Directors of the newly established...\nSource",
@@ -10020,38 +10114,6 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1841113/economie-entreprises/entre-glencore-et-mercuria-jusquou-ira-la-bataille-pour-les-minerais-critiques/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "0e940c4b7f",
-      "title": "JOJ Dakar 2026 : les jeunes skateurs sénégalais rêvent de briller à domicile",
-      "summary": "🇸🇳 À un mois des Jeux olympiques de la jeunesse, les jeunes skateurs sénégalais se préparent à briller à domicile. La championne américaine Mina Stess est venue partager son expérience avec ces espoirs du skateboard.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-14T12:26:13+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "http://www.france24.com/fr/vid%C3%A9o/20260914-joj-dakar-2026-les-jeunes-skateurs-s%C3%A9n%C3%A9galais-r%C3%AAvent-de-briller-%C3%A0-domicile"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "http://www.france24.com/fr/vid%C3%A9o/20260914-joj-dakar-2026-les-jeunes-skateurs-s%C3%A9n%C3%A9galais-r%C3%AAvent-de-briller-%C3%A0-domicile"
         }
       ],
       "confirmation_count": 1
@@ -10409,38 +10471,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "fdb720a87b",
-      "title": "Police Arrest 2, Seize 692 Parcels of Suspected Indian Hemp At Dawhenya",
-      "summary": "[Ghanaian Times] The Tema Regional Police Command has arrested two persons and seized 692 parcels of suspected Indian hemp during a snap-check operation at Dawhenya in the Prampram Division.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-14T11:12:18+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609140366.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609140366.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "1908c3e7bf",
       "title": "Group-By-Group Focus At Cosafa Qualifier in Mozambique",
       "summary": "[Cosafa] COSAFA Qualifier Mozambique 2026 kicks off this Friday as the 12 teams chase not only regional honours but also a place in the continental finals.",
@@ -10564,70 +10594,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609140299.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "eae17801b4",
-      "title": "GAF Declares Ghanbatt 92 Mission Accomplished After Year-Long Unifil Tour",
-      "summary": "[Ghanaian Times] The Ghana Armed Forces (GAF) has declared the United Nations Interim Force in Lebanon (UNIFIL) GHANBATT 92 mission accomplished after a year-long tour of duty in southern Lebanon, where the troops operated under intense and unprecedented security threats.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-14T10:20:11+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609140291.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609140291.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "57d9ab9609",
-      "title": "Uganda's First Oil Delayed Yet Again, New Target Set for June 2027",
-      "summary": "[Independent (Kampala)] Kampala, Uganda -- Uganda's long-awaited first commercial oil production is now expected by June 2027, after the government again revised its production timeline, raising fresh questions about a project whose delivery dates have shifted repeatedly over the past two decades.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-14T08:49:47+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609140165.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609140165.html"
         }
       ],
       "confirmation_count": 1
@@ -11784,38 +11750,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609100518.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "eeb9948beb",
-      "title": "Ugandan Tooro kingdom gripped by succession battle after monarch's death",
-      "summary": "The family of the late king, Oyo Nyimba, rejected clan members' choice of a television news...",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-10T13:45:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/ugandan-tooro-kingdom-gripped-by-succession-battle-5590660"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/ugandan-tooro-kingdom-gripped-by-succession-battle-5590660"
         }
       ],
       "confirmation_count": 1
