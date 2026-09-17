@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-17T18:12:44.748624+00:00",
+  "generated_at": "2026-09-17T21:22:55.563732+00:00",
   "stats": {
-    "total_signals": 398,
+    "total_signals": 397,
     "verified_signals": 2,
     "countries_covered": 24,
     "sources_active": 40,
     "per_country": {
-      "NGA": 58,
-      "MOZ": 40,
+      "SSD": 3,
+      "NGA": 57,
+      "MOZ": 41,
       "UGA": 36,
-      "KEN": 69,
+      "KEN": 67,
       "ETH": 34,
       "GHA": 33,
-      "SEN": 28,
+      "SEN": 27,
       "TZA": 31,
       "CIV": 12,
       "MLI": 22,
       "GMB": 2,
       "RWA": 3,
       "GIN": 5,
-      "SSD": 2,
-      "NER": 2,
+      "NER": 1,
       "BEN": 3,
-      "DJI": 2,
+      "DJI": 4,
       "MDG": 3,
       "CPV": 2,
       "GNB": 4,
@@ -31,8 +31,8 @@
       "SOM": 2,
       "MUS": 1
     },
-    "west_signals": 175,
-    "east_signals": 223
+    "west_signals": 172,
+    "east_signals": 225
   },
   "sources": [
     {
@@ -278,6 +278,38 @@
   ],
   "signals": [
     {
+      "id": "26c420c0db",
+      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
+      "summary": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting.",
+      "country": "SSD",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-17T20:47:52+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "ac05230f72",
       "title": "Nigeria’s data localisation deadline is testing its financial infrastructure",
       "summary": "Localisation is fundamentally an engineering and governance hurdle rather than a simple real-estate mandate for servers.",
@@ -369,38 +401,6 @@
           "name": "Club of Mozambique",
           "tier": 2,
           "url": "https://clubofmozambique.com/news/mozambique-measles-outbreak-with-almost-1500-cases/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "431833999b",
-      "title": "Nigéria. 48 mortos após consumirem bebida com metanol",
-      "summary": "Pelo menos 48 pessoas morreram devido a bebida que poderia conter metanol. Foram detidas 15 pessoas, sendo que uma delas terá produzido as bebidas. O país tem uma nova campanha contra o álcool.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-09-17T13:17:01+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/2026/09/17/pelo-menos-48-mortos-na-nigeria-apos-consumirem-bebida-podendo-conter-metanol/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/2026/09/17/pelo-menos-48-mortos-na-nigeria-apos-consumirem-bebida-podendo-conter-metanol/"
         }
       ],
       "confirmation_count": 1
@@ -696,6 +696,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "c2151fa511",
+      "title": "Poisonous Drinks - Ondo Govt Confirms 49 Deaths As New Cases Are Recorded in Another Lga",
+      "summary": "[Premium Times] The government also said the cases increased from 60 to 170 as of last Friday.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-17T06:49:42+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609170093.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609170093.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "566af9b50c",
       "title": "All of Africa Today - September 17, 2026",
       "summary": "[allAfrica] Sudan Gold Mine Collapse Kills at Least 60",
@@ -731,12 +763,6 @@
           "url": "https://allafrica.com/stories/202609150121.html"
         },
         {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609080086.html"
-        },
-        {
           "id": "aa-mli",
           "name": "AllAfrica · Mali",
           "tier": 2,
@@ -749,7 +775,7 @@
           "url": "https://allafrica.com/stories/202608200208.html"
         }
       ],
-      "confirmation_count": 5
+      "confirmation_count": 4
     },
     {
       "id": "8ebc0a87cd",
@@ -843,38 +869,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609170020.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "0e734601eb",
-      "title": "French Firms Eye More Than $4 Billion Investment in Uganda",
-      "summary": "[Nile Post] French companies could invest more than $4 billion (about Shs15.7 trillion) in Uganda by the end of 2027, as the country seeks to attract capital into green energy, agro-processing, waste management and digital services.",
-      "country": "UGA",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-16T20:34:08+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609160657.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609160657.html"
         }
       ],
       "confirmation_count": 1
@@ -1936,40 +1930,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "48c7a75530",
-      "title": "IFC : Mary-Jean Moyo prend la tête de six marchés africains",
-      "summary": "La Société financière internationale (IFC), bras du Groupe de la Banque mondiale dédié au secteur privé, a nommé Mary-Jean Moyo directrice de ses activités en Tanzanie, au Burundi, en République démocratique du Congo, au Malawi, en Zambie et au Zimbabwe.\nDe nationalité zimbabwéenne, Moyo a pris ses fonctions le 1ᵉʳ septembre et sera basée à Dar es Salaam. Elle supervisera les opérations de financement, d’investissement et de conseil de l’IFC dans ces six pays, ainsi que…",
-      "country": "TZA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": true,
-      "sectors": [
-        "DFI"
-      ],
-      "lang": "fr",
-      "published": "2026-09-17T09:52:16+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/09/17/ifc-mary-jean-moyo-prend-la-tete-de-six-marches-africains/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/09/17/ifc-mary-jean-moyo-prend-la-tete-de-six-marches-africains/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "7ab234d5f9",
       "title": "Corruption, Customs Racketeering, Govt Infighting Frustrating Trade With Nigeria - U.S. Report",
       "summary": "[Vanguard] THE United States government has indicted Nigeria's trade environment as one of the most corrupt and frustrating in the world, citing endemic corruption, inter-agency infighting, extortion at the ports and an opaque regulatory system as major barriers to foreign trade and investments in Nigeria.",
@@ -2258,38 +2218,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "0b3c6354e6",
-      "title": "Creditchek Buys Uganda's Algosys to Expand in East Africa",
-      "summary": "[Daba Finance] Nigerian fintech CreditChek has acquired Ugandan banking software company Algosys for an undisclosed amount, giving the company its first operating base in East Africa. The deal follows a $600,000 funding round in June that CreditChek raised to expand into Uganda, Kenya and Rwanda.",
-      "country": "UGA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "FINANCING",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-16T20:57:04+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609160673.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609160673.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "59b49b1310",
       "title": "Guinée équatoriale : faux coup d’État, mais vraies arrestations chez les Obiang",
       "summary": "Après avoir affirmé avoir localement déjoué un putsch, Malabo a ensuite démenti sa propre version. Mais les arrestations dans les familles de l’opposition en exil ont bien eu lieu et quatre personnes sont toujours détenues.",
@@ -2543,38 +2471,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/09/16/wfp-more-than-a-million-people-in-south-sudan-at-risk-of-losing-food-aid/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a388de68d2",
-      "title": "Parliamentary Pension Scheme Halts Kampala Building Investment Over Lack of Details",
-      "summary": "[Nile Post] The Parliamentary Pension Scheme has halted a proposed investment in a commercial building in Kampala, citing a lack of adequate financial and technical information about the project.",
-      "country": "UGA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-16T08:35:15+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609160117.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609160117.html"
         }
       ],
       "confirmation_count": 1
@@ -3153,6 +3049,38 @@
           "name": "African Business",
           "tier": 2,
           "url": "https://african.business/2026/09/partner-content/ebid-honoured-for-outstanding-sustainable-project-financing-at-the-sustainable-finance-awards-2026"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ad502eb027",
+      "title": "Heavy Truck Drivers Abducted, Fuel Tankers Set Fire in West, Wellega",
+      "summary": "[Addis Standard] Addis Abeba -- More than eight heavy truck drivers were reportedly abducted and several fuel-laden trucks set fire after armed groups attacked in West Wellega Zone of the Oromia Region on September 6, according to the Ethiopian Heavy Truck Drivers Association (EHTDA).",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-11T05:46:00+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609110025.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609110025.html"
         }
       ],
       "confirmation_count": 1
@@ -4383,6 +4311,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "362c038817",
+      "title": "Plus de 2 000 Yéménites fuyant les combats ont rejoint Djibouti",
+      "summary": "L’Organisation internationale pour les migrations redoute désormais que les déplacements s’intensifient encore si les combats se poursuivent",
+      "country": "DJI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-17T19:29:45+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/09/17/plus-de-2-000-yemenites-fuyant-les-combats-ont-rejoint-djibouti/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/09/17/plus-de-2-000-yemenites-fuyant-les-combats-ont-rejoint-djibouti/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "640445998c",
+      "title": "'Gunfire everywhere': Displaced Yemenis describe terrifying journey to Djibouti",
+      "summary": "Displaced Yemenis who fled to Djibouti have been describing the fighting that forced them to leave. At least 100,000 people have left Yemen since the start of September as Iran-backed Houthi rebels advanced on the coast, seizing control of the strategic Bab el-Mandeb strait.",
+      "country": "DJI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-17T18:56:35+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/09/17/gunfire-everywhere-displaced-yemenis-describe-terrifying-journey-to-djibouti/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/09/17/gunfire-everywhere-displaced-yemenis-describe-terrifying-journey-to-djibouti/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "968e8e6d81",
       "title": "Rwanda-Bénin : chez Paul Kagame, les dossiers très sécuritaires de Romuald Wadagni",
       "summary": "Avant Brazzaville, où il est arrivé ce 17 septembre, le président béninois a effectué une visite officielle à Kigali. Au cœur des discussions avec son homologue rwandais, le renforcement du partenariat sur les questions militaires et de renseignements.",
@@ -5178,6 +5170,38 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/09/17/gambian-businesses-struggle-under-prolonged-blackouts/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c524fa9ff4",
+      "title": "British Airways to resume Tanzania flights as carriers seek alternatives to Middle East",
+      "summary": "This comes 13 years after the British carrier withdrew its Dar es Salaam–London service.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-17T14:45:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/british-airways-to-resume-tanzania-flights-5598898"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/british-airways-to-resume-tanzania-flights-5598898"
         }
       ],
       "confirmation_count": 1
@@ -7297,38 +7321,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "bb64d6e5c1",
-      "title": "Why Nigerians Remain Vulnerable to Xenophobia in South Africa",
-      "summary": "[Premium Times] \"Many people entered South Africa legally but later became undocumented because of ...\"",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T06:49:30+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170092.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170092.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "de7bc97b9a",
       "title": "IEBC, ICPAK Partner On Campaign Finance Monitoring",
       "summary": "[Capital FM] Nairobi -- The Independent Electoral and Boundaries Commission (IEBC) has held talks with the Institute of Certified Public Accountants of Kenya (ICPAK) on strengthening campaign finance management and accountability ahead of the 2027 General Election.",
@@ -7932,38 +7924,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609160679.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "69f8f02b27",
-      "title": "Chen Yuanyu Beats Omar Assar in WTT Champions Opener",
-      "summary": "[Ghanaian Times] Chen Yuanyu opened WTT Champions Macao on 8 September with a 3-0 victory over Omar Assar, but the individual games were considerably tighter than the match score suggests.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-16T20:16:49+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609160655.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609160655.html"
         }
       ],
       "confirmation_count": 1
@@ -8737,6 +8697,102 @@
       "confirmation_count": 1
     },
     {
+      "id": "b76a621fe7",
+      "title": "Tooro - Nyabongo I to Be Enthroned On September 29",
+      "summary": "[Independent (Kampala)] Fort Portal -- The Babiito Royal Clan of Tooro Kingdom has set September 29 as the date for the coronation of Prince Edward Rukidi Nyabongo I as the new Omukama of Tooro.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T11:28:24+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160327.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160327.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "508109ab32",
+      "title": "Andrew Wilson Says Kenyan Police Planted Guns in Dr. Besigye Arrest",
+      "summary": "[Independent (Kampala)] Kampala -- The first Prosecution witness in Dr. Kizza Besigye's treason trial told the High Court in Kampala that the Kenyan Police set up two pistols and the entire crime scene.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T11:28:02+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160326.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160326.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5a1824addd",
+      "title": "Museveni Invokes Moses Ali's Legacy in Appeal to Adjumani Voters",
+      "summary": "[Independent (Kampala)] Adjumani -- President Yoweri Museveni has urged voters in Adjumani District to emulate the late General Moses Ali's political legacy, particularly his emphasis on development, wealth creation and what he described as ideological clarity. Museveni said Ali, a long-serving political and military figure from the West Nile region, made a deliberate choice to associate with the National Resistance Movement (NRM) and its ideology, urging the people of…",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T11:20:12+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160319.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160319.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "e2599be2d1",
       "title": "Africa Must Stop Exporting Its Cashew Wealth",
       "summary": "[Ghanaian Times] Africa's cashew story presents a familiar and uncomfortable picture. The continent produces a large share of the world's raw cashew nuts, yet much of the real economic value is created after the crop leaves African shores.",
@@ -9052,38 +9108,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609160218.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b949fbd9ad",
-      "title": "Kenya : des véhicules électriques permettent des safaris durables du Masai Mara",
-      "summary": "Dans les vastes plaines du Masai Mara, au Kenya, une nouvelle technologie fait son apparition dans les réserves animalières : les véhicules électriques. Silencieux et moins polluants, ils offrent une nouvelle manière de protéger la faune sauvage tout en accompagnant la transition énergétique.",
-      "country": "KEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": true,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-16T09:59:45+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/09/15/kenya-les-vehicules-electriques-revolutionnent-les-safaris-du-masai-mara/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/09/15/kenya-les-vehicules-electriques-revolutionnent-les-safaris-du-masai-mara/"
         }
       ],
       "confirmation_count": 1
@@ -9635,38 +9659,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "2b3bae1570",
-      "title": "Electric vehicles find their way into Kenya's game reserves",
-      "summary": "Electric vehicles are the latest way to get around Kenya's game reserves - despite the lack of charging points.",
-      "country": "KEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-15T16:13:46+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/09/15/electric-vehicles-find-their-way-into-kenyas-game-reserves/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/09/15/electric-vehicles-find-their-way-into-kenyas-game-reserves/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "24b00b6bcc",
       "title": "Guiné-Bissau: Greve de fome na prisão de Bafatá",
       "summary": "Mais de trinta reclusos da Prisão de Alta Segurança de Bafatá, no Leste da Guiné-Bissau, iniciaram esta semana uma greve de fome por tempo indeterminado.",
@@ -9952,6 +9944,38 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609150293.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "940c3d180a",
+      "title": "Unemployed Man Gets 18 Months Imprisonment Term for Causing Harm",
+      "summary": "[Ghanaian Times] A 19-year-old unemployed man, has been sentenced to 18 months imprisonment by the Asante Abuakwa circuit E court in the Atwima Nwabiagya South Municipality for causing harm at Nketia near Abuakwa.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-15T11:01:28+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609150292.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609150292.html"
         }
       ],
       "confirmation_count": 1
@@ -10277,38 +10301,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "3a0e99c28d",
-      "title": "Niger : quand le pouvoir ferme les yeux sur le narcotrafic",
-      "summary": "Une nouvelle enquête de \"Jeune Afrique\" révèle la face cachée des routes de la drogue qui restent grandes ouvertes au Niger. Le journaliste Mathieu Olivier apporte la preuve des liens qu'entretiennent barons de la drogue et les autorités, qu'elles soient civiles ou militaires.",
-      "country": "NER",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-14T15:49:21+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20260914-niger-quand-le-pouvoir-ferme-les-yeux-sur-le-narcotrafic"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20260914-niger-quand-le-pouvoir-ferme-les-yeux-sur-le-narcotrafic"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "8d61632c62",
       "title": "The Success Mali Must Move Beyond",
       "summary": "[allAfrica] Mali built a cotton sector capable of producing, ginning and exporting at scale. Mossadeck Bally argues that this success must now support a more demanding ambition: retain more fibre, begin with spinning and finance industry for the long term.",
@@ -10336,38 +10328,6 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609140679.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "03bfa310f6",
-      "title": "\"Je suis un Lion, j'ai peur de rien\" : les skateurs sénégalais veulent briller aux JOJ à Dakar",
-      "summary": "Au Sénégal, une jeune génération de skateurs se prépare dans le but de participer aux Jeux olympiques de la jeunesse (JOJ), première compétition olympique sur le sol africain, qui se déroulera du 31 octobre au 13 novembre, à Dakar.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-14T15:14:08+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/afrique/20260914-skateurs-s%C3%A9n%C3%A9galais-veuillent-briller-joj-dakar-olympiques"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/afrique/20260914-skateurs-s%C3%A9n%C3%A9galais-veuillent-briller-joj-dakar-olympiques"
         }
       ],
       "confirmation_count": 1
@@ -11589,38 +11549,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "453316201b",
-      "title": "Israeli and Cameroonian Ambassadors Extend New Year Greetings to Ethiopians",
-      "summary": "[ENA] Addis Ababa -- Israeli Ambassador Avraham Neguise and Cameroonian Ambassador Churchill Ewumbue-Monono have extended New Year wishes to the Ethiopian people as Ethiopia marks New Year 2019 today.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-11T08:26:26+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609110062.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609110062.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "0302a1074b",
       "title": "President Samia Suluhu Hassan Thanks Nation, World for Mourning Support",
       "summary": "[Daily News] Zanzibar -- President Samia Suluhu Hassan has expressed gratitude to Tanzanians, government leaders, diplomats, religious leaders and the international community for messages of condolence, prayers and support following the death of her husband, Hafidh Ameir Hassan.",
@@ -11648,6 +11576,40 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609110026.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b5f44a713e",
+      "title": "Destruction of Cashew Industry 30 Years Ago Back in the News",
+      "summary": "[Mozambique News Reports And Clippings] The cashew industry was abruptly shut down by the World Bank in 1996, putting 10,000 women out of work and ending an important export. Suddenly that grim tale is back in the news. Ex IMF man José Sulemanesays Mozambique should have refused and economist Roberto Tibana has found a World Bank ulterior motive.",
+      "country": "MOZ",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DFI"
+      ],
+      "lang": "en",
+      "published": "2026-09-10T15:15:22+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609100521.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609100521.html"
         }
       ],
       "confirmation_count": 1
