@@ -1,38 +1,37 @@
 {
-  "generated_at": "2026-09-17T21:22:55.563732+00:00",
+  "generated_at": "2026-09-18T00:16:40.223562+00:00",
   "stats": {
-    "total_signals": 397,
-    "verified_signals": 2,
-    "countries_covered": 24,
+    "total_signals": 394,
+    "verified_signals": 3,
+    "countries_covered": 23,
     "sources_active": 40,
     "per_country": {
+      "NGA": 58,
       "SSD": 3,
-      "NGA": 57,
-      "MOZ": 41,
+      "MOZ": 42,
       "UGA": 36,
-      "KEN": 67,
-      "ETH": 34,
+      "KEN": 65,
+      "ETH": 33,
       "GHA": 33,
       "SEN": 27,
       "TZA": 31,
-      "CIV": 12,
+      "CIV": 11,
       "MLI": 22,
       "GMB": 2,
       "RWA": 3,
       "GIN": 5,
       "NER": 1,
       "BEN": 3,
-      "DJI": 4,
+      "DJI": 5,
+      "CPV": 3,
       "MDG": 3,
-      "CPV": 2,
       "GNB": 4,
-      "TGO": 2,
-      "BFA": 2,
+      "TGO": 1,
       "SOM": 2,
       "MUS": 1
     },
-    "west_signals": 172,
-    "east_signals": 225
+    "west_signals": 170,
+    "east_signals": 224
   },
   "sources": [
     {
@@ -277,6 +276,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "534f9ad741",
+      "title": "Nigeria: des dizaines de mineurs présumés illégaux meurent en détention",
+      "summary": "Au Nigeria, plusieurs dizaines de personnes soupçonnées d'être des mineurs illégaux sont mortes alors qu’elles étaient détenues par le Corps de sécurité et de défense civile (NSCDC) dans l’État du Niger, dans le centre du pays. Le gouverneur de cet État fait état d’environ 37 morts. Une enquête a été ouverte pour déterminer les circonstances de ces décès.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-17T23:34:39+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20260917-nigeria-des-dizaines-de-mineurs-pr%C3%A9sum%C3%A9s-ill%C3%A9gaux-meurent-en-d%C3%A9tention"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20260917-nigeria-des-dizaines-de-mineurs-pr%C3%A9sum%C3%A9s-ill%C3%A9gaux-meurent-en-d%C3%A9tention"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "26c420c0db",
       "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
@@ -1546,6 +1577,102 @@
       "confirmation_count": 1
     },
     {
+      "id": "d207286985",
+      "title": "GNR identifica suspeito de incêndios, PJ investiga",
+      "summary": "A GNR diz ter realizado \"todas as diligências policiais admissíveis e necessárias\" para o processo. O autarca de Proença-a-Nova estima 900 hectares ardidos em Alvito da Beira e outros 100 na Atalaia.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-17T22:50:56+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/09/17/gnr-identificou-suspeito-de-atear-incendios-em-proenca-a-nova-policia-judiciaria-a-cargo-da-investigacao/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/09/17/gnr-identificou-suspeito-de-atear-incendios-em-proenca-a-nova-policia-judiciaria-a-cargo-da-investigacao/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a5ad312c64",
+      "title": "Ecobank Uganda Launches Digital Merchant Cash Advance of Up to Shs70 Million",
+      "summary": "[Nile Post] Ecobank Uganda has launched the Electronic Merchant Cash Advance (eMCA), a fully digital lending solution that provides eligible merchants with collateral-free working capital of up to shs70 million based on their payment collections.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-17T21:39:27+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609170617.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609170617.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "bbfd3b33a5",
+      "title": "Uganda Targets French Tourism Market At IFTM Top RESA-2026",
+      "summary": "[Nile Post] Uganda is showcasing its tourism and investment opportunities at the International &amp; French Travel Market (IFTM) Top Resa 2026, France's premier business-to-business tourism trade fair, taking place from September 15 to 17 at Paris Expo Porte de Versailles.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-17T21:39:27+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609170618.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609170618.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "0945b7db9c",
       "title": "Ruto Turns On Uhuru Again As Nyanza Tour Ends",
       "summary": "[Capital FM] Nairobi -- President William Ruto has launched another attack on his predecessor Uhuru Kenyatta, accusing him of working to undermine his administration and urging him to step back from active political mobilisation.",
@@ -2471,6 +2598,38 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/09/16/wfp-more-than-a-million-people-in-south-sudan-at-risk-of-losing-food-aid/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a388de68d2",
+      "title": "Parliamentary Pension Scheme Halts Kampala Building Investment Over Lack of Details",
+      "summary": "[Nile Post] The Parliamentary Pension Scheme has halted a proposed investment in a commercial building in Kampala, citing a lack of adequate financial and technical information about the project.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T08:35:15+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160117.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160117.html"
         }
       ],
       "confirmation_count": 1
@@ -3956,6 +4115,44 @@
       "confirmation_count": 1
     },
     {
+      "id": "01a15d4ecc",
+      "title": "How an African country got the 2029 World Athletics Championships",
+      "summary": "BBC Sport Africa's Celestine Karoney explains why the 2029 World Athletics Championships was given to Nairobi in Kenya, as the tournament will take place in Africa for the very first time.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-15T17:23:07+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/sport/athletics/videos/cm93evnkdy81o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/sport/athletics/videos/cm93evnkdy81o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609170009.html"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
       "id": "4bf0df7af8",
       "title": "Mozambique and Brazil Sign Agreement for Cooperation in Public Administration",
       "summary": "[AIM] Maputo -- The governments of Mozambique and Brazil have signed a Memorandum of Understanding aimed at exchange of experiences and staff training in sectors such as public procurement, payroll management, digital transformation, and administrative modernization.",
@@ -4306,6 +4503,102 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608270549.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c2ab2748bc",
+      "title": "GNR apreende 6.700 litros de gasolina em Vila do Bispo",
+      "summary": "A Guarda terá detetado \"movimentos suspeitos\" na praia de Cabanas Velhas e os indivíduos tentaram fugir, mas foram capturados pelas autoridades. Foram apreendidos 269 jerricãs.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-17T22:30:43+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/09/17/gnr-apreende-em-vila-do-bispo-mais-de-6-700-litros-de-gasolina/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/09/17/gnr-apreende-em-vila-do-bispo-mais-de-6-700-litros-de-gasolina/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "358a7b2d9f",
+      "title": "MTN Foundation Uganda Scales Digital Push With Second Innovation Hub At Busitema University",
+      "summary": "[Nile Post] MTN Foundation Uganda, in partnership with the Ministry of ICT and National Guidance and Centenary Technology Services, today handed over the second MTN ACE Spark Innovation Hub at Busitema University in eastern Uganda, as part of efforts to expand digital innovation and entrepreneurship across the country.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-17T21:39:28+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609170619.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609170619.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "de187aed04",
+      "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
+      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen.",
+      "country": "DJI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-17T21:27:11+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -4818,38 +5111,6 @@
           "name": "Financial Afrik",
           "tier": 2,
           "url": "https://www.financialafrik.com/2026/09/17/senegal-eni-va-evaluer-le-potentiel-petrolier-et-gazier-de-cinq-blocs-offshore/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a69978a25b",
-      "title": "Rare Ethiopian manuscript stolen by British forces triggers restitution row",
-      "summary": "The Gondar Gospel belonged to the library of Emperor Tewodros but was seized in a battle decades ago.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T15:52:04+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/news/2026/9/17/rare-ethiopian-manuscript-stolen-by-british-triggers-restitution-row?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/news/2026/9/17/rare-ethiopian-manuscript-stolen-by-british-triggers-restitution-row?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -5881,38 +6142,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "685ae24c79",
-      "title": "Tusker Believes Playing Continental Club Football Is Important for Kenya's TotalEnergies CAF Afcon Ambitions",
-      "summary": "[CAF] Tusker FC captain Abud Omar and coach Julien Mette believe the club's progression to the group stage of the TotalEnergies CAF Confederation Cup will be vital for Kenya's preparation towards next year's TotalEnergies CAF Africa Cup of Nations.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T10:57:25+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170261.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170261.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "53b84a72be",
       "title": "2027 - Opposition Coalition Moves to Accept More Parties",
       "summary": "[Vanguard] The Central Leadership Committee of the G100-backed coalition of opposition parties has resolved to expand its membership to accommodate other opposition parties interested in joining the national anti-Bola Tinubu coalition ahead of the 2027 general elections.",
@@ -6068,38 +6297,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609170238.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4a1e9b9be9",
-      "title": "BAA Congratulates Kenya",
-      "summary": "[Botswana Daily News] Gaborone -- Botswana Athletics Association (BAA) has congratulated Kenya after the World Athletics governing body awarded the East African nation the rights to host the 2029 World Athletics Championships.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T10:39:42+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170236.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170236.html"
         }
       ],
       "confirmation_count": 1
@@ -6580,38 +6777,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609170191.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "51bace94ed",
-      "title": "Afcon 2027 Qualifiers - Moriba Returns As Guinea Name Squad for South Africa and Kenya",
-      "summary": "[CAF] Guinea coach Paulo Duarte has named a 25-man squad for the opening TotalEnergies CAF Africa Cup of Nations 2027 qualifiers against South Africa and Kenya, with Ilaix Moriba among several players returning to the Syli National.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T10:23:29+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170190.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170190.html"
         }
       ],
       "confirmation_count": 1
@@ -7577,6 +7742,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "121aa2ed28",
+      "title": "2027 Election Will Be a Vote Against Tribalism, Marginalisation - Ruto",
+      "summary": "[Capital FM] Nairobi -- President William Ruto has said the 2027 General Election will give Kenyans an opportunity to rally behind national unity, inclusivity and equitable distribution of resources.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-17T04:45:42+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609170023.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609170023.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "488e441d66",
       "title": "Connected Corridors, Converging Power - Somaliland's Rise As Red Sea's Most Contested Node",
       "summary": "[Addis Standard] Addis Abeba -- The Persian Gulf, Arabian Sea, Gulf of Aden, Bab el-Mandeb, Red Sea, and Eastern Mediterranean are no longer separate theatres. They have fused into one geopolitical system in which a single vulnerable node can cascade across the entire chain: what happens in Mogadishu now affects maritime insurance in London, energy routing in Mumbai, and port calculations in Abu Dhabi. And what happens in Berbera is now central to the calculations of…",
@@ -7604,134 +7801,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609170021.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b0a7537e9d",
-      "title": "Côte d'Ivoire: de nouvelles responsabilités évoquées dans l'affaire des démolitions de Koumassi Campement",
-      "summary": "En Côte d’Ivoire, le 3 juin 2026, des centaines de familles étaient déguerpies de « Koumassi Campement », leurs maisons et commerces détruits par les bulldozers. Plus de six hectares avaient été rasés. Un particulier, soupçonné d’être à l’origine de ces destructions, avait été arrêté et placé sous mandat de dépôt le 29 juin. Ce mercredi 16 septembre, le procureur de la République, Oumar Braman Koné, a tenu une conférence de presse pour faire le point sur l’avancée des…",
-      "country": "CIV",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-17T02:29:52+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260917-c%C3%B4te-d-ivoire-le-gouverneur-d-abidjan-entendu-sur-les-d%C3%A9molitions-%C3%A0-koumassi"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260917-c%C3%B4te-d-ivoire-le-gouverneur-d-abidjan-entendu-sur-les-d%C3%A9molitions-%C3%A0-koumassi"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "81e80183c8",
-      "title": "Togo: un an de détention pour l’ex-ministre des Armées et critique du pouvoir Marguerite Gnakadé",
-      "summary": "Au Togo, cela fait un an que Marguerite Gnakadé est en détention. L’ancienne ministre des Armées, belle-sœur de Faure Gnassingbé devenue opposante, a été arrêtée le 17 septembre 2025 à la suite de ses prises de position contre le pouvoir en place, notamment sur les réseaux sociaux. Dans des vidéos et des tribunes, elle appelait à un changement au sommet de l’État togolais. Un an après son arrestation, ses soutiens dénoncent ses conditions de détention.",
-      "country": "TGO",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-17T02:26:34+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260917-togo-un-an-de-d%C3%A9tention-pour-l-ex-ministre-des-arm%C3%A9es-et-critique-du-pouvoir-marguerite-gnakad%C3%A9"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260917-togo-un-an-de-d%C3%A9tention-pour-l-ex-ministre-des-arm%C3%A9es-et-critique-du-pouvoir-marguerite-gnakad%C3%A9"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ab4ef63701",
-      "title": "Mali: un rapport de The Sentry enquête sur le rôle de l’Africa Corps russe dans les frappes de drones",
-      "summary": "Trois ans après la création de l’Alliance des États du Sahel (AES), qui réunit le Mali, le Burkina Faso et le Niger, l’organisation américaine The Sentry a publié mercredi 16 septembre 2026 un rapport sur l’usage des drones au Mali. L’ONG, spécialisée dans les enquêtes sur les réseaux financiers liés aux conflits et à la corruption, pointe un décalage entre les revendications de souveraineté de la junte au pouvoir et la réalité de ceux qui financent et contrôlent une…",
-      "country": "BFA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-17T02:24:28+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260917-mali-un-rapport-de-the-sentry-enqu%C3%AAte-sur-le-r%C3%B4le-de-l-africa-corps-russe-dans-les-frappes-de-drones"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260917-mali-un-rapport-de-the-sentry-enqu%C3%AAte-sur-le-r%C3%B4le-de-l-africa-corps-russe-dans-les-frappes-de-drones"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "7ba63a8274",
-      "title": "Burkina Faso: un ressortissant espagnol porté disparu depuis plus de dix jours",
-      "summary": "Au Burkina Faso, un ressortissant espagnol est porté disparu depuis plus de dix jours. Habitué à voyager entre différents pays du Sahel pour ses affaires, l’homme a fait du Burkina Faso son principal lieu d’activité. Sa famille et ses collaborateurs sont sans nouvelles de lui depuis le 4 septembre 2026.",
-      "country": "BFA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-16T23:49:47+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260916-burkina-faso-un-ressortissant-espagnol-port%C3%A9-disparu-depuis-plus-de-dix-jours"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260916-burkina-faso-un-ressortissant-espagnol-port%C3%A9-disparu-depuis-plus-de-dix-jours"
         }
       ],
       "confirmation_count": 1
@@ -7924,6 +7993,38 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609160679.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "69f8f02b27",
+      "title": "Chen Yuanyu Beats Omar Assar in WTT Champions Opener",
+      "summary": "[Ghanaian Times] Chen Yuanyu opened WTT Champions Macao on 8 September with a 3-0 victory over Omar Assar, but the individual games were considerably tighter than the match score suggests.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-16T20:16:49+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609160655.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609160655.html"
         }
       ],
       "confirmation_count": 1
@@ -8660,134 +8761,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609160349.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "97334a8cea",
-      "title": "Tooro Supreme Council Confirms Kijanangoma As King",
-      "summary": "[Independent (Kampala)] Fort Portal -- The Tooro Kingdom Supreme Council, Orukurato rw'ensanju, has formally confirmed Prince Edward Rukidi Kijanangoma as the successor to the late Omukama Oyo Nyimba Kabamba Iguru Rukidi IV, giving his disputed selection further backing within the kingdom.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-16T11:28:48+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609160328.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609160328.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b76a621fe7",
-      "title": "Tooro - Nyabongo I to Be Enthroned On September 29",
-      "summary": "[Independent (Kampala)] Fort Portal -- The Babiito Royal Clan of Tooro Kingdom has set September 29 as the date for the coronation of Prince Edward Rukidi Nyabongo I as the new Omukama of Tooro.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-16T11:28:24+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609160327.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609160327.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "508109ab32",
-      "title": "Andrew Wilson Says Kenyan Police Planted Guns in Dr. Besigye Arrest",
-      "summary": "[Independent (Kampala)] Kampala -- The first Prosecution witness in Dr. Kizza Besigye's treason trial told the High Court in Kampala that the Kenyan Police set up two pistols and the entire crime scene.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-16T11:28:02+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609160326.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609160326.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "5a1824addd",
-      "title": "Museveni Invokes Moses Ali's Legacy in Appeal to Adjumani Voters",
-      "summary": "[Independent (Kampala)] Adjumani -- President Yoweri Museveni has urged voters in Adjumani District to emulate the late General Moses Ali's political legacy, particularly his emphasis on development, wealth creation and what he described as ideological clarity. Museveni said Ali, a long-serving political and military figure from the West Nile region, made a deliberate choice to associate with the National Resistance Movement (NRM) and its ideology, urging the people of…",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-16T11:20:12+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609160319.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609160319.html"
         }
       ],
       "confirmation_count": 1
@@ -9627,38 +9600,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "01a15d4ecc",
-      "title": "How an African country got the 2029 World Athletics Championships",
-      "summary": "BBC Sport Africa's Celestine Karoney explains why the 2029 World Athletics Championships was given to Nairobi in Kenya, as the tournament will take place in Africa for the very first time.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-15T17:23:07+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/sport/athletics/videos/cm93evnkdy81o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/sport/athletics/videos/cm93evnkdy81o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "24b00b6bcc",
       "title": "Guiné-Bissau: Greve de fome na prisão de Bafatá",
       "summary": "Mais de trinta reclusos da Prisão de Alta Segurança de Bafatá, no Leste da Guiné-Bissau, iniciaram esta semana uma greve de fome por tempo indeterminado.",
@@ -9944,38 +9885,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609150293.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "940c3d180a",
-      "title": "Unemployed Man Gets 18 Months Imprisonment Term for Causing Harm",
-      "summary": "[Ghanaian Times] A 19-year-old unemployed man, has been sentenced to 18 months imprisonment by the Asante Abuakwa circuit E court in the Atwima Nwabiagya South Municipality for causing harm at Nketia near Abuakwa.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-15T11:01:28+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609150292.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609150292.html"
         }
       ],
       "confirmation_count": 1
