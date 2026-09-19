@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-19T14:24:43.346481+00:00",
+  "generated_at": "2026-09-19T18:00:55.494308+00:00",
   "stats": {
-    "total_signals": 400,
+    "total_signals": 404,
     "verified_signals": 3,
     "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
-      "NGA": 58,
-      "KEN": 67,
+      "NGA": 59,
+      "KEN": 68,
       "SEN": 26,
       "UGA": 38,
       "MWI": 1,
@@ -23,8 +23,8 @@
       "RWA": 4,
       "GIN": 4,
       "NER": 3,
-      "MDG": 4,
-      "DJI": 5,
+      "MDG": 5,
+      "DJI": 6,
       "CPV": 3,
       "ERI": 1,
       "BEN": 2,
@@ -32,8 +32,8 @@
       "MUS": 2,
       "TGO": 1
     },
-    "west_signals": 163,
-    "east_signals": 237
+    "west_signals": 164,
+    "east_signals": 240
   },
   "sources": [
     {
@@ -279,9 +279,41 @@
   ],
   "signals": [
     {
-      "id": "36fe3ac50a",
-      "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
-      "summary": "Nigerian security forces have opened fire on protesters angry over the deaths of 37 miners who died in detention.",
+      "id": "1fcc1e73de",
+      "title": "Nigeria : après la mort de 37 mineurs, leurs proches réclament des réponses",
+      "summary": "La mort de 37 hommes détenus après une opération contre l’exploitation minière clandestine a déclenché de violentes manifestations à Minna, dans l’État du Niger. Des survivants affirment avoir été entassés dans des cellules sans ventilation, où plusieurs détenus se seraient effondrés.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-19T15:43:45+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/09/19/nigeria-apres-la-mort-de-37-mineurs-leurs-proches-reclament-des-reponses/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/09/19/nigeria-apres-la-mort-de-37-mineurs-leurs-proches-reclament-des-reponses/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "827a6227e7",
+      "title": "Nigeria gold miner deaths spark protests in Niger state",
+      "summary": "Survivors of a Nigerian disaster that saw 37 suspected illegal gold miners die while in the custody of a paramilitary civil defence group recounted their panic on Friday as they struggled to breathe inside the cell.",
       "country": "NGA",
       "category": "AUTRE",
       "severity": 4,
@@ -293,19 +325,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-09-19T10:42:44+00:00",
+      "published": "2026-09-19T14:37:05+00:00",
       "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss"
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/09/19/nigeria-gold-miner-deaths-spark-protests-in-niger-state/"
       },
       "confirming_sources": [
         {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss"
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/09/19/nigeria-gold-miner-deaths-spark-protests-in-niger-state/"
         }
       ],
       "confirmation_count": 1
@@ -833,6 +865,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "c9311747e2",
+      "title": "President Ruto Says Sh21bn Invested in Police Modernisation Programme",
+      "summary": "[Capital FM] Nairobi -- President William Ruto has announced that the Government has invested Sh21 billion of the Sh30 billion allocated to the Police Modernisation Programme.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T11:43:42+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180314.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180314.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "630b8c8b6d",
       "title": "Pilot and Student Killed in Training Aircraft Crash in Kajiado",
       "summary": "[Capital FM] Nairobi -- A pilot and a student have died after a Kenya School of Flying aircraft crashed during a training exercise in Kipeto, Kajiado West, on Friday morning.",
@@ -1153,6 +1217,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "860536f0da",
+      "title": "33 Feared Killed, Hundreds Flee As Terrorists Invade Zamfara Communities, Police Keep Mum",
+      "summary": "[Leadership] Tension and mourning have gripped the Dansadau axis of Maru local government area, Zamfara State, following a deadly invasion of several villages by suspected terrorists.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T07:23:35+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180126.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180126.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "780600ea93",
       "title": "Taxpayers Lose Sh1bn in Expired Medicines As Senators Raise Alarm",
       "summary": "[Capital FM] Nairobi -- Taxpayers are set to lose Sh1 billion in medicines that have expired, with the Senate Health Committee demanding answers from the Pharmacy and Poisons Board (PPB) over what it termed serious gaps in the management, inspection and disposal of pharmaceutical products.",
@@ -1308,38 +1404,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609180046.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "57a5d8f727",
-      "title": "Senators Demand Bomas Complex Contract As Ministries Clash Over Project Oversight",
-      "summary": "[Capital FM] Nairobi -- Senators have demanded the contract and key financial and procurement records for the multi-billion-shilling Bomas International Conference Centre (BICC) project amid questions over the division of responsibilities between the Ministries of Defence and Tourism.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-18T05:43:50+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609180043.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609180043.html"
         }
       ],
       "confirmation_count": 1
@@ -2177,6 +2241,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "10ebb1e4f7",
+      "title": "Mayiga Urges Namirembe Synod Members to Serve Without Expecting Financial Rewards",
+      "summary": "[Nile Post] The Katikkiro of Buganda, Charles Peter Mayiga, has officially launched the Namirembe Diocese Synod during a seminar held under the theme, \"Serving God Without Expecting Financial Payment.\"",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T20:17:25+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180680.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180680.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "265d6a67e6",
       "title": "Austria, UN Drugs and Crime Agency Launch New Project to Tackle Justice Delays, Corruption",
       "summary": "[Nile Post] Uganda has launched a new two-year initiative aimed at tackling case delays, integrity gaps and weak coordination across the country's justice system, with Gulu and Moroto selected as pilot districts.",
@@ -2590,6 +2686,38 @@
           "name": "WeeTracker",
           "tier": 2,
           "url": "https://weetracker.com/2026/09/18/aeon-raises-1m-pre-seed-cybersecurity-nigeria/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "220841a1af",
+      "title": "Olunga Leads Kenya Squad As Mccarthy Makes Final Choices for Afcon 2027 Qualifiers",
+      "summary": "[CAF] Kenya coach Benni McCarthy has named his final squad for the opening TotalEnergies CAF Africa Cup of Nations 2027 qualifiers against Eritrea and Guinea, with captain Michael Olunga leading the Harambee Stars attack.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T11:09:53+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180274.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180274.html"
         }
       ],
       "confirmation_count": 1
@@ -4937,6 +5065,104 @@
       "confirmation_count": 1
     },
     {
+      "id": "e85719481f",
+      "title": "«Je suis Français, je n’ai jamais été Malgache»: l'interview qui prive Zacharie Boucher de la sélection malgache",
+      "summary": "Le gardien de but Zacharie Boucher avait été sélectionné pour la première fois avec Madagascar, à l'occasion des éliminatoires de la CAN 2027. Sauf qu'une interview donnée 8 ans plus tôt – lors de laquelle il avait assuré que s'il était appelé avec les Barea, il n'« irait pas » – a refait surface et poussé la fédération à revenir sur sa convocation samedi 19 septembre.",
+      "country": "MDG",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-19T17:10:44+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique-foot/20260919-je-suis-fran%C3%A7ais-je-n-ai-jamais-%C3%A9t%C3%A9-malgache-l-interview-qui-prive-zacharie-boucher-de-la-s%C3%A9lection-malgache"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260919-je-suis-fran%C3%A7ais-je-n-ai-jamais-%C3%A9t%C3%A9-malgache-l-interview-qui-prive-zacharie-boucher-de-la-s%C3%A9lection-malgache"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6856c86487",
+      "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
+      "summary": "More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict.",
+      "country": "DJI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-19T15:31:05+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e7522c442b",
+      "title": "Cabo Verde inicia colocação de próteses da anca para reduzir evacuações médicas",
+      "summary": "Cabo Verde começou a colocar próteses da anca em doentes com fracturas, numa medida que pretende reforçar a capacidade de resposta do sistema de saúde e reduzir as evacuações médicas para Portugal. As próteses totais da anca deverão chegar nas próximas semanas, enquanto o país prepara também o alargamento deste tipo de cirurgia ao joelho.",
+      "country": "CPV",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "pt",
+      "published": "2026-09-19T14:31:25+00:00",
+      "lead_source": {
+        "id": "rfi-pt",
+        "name": "RFI Português",
+        "tier": 1,
+        "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260919-cabo-verde-inicia-coloca%C3%A7%C3%A3o-de-pr%C3%B3teses-da-anca-para-reduzir-evacua%C3%A7%C3%B5es-m%C3%A9dicas"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-pt",
+          "name": "RFI Português",
+          "tier": 1,
+          "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260919-cabo-verde-inicia-coloca%C3%A7%C3%A3o-de-pr%C3%B3teses-da-anca-para-reduzir-evacua%C3%A7%C3%B5es-m%C3%A9dicas"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "12c13f1296",
       "title": "Cabo Verde: Gratuitidade do ensino superior é vista como “alívio” para a Uni-CV",
       "summary": "Em Cabo Verde, o Governo decretou a isenção de propinas nas universidades públicas. A reitora da Uni-CV, Astrigilda Silveira, classifica a medida como um grande alívio financeiro para a instituição. A isenção de propinas aplica-se aos cursos de licenciatura, aos Estudos Superiores Profissionalizantes e ao Mestrado Integrado em Medicina.",
@@ -5092,6 +5318,38 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/business-tech/nssf-uganda-targets-to-raise-300m-from-east-africa-diaspora-5600714"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "dbf8cbbed6",
+      "title": "Postponement not an option as Kenya races to be ready for Afcon 2027",
+      "summary": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-19T10:24:01+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "confirmation_count": 1
@@ -5513,6 +5771,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "eb4b52ff2d",
+      "title": "UPDF Engineers Set to Revive Stalled Mitooma Health Projects",
+      "summary": "[Nile Post] Deputy Speaker of Parliament Thomas Tayebwa has said UPDF engineers will resume construction of two stalled health facilities in Mitooma District next week, following delays that left the projects incomplete.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T20:17:26+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180682.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180682.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "54d53ed359",
+      "title": "Zeija Urges East African Judiciaries to Benchmark Regionally",
+      "summary": "[Nile Post] Chief Justice Flavian Zeija has hosted a delegation from the Judiciary of Kenya to dinner in Kampala, describing regional cooperation as important to strengthening relations and improving judicial practice.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T20:17:25+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180679.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180679.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "84ae86de9d",
       "title": "UG Research - 74.2 Percent of NPP Delegates Expect Eugene Boakye Antwi to Win General Secretary Race",
       "summary": "[Ghanaian Times] A University of Ghana research on the New Patriotic Party (NPP) National General Secretary election has found that 74.2% of surveyed delegates expect former Subin MP Eugene Boakye Antwi to win the October 3 election.",
@@ -5732,38 +6054,6 @@
           "name": "Financial Afrik",
           "tier": 2,
           "url": "https://www.financialafrik.com/2026/09/18/financement-des-startups-en-afrique-le-surprenant-benin-detrone-legypte-et-le-maroc/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "647b97e448",
-      "title": "Consumer Protection in Nigeria's Booking Economy - a Sector Without Clear Rules",
-      "summary": "[Premium Times] Private platforms have begun to close some of the gaps. A cohort of Nigerian booking companies now verifies inventory before listing, holds payments through the platform rather than releasing them to hosts immediately, and provides formal booking records with cancellation and refund policies.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-18T17:16:07+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609180600.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609180600.html"
         }
       ],
       "confirmation_count": 1
@@ -7721,6 +8011,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "09f2ac4040",
+      "title": "From Kabul to Nairobi - - How US Unmasked SA's Global Drug Links",
+      "summary": "[Daily Maverick] From Kabul and Dubai to Nairobi and New York, US authorities used secret sources and cross-border tactics to capture accused traffickers, exposing deep links between drug rings and South Africa.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T08:52:08+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180153.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180153.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "306ce03f80",
       "title": "Ruto Warns Police Against Politics Ahead of 2027",
       "summary": "[Capital FM] Nairobi -- President William Ruto has warned police officers against being drawn into partisan politics as Kenya prepares for the 2027 General Election.",
@@ -8201,38 +8523,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "e4591f2afe",
-      "title": "Petition Challenging KPA Boss William Ruto's Tenure Certified Urgent",
-      "summary": "[Capital FM] Nairobi -- The High Court has certified as urgent a petition challenging the continued stay in office of Kenya Ports Authority (KPA) Managing Director and Chief Executive Officer Capt William Kipkemboi Ruto, with the petitioner claiming his three-year term expired in March.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-18T05:43:50+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609180042.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609180042.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "65b0d25454",
       "title": "Court Officials Arrested Over Corruption Schemes",
       "summary": "[AIM] Maputo -- Mozambique's Central Office for the Fight against Corruption (GCCC) on Wednesday arrested two officials from Maputo Administrative Court for allegedly being involved in corruption schemes.",
@@ -8553,70 +8843,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "895fe68d55",
-      "title": "Uganda Marketing Excellence Awards Return With Focus On Industry Trends and Impact",
-      "summary": "[Independent (Kampala)] Kampala -- Uganda's marketing industry is set to come under review as the Uganda Marketing Excellence Awards (UMEAS) return for their sixth edition, with organisers planning a State of Marketing Address to examine emerging trends and challenges shaping the sector.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T15:18:56+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170440.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170440.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b3ea9f3a3a",
-      "title": "Icpau Targets Employers to Weed Out Unqualified Accountants",
-      "summary": "[Independent (Kampala)] Kampala -- The Institute of Certified Public Accountants of Uganda (ICPAU) says it is working with employers to remove unqualified personnel from positions that require professional accounting qualifications, rather than relying on forceful enforcement.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T15:16:38+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170427.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170427.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "b9df388bc4",
       "title": "Black Maidens Thrash B'faso in Wafu B Opener",
       "summary": "[Ghanaian Times] The Black Maidens, the national female U-17 side, kicked off their WAFU B U17 Girls Cup campaign with an emphatic 4-0 victory over Burkina Faso on Match day 1.",
@@ -8708,38 +8934,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/business-tech/british-airways-to-resume-tanzania-flights-5598898"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b1501ef389",
-      "title": "Cabo Verde elimina taxas moderadoras nas estruturas públicas de saúde",
-      "summary": "O Governo de Cabo Verde eliminou as taxas moderadoras nas estruturas públicas de saúde. A medida já está em vigor e o Executivo garante que o fim da cobrança é sustentável, financiado pelo Orçamento do Estado e por novas fontes de receita.",
-      "country": "CPV",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-09-17T14:06:34+00:00",
-      "lead_source": {
-        "id": "rfi-pt",
-        "name": "RFI Português",
-        "tier": 1,
-        "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260917-cabo-verde-elimina-taxas-moderadoras-nas-estruturas-p%C3%BAblicas-de-sa%C3%BAde"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-pt",
-          "name": "RFI Português",
-          "tier": 1,
-          "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260917-cabo-verde-elimina-taxas-moderadoras-nas-estruturas-p%C3%BAblicas-de-sa%C3%BAde"
         }
       ],
       "confirmation_count": 1
@@ -9412,70 +9606,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609170056.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1948ac2ad6",
-      "title": "Nation That Forgets Its History Cannot Understand Its Future - Museveni",
-      "summary": "[Nile Post] President Museveni has said a country that does not understand its history cannot fully understand its present or prepare for its future.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T04:45:53+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170033.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170033.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "121aa2ed28",
-      "title": "2027 Election Will Be a Vote Against Tribalism, Marginalisation - Ruto",
-      "summary": "[Capital FM] Nairobi -- President William Ruto has said the 2027 General Election will give Kenyans an opportunity to rally behind national unity, inclusivity and equitable distribution of resources.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T04:45:42+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170023.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170023.html"
         }
       ],
       "confirmation_count": 1
