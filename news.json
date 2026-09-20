@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-20T16:04:32.313330+00:00",
+  "generated_at": "2026-09-20T18:47:32.756092+00:00",
   "stats": {
     "total_signals": 407,
-    "verified_signals": 4,
+    "verified_signals": 3,
     "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
-      "NGA": 62,
+      "NGA": 63,
       "CPV": 5,
-      "MOZ": 43,
+      "MOZ": 42,
       "SEN": 23,
       "GIN": 3,
       "MLI": 16,
@@ -32,8 +32,8 @@
       "GNB": 1,
       "MUS": 1
     },
-    "west_signals": 166,
-    "east_signals": 241
+    "west_signals": 167,
+    "east_signals": 240
   },
   "sources": [
     {
@@ -897,8 +897,8 @@
       "country": "NGA",
       "category": "AUTRE",
       "severity": 4,
-      "credibility": 4,
-      "verified": true,
+      "credibility": 2,
+      "verified": false,
       "theme": null,
       "legal_status": null,
       "regulatory": false,
@@ -918,15 +918,9 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609180116.html"
         }
       ],
-      "confirmation_count": 2
+      "confirmation_count": 1
     },
     {
       "id": "9313c2b67c",
@@ -1086,6 +1080,38 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609180402.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c9311747e2",
+      "title": "President Ruto Says Sh21bn Invested in Police Modernisation Programme",
+      "summary": "[Capital FM] Nairobi -- President William Ruto has announced that the Government has invested Sh21 billion of the Sh30 billion allocated to the Police Modernisation Programme.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T11:43:42+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180314.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180314.html"
         }
       ],
       "confirmation_count": 1
@@ -1411,6 +1437,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "860536f0da",
+      "title": "33 Feared Killed, Hundreds Flee As Terrorists Invade Zamfara Communities, Police Keep Mum",
+      "summary": "[Leadership] Tension and mourning have gripped the Dansadau axis of Maru local government area, Zamfara State, following a deadly invasion of several villages by suspected terrorists.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T07:23:35+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180126.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180126.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "780600ea93",
       "title": "Taxpayers Lose Sh1bn in Expired Medicines As Senators Raise Alarm",
       "summary": "[Capital FM] Nairobi -- Taxpayers are set to lose Sh1 billion in medicines that have expired, with the Senate Health Committee demanding answers from the Pharmacy and Poisons Board (PPB) over what it termed serious gaps in the management, inspection and disposal of pharmaceutical products.",
@@ -1566,38 +1624,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609180046.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "57a5d8f727",
-      "title": "Senators Demand Bomas Complex Contract As Ministries Clash Over Project Oversight",
-      "summary": "[Capital FM] Nairobi -- Senators have demanded the contract and key financial and procurement records for the multi-billion-shilling Bomas International Conference Centre (BICC) project amid questions over the division of responsibilities between the Ministries of Defence and Tourism.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-18T05:43:50+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609180043.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609180043.html"
         }
       ],
       "confirmation_count": 1
@@ -2603,6 +2629,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "10ebb1e4f7",
+      "title": "Mayiga Urges Namirembe Synod Members to Serve Without Expecting Financial Rewards",
+      "summary": "[Nile Post] The Katikkiro of Buganda, Charles Peter Mayiga, has officially launched the Namirembe Diocese Synod during a seminar held under the theme, \"Serving God Without Expecting Financial Payment.\"",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T20:17:25+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180680.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180680.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "265d6a67e6",
       "title": "Austria, UN Drugs and Crime Agency Launch New Project to Tackle Justice Delays, Corruption",
       "summary": "[Nile Post] Uganda has launched a new two-year initiative aimed at tackling case delays, integrity gaps and weak coordination across the country's justice system, with Gulu and Moroto selected as pilot districts.",
@@ -2984,6 +3042,38 @@
           "name": "WeeTracker",
           "tier": 2,
           "url": "https://weetracker.com/2026/09/18/aeon-raises-1m-pre-seed-cybersecurity-nigeria/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "220841a1af",
+      "title": "Olunga Leads Kenya Squad As Mccarthy Makes Final Choices for Afcon 2027 Qualifiers",
+      "summary": "[CAF] Kenya coach Benni McCarthy has named his final squad for the opening TotalEnergies CAF Africa Cup of Nations 2027 qualifiers against Eritrea and Guinea, with captain Michael Olunga leading the Harambee Stars attack.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T11:09:53+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180274.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180274.html"
         }
       ],
       "confirmation_count": 1
@@ -5459,38 +5549,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "93c3f703b4",
-      "title": "Circulação retomada em toda a linha da Beira Baixa",
-      "summary": "A circulação ferroviária na Linha da Beira Baixa é retomada hoje no troço entre Mouriscas-A e Ródão, após ter estado interrompida devido aos danos causados pelas intempéries do início do ano.",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-09-20T09:08:16+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/2026/09/20/linha-da-beira-baixa-retoma-circulacao-no-troco-mouriscas-a-e-rodao-afetado-pelo-mau-tempo/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/2026/09/20/linha-da-beira-baixa-retoma-circulacao-no-troco-mouriscas-a-e-rodao-afetado-pelo-mau-tempo/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "9b84476bed",
       "title": "RDC-Rwanda: plus de 3700 réfugiés rwandais ont regagné leur pays depuis le début de l’année 2026",
       "summary": "Au total, 3 752 réfugiés rwandais ont regagné leur pays depuis la République démocratique du Congo depuis le début de l’année. Le chiffre a été communiqué par le Haut-Commissariat des Nations unies pour les réfugiés. Le dernier mouvement concernait 366 personnes provenant de Goma, Bukavu et Kamanyola. Ces retours interviennent parallèlement au transfert d’anciens combattants des FDLR et de membres de leurs familles. Mais des organisations représentant des réfugiés…",
@@ -6576,38 +6634,6 @@
           "name": "Financial Afrik",
           "tier": 2,
           "url": "https://www.financialafrik.com/2026/09/18/financement-des-startups-en-afrique-le-surprenant-benin-detrone-legypte-et-le-maroc/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "647b97e448",
-      "title": "Consumer Protection in Nigeria's Booking Economy - a Sector Without Clear Rules",
-      "summary": "[Premium Times] Private platforms have begun to close some of the gaps. A cohort of Nigerian booking companies now verifies inventory before listing, holds payments through the platform rather than releasing them to hosts immediately, and provides formal booking records with cancellation and refund policies.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-18T17:16:07+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609180600.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609180600.html"
         }
       ],
       "confirmation_count": 1
@@ -8469,6 +8495,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "09f2ac4040",
+      "title": "From Kabul to Nairobi - - How US Unmasked SA's Global Drug Links",
+      "summary": "[Daily Maverick] From Kabul and Dubai to Nairobi and New York, US authorities used secret sources and cross-border tactics to capture accused traffickers, exposing deep links between drug rings and South Africa.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T08:52:08+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180153.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180153.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "306ce03f80",
       "title": "Ruto Warns Police Against Politics Ahead of 2027",
       "summary": "[Capital FM] Nairobi -- President William Ruto has warned police officers against being drawn into partisan politics as Kenya prepares for the 2027 General Election.",
@@ -8757,6 +8815,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "7661c31a82",
+      "title": "Court Strikes Out EFCC's Forfeiture Bid Against Ex-Power Minister's Assets",
+      "summary": "[Leadership] Justice James Omotosho of the Federal High Court sitting in Abuja, has struck out a motion filed by the Economic and Financial Crimes Commission (EFCC) seeking to forfeit properties allegedly linked to former minister of Power, Engr. Saleh Mamman.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-18T06:55:12+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609180123.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609180123.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "362c038817",
       "title": "Plus de 2 000 Yéménites fuyant les combats ont rejoint Djibouti",
       "summary": "Plus de 2 000 Yéménites sont arrivés au Djibouti. Pour rejoindre ce pays de la corne de l'Afrique ces familles ont dû traverser la mer à bord de petites embarcations.",
@@ -8912,38 +9002,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609180045.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e4591f2afe",
-      "title": "Petition Challenging KPA Boss William Ruto's Tenure Certified Urgent",
-      "summary": "[Capital FM] Nairobi -- The High Court has certified as urgent a petition challenging the continued stay in office of Kenya Ports Authority (KPA) Managing Director and Chief Executive Officer Capt William Kipkemboi Ruto, with the petitioner claiming his three-year term expired in March.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-18T05:43:50+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609180042.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609180042.html"
         }
       ],
       "confirmation_count": 1
@@ -9840,70 +9898,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609170056.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1948ac2ad6",
-      "title": "Nation That Forgets Its History Cannot Understand Its Future - Museveni",
-      "summary": "[Nile Post] President Museveni has said a country that does not understand its history cannot fully understand its present or prepare for its future.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T04:45:53+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170033.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170033.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "121aa2ed28",
-      "title": "2027 Election Will Be a Vote Against Tribalism, Marginalisation - Ruto",
-      "summary": "[Capital FM] Nairobi -- President William Ruto has said the 2027 General Election will give Kenyans an opportunity to rally behind national unity, inclusivity and equitable distribution of resources.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T04:45:42+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170023.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170023.html"
         }
       ],
       "confirmation_count": 1
