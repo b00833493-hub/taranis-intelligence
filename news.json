@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T19:09:13.226013+00:00",
+  "generated_at": "2026-09-24T22:23:20.316073+00:00",
   "stats": {
-    "total_signals": 425,
+    "total_signals": 429,
     "verified_signals": 6,
-    "countries_covered": 24,
+    "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
+      "ETH": 56,
       "TGO": 3,
-      "ETH": 54,
       "BFA": 1,
       "NGA": 57,
       "KEN": 63,
@@ -17,22 +17,23 @@
       "NER": 5,
       "CIV": 11,
       "ERI": 2,
-      "SSD": 10,
-      "SEN": 29,
+      "SEN": 30,
       "DJI": 3,
+      "SSD": 9,
       "TZA": 34,
-      "BEN": 2,
       "GHA": 36,
+      "BEN": 2,
       "BDI": 1,
       "MLI": 13,
       "RWA": 11,
+      "CPV": 2,
+      "SOM": 1,
       "MDG": 3,
       "GNB": 1,
-      "MUS": 3,
-      "CPV": 1
+      "MUS": 3
     },
-    "west_signals": 165,
-    "east_signals": 260
+    "west_signals": 167,
+    "east_signals": 262
   },
   "sources": [
     {
@@ -277,6 +278,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "d846acb803",
+      "title": "Les autorités rebelles du Tigré disent être en \"guerre totale\" contre le gouvernement éthiopien",
+      "summary": "En Ethiopie, les autorités rebelles du Tigré ont affirmé jeudi être en \"guerre totale\" contre le gouvernement éthiopien, alors que des combats opposent les forces fédérales à des groupes armés dans les Etats régionaux voisins de l'Amhara et de l'Afar. Un total de 272 rebelles ont été tués et 260 ont été blessés dans le nord du pays selon l'armée fédérale.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-24T20:27:44+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260924-les-autorit%C3%A9s-rebelles-du-tigr%C3%A9-disent-%C3%AAtre-en-guerre-totale-contre-le-gouvernement-%C3%A9thiopien"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260924-les-autorit%C3%A9s-rebelles-du-tigr%C3%A9-disent-%C3%AAtre-en-guerre-totale-contre-le-gouvernement-%C3%A9thiopien"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "447d28055c",
       "title": "BOAD : 157,5 milliards FCFA de nouveaux financements approuvés, le portefeuille global atteint 10 991,6 milliards FCFA",
@@ -900,38 +933,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "6dbe15407c",
-      "title": "Rehabilitation Resumes At Akwa Ibom Assembly Complex After Premium Times Reports",
-      "summary": "[Premium Times] Work has resumed at the Akwa Ibom State House of Assembly complex after months of inactivity and a series of PREMIUM TIMES reports that raised questions about the stalled ₦15.47 billion rehabilitation project.",
-      "country": "NGA",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "FINANCING",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T08:53:58+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609240042.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609240042.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "7f08eb4136",
       "title": "Bridge Bank to Start Trading On BRVM Sept 24 After Oversubscribed IPO",
       "summary": "[Daba Finance] Bridge Bank Group Côte d'Ivoire will begin trading on the BRVM on September 24 after its public share sale attracted CFAF 95.8 billion of orders for CFAF 67.5 billion of stock. The shares will trade under the ticker BBGC with a reference price of CFAF 6,750.",
@@ -1023,38 +1024,6 @@
           "name": "The Africa Report",
           "tier": 2,
           "url": "https://www.theafricareport.com/431445/5-questions-to-understand-the-removal-of-us-sanctions-on-eritrea/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "84497c547c",
-      "title": "Soudan du Sud : Washington appelle Juba à intervenir d'urgence sur le plan humanitaire",
-      "summary": "Les États-Unis menacent les autorités sud-soudanaises qui pourraient devenir la cible de sanctions si rien n’est fait pour améliorer la situation humanitaire dans le pays, où 10 millions de personnes ont besoin d’aide. Un communiqué au ton particulièrement dur a été publié dimanche 20 septembre par le Bureau des affaires africaines du département d'État américain. Les précisions de Bastien Renouil, correspondant France 24 à Nairobi.",
-      "country": "SSD",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-23T10:49:31+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20260923-soudan-du-sud-washington-appelle-juba-%C3%A0-intervenir-d-urgence-sur-le-plan-humanitaire"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260923-soudan-du-sud-washington-appelle-juba-%C3%A0-intervenir-d-urgence-sur-le-plan-humanitaire"
         }
       ],
       "confirmation_count": 1
@@ -1663,6 +1632,38 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608310452.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "57f4b6ad00",
+      "title": "Éliminatoires CAN 2027: la Côte d’Ivoire débute idéalement en dominant le Ghana",
+      "summary": "Le choc de cette première journée des éliminatoires de la CAN 2027 a été remporté (2-0) par la Côte d’Ivoire face au Ghana, ce jeudi 24 septembre 2024. Grâce à leur nouveau prodige Malick Yalcouyé, les Éléphants lancent leurs qualifications de la meilleure des manières.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-24T20:56:13+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique-foot/20260924-%C3%A9liminatoires-can-2027-la-c%C3%B4te-d-ivoire-d%C3%A9bute-id%C3%A9alement-en-dominant-le-ghana"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique-foot/20260924-%C3%A9liminatoires-can-2027-la-c%C3%B4te-d-ivoire-d%C3%A9bute-id%C3%A9alement-en-dominant-le-ghana"
         }
       ],
       "confirmation_count": 1
@@ -2728,6 +2729,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "e26286b528",
+      "title": "Ruto's UNGA Deals - Jobs, Ai, Trade and Sh600bn Investment for Kenya",
+      "summary": "[Capital FM] Nairobi -- President William Ruto's engagements at the 81st United Nations General Assembly in New York are beginning to translate into a series of investment, technology, trade and security opportunities for Kenya.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-23T13:13:23+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609230397.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609230397.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "c27164224a",
       "title": "Bishops Raise the Alarm - Ghana Is Becoming a Cocaine Hub",
       "summary": "[Agenzia Fides] Accra -- \"The seizure in France of a large shipment of cocaine from Ghana must not be treated as an isolated incident, but as part of a wider problem,\" the Bishops of Ghana said following the seizure by French customs authorities on 10 September of 3.9 tonnes of cocaine, with an estimated value of €225 million (approximately US$261.45 million). The drugs were hidden inside a container carrying plastic waste, which had arrived at the northern French port of…",
@@ -3395,6 +3428,38 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609180015.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "32ec94ec99",
+      "title": "GCB Offers Msmes Unsecured Loans Up to Gh&#xA2;1m",
+      "summary": "[Ghanaian Times] GCB Bank PLC has announced plans to deepen financial and technical support for micro, small and medium-sized enterprises (MSMEs), including unsecured loans of up one million Ghana cedis for eligible businesses to expand their operations.",
+      "country": "GHA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-17T15:10:17+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609170416.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609170416.html"
         }
       ],
       "confirmation_count": 1
@@ -4906,6 +4971,166 @@
       "confirmation_count": 1
     },
     {
+      "id": "062f409071",
+      "title": "Encontrado corpo de inglês de 58 anos na praia do Pintadinho",
+      "summary": "O alerta foi dado por um popular na manhã desta quinta-feira. Óbito foi declarado pelo INEM e o corpo transportado para o Gabinete Médico-Legal e Forense do Barlavento Algarvio.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-24T21:53:22+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/09/24/lagoa-encontrado-corpo-de-ingles-de-58-anos-na-praia-do-pintadinho/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/09/24/lagoa-encontrado-corpo-de-ingles-de-58-anos-na-praia-do-pintadinho/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "bc7376af9a",
+      "title": "Mais de 40 milhões enfrentam insegurança alimentar aguda",
+      "summary": "Sudão do Sul, Somália e Quénia agravam situação. Nove milhões de crianças sofrem de má nutrição. Só o Uganda registou melhorias em 2026.",
+      "country": "SOM",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-09-24T21:52:04+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/09/24/40-milhoes-em-inseguranca-alimentar-aguda-na-africa-oriental-crise-triplicou-desde-2016-alerta-igad/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/09/24/40-milhoes-em-inseguranca-alimentar-aguda-na-africa-oriental-crise-triplicou-desde-2016-alerta-igad/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6a9f089cbf",
+      "title": "Des préservatifs français donnés en masse à la Côte d'Ivoire ?",
+      "summary": "Ces dernières semaines, des internautes cherchent au travers de leurs publications à ternir les relations franco-ivoiriennes. Tantôt en assurant que Paris va offrir à Abidjan sa première ligne de métro, tantôt en affirmant que la France veut humilier la Côte d'Ivoire en lui donnant des tonnes de préservatifs et de protections hygiéniques. Explications.",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-24T20:51:57+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260924-des-pr%C3%A9servatifs-fran%C3%A7ais-donn%C3%A9s-en-masse-%C3%A0-la-c%C3%B4te-d-ivoire"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260924-des-pr%C3%A9servatifs-fran%C3%A7ais-donn%C3%A9s-en-masse-%C3%A0-la-c%C3%B4te-d-ivoire"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "63ee500480",
+      "title": "Diomaye Faye sur France 24 : FMI, Macky Sall, Ousmane Sonko… ce qu’il faut retenir de l'interview",
+      "summary": "Dans un entretien exclusif accordé à France 24 et RFI à New York, le président sénégalais Bassirou Diomaye Faye est revenu sur sa rupture avec Ousmane Sonko, le nouvel accord avec le FMI ou encore la candidature de Macky Sall au poste de secrétaire général de l’ONU. Le décryptage de cet entretien avec Zyad Limam, directeur du mensuel Afrique Magazine et Bruno Daroux, chroniqueur international à France 24.",
+      "country": "SEN",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-24T19:40:11+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260924-diomaye-faye-sur-france-24-fmi-macky-sall-ousmane-sonko-ce-qu-il-faut-retenir-de-l-interview"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260924-diomaye-faye-sur-france-24-fmi-macky-sall-ousmane-sonko-ce-qu-il-faut-retenir-de-l-interview"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d72dc5a48c",
+      "title": "What’s triggered the latest violence in Ethiopia?",
+      "summary": "Tigrayan forces say they are in a 'full-blown war' with the army.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-24T19:34:53+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "a23289a05b",
       "title": "Sénégal : Bassirou Diomaye Faye va-t-il dissoudre l'Assemblée nationale ?",
       "summary": "En marge de l'Assemblée générale des Nations unies à New York, le président sénégalais a accordé une interview à France 24 et RFI. Bassirou Diomaye Faye a notamment évoqué la possibilité de dissoudre l'Assemblée nationale.",
@@ -5258,38 +5483,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "5fdbb8c5c1",
-      "title": "LIVE: Ivory Coast vs Ghana – AFCON qualifying",
-      "summary": "Follow updates, build-up, team news and lineups, from our live text commentary stream coverage as Yan Diomande stars.",
-      "country": "CIV",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T16:01:15+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-ivory-coast-vs-ghana-afcon-qualifying?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-ivory-coast-vs-ghana-afcon-qualifying?traffic_source=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "c7abe0c772",
       "title": "Better Prices Lure Kitui Farmers Back to Cotton - If Seed, Rain and Young Farmers Follow",
       "summary": "[allAfrica] The landscape changes as the road winds into Kitui County.",
@@ -5317,38 +5510,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609240506.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "2e47f7b7e1",
-      "title": "PS quer esclarecer alegado envio de reservas para França",
-      "summary": "Carneiro diz que vai requerer informação à ministra do Ambiente e levar o tema ao parlamento. Governo garante que Portugal tem reservas para 92 dias.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-09-24T15:40:01+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/2026/09/24/ps-quer-explicacoes-do-governo-sobre-alegada-transferencia-de-132-mil-toneladas-de-reservas-de-combustivel-para-franca/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/2026/09/24/ps-quer-explicacoes-do-governo-sobre-alegada-transferencia-de-132-mil-toneladas-de-reservas-de-combustivel-para-franca/"
         }
       ],
       "confirmation_count": 1
@@ -6346,6 +6507,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "d5abd357b4",
+      "title": "Wafu-B U-17 - Flamingos Chase Fourth Straight Win Against Hosts C&#xF4;te d'Ivoire",
+      "summary": "[Premium Times] Nigeria sit top of the standings with nine points from three victories, while Côte d'Ivoire occupy second place with six points from two wins and one defeat",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-24T13:24:30+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609240353.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609240353.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5f3364e512",
+      "title": "Ex-Lasu Lecturer Becomes Fountain University's First Professor of Mass Communication",
+      "summary": "[Premium Times] Ms Adeniran, a former lecturer at Lagos State University (LASU), currently serves as Dean of the College of Management and Social Sciences at Fountain University.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-24T13:24:13+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609240352.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609240352.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "6eeebf3c82",
       "title": "White Smoke in FKF Pl As Kariobangi Sharks, Mombasa United Agree On Playoff",
       "summary": "[Capital FM] NAIROBI -- It is a sigh of relief in the 2026/27 Football Kenya Federation (FKF) Premier League stalemate after Kariobangi Sharks and Mombasa United agreed to contest the promotion and relegation playoff to allow the top-flight league to finally kick off finally.",
@@ -6570,6 +6795,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "924947c7d9",
+      "title": "Onaiyekan, Mbah, Achebe to Headline Nge Conference in Enugu",
+      "summary": "[Leadership] Emeritus Archbishop of Abuja, John Cardinal Onaiyekan, will deliver the keynote address at the 2026 All Nigeria Editors Conference (ANEC) organised by the Nigerian Guild of Editors (NGE), opening at the Enugu International Conference Centre (ICC), today.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-24T12:57:51+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609240325.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609240325.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "587a96206a",
+      "title": "NCDC - Travellers From Ebola-Hit Countries May Be Required to Complete Health Forms",
+      "summary": "[Leadership] Patience Ivie Ihejirika, Ejike Ejike, Anayo Onukwu -- The Nigeria Centre for Disease Control and Prevention (NCDC) has said that travellers arriving from countries with active or relevant Ebola Virus Disease (EVD) transmission may be required to complete Health Declaration Forms at points of entry.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-24T12:57:31+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609240324.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609240324.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "c490b666c1",
       "title": "Kakuzi Birdwatching Tour Ends in Triumph As Japanese Royalty Sights Rare Migratory Birds",
       "summary": "[Capital FM] Nairobi -- A recent birdwatching and photography excursion to agribusiness Kakuzi Plc orchards in Murang'a County ended on a celebratory note after a member of Japan's Royal Family, Her Imperial Highness Princess Takamado of Japan, spotted at least two international migratory birds in their natural habitat.",
@@ -6629,6 +6918,38 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609240322.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "85f8be3e33",
+      "title": "Avoid Shaky Start, Presidential Aide, Adeboye, Charges Eagles",
+      "summary": "[This Day] The Senior Special Adviser to the President on Grassroots Sports Development, Prince Adeyinka Anthony Adeboye, has charged the Super Eagles to avoid shaky start in their 2027 AFCON qualifiers.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-24T12:55:57+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609240312.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609240312.html"
         }
       ],
       "confirmation_count": 1
@@ -7109,6 +7430,38 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609240190.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b1623191e7",
+      "title": "Wakiso Takes 104 Councillors to Hoima for Governance Training",
+      "summary": "[Nile Post] Wakiso District has taken 104 councillors to Hoima City for a week-long training aimed at strengthening their knowledge of district governance, council procedures, laws, financial management and resource mobilisation.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-24T11:19:45+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609240184.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609240184.html"
         }
       ],
       "confirmation_count": 1
@@ -8202,38 +8555,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ed84b55ecd",
-      "title": "Kindiki - Kenya Kwanza Implementing Manifesto 'Project By Project'",
-      "summary": "[Capital FM] Maragua -- Deputy President Kithure Kindiki has said the Kenya Kwanza administration is implementing its manifesto through individual projects, citing ongoing development programmes in Murang'a County as he urged residents to focus on development ahead of the 2027 General Election.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T08:57:38+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609240050.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609240050.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "0013eaebb3",
       "title": "Ruto Warns UN Double Standards Are Eroding Trust in Global Order",
       "summary": "[Capital FM] Nairobi -- President William Ruto has warned that inconsistent application of international law and unequal power within the United Nations are eroding trust in the multilateral system, urging countries to confront what he described as a widening gap between the principles of sovereign equality and the way global institutions operate.",
@@ -8325,38 +8646,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609240045.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4d37b9cced",
-      "title": "Anti-Corruption Advocates Seek Stronger Protection for Whistleblowers",
-      "summary": "[Premium Times] Speakers empahsised whistleblowing as one of the ways of fighting corruption, and expressed regrets that such protection for whistleblowers was lacking in Nigeria.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T08:52:52+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609240039.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609240039.html"
         }
       ],
       "confirmation_count": 1
@@ -8554,70 +8843,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "668dc93582",
-      "title": "NEMA Urges Caution As Flooding Persists in Anambra",
-      "summary": "[Premium Times] Head of Operations, NEMA Enugu Zonal Office, Priscilla Madukwe, described the recent incident at Ring Road, Nibo, where school children were trapped inside a bus in a flooded road as heartbreaking.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T07:39:17+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609240018.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609240018.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "092b512e09",
-      "title": "Tinubu's Extended Vacation - Lawmakers Ask NASS Leadership to Reconvene Plenary to Decide Next Move",
-      "summary": "[Premium Times] The lawmakers said the leadership of the Senate and House of Representatives should disclose whether President Bola Tinubu transmitted the constitutionally required vacation declaration, arguing that the National Assembly must act if no such declaration was received within 21 days.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T07:38:52+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609240017.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609240017.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "b69629e3b5",
       "title": "How Poverty Is Pushing Plateau Youths, Children Into Hazardous Work",
       "summary": "[Premium Times] Deep inside the forest behind the New Government House, Jos, young men and teenagers descend into narrow, unfortified pits, digging through layers of soil in search of traces of tin.",
@@ -8645,70 +8870,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609240016.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "46dfc3c093",
-      "title": "Reading Okot P'bitek Through Eyes Taught to Look Away",
-      "summary": "[African Arguments] In 1931, Okot p'Bitek was born in Gulu, northern Uganda. It is perhaps fitting that a man who would spend much of his life questioning what Africans had been taught to admire was himself born at a rather interesting intersection of worlds. His father, Jebedayo Opi, was a school teacher shaped by the colonial education system. His mother, Cerina Lacwaa, was an Acholi singer, dancer and storyteller, deeply rooted in the oral traditions of her people.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T07:28:42+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609240007.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609240007.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "2cdb12117d",
-      "title": "Insecurity Is Crippling Economies On the Cameroon-Chad Trade Corridor",
-      "summary": "[ISS] Terrorism, kidnapping and crumbling roads are combining to choke a trade lifeline linking Cameroon, Chad and Nigeria.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T07:25:54+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609240006.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609240006.html"
         }
       ],
       "confirmation_count": 1
@@ -9093,6 +9254,38 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/09/23/tanzanian-opposition-leader-urges-courageous-verdict-in-treason-trial/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d3742aaa1e",
+      "title": "Mulwa Family to Take Plea in Dr Victoria Mutiso Murder Case Next Week",
+      "summary": "[Capital FM] Nairobi -- Rose Mbithe Mulwa and her two children, Angela Mulwa and Chris Mulwa, will on September 29 appear before the High Court in Nairobi to formally take plea in the murder case arising from the killing of psychiatrist Dr Victoria Nthunya Mutiso.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-23T15:21:32+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609230487.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609230487.html"
         }
       ],
       "confirmation_count": 1
@@ -9797,38 +9990,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/sport/football/articles/cmrer1vexl5jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "8ccfe75ae4",
-      "title": "Senators Clash Over Seven CSs Accompanying Ruto to UNGA",
-      "summary": "[Capital FM] Nairobi -- Ruling coalition and opposition senators clashed on Wednesday over the decision by seven Cabinet Secretaries to accompany President William Ruto to the United Nations General Assembly in New York.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-23T09:35:27+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609230104.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609230104.html"
         }
       ],
       "confirmation_count": 1
@@ -11885,38 +12046,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/opinion/columnists/chase-non-locals-from-here-it-cannot-happen-5600684"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "84ae86de9d",
-      "title": "UG Research - 74.2 Percent of NPP Delegates Expect Eugene Boakye Antwi to Win General Secretary Race",
-      "summary": "[Ghanaian Times] A University of Ghana research on the New Patriotic Party (NPP) National General Secretary election has found that 74.2% of surveyed delegates expect former Subin MP Eugene Boakye Antwi to win the October 3 election.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-18T19:49:20+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609180668.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609180668.html"
         }
       ],
       "confirmation_count": 1
