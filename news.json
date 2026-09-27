@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-09-27T13:57:45.809711+00:00",
+  "generated_at": "2026-09-27T18:23:06.698954+00:00",
   "stats": {
-    "total_signals": 405,
-    "verified_signals": 9,
+    "total_signals": 403,
+    "verified_signals": 10,
     "countries_covered": 24,
     "sources_active": 40,
     "per_country": {
-      "SEN": 32,
+      "ERI": 2,
+      "NGA": 53,
+      "GHA": 32,
+      "SEN": 31,
       "MOZ": 42,
-      "GIN": 4,
+      "GIN": 3,
       "ETH": 59,
       "UGA": 34,
-      "NGA": 51,
-      "DJI": 4,
-      "KEN": 60,
+      "DJI": 3,
+      "KEN": 61,
       "BFA": 2,
-      "CIV": 13,
+      "CIV": 14,
       "TZA": 31,
       "BEN": 1,
-      "SSD": 4,
-      "GHA": 32,
+      "SSD": 3,
       "NER": 2,
-      "GNB": 3,
       "RWA": 10,
       "CPV": 2,
-      "MDG": 4,
+      "GNB": 2,
+      "MDG": 2,
       "SLE": 1,
       "SOM": 1,
       "MUS": 3,
-      "MLI": 9,
-      "ERI": 1
+      "MLI": 9
     },
     "west_signals": 152,
-    "east_signals": 253
+    "east_signals": 251
   },
   "sources": [
     {
@@ -277,6 +277,114 @@
     }
   ],
   "signals": [
+    {
+      "id": "e2518f7a57",
+      "title": "États-Unis – Érythrée : pourquoi Washington tourne la page des sanctions contre Asmara",
+      "summary": "Washington se rapproche d’Asmara en laissant expirer l’état d’urgence nationale décrété sur le nord de l’Éthiopie. Une décision stratégique, mais controversée, alors que le Tigré renoue avec la violence.",
+      "country": "ERI",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-27T16:10:19+00:00",
+      "lead_source": {
+        "id": "ja",
+        "name": "Jeune Afrique",
+        "tier": 2,
+        "url": "https://www.jeuneafrique.com/1845619/politique/etats-unis-erythree-pourquoi-washington-tourne-la-page-des-sanctions-contre-asmara/"
+      },
+      "confirming_sources": [
+        {
+          "id": "ja",
+          "name": "Jeune Afrique",
+          "tier": 2,
+          "url": "https://www.jeuneafrique.com/1845619/politique/etats-unis-erythree-pourquoi-washington-tourne-la-page-des-sanctions-contre-asmara/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "846d79a16e",
+      "title": "Nigeria Prevail but Senegal Draw On Vieira's Debut in 2027 Afcon Qualifiers",
+      "summary": "[RFI] Powerhouse outfits Nigeria and Morocco launched their campaigns to reach the 2027 Africa Cup of Nations finals with victories over Madagascar and Gabon respectively on Friday night as World Cup participants Senegal and Egypt were held to draws.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-27T16:03:12+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609270107.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609270107.html"
+        },
+        {
+          "id": "aa-sen",
+          "name": "AllAfrica · Sénégal",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609270107.html"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
+      "id": "e3f17bccd1",
+      "title": "C&#xF4;te d'Ivoire Outfox Ghana On Renard's Return in Afcon 2027 Qualifier",
+      "summary": "[RFI] Hervé Renard launched his second spell as Côte d'Ivoire head coach with a 2-0 victory over Ghana in the first qualifying game for next year's Africa Cup of Nations in Kenya, Uganda and Tanzania.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-27T15:54:39+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609270098.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609270098.html"
+        },
+        {
+          "id": "aa-civ",
+          "name": "AllAfrica · Côte d'Ivoire",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609270098.html"
+        }
+      ],
+      "confirmation_count": 2
+    },
     {
       "id": "0cd41c5938",
       "title": "Sénégal : un pays pauvre qui se paie des privilèges de pays riche",
@@ -712,8 +820,8 @@
       "country": "NGA",
       "category": "FINANCING",
       "severity": 4,
-      "credibility": 4,
-      "verified": true,
+      "credibility": 2,
+      "verified": false,
       "theme": null,
       "legal_status": null,
       "regulatory": false,
@@ -733,15 +841,9 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/09/24/nigeria-and-us-sign-deal-to-increase-mining-investment/"
-        },
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609240472.html"
         }
       ],
-      "confirmation_count": 2
+      "confirmation_count": 1
     },
     {
       "id": "171270420c",
@@ -1064,38 +1166,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "3d65a62e97",
-      "title": "Sh8.2bn Meth Haul Incinerated Under Court Supervision As 6 Iranians Stand Trial",
-      "summary": "[Capital FM] Mombasa -- A Sh8.2 billion methamphetamine haul has been incinerated under court supervision in Mombasa as six Iranians stand trial over the seizure of more than 1,000kg of the drug in the Indian Ocean.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T15:24:36+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609240462.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609240462.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "47da9f890e",
       "title": "Fighting intensifies in northern Ethiopia as Tigray rebels declare full-blown war",
       "summary": "Ethiopia’s army says its forces have killed 272 Tigrayan fighters and wounded 260 during a counter-offensive in Amhara. The press says the figures could not be independently verified.",
@@ -1155,38 +1225,6 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/vid%C3%A9o/20260924-%C3%A9thiopie-les-rebelles-du-tplf-prennent-l-a%C3%A9roport-de-mekele-au-tigr%C3%A9"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "8721224278",
-      "title": "Éthiopie : l'armée annonce avoir tué 272 rebelles tigréens",
-      "summary": "L'armée éthiopienne a annoncé, jeudi, avoir tué 272 rebelles tigréens dans la région de l'Amhara, dans un contexte de recrudescence de violence.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-24T14:12:37+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/09/24/ethiopie-larmee-annonce-avoir-tue-272-rebelles-tigreens/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/09/24/ethiopie-larmee-annonce-avoir-tue-272-rebelles-tigreens/"
         }
       ],
       "confirmation_count": 1
@@ -1347,38 +1385,6 @@
           "name": "AllAfrica · Côte d'Ivoire",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609230601.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f08c969a27",
-      "title": "'We are Collaborating to ... Remove the Regime'",
-      "summary": "[RFI] Seven Ethiopian armed groups have formed an alliance against the federal government, an official of the Tigray People's Liberation Front (TPLF) said on Sunday. This has raised fears of a return to the war that killed some 600,000 people.",
-      "country": "ETH",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "FINANCING",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-23T07:33:44+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609230045.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609230045.html"
         }
       ],
       "confirmation_count": 1
@@ -1800,6 +1806,136 @@
       "confirmation_count": 1
     },
     {
+      "id": "d4cc2a1c3d",
+      "title": "Africa's Mineral Strength Is Wasted If Countries Don't Work Together - New Report",
+      "summary": "[The Conversation Africa] Green technologies are mineral-intensive: electric vehicles, batteries, solar panels, wind turbines and grids need cobalt, lithium, copper, manganese, graphite and rare earths. The International Energy Agency estimates that electric cars require six times more minerals than a petrol or diesel car. A wind power plant requires about nine times more minerals than a gas-fired plant.",
+      "country": "NGA",
+      "category": "RENEWABLE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": "WIND",
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-27T16:05:04+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609270108.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609270108.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "cb0ab8ea9a",
+      "title": "Breaking the Pretoria Architecture - How Ethiopia's Fragmented Wars Converged Into a Single Existential Threat",
+      "summary": "[African Arguments] When the Pretoria Cessation of Hostilities Agreement was signed in November 2022, international observers prematurely celebrated the end of one of this century's most devastating conflicts. The silence of the guns in Tigray was treated as a definitive roadmap toward peace. What the international community failed to see was that the Pretoria architecture did not resolve Ethiopia's core systemic collapse; it merely localized and delayed it.",
+      "country": "ETH",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "en",
+      "published": "2026-09-27T16:01:21+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609270105.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609270105.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4515296d3a",
+      "title": "The Next Wave: Kenya’s payments revolution cannot end with mobile money",
+      "summary": "Kenya’s mobile-money revolution transformed how millions of people pay, save, borrow, and do business. But with a domestic card scheme, the country is confronting a bigger question: what should its payments system look like after M-Pesa?",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-27T14:09:40+00:00",
+      "lead_source": {
+        "id": "techcabal",
+        "name": "TechCabal",
+        "tier": 2,
+        "url": "https://techcabal.com/2026/09/27/kenyas-payments-revolution-cannot-end-with-mobile-money/"
+      },
+      "confirming_sources": [
+        {
+          "id": "techcabal",
+          "name": "TechCabal",
+          "tier": 2,
+          "url": "https://techcabal.com/2026/09/27/kenyas-payments-revolution-cannot-end-with-mobile-money/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4819e7c4a6",
+      "title": "Ethiopians celebrate Meskel and call for peace amid renewed fighting",
+      "summary": "This year's celebration came as renewed fighting between Ethiopian federal troops and fighters loyal to the Tigray People's Liberation Front, or TPLF, raised fears of another major conflict in the country's north",
+      "country": "ETH",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "FINANCING",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-27T13:38:01+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/09/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-renewed-fighting/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/09/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-renewed-fighting/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "210c343d53",
       "title": "Kenyan Insurtech Turaco Secures Investment From 3IF Ventures To Expand Affordable Insurance",
       "summary": "Nairobi-based InsurTech company Turaco has secured an undisclosed investment from 3IF Ventures, marking\nThe post Kenyan Insurtech Turaco Secures Investment From 3IF Ventures To Expand Affordable Insurance appeared first on WeeTracker.",
@@ -2179,38 +2315,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609250410.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c211d12eed",
-      "title": "Ncdmb Launches in-House Academy for Knowledge - Sharing Among Staff, Stakeholders",
-      "summary": "[Premium Times] LearnFest, an initiative under the Nigerian Content Academy (NCA), a specialised knowledge-sharing and training arm of the NCDMB, will provide trainings on the mandate and inner workings of the Board.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-25T15:58:27+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609250402.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609250402.html"
         }
       ],
       "confirmation_count": 1
@@ -3050,38 +3154,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "fa26612e37",
-      "title": "Ethiopia's federalism dilemma: Why regional power keeps fuelling conflict",
-      "summary": "Tigrayan authorities say they are responding to attacks by federal forces, while the federal government has described the Tigrayan military action as an offensive. Both sides have accused the other of triggering the latest escalation.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T11:24:21+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/09/24/ethiopias-federalism-dilemma-why-regional-power-keeps-fuelling-conflict/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/09/24/ethiopias-federalism-dilemma-why-regional-power-keeps-fuelling-conflict/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "eef88195aa",
       "title": "EU Calls for 'De-Escalation' As Tigray Rebels Clash With Ethiopian Forces",
       "summary": "[RFI] The European Union has called for an \"immediate de-escalation\" after Tigray rebels in Ethiopia confirmed they were in a state of \"full-blown war\" with the federal government. The separatists have seized control of several towns and airports, amid reports of heavy artillery attacks in neighbouring regions.",
@@ -3402,38 +3474,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "c2bc09b3c5",
-      "title": "From Global South Solidarity to Economic Power - Transforming India-Ethiopia Ties Beyond Brics",
-      "summary": "[Addis Standard] Addis Abeba -- The most overused phrase in contemporary diplomacy may also be one of its most important: the Global South. It appears in declarations, summits and speeches with increasing regularity. But  political vocabulary becomes meaningful only when it begins to alter economic reality. The question after the New Delhi BRICS Summit from 12-13 September, 2026, is therefore whether this growing political voice can produce institutions, investment,…",
-      "country": "ETH",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-22T10:45:00+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609220094.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609220094.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "1cbf259deb",
       "title": "Police Uncover Alleged Funding Network Behind 'Ghana Jollof' Online Activities",
       "summary": "[Ghanaian Times] The Ghana Police Service has uncovered an alleged network of persons funding and facilitating the online activities of Barbara Asantewaa Kodua, popularly known as \"Ghana Jollof\", in connection with investigations into the publication of false news, inciteful comments and offensive conduct.",
@@ -3653,38 +3693,6 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609180015.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "32ec94ec99",
-      "title": "GCB Offers Msmes Unsecured Loans Up to Gh&#xA2;1m",
-      "summary": "[Ghanaian Times] GCB Bank PLC has announced plans to deepen financial and technical support for micro, small and medium-sized enterprises (MSMEs), including unsecured loans of up one million Ghana cedis for eligible businesses to expand their operations.",
-      "country": "GHA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T15:10:17+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170416.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170416.html"
         }
       ],
       "confirmation_count": 1
@@ -3982,38 +3990,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "f6fcad35f8",
-      "title": "Semana marcada pela ocupação da sede do PAIGC e pela Assembleia Geral da ONU",
-      "summary": "A semana fica marcada pela ocupação da sede nacional do PAIGC, em Bissau, pela preparação das eleições em São Tomé e Príncipe e pela Assembleia Geral das Nações Unidas, em Nova Iorque, onde os líderes africanos levaram ao debate temas como a segurança, os conflitos e a reforma do Conselho de Segurança.",
-      "country": "GNB",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-09-25T17:26:31+00:00",
-      "lead_source": {
-        "id": "rfi-pt",
-        "name": "RFI Português",
-        "tier": 1,
-        "url": "https://www.rfi.fr/pt/programas/semana-em-%C3%A1frica/20260925-semana-marcada-pela-ocupa%C3%A7%C3%A3o-da-sede-do-paigc-e-pela-assembleia-geral-da-onu"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-pt",
-          "name": "RFI Português",
-          "tier": 1,
-          "url": "https://www.rfi.fr/pt/programas/semana-em-%C3%A1frica/20260925-semana-marcada-pela-ocupa%C3%A7%C3%A3o-da-sede-do-paigc-e-pela-assembleia-geral-da-onu"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "0538e4a299",
       "title": "Euro Gold Partners With Karamoja Miners to Formalise Gold Production",
       "summary": "[Independent (Kampala)] Moroto -- Euro Gold Refinery has signed an agreement with the Kakoka Artisanal Miners Association in Abim District to support licensed gold production and improve access to formal markets, as Uganda seeks to strengthen oversight of its artisanal mining sector.",
@@ -4113,13 +4089,19 @@
           "url": "https://allafrica.com/stories/202609240254.html"
         },
         {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609230256.html"
+        },
+        {
           "id": "aa-mli",
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608280124.html"
         }
       ],
-      "confirmation_count": 3
+      "confirmation_count": 4
     },
     {
       "id": "16ac0cf60b",
@@ -4530,6 +4512,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "b22e259738",
+      "title": "Ruto Challenges Post-War Global Order, Renews Call for Permanent African Voice At UN",
+      "summary": "[Capital FM] Nairobi -- President William Ruto has challenged the post-World War II global order, arguing that the institutions created in 1945 no longer reflect the geopolitical realities of the modern world and must be reformed to give Africa a permanent voice in decisions on war, peace and global economic governance.",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-24T09:12:44+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609240079.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609240079.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b3a92e8464",
       "title": "Black Stars Touch Down in Bouak&#xE9; Ahead of Crunch Afcon Qualifier Against C&#xF4;te d'Ivoire",
       "summary": "[Ghanaian Times] The Black Stars of Ghana have arrived in Côte d'Ivoire ahead of their highly anticipated Africa Cup of Nations (AFCON) qualifier clash against the Elephants of Côte d'Ivoire.",
@@ -4794,33 +4808,33 @@
       "confirmation_count": 1
     },
     {
-      "id": "f96206a28b",
-      "title": "AU, UN Reinforce Joint Commitments On Peace, Economy and Resource Equity",
-      "summary": "[ENA] Addis Ababa -- The Chairperson of the African Union Commission, Mahmoud Ali Youssouf, and United Nations Secretary-General António Guterres have co-chaired a high-level AU-UN meeting on the margins of the 81st United Nations General Assembly to deepen strategic cooperation, strengthen peace and security frameworks, and advance global financial reforms in support of Africa.",
-      "country": "ETH",
-      "category": "MACRO",
+      "id": "42fa39a200",
+      "title": "Corporate Council on Africa Announces C&#xF4;te d'Ivoire as Host of 2027 U.S.-Africa Business Summit",
+      "summary": "[Corporate Council on Africa] New York -- Côte d'Ivoire will take center stage in the U.S.-Africa business relationship in 2027, as Corporate Council on Africa (CCA) today announced that the Republic of Côte d'Ivoire will host the 2027 U.S.-Africa Business Summit.",
+      "country": "CIV",
+      "category": "AUTRE",
       "severity": 2,
       "credibility": 2,
       "verified": false,
       "theme": null,
-      "legal_status": null,
+      "legal_status": "ANNOUNCED",
       "regulatory": false,
       "fdi": false,
       "sectors": [],
-      "lang": "en",
-      "published": "2026-09-21T12:35:24+00:00",
+      "lang": "fr",
+      "published": "2026-09-21T20:17:17+00:00",
       "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
+        "id": "aa-civ",
+        "name": "AllAfrica · Côte d'Ivoire",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202609210426.html"
+        "url": "https://allafrica.com/stories/202609210835.html"
       },
       "confirming_sources": [
         {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
+          "id": "aa-civ",
+          "name": "AllAfrica · Côte d'Ivoire",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202609210426.html"
+          "url": "https://allafrica.com/stories/202609210835.html"
         }
       ],
       "confirmation_count": 1
@@ -4922,6 +4936,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "9049db783a",
+      "title": "Ghana On Course to Meet Gender Equity Targets - Gender Minister",
+      "summary": "[Ghanaian Times] The implementation of the Gender Equality (Gender Equity) Act, 2024 (Act 1121), is now operational, the Minister for Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has announced.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "OPERATIONAL",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-17T11:03:18+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609170271.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609170271.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "c664ded2aa",
       "title": "Zimbabwe, Mozambique Parliaments Sign MOU to Advance Economic Independence",
       "summary": "[New Zimbabwe] The parliaments of Zimbabwe and Mozambique have signed a Memorandum of Understanding (MoU) to strengthen legislative cooperation as the two countries pursue economic independence.",
@@ -5013,6 +5059,198 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202608270549.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d709be608d",
+      "title": "UN Voices Grave Concern As Fighting Spreads Across Northern Ethiopia",
+      "summary": "[UN News] The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and increasingly disrupts humanitarian operations.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-27T16:02:12+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609270106.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609270106.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d3879c0159",
+      "title": "Ethiopia's Foretold War Arrives",
+      "summary": "[African Arguments] No one can claim that a return to war in Tigray and northern Ethiopia is a surprise, but it makes it no less horrifying. In just a handful of days, and after months of spiralling tensions and sporadic fighting, the 'grey conflict' the federal government pursued against Tigray has escalated into ''full-blown war,' in the words of Tigray People's Liberation Front (TPLF) vice president Ammanuel Assefa.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-27T16:00:12+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609270104.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609270104.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e4919e2836",
+      "title": "Senegal's President Faye - Macky Sall Best Candidate 'To Fight for Africa' At UN",
+      "summary": "[RFI] Senegalese President Bassirou Diomaye Faye has thrown his weight behind his predecessor and former political rival Macky Sall to become the next United Nations secretary-general. No one is better placed to fight for Africa's place at the table, he told RFI and France 24.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-27T15:55:51+00:00",
+      "lead_source": {
+        "id": "aa-sen",
+        "name": "AllAfrica · Sénégal",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609270099.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-sen",
+          "name": "AllAfrica · Sénégal",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609270099.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6d146a0a18",
+      "title": "Nigerian foundation urges early screening in battle against childhood cancer",
+      "summary": "The Okapi Cancer Foundation made the appeal during a childhood cancer awareness walk in Abuja, aimed at promoting awareness, mobilizing public participation, and raising resources for children battling cancer and their families",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-27T14:58:29+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/09/27/nigerian-foundation-urges-early-screening-in-battle-against-childhood-cancer/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/09/27/nigerian-foundation-urges-early-screening-in-battle-against-childhood-cancer/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b32071e30b",
+      "title": "Nigeria : une marche pour briser le silence autour du cancer infantile",
+      "summary": "À Abuja, au Nigeria, des familles, des survivants et des militants se mobilisent pour sensibiliser au cancer chez les enfants. Une marche organisée par la fondation Okapi Cancer Foundation appelle à mieux faire connaître cette maladie et à renforcer le soutien aux jeunes patients.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-27T14:45:09+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/09/27/nigeria-une-marche-pour-briser-le-silence-autour-du-cancer-infantile/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/09/27/nigeria-une-marche-pour-briser-le-silence-autour-du-cancer-infantile/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e9829e78ae",
+      "title": "Le Meskel en Éthiopie : la foi face au spectre d'un nouveau conflit",
+      "summary": "Des milliers de chrétiens orthodoxes éthiopiens se sont rassemblés à Addis-Abeba pour célébrer le Meskel, remplissant la place Meskel de la capitale de chants, de prières et de processions religieuses avant l’allumage d’un immense feu de joie, le Demera.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-09-27T13:36:53+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/09/27/le-meskel-en-ethiopie-la-foi-face-au-spectre-dun-nouveau-conflit/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/09/27/le-meskel-en-ethiopie-la-foi-face-au-spectre-dun-nouveau-conflit/"
         }
       ],
       "confirmation_count": 1
@@ -5173,38 +5411,6 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/afrique/20260927-nous-voulons-la-paix-en-%C3%A9thiopie-la-f%C3%AAte-de-la-meskel-marqu%C3%A9e-par-la-reprise-des-combats-dans-le-nord"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "acd4591d8d",
-      "title": "Djibouti urges world to help as Yemen war drives refugee influx",
-      "summary": "Djibouti urges world to help as Yemen war drives refugee influx",
-      "country": "DJI",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-27T08:35:25+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -5914,38 +6120,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "d885733256",
-      "title": "Sénégal: le soutien de Bassirou Diomaye Faye à la candidature de Macky Sall à la tête de l’ONU fait réagir",
-      "summary": "Lors d'une conférence de presse accordée à RFI et France 24 à New York il y a deux jours, le président sénégalais Bassirou Diomaye Faye a abordé plusieurs dossiers brûlants, dont la loi qui durcit la répression de l'homosexualité et un possible report des élections locales, prévues en janvier 2027. Mais au Sénégal, c'est d'abord son soutien à Macky Sall, candidat au poste de secrétaire général de l'ONU, qui fait réagir. Ce soutien, officialisé en juillet seulement après…",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-26T02:24:08+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20260926-s%C3%A9n%C3%A9gal-le-soutien-de-bassirou-diomaye-faye-%C3%A0-la-candidature-de-macky-sall-%C3%A0-la-t%C3%AAte-de-l-onu-fait-r%C3%A9agir"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20260926-s%C3%A9n%C3%A9gal-le-soutien-de-bassirou-diomaye-faye-%C3%A0-la-candidature-de-macky-sall-%C3%A0-la-t%C3%AAte-de-l-onu-fait-r%C3%A9agir"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "c7cdd88610",
       "title": "UCL Establishes Division to Expand Palliative Care and Support for Cancer Survivors",
       "summary": "[Nile Post] For many people diagnosed with cancer, the battle does not end with a diagnosis or even with treatment.",
@@ -6485,70 +6659,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609250401.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d3bf44eed0",
-      "title": "Enugu Govt Suspends Another Traditional Ruler, Gives Reasons",
-      "summary": "[Premium Times] The Commissioner for Chieftaincy Affairs, Charles Egumgbe, disclosed this in a statement issued in Enugu on Thursday by the ministry's Public Relations Officer, Emeka Nebeife.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-25T15:56:56+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609250400.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609250400.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "da775b64aa",
-      "title": "Police Arrest Church Guard Over Death of Girl,11, in Suleja",
-      "summary": "[Premium Times] The Police Public Relations Officer, Wasiu Abiodun, said the incident followed a missing-person report filed at A Division, Suleja, on September 20.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-25T15:56:38+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609250399.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609250399.html"
         }
       ],
       "confirmation_count": 1
@@ -7285,38 +7395,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609250197.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "43996d3391",
-      "title": "Presidente do Senegal defende candidatura de antecessor ao secretariado geral da ONU",
-      "summary": "O actual Presidente do Senegal, Bassirou Diomaye Faye, defendeu em entrevista à RFI e ao canal de televisão France24, a candidatura do seu antecessor, Macky Sall, ao cargo de Secretário Geral das Nações Unidas, para suceder ao português Antonio Guterres, cujo mandato termina a 31 de Dezembro deste ano.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-09-25T12:28:45+00:00",
-      "lead_source": {
-        "id": "rfi-pt",
-        "name": "RFI Português",
-        "tier": 1,
-        "url": "https://www.rfi.fr/pt/%C3%A1frica/20260925-bassirou-diomaye-faye-defende-candidatura-de-antecessor-ao-secretariado-da-onu"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-pt",
-          "name": "RFI Português",
-          "tier": 1,
-          "url": "https://www.rfi.fr/pt/%C3%A1frica/20260925-bassirou-diomaye-faye-defende-candidatura-de-antecessor-ao-secretariado-da-onu"
         }
       ],
       "confirmation_count": 1
@@ -8698,38 +8776,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "bec4ff780e",
-      "title": "Korir Out to Reclaim Chicago Title As Kenya Marathon Dinner Welcomes Elite Runners to Illinois",
-      "summary": "[Capital FM] Nairobi -- Ahead of the 2026 Chicago Marathon slated for Sunday, October 11, the Kenyan deep field led by 2024 winner John Korir will be motivated to reclaim the title when they are hosted at the annual Kenyan Marathon Dinner two days before the race.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T15:32:51+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609240475.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609240475.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "7577cc9552",
       "title": "The Road to Dadaab - Unlocking the Food Potential of Kenya's Drylands",
       "summary": "[WFP] WFP's Country Director in Kenya reflects on how we are working with the Government and communities to turn water, farming and local enterprise into opportunities to overcome hunger and build a more resilient future.",
@@ -8757,38 +8803,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609240474.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a96ae00143",
-      "title": "Mwangi Sets Sights On Successive Kagc Wins As Series Heads to Nanyuki Open",
-      "summary": "[Capital FM] Nairobi -- Alex Mwangi will be aiming for back-to-back wins in the Kenya Amateur Golf Championship (KAGC) Series when he competes at the Nanyuki Open this weekend.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T15:25:05+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609240463.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609240463.html"
         }
       ],
       "confirmation_count": 1
@@ -8917,70 +8931,6 @@
           "name": "Club of Mozambique",
           "tier": 2,
           "url": "https://clubofmozambique.com/news/dramatic-eviction-of-87-year-old-madrid-tenant-spotlights-spains-housing-crisis/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "eec80fb4c9",
-      "title": "Sao Tomé-et-Principe aux urnes dimanche pour les élections législatives",
-      "summary": "À São Tomé-et-Príncipe, un enjeu domine tous les autres à l’approche des élections de dimanche dans ce petit État insulaire du golfe de Guinée : comment empêcher les jeunes de partir.",
-      "country": "GIN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-24T14:23:06+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/09/24/sao-tome-et-principe-les-electeurs-se-rendront-aux-urnes-dimanche-pour-les-legislatives/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/09/24/sao-tome-et-principe-les-electeurs-se-rendront-aux-urnes-dimanche-pour-les-legislatives/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "54dff52b9c",
-      "title": "Madagascar : un an après la chute de Rajoelina, la Gen Z dénonce une \"trahison\"",
-      "summary": "Un an après les manifestations qui ont provoqué la chute d’Andry Rajoelina, les jeunes militants malgaches disent leur désillusion. Ils accusent le nouveau pouvoir, issu du ralliement d’une unité militaire au mouvement, de renouer avec les méthodes de l’ancien régime.",
-      "country": "MDG",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-24T14:21:10+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/09/24/madagascar-un-an-apres-la-chute-de-rajoelina-la-gen-z-denonce-une-trahison/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/09/24/madagascar-un-an-apres-la-chute-de-rajoelina-la-gen-z-denonce-une-trahison/"
         }
       ],
       "confirmation_count": 1
@@ -9210,6 +9160,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "8042ab2185",
+      "title": "Judiciary Seeks Public Input On Sh50.7bn Fy2027/28 Budget",
+      "summary": "[Capital FM] Marsabit -- The Judiciary has begun public consultations on its proposed budget for the 2027/28 financial year, seeking views on priorities aimed at expanding access to justice, reducing case backlogs and improving the quality and timeliness of judicial services.",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-24T13:15:59+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609240348.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609240348.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "a67374e1e8",
       "title": "The Kiosk That Taught Kenya To Trust Digital Money Is Dying",
       "summary": "It’s not uncommon to hear that Kenya’s mobile money revolution has about as\nThe post The Kiosk That Taught Kenya To Trust Digital Money Is Dying appeared first on WeeTracker.",
@@ -9269,38 +9251,6 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/latitude59-opens-applications-for-2026-kenya-pitch-competition/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "0e9fdf6f30",
-      "title": "Madagascar’s Gen Z protesters mark one year since Rajoelina’s fall",
-      "summary": "A year after Madagascar’s Gen Z-led protests forced President Andry Rajoelina from power, activists say they feel betrayed by the country’s new military-backed government.",
-      "country": "MDG",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T12:21:19+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/09/24/madagascars-gen-z-protesters-mark-one-year-since-rajoelinas-fall/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/09/24/madagascars-gen-z-protesters-mark-one-year-since-rajoelinas-fall/"
         }
       ],
       "confirmation_count": 1
@@ -9530,38 +9480,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "5088956abd",
-      "title": "South Sudan's president dissolves government ahead of country's first elections",
-      "summary": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
-      "country": "SSD",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-24T10:21:06+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "d023a35ae7",
       "title": "African Affairs DG Asserts Ethiopia's Sovereign Right to Build Dams for Various Purposes",
       "summary": "[ENA] Addis Ababa -- Ethiopia has the sovereign right to develop its water resources and construct dams for various purposes within its territory, Ambassador Zerihun Abebe, Director General for African Affairs at the Ministry of Foreign Affairs, said.",
@@ -9589,6 +9507,38 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609240145.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0376fed562",
+      "title": "Ruto, Iraq PM Explore New Jobs for Kenyan Educators",
+      "summary": "[Capital FM] Nairobi -- Kenya and Iraq are exploring new opportunities for Kenyan professionals to work in Iraq, with President William Ruto saying the two countries are looking at greater labour mobility, particularly for Kenyan educators.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-24T10:16:58+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609240143.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609240143.html"
         }
       ],
       "confirmation_count": 1
@@ -9813,6 +9763,38 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609240045.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b69629e3b5",
+      "title": "How Poverty Is Pushing Plateau Youths, Children Into Hazardous Work",
+      "summary": "[Premium Times] Deep inside the forest behind the New Government House, Jos, young men and teenagers descend into narrow, unfortified pits, digging through layers of soil in search of traces of tin.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-24T07:38:34+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609240016.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609240016.html"
         }
       ],
       "confirmation_count": 1
@@ -12061,38 +12043,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609180003.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b9df388bc4",
-      "title": "Black Maidens Thrash B'faso in Wafu B Opener",
-      "summary": "[Ghanaian Times] The Black Maidens, the national female U-17 side, kicked off their WAFU B U17 Girls Cup campaign with an emphatic 4-0 victory over Burkina Faso on Match day 1.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-17T15:10:52+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170417.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170417.html"
         }
       ],
       "confirmation_count": 1
