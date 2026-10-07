@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-10-07T14:31:33.849334+00:00",
+  "generated_at": "2026-10-07T20:36:56.199335+00:00",
   "stats": {
-    "total_signals": 415,
-    "verified_signals": 8,
+    "total_signals": 460,
+    "verified_signals": 12,
     "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
-      "UGA": 32,
-      "NGA": 53,
-      "TZA": 31,
-      "MOZ": 40,
-      "KEN": 63,
-      "ETH": 58,
-      "GHA": 37,
+      "KEN": 75,
+      "UGA": 34,
+      "NGA": 51,
+      "TZA": 32,
+      "MOZ": 41,
+      "ETH": 64,
+      "GHA": 40,
       "GIN": 3,
-      "MDG": 1,
-      "MLI": 24,
-      "SEN": 29,
+      "MDG": 3,
+      "MLI": 27,
+      "SEN": 31,
       "BEN": 8,
-      "CIV": 16,
+      "RWA": 5,
+      "CIV": 18,
+      "MUS": 4,
+      "SOM": 2,
       "NER": 2,
-      "MUS": 3,
       "TGO": 2,
       "BFA": 1,
-      "CPV": 3,
-      "GNB": 2,
-      "COM": 2,
-      "BDI": 1,
-      "RWA": 1,
-      "SOM": 1,
-      "SSD": 1,
-      "DJI": 1
+      "ERI": 4,
+      "GNB": 3,
+      "DJI": 2,
+      "COM": 3,
+      "CPV": 2,
+      "SSD": 3
     },
-    "west_signals": 180,
-    "east_signals": 235
+    "west_signals": 188,
+    "east_signals": 272
   },
   "sources": [
     {
@@ -278,6 +278,70 @@
     }
   ],
   "signals": [
+    {
+      "id": "779252c61f",
+      "title": "Ebola: le Kenya renforce ses mesures et sa surveillance après l’annonce d’un mort sur son sol",
+      "summary": "Au lendemain de l’annonce par les autorités d’un premier mort d’Ebola au Kenya, le président William Ruto a annoncé dans un communiqué mardi 6 octobre une série de mesures et appelé les Kenyans à être vigilants. Les autorités intensifient leur surveillance après la mort d’un Kenyan vivant en RDC, qui a ensuite traversé la frontière avec l’Ouganda par la route avant un avion qui l’a emmené à Nairobi samedi. Quoique pris en charge immédiatement, il est décédé 48h plus tard.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-07T20:31:10+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261007-ebola-le-kenya-renforce-ses-mesures-et-sa-surveillance-apr%C3%A8s-l-annonce-d-un-mort-sur-son-sol"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261007-ebola-le-kenya-renforce-ses-mesures-et-sa-surveillance-apr%C3%A8s-l-annonce-d-un-mort-sur-son-sol"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a83ca85473",
+      "title": "After Kenya, Uganda opens Dangote refinery IPO to domestic investors",
+      "summary": "Uganda's Capital Markets Authority on Tuesday approved the participation of its domestic investors in the Dangote Petroleum Refinery's initial public offering.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T16:30:54+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/10/07/after-kenya-uganda-opens-dangote-refinery-ipo-to-domestic-investors/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/10/07/after-kenya-uganda-opens-dangote-refinery-ipo-to-domestic-investors/"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "3d5fde8039",
       "title": "Kotido Sage Elders Frustrated By Hours of Delayed Payments",
@@ -997,6 +1061,44 @@
       "confirmation_count": 1
     },
     {
+      "id": "ec500f6dd8",
+      "title": "Ebola : le Kenya annonce le premier mort lié au virus jamais recensé sur son sol",
+      "summary": "Un Kényan vivant en RD Congo est mort d'Ebola, lundi dans un hôpital de Nairobi, ont annoncé mardi les autorités kényanes. Selon le ministre kényan de la Santé Aden Duale, la victime était tombée malade il y a environ un mois et avait été soignée dans plusieurs hôpitaux, avant de traverser la frontière avec l'Ouganda par la route, puis de prendre un avion pour Nairobi.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-06T13:51:53+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/afrique/20261006-ebola-le-kenya-annonce-le-premier-mort-li%C3%A9-au-virus-jamais-recens%C3%A9-sur-son-sol"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/afrique/20261006-ebola-le-kenya-annonce-le-premier-mort-li%C3%A9-au-virus-jamais-recens%C3%A9-sur-son-sol"
+        },
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/en-bref/20261006-le-kenya-annonce-un-premier-mort-d-ebola-sur-son-sol"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
       "id": "d7b7337c90",
       "title": "Nigeria : 25 morts dans le crash d'un avion militaire dans l'Etat d'Ondo",
       "summary": "L’armée de l’air nigériane a revu à la baisse mardi le bilan de l’accident d’avion survenu dans l’État d’Ondo. Vingt-cinq personnes ont finalement péri dans le crash, selon le nouveau décompte officiel.",
@@ -1093,6 +1195,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "ebdfc7c177",
+      "title": "Sénégal : plusieurs familles sinistrées après de fortes pluies à Dakar",
+      "summary": "🇸🇳 Au Sénégal, les fortes pluies qui ont frappé le pays dimanche ont fait plusieurs morts et d’importants dégâts. À Dakar, plusieurs familles sont touchées. Le gouvernement dit avoir activé un plan d’urgence d'assistance aux sinistrés.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-06T11:46:01+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261006-s%C3%A9n%C3%A9gal-plusieurs-familles-sinistr%C3%A9es-apr%C3%A8s-de-fortes-pluies-%C3%A0-dakar"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261006-s%C3%A9n%C3%A9gal-plusieurs-familles-sinistr%C3%A9es-apr%C3%A8s-de-fortes-pluies-%C3%A0-dakar"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "c5dd54daed",
       "title": "Nigeria air force lowers plane crash toll to 25, civilians among victims",
       "summary": "The Nigerian Air Force on Tuesday said 25 people died in the crash of one of its planes a day earlier, lowering a previous death toll. No survivors were found. Civilian family members travelling aboard the plane were among the victims.",
@@ -1161,6 +1295,38 @@
         }
       ],
       "confirmation_count": 2
+    },
+    {
+      "id": "0cb447174c",
+      "title": "MMDAs Get Gh&#xA2;5bn to Drive Local Development",
+      "summary": "[Ghanaian Times] METROPOLITAN, Municipal and District Assemblies (MMDAs) across the country received more than GH¢5 billion from the District Assemblies Common Fund (DACF) in 2025, the Minister of Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has disclosed.",
+      "country": "GHA",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T10:26:53+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610060188.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610060188.html"
+        }
+      ],
+      "confirmation_count": 1
     },
     {
       "id": "490aad596b",
@@ -1291,6 +1457,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "2db2462eef",
+      "title": "Sénégal : pluies torrentielles dans plusieurs villes, de lourds dégâts",
+      "summary": "Plusieurs grandes villes du Sénégal ont subi des pluies torrentielles, dimanche. C'est le cas de Kaolack, Matam mais aussi Dakar et sa banlieue. Des personnes sont mortes dans les inondations, selon le chef de l’État sénégalais. Le bilan est encore imprécis. Le gouvernement dit avoir activé un plan d’urgence et des mesures d’assistance aux sinistrés. Reportage de nos correspondants à Dakar : Simon Martin et Elimane Ndao.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-05T20:59:43+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261005-s%C3%A9n%C3%A9gal-pluies-torrentielles-dans-plusieurs-villes-de-lourds-d%C3%A9g%C3%A2ts"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261005-s%C3%A9n%C3%A9gal-pluies-torrentielles-dans-plusieurs-villes-de-lourds-d%C3%A9g%C3%A2ts"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "f41987f545",
       "title": "Kenya’s Telcos Ordered To Send El Niño Alerts To Everyone",
       "summary": "Communications Authority of Kenya has ordered Safaricom, Airtel Kenya, Telkom Kenya and Jamii Telecommunications to deliver government emergency texts to...\nSource",
@@ -1318,6 +1516,38 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/kenyas-telcos-ordered-to-send-el-nino-alerts-to-everyone/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "08211a9927",
+      "title": "Sénégal : Cheikh Hamidou Kane, auteur de \"Laventure ambiguë\" est mort à 98 ans",
+      "summary": "🇸🇳 L’écrivain sénégalais Cheikh Hamidou Kane est mort à Dakar à 98 ans. Auteur du célèbre ouvrage \"L'aventure ambiguë\", publié en 1961, il laisse une œuvre majeure de la littérature africaine, traduite dans une quarantaine de langues.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-05T12:10:38+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261005-s%C3%A9n%C3%A9gal-cheikh-hamidou-kane-auteur-de-laventure-ambigu%C3%AB-est-mort-%C3%A0-98-ans"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261005-s%C3%A9n%C3%A9gal-cheikh-hamidou-kane-auteur-de-laventure-ambigu%C3%AB-est-mort-%C3%A0-98-ans"
         }
       ],
       "confirmation_count": 1
@@ -1387,6 +1617,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "cb60cd7f30",
+      "title": "Dafroza Gauthier, \"la chasseuse de génocidaires\" rwandais, est morte",
+      "summary": "Dafroza Gauthier, qui a consacré sa vie à traquer les génocidaires rwandais réfugiés en France avec son mari, Alain Gauthier, est décédée samedi à Reims (dans l'est de la France), a indiqué ce dernier dimanche à l'AFP. Thomas Zribi, co-réalisateur du documentaire \"Rwanda : à la poursuite des génocidaires\", était l'invité de l'antenne de France 24 ce dimanche 4 octobre.",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-04T12:02:25+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261004-dafroza-gauthier-la-chasseuse-de-g%C3%A9nocidaires-rwandais-est-morte"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261004-dafroza-gauthier-la-chasseuse-de-g%C3%A9nocidaires-rwandais-est-morte"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "03e817f618",
       "title": "Ethiopian Bets Billions on Cargo as Africa’s Planes Fly Half Empty",
       "summary": "African airlines expanded cargo capacity far faster than demand in August, pulling utilisation down even as the global airfreight market improved. Ethiopian Airlines is taking...",
@@ -1414,6 +1676,38 @@
           "name": "Addis Fortune",
           "tier": 2,
           "url": "https://addisfortune.news/ethiopian-bets-billions-on-cargo-as-africas-planes-fly-half-empty"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "991b7cb36a",
+      "title": "Kenya wavers on $1 billion debt swap as financing costs increase",
+      "summary": "Leaked reports claim Citigroup had been brought in to unlock the stalled deal, but the National...",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-03T06:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-wavers-on-debt-swap-as-financing-costs-increase-5617904"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-wavers-on-debt-swap-as-financing-costs-increase-5617904"
         }
       ],
       "confirmation_count": 1
@@ -1771,6 +2065,200 @@
       "confirmation_count": 1
     },
     {
+      "id": "61505665a1",
+      "title": "Kenya: Health Minister insists no ebola outbreak in country",
+      "summary": "Kenya is not in the grips of an ebola outbreak, the country's health secretary insisted on Wednesday, in the wake of Kenya's first death from the disease.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T20:11:44+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/10/07/kenya-health-minister-insists-no-ebola-outbreak-in-country/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/10/07/kenya-health-minister-insists-no-ebola-outbreak-in-country/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e9c2a2f57c",
+      "title": "The Researchers Building Kenya's Cotton Industry From The Seed Up",
+      "summary": "[Bird Story Agency] At Kirinyaga University, researchers are testing whether Kenya can produce quality Bt cotton seed locally. The trials could help improve supply and lower costs, but taking the research to farmers will require commercial investment and support across the cotton value chain.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T16:49:44+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070632.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070632.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8dfdc6020c",
+      "title": "L’Ouganda ouvre la vente d’actions de la raffinerie Dangote à ses investisseurs",
+      "summary": "L’autorité ougandaise des marchés financiers autorise certains investisseurs du pays à participer à la vente d’actions de Dangote Petroleum Refinery. Cette décision permet au marché ougandais de prendre part à l’une des opérations financières les plus importantes jamais lancées en Afrique.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-07T16:21:37+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/10/07/louganda-ouvre-la-vente-dactions-de-la-raffinerie-dangote-a-ses-investisseurs/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/10/07/louganda-ouvre-la-vente-dactions-de-la-raffinerie-dangote-a-ses-investisseurs/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "862052374c",
+      "title": "L’Afrique lance sa propre agence de notation financière",
+      "summary": "L’Africa Credit Ratings Agency (AfCRA) a officiellement été lancée mercredi à l’île Maurice",
+      "country": "MUS",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-07T16:02:18+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/10/07/lafrique-lance-sa-propre-agence-de-notation-financiere/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/10/07/lafrique-lance-sa-propre-agence-de-notation-financiere/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4921a0e125",
+      "title": "Harmonise Biotech Regulations to Attract Investment - Minister",
+      "summary": "[Ghanaian Times] THE Minister of Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has called for the harmonisation of regulatory frameworks governing biotechnology to attract the investment needed to grow the sector.",
+      "country": "GHA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T15:36:50+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070580.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070580.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b5aaaf04a7",
+      "title": "Kenyan Fintech Cloud9 Raises USD 500 K From Alliance In USD 1 M Pre-Seed Round",
+      "summary": "Cloud9, a Kenyan fintech building digital banking and cross-border payment infrastructure for African\nThe post Kenyan Fintech Cloud9 Raises USD 500 K From Alliance In USD 1 M Pre-Seed Round appeared first on WeeTracker.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "FINANCING",
+      "regulatory": false,
+      "fdi": true,
+      "sectors": [
+        "PE_VC"
+      ],
+      "lang": "en",
+      "published": "2026-10-07T14:59:13+00:00",
+      "lead_source": {
+        "id": "weetracker",
+        "name": "WeeTracker",
+        "tier": 2,
+        "url": "https://weetracker.com/2026/10/07/kenyan-fintech-cloud9-raises-500k-alliance/"
+      },
+      "confirming_sources": [
+        {
+          "id": "weetracker",
+          "name": "WeeTracker",
+          "tier": 2,
+          "url": "https://weetracker.com/2026/10/07/kenyan-fintech-cloud9-raises-500k-alliance/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "c3fa1caead",
       "title": "Tony Elumelu : les entrepreneurs africains ont besoin decapitaux, pas de charité",
       "summary": "Paris -7 octobre 2026. Les entrepreneurs africains n’ont pas besoin de charité. Ils ont besoin de capitaux. C’est le message qu’a porté Tony Elumelu à Paris, appelant les investisseurs et les institutions de développement à repenser leur approche de la nouvelle génération d’entrepreneurs africains. S’exprimant lors du dîner de gala de la French-African Foundation, organisé au Ministère des Affaires étrangères, l’homme d’affaires et philanthrope nigérian a affirmé que…",
@@ -1798,38 +2286,6 @@
           "name": "Financial Afrik",
           "tier": 2,
           "url": "https://www.financialafrik.com/2026/10/07/tony-elumelu-les-entrepreneurs-africains-ont-besoin-decapitaux-pas-de-charite/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ada1ba4395",
-      "title": "L'angoisse monte au Kenya après un premier décès dû à Ebola",
-      "summary": "Un premier décès dû au virus Ebola, qui sévit en République démocratique du Congo (RDC), a été annoncé mardi au Kenya. Les habitants du pays craignent désormais que l'épidémie s'y installe.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-07T13:46:49+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/10/07/langoisse-monte-au-kenya-apres-un-premier-deces-du-a-ebola/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/10/07/langoisse-monte-au-kenya-apres-un-premier-deces-du-a-ebola/"
         }
       ],
       "confirmation_count": 1
@@ -2129,6 +2585,76 @@
       "confirmation_count": 1
     },
     {
+      "id": "09a383d97c",
+      "title": "Why IMF urges caution on launch of Somalia’s new money",
+      "summary": "The central bank says preparations for the reintroduction of the currency are at advanced stages.",
+      "country": "SOM",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T11:30:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/why-imf-urges-caution-on-launch-of-somalia-s-new-money-5622964"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/why-imf-urges-caution-on-launch-of-somalia-s-new-money-5622964"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7bdc105df9",
+      "title": "Nairobi Convention Records Progress in Ocean Conservation",
+      "summary": "[Daily News] Dar es Salaam -- THE Nairobi Convention has recorded significant progress in implementing its 2025- 2028 Programme of Work and decisions adopted at its 11th Conference of the Parties (COP11), including increased regional commitment to ocean biodiversity protection and marine pollution control.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T11:08:25+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070344.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070344.html"
+        },
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070344.html"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
       "id": "c2246c2ac9",
       "title": "GSE Calls for Stronger Collaboration to Deepen Capital Market",
       "summary": "[Ghanaian Times] The Managing Director of the Ghana Stock Exchange (GSE), Ms Abena Amoah, has called for stronger collaboration among regulators, financial institutions, market operators and the media to deepen Ghana's domestic capital market and protect investors from growing digital investment scams.",
@@ -2193,9 +2719,41 @@
       "confirmation_count": 1
     },
     {
-      "id": "b5dd78845e",
-      "title": "Le TAS va-t-il enfin désigner le vainqueur de la CAN 2025 entre le Maroc et Sénégal ?",
-      "summary": "Pour la première fois de son histoire, le Tribunal arbitral du sport doit trancher l’issue d’une Coupe d’Afrique des nations. À Lausanne, le Maroc et le Sénégal rejouent la finale sur le terrain du droit, après le forfait infligé aux Lions par la CAF et l'attribution de la Coupe aux Lions de l'Atlas. Trois issues sont possibles : confirmation du forfait, nouvelle décision du TAS ou renvoi du dossier à la CAF.",
+      "id": "52a5a8e061",
+      "title": "Kenya must be 'clean' to be credible, says Wada chief",
+      "summary": "Wada president Witold Banka says Kenya must strengthen testing, investigations and anti-doping enforcement before hosting the 2029 World Athletics Championships.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T10:42:54+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/sport/olympics/articles/c9kgj0vj0gx4o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/sport/olympics/articles/c9kgj0vj0gx4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "345b6230d8",
+      "title": "Le TAS va-t-il enfin désigner le vainqueur de la CAN 2025 entre le Maroc et le Sénégal ?",
+      "summary": "Pour la première fois de son histoire, le Tribunal arbitral du sport doit trancher l’issue d’une Coupe d’Afrique des nations. À Lausanne ce jeudi, le Sénégal et le Maroc rejoueront la finale sur le terrain du droit, après le forfait infligé au premier par la CAF et l'attribution de la Coupe au second. Trois issues sont possibles : confirmation du forfait, nouvelle décision du TAS ou renvoi du dossier à la CAF.",
       "country": "SEN",
       "category": "AUTRE",
       "severity": 3,
@@ -2220,6 +2778,38 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/afrique-foot/20261007-le-tas-va-t-il-enfin-d%C3%A9signer-le-vainqueur-de-la-can-2025-entre-le-maroc-et-s%C3%A9n%C3%A9gal"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e3221f9616",
+      "title": "Wetangula Pays Tribute to Jeffrey Archer After Bestselling Author Dies At 86",
+      "summary": "[Capital FM] Nairobi -- National Assembly Speaker Moses Wetangula has mourned renowned British author and former politician Jeffrey Archer, describing him as a remarkable storyteller whose work touched millions of readers around the world.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T10:01:34+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070269.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070269.html"
         }
       ],
       "confirmation_count": 1
@@ -2417,70 +3007,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "6214207901",
-      "title": "GRA Probes Alleged Gh&#xA2;600 Extortion At Kia",
-      "summary": "[Ghanaian Times] The Ghana Revenue Authority (GRA) has commenced investigations into an alleged extortion involving a Customs Officer stationed at the Kotoka International Airport, following an allegation that the officer collected GH¢600 from a TikToker without issuing a receipt.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T03:00:16+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070094.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070094.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ffff9ae120",
-      "title": "Invest in Resilient Tomato Varieties to Cut Imports - Ghih",
-      "summary": "[Ghanaian Times] The Ghana Institute of Horticulturists (GHiH) has called on the government to establish a dedicated fund to support the development and release of locally adaptable tomato varieties that are high-yielding, pest-resistant and tolerant to heat.",
-      "country": "GHA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T02:36:13+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070089.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070089.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "5aa328953d",
       "title": "Police Investigate Death of Three Children At Koblimahagu, IGP Deploys Special Team",
       "summary": "[Ghanaian Times] The Northern Regional Police Command has commenced investigation into the death of three children whose bodies were discovered in the boot of a vehicle at Koblimahagu in the Tamale Metropolis.",
@@ -2577,38 +3103,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "fc68578e0b",
-      "title": "Crypto accelerator Alliance invests $500,000 in Kenyan fintech Cloud9",
-      "summary": "The investment comes two months after Cloud9 acquired social commerce platform Chpter in an undisclosed all-stock deal, its second acquisition in three months.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-06T17:34:57+00:00",
-      "lead_source": {
-        "id": "techcabal",
-        "name": "TechCabal",
-        "tier": 2,
-        "url": "https://techcabal.com/2026/10/06/cloud9-raises-500000-from-alliance/"
-      },
-      "confirming_sources": [
-        {
-          "id": "techcabal",
-          "name": "TechCabal",
-          "tier": 2,
-          "url": "https://techcabal.com/2026/10/06/cloud9-raises-500000-from-alliance/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "730aa5d415",
       "title": "Uedcl Invests Shs240m to Boost Power Supply in Butebo",
       "summary": "[Independent (Kampala)] Butebo -- The Uganda Electricity Distribution Company Limited (UEDCL) has invested more than Shs240 million in electricity distribution infrastructure in Butebo District, in a move expected to improve power reliability and support growing commercial and industrial activity in the area.",
@@ -2636,38 +3130,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610060380.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1102ca41a6",
-      "title": "NPS Steps Up Road Safety Enforcement After Salama Crash As Accidents Rise",
-      "summary": "[Capital FM] Nairobi -- The National Police Service has announced intensified road safety enforcement and targeted operations across the country following a recent surge in fatal crashes, including the Salama accident that claimed 17 lives.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-06T15:14:08+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610060367.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610060367.html"
         }
       ],
       "confirmation_count": 1
@@ -2769,6 +3231,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "fba030eb55",
+      "title": "Fire Guts Srodae Commercial, Residential Building",
+      "summary": "[Ghanaian Times] A fire on Saturday night destroyed a one-storey commercial and residential building at Srodae in the New Juaben North Municipality of the Eastern Region, causing extensive damage to property and collapsing parts of the structure.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T11:23:33+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610060275.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610060275.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "1ee04a4e04",
       "title": "Court Remands Ambassador Over Sh494 Million Loss",
       "summary": "[Independent (Kampala)] Kampala -- The Anti-Corruption Court has remanded Uganda's Consul General in Mombasa, Kenya, Ambassador Herbert Kiguli, to Luzira Prison over allegations of causing a financial loss of sh494 million to the Government and abuse of office.",
@@ -2865,11 +3359,11 @@
       "confirmation_count": 1
     },
     {
-      "id": "e353b2093c",
-      "title": "If Africa Is Generating More Electricity, Why Are Millions Still Without Reliable Power?",
-      "summary": "[Independent (Kampala)] Uganda's seven-decade electricity journey reveals the gap between generating electricity and getting it reliably into homes, businesses and communities",
-      "country": "UGA",
-      "category": "RENEWABLE",
+      "id": "00e1eb42ab",
+      "title": "NLA Pays Gh&#xA2;10m, Plans Reforms to Boost Revenue",
+      "summary": "[Ghanaian Times] THE National Lottery Authority (NLA) has presented a GH¢10 million cheque to the Ministry of Finance for payment into the Consolidated Fund, as part of efforts to increase its contribution to national development.",
+      "country": "GHA",
+      "category": "MACRO",
       "severity": 3,
       "credibility": 2,
       "verified": false,
@@ -2879,19 +3373,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-10-06T08:22:26+00:00",
+      "published": "2026-10-06T10:25:43+00:00",
       "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202610060137.html"
+        "url": "https://allafrica.com/stories/202610060186.html"
       },
       "confirming_sources": [
         {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202610060137.html"
+          "url": "https://allafrica.com/stories/202610060186.html"
         }
       ],
       "confirmation_count": 1
@@ -2924,6 +3418,38 @@
           "name": "African Business",
           "tier": 2,
           "url": "https://african.business/2026/10/partner-content/2027-ecowas-investment-forum-launch-rallies-investors-and-partners-for-west-africas-transformation"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d8eb3dfd79",
+      "title": "President Mahama Urges Africans to Turn Health Dependence Into Investment Opportunity",
+      "summary": "[Ghanaian Times] Ghana's President, John Dramani Mahama has called on African governments, financial institutions and private investors to reposition healthcare as a high-growth economic sector capable of driving industrialisation, job creation and economic resilience across the continent.",
+      "country": "GHA",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T03:46:50+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610060041.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610060041.html"
         }
       ],
       "confirmation_count": 1
@@ -3089,38 +3615,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "d94a129149",
-      "title": "Senegalese Industrial Company SORAM Afrique Raises USD 1.36 M From Saviu",
-      "summary": "SORAM Afrique, a Senegalese industrial company founded more than 10 years ago by\nThe post Senegalese Industrial Company SORAM Afrique Raises USD 1.36 M From Saviu appeared first on WeeTracker.",
-      "country": "SEN",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "FINANCING",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-05T12:42:31+00:00",
-      "lead_source": {
-        "id": "weetracker",
-        "name": "WeeTracker",
-        "tier": 2,
-        "url": "https://weetracker.com/2026/10/05/senegalese-soram-afrique-raises-1-36m-saviu/"
-      },
-      "confirming_sources": [
-        {
-          "id": "weetracker",
-          "name": "WeeTracker",
-          "tier": 2,
-          "url": "https://weetracker.com/2026/10/05/senegalese-soram-afrique-raises-1-36m-saviu/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "79fc2263b3",
       "title": "Ewura Calls for More Investments in Rural Fuel Stations",
       "summary": "[Daily News] Tabora -- THE Energy and Water Utilities Regulatory Authority (EWURA) Western Zone has urged investors to tap into business opportunities in rural areas by establishing fuel stations to expand fuel supply networks and support local economic growth.",
@@ -3212,6 +3706,102 @@
           "name": "Financial Times · Africa",
           "tier": 1,
           "url": "https://www.ft.com/content/259b49a1-8eda-4e8d-84c7-45323988b07b?syn-25a6b1a6=1"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d8c4adafc2",
+      "title": "Éthiopie : les troupes fédérales sont entrées dans Mekele, capitale du Tigré",
+      "summary": "Des milices alliées aux troupes fédérales éthiopiennes sont entrées dans Mekele, la capitale du Tigré, région en guerre contre le pouvoir central. Une nouvelle étape dans l'offensive lancée contre les forces tigréennes, qui avaient largement abandonné la ville quelques heures plus tôt, selon plusieurs témoins locaux.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-03T22:25:29+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261003-ethiopie-les-troupes-f%C3%A9d%C3%A9rales-sont-entr%C3%A9e-dans-mekele-capitale-du-tigr%C3%A9"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261003-ethiopie-les-troupes-f%C3%A9d%C3%A9rales-sont-entr%C3%A9e-dans-mekele-capitale-du-tigr%C3%A9"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "486f0b8b4f",
+      "title": "Horn of Africa peace deals collapse as conflicts converge",
+      "summary": "The renewed fighting follows unresolved territorial disputes in Tigray, stalled demobilisation...",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-03T05:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/horn-of-africa-peace-deals-collapse-as-conflicts-converge-5618052"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/horn-of-africa-peace-deals-collapse-as-conflicts-converge-5618052"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d0d998f08e",
+      "title": "Guinée-Bissau : le retour d'Embalo bloqué pour raisons de sécurité",
+      "summary": "🇬🇼 En Guinée-Bissau, les militaires au pouvoir depuis le coup d'Etat de novembre 2025 bloquent le retour de l’ex-président Umaro Sissoco Embalo, invoquant des raisons de sécurité. En exil au Maroc, Embalo avait annoncé il y a quelques jours son retour au pays et sa candidature à la présidentielle du 6 décembre.",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-02T15:54:47+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-guin%C3%A9e-bissau-le-retour-d-embalo-bloqu%C3%A9-pour-raisons-de-s%C3%A9curit%C3%A9"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-guin%C3%A9e-bissau-le-retour-d-embalo-bloqu%C3%A9-pour-raisons-de-s%C3%A9curit%C3%A9"
         }
       ],
       "confirmation_count": 1
@@ -3697,6 +4287,140 @@
       "confirmation_count": 1
     },
     {
+      "id": "f1606a9a65",
+      "title": "Éthiopie: des troupes érythréennes se déploient dans le nord du Tigré",
+      "summary": "Des troupes érythréennes se déploient ces derniers jours autour d'Adigrat, dans le nord de l'État régional éthiopien du Tigré, frontalier de l'Érythrée, vers laquelle des forces éthiopiennes semblent se diriger, ont indiqué mercredi des sources concordantes, sur fond de tensions exacerbées entre Éthiopie et Érythrée.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-07T20:30:20+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261007-%C3%A9thiopie-des-troupes-%C3%A9rythr%C3%A9ennes-se-d%C3%A9ploient-dans-le-nord-du-tigr%C3%A9"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261007-%C3%A9thiopie-des-troupes-%C3%A9rythr%C3%A9ennes-se-d%C3%A9ploient-dans-le-nord-du-tigr%C3%A9"
+        },
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/10/07/ethiopie-des-troupes-erythreennes-apercues-au-tigre/"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
+      "id": "e801cd8ef8",
+      "title": "Ebola : le ministre kényan de la Santé, Aden Duale, fait le point sur la situation",
+      "summary": "Le ministre kényan de la Santé s'est rendu mercredi à l’hôpital de Nairobi, au lendemain de l'annonce d'un premier décès dû à Ebola dans le pays. 57 cas contacts sont désormais identifiés.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-07T19:29:01+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/10/07/ebola-le-ministre-kenyan-de-la-sante-aden-duale-fait-le-point-sur-la-situation/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/10/07/ebola-le-ministre-kenyan-de-la-sante-aden-duale-fait-le-point-sur-la-situation/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "97f83bda69",
+      "title": "Kenyan brands want digital audiences but still crave newspaper prestige",
+      "summary": "Kenyan brands, including large companies, can understand that their customers are online, yet still want their big announcements in print.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T16:16:23+00:00",
+      "lead_source": {
+        "id": "techcabal",
+        "name": "TechCabal",
+        "tier": 2,
+        "url": "https://techcabal.com/2026/10/07/kenyan-brands-digital-audiences-newspaper/"
+      },
+      "confirming_sources": [
+        {
+          "id": "techcabal",
+          "name": "TechCabal",
+          "tier": 2,
+          "url": "https://techcabal.com/2026/10/07/kenyan-brands-digital-audiences-newspaper/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e834cfd73d",
+      "title": "À Madagascar, El Niño menace d’aggraver la crise alimentaire dans le Grand Sud",
+      "summary": "Dans le sud de Madagascar, la sécheresse, la hausse des prix et le recul de l’aide internationale font craindre une crise alimentaire d’une ampleur inédite. Des milliers d’enfants souffrent déjà de malnutrition et l’arrivée d’El Niño assombrit davantage les perspectives.",
+      "country": "MDG",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-07T14:18:28+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/10/07/a-madagascar-el-nino-menace-daggraver-la-crise-alimentaire-dans-le-grand-sud/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/10/07/a-madagascar-el-nino-menace-daggraver-la-crise-alimentaire-dans-le-grand-sud/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "8da95fd9e0",
       "title": "Eric Muriuki Joins Absa To Lead Pan-African Digital Growth",
       "summary": "Eric Muriuki, a former NCBA executive who helped shape some of Kenya’s most prominent mobile-money and digital-lending products, has joined...\nSource",
@@ -3724,38 +4448,6 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/eric-muriuki-joins-absa-to-lead-pan-african-digital-growth/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a0dcacdb6e",
-      "title": "Nairobi Convention Records Progress in Ocean Conservation",
-      "summary": "[Daily News] Dar es Salaam -- THE Nairobi Convention has recorded significant progress in implementing its 2025- 2028 Programme of Work and decisions adopted at its 11th Conference of the Parties (COP11), including increased regional commitment to ocean biodiversity protection and marine pollution control.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T11:08:25+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070344.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070344.html"
         }
       ],
       "confirmation_count": 1
@@ -3791,6 +4483,44 @@
         }
       ],
       "confirmation_count": 1
+    },
+    {
+      "id": "23be236655",
+      "title": "À la Une: un premier décès d'Ebola au Kenya",
+      "summary": "",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-07T08:30:48+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-afrique/20261007-%C3%A0-la-une-un-premier-d%C3%A9c%C3%A8s-d-ebola-au-kenya"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-afrique/20261007-%C3%A0-la-une-un-premier-d%C3%A9c%C3%A8s-d-ebola-au-kenya"
+        },
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/10/07/langoisse-monte-au-kenya-apres-un-premier-deces-du-a-ebola/"
+        }
+      ],
+      "confirmation_count": 2
     },
     {
       "id": "6eec75f06e",
@@ -3983,7 +4713,7 @@
       "country": "NER",
       "category": "AUTRE",
       "severity": 2,
-      "credibility": 4,
+      "credibility": 5,
       "verified": true,
       "theme": null,
       "legal_status": null,
@@ -4006,13 +4736,19 @@
           "url": "https://www.rfi.fr/fr/afrique/20261006-niger-disparu-depuis-un-mois-le-journaliste-moussa-kaka-est-en-vie-et-d%C3%A9tenu-par-les-autorit%C3%A9s"
         },
         {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/10/07/niger-le-journaliste-moussa-kaka-est-bien-en-vie-detenu-par-les-autorites/"
+        },
+        {
           "id": "ja",
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1849660/societe/niger-disparu-depuis-aout-le-journaliste-moussa-kaka-est-detenu-par-les-autorites/"
         }
       ],
-      "confirmation_count": 2
+      "confirmation_count": 3
     },
     {
       "id": "da3536ed21",
@@ -4042,6 +4778,38 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/10/06/mali-les-separatistes-annoncent-leur-retrait-de-kidal-apres-une-offensive-de-larmee/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c6fd038050",
+      "title": "Mali : l'armée annonce être entrée dans Kidal, désertée par les rebelles touareg",
+      "summary": "L'armée malienne a annoncé mardi être entrée dans la ville de Kidal, peu après que les rebelles indépendantistes touareg du Front de libération de l'Azawad (FLA) – qui avaient pris le contrôle fin avril de la localité stratégique malienne – ont dit avoir procédé à \"un repli stratégique\" de leurs forces face aux opérations de l'armée pour reprendre cette ville du nord.",
+      "country": "MLI",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-06T15:10:42+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/afrique/20261006-mali-l-arm%C3%A9e-annonce-%C3%AAtre-entr%C3%A9e-dans-kidal-d%C3%A9sert%C3%A9e-par-les-rebelles-touareg"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/afrique/20261006-mali-l-arm%C3%A9e-annonce-%C3%AAtre-entr%C3%A9e-dans-kidal-d%C3%A9sert%C3%A9e-par-les-rebelles-touareg"
         }
       ],
       "confirmation_count": 1
@@ -4214,6 +4982,70 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/10/05/arret-sur-images-du-5-octobre-2026-larmee-ethiopienne-reprend-mekelle/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "669dd70b8d",
+      "title": "Kenya electricity demand up, fuels more power imports",
+      "summary": "Electricity generation increased by 8.44 percent as the country expanded its capacity to meet...",
+      "country": "KEN",
+      "category": "RENEWABLE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-04T20:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-electricity-demand-up-fuels-more-power-imports-5617978"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-electricity-demand-up-fuels-more-power-imports-5617978"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "52a41e9b4a",
+      "title": "Region in efforts to clean up trade routes as cargo volumes increase",
+      "summary": "A baseline assessment estimated road-freight emissions on selected routes in Kenya, Uganda and...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-04T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/region-in-efforts-to-clean-up-trade-routes-5618000"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/region-in-efforts-to-clean-up-trade-routes-5618000"
         }
       ],
       "confirmation_count": 1
@@ -4539,6 +5371,780 @@
       "confirmation_count": 1
     },
     {
+      "id": "a44ab1b3cd",
+      "title": "Prétoires, pouvoir et réseaux : ces avocats qui façonnent la politique ivoirienne",
+      "summary": "Habiba Touré, Jean-Chrysostome Blessy, Abdoulaye Meïté… En Côte d’Ivoire, les robes noires s’imposent au premier rang des batailles de partis, au sein desquels ils sont militants ou responsables. Le Palais de justice d’Abidjan est ainsi devenu le nouveau théâtre des luttes de pouvoir.",
+      "country": "CIV",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "fr",
+      "published": "2026-10-07T19:55:34+00:00",
+      "lead_source": {
+        "id": "ja",
+        "name": "Jeune Afrique",
+        "tier": 2,
+        "url": "https://www.jeuneafrique.com/1849283/politique/pretoires-pouvoir-et-reseaux-ces-avocats-qui-faconnent-la-politique-ivoirienne/"
+      },
+      "confirming_sources": [
+        {
+          "id": "ja",
+          "name": "Jeune Afrique",
+          "tier": 2,
+          "url": "https://www.jeuneafrique.com/1849283/politique/pretoires-pouvoir-et-reseaux-ces-avocats-qui-faconnent-la-politique-ivoirienne/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0a927f0369",
+      "title": "O desporto que combate o isolamento no interior do país",
+      "summary": "Em Alcoutim, onde vivem apenas quatro pessoas por quilómetro quadrado, o desporto esteve à beira da extinção. Mas um grupo de corajosos criou no Guadiana uma cultura de canoagem na região.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-10-07T19:06:00+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/especiais/o-desporto-pode-ajudar-a-combater-o-isolamento-no-concelho-mais-despovoado-do-pais/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/especiais/o-desporto-pode-ajudar-a-combater-o-isolamento-no-concelho-mais-despovoado-do-pais/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "23026cc50d",
+      "title": "Mali : après Kidal, quelles perspectives pour l'armée dans le nord ?",
+      "summary": "🇲🇱 La reprise de Kidal marque un tournant pour l’armée malienne, après sept mois de revers. Les FAMA ont repris cette ville stratégique sans combat, à la suite du repli des Touaregs du FLA. Reste désormais à consolider ce succès dans le Nord.",
+      "country": "MLI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-07T18:51:35+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-mali-apr%C3%A8s-kidal-quelles-perspectives-pour-l-arm%C3%A9e-dans-le-nord"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-mali-apr%C3%A8s-kidal-quelles-perspectives-pour-l-arm%C3%A9e-dans-le-nord"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "16ca7447ee",
+      "title": "Witnesses spot Eritrean troops inside northern Ethiopia as tensions flare",
+      "summary": "Eritrea dismisses allegation as Ethiopia's pretext for more war.",
+      "country": "ERI",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "en",
+      "published": "2026-10-07T18:43:47+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d05da34827",
+      "title": "Eritrean troops move deep into Ethiopia's Tigray region as fighting escalates",
+      "summary": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
+      "country": "ERI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T18:40:52+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "98348ae17a",
+      "title": "Kenya on high alert amid concern over screening after first Ebola death",
+      "summary": "Kenya’s government has intensified Ebola preparedness efforts amid growing concern over lapses in border screening.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T18:31:57+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/kenya-on-high-alert-amid-concern-over-screening-after-first-ebola-death?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/kenya-on-high-alert-amid-concern-over-screening-after-first-ebola-death?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0189ccebb4",
+      "title": "BRICS: Ghana's parliament gives green light to formal application",
+      "summary": "Ghana's cabinet has given the green light to a decision to formally apply to join the BRICS geopolitical and economic bloc, according to the country's foreign minister.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T18:20:34+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/10/07/brics-ghanas-parliament-gives-green-light-to-formal-application/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/10/07/brics-ghanas-parliament-gives-green-light-to-formal-application/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0be44a92c1",
+      "title": "Volta. \"Não é tema político, é um autarca que tem de ajudar\"",
+      "summary": "Leonardo Mathias defende: apesar da contestação, Volta não é assunto político. É preciso agir? Presidente da SDR Portugal diz que sim, mas é preciso a colaboração dos municípios, como Albufeira.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-10-07T17:52:57+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/programas/explicador/volta-nao-e-tema-politico-e-um-autarca-que-tem-de-ajudar/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/programas/explicador/volta-nao-e-tema-politico-e-um-autarca-que-tem-de-ajudar/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "51c1cd4587",
+      "title": "Poder guineense dá esclarecimentos sobre transferência de elementos da \"força anti-golpe\"",
+      "summary": "O Presidente de transição da Guiné-Bissau, o general Horta Inta-A, alertou hoje para o grave perigo da posse de armas de fogo escondidas em residências por militares. Falando num momento de esclarecimento sobre recentes movimentações de efectivos, o chefe de Estado rejeitou que se trate de um 'desmantelamento de milícias', sublinhando que as transferências de militares para diferentes unidades visam a normalização e o enquadramento institucional.\"",
+      "country": "GNB",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-10-07T16:49:47+00:00",
+      "lead_source": {
+        "id": "rfi-pt",
+        "name": "RFI Português",
+        "tier": 1,
+        "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20261007-poder-guineense-d%C3%A1-esclarecimentos-sobre-transfer%C3%AAncia-de-elementos-da-for%C3%A7a-anti-golpe"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-pt",
+          "name": "RFI Português",
+          "tier": 1,
+          "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20261007-poder-guineense-d%C3%A1-esclarecimentos-sobre-transfer%C3%AAncia-de-elementos-da-for%C3%A7a-anti-golpe"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7c901dc33f",
+      "title": "Madagascar residents gear up for impact of El Niño",
+      "summary": "In southern Madagascar, residents are bracing themselves for the impact due in the coming months of the El Nino warming pattern, which experts expect to be the strongest on record.",
+      "country": "MDG",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T16:30:33+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/10/07/madagascar-residents-gear-up-for-impact-of-el-nino/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/10/07/madagascar-residents-gear-up-for-impact-of-el-nino/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5be070efad",
+      "title": "TikTok sued over alleged access restrictions in northern Nigeria",
+      "summary": "The case will test whether Nigerian courts can hold a global technology company accountable for allegedly restricting access to its platform.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T16:30:11+00:00",
+      "lead_source": {
+        "id": "techcabal",
+        "name": "TechCabal",
+        "tier": 2,
+        "url": "https://techcabal.com/2026/10/07/nigerias-tiktok-lawsuit-faces-access-test/"
+      },
+      "confirming_sources": [
+        {
+          "id": "techcabal",
+          "name": "TechCabal",
+          "tier": 2,
+          "url": "https://techcabal.com/2026/10/07/nigerias-tiktok-lawsuit-faces-access-test/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "686316c77f",
+      "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
+      "summary": "With 3,700 fleeing to Djibouti amid Houthi clashes, the UN warns three in four families in parts of Yemen face hunger.",
+      "country": "DJI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T16:02:17+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "fc6656ff16",
+      "title": "From sneaking onto his mom’s typewriter at age six to building Europe’s AI supercomputers",
+      "summary": "Ifetayo Agboola didn’t follow a corporate playbook. From sneaking out at age six to turn on his mother’s computer in Ilorin, Kwara State, North-central Nigeria, to installing campus Wi-Fi during NYSC at Unilorin, his trajectory was built on curiosity, field execution, and unprompted referrals. When an AWS recruiter reached out on LinkedIn about a role […]",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T15:48:36+00:00",
+      "lead_source": {
+        "id": "techcabal",
+        "name": "TechCabal",
+        "tier": 2,
+        "url": "https://techcabal.com/2026/10/07/from-unilorin-to-aws-ifetayo-agboola/"
+      },
+      "confirming_sources": [
+        {
+          "id": "techcabal",
+          "name": "TechCabal",
+          "tier": 2,
+          "url": "https://techcabal.com/2026/10/07/from-unilorin-to-aws-ifetayo-agboola/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "26de8bd36a",
+      "title": "Hogbetsotso 2026 to Promote Tourism, Local Businesses",
+      "summary": "[Ghanaian Times] THE 64th Hogbetsotso Festival of the chiefs and people of the Anlo State has been designed to attract tourists, empower local businesses, showcase the rich cultural heritage of Anlo and foster community engagement and a sense of belonging.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T15:37:24+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070587.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070587.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "624871fd71",
+      "title": "Le Ghana veut entrer dans le club des BRICS, Accra prépare sa candidature",
+      "summary": "Accra a déjà sollicité le soutien de l’Inde, dans le cadre de cette démarche visant à diversifier ses partenariats économiques et diplomatiques",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-07T15:36:11+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/10/07/le-ghana-veut-entrer-dans-le-club-des-brics-accra-prepare-sa-candidature/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/10/07/le-ghana-veut-entrer-dans-le-club-des-brics-accra-prepare-sa-candidature/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "62d1110d8e",
+      "title": "How Filmmakers Can Stretch Limited Resources",
+      "summary": "[Independent (Kampala)] For independent filmmakers, a limited budget does not have to mean a limited story. With the right creative and practical decisions, filmmakers can turn resource constraints into opportunities to produce compelling films that reach audiences beyond their home markets.",
+      "country": "UGA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T15:36:00+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070579.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070579.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f3a6efe1c7",
+      "title": "Warfare - General Okiding Calls for Enhanced Intelligence-Led Operations",
+      "summary": "[Independent (Kampala)] Kampala -- The Deputy Chief of Defence Forces of the Uganda Peoples' Defence Forces (UPDF), Lt Gen Sam Okiding, has called for stronger intelligence-led, coordinated and proactive approaches to military operations beyond conventional warfare.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T15:35:13+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070578.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070578.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b977ebe695",
+      "title": "Body of Lake Bunyonyi Student Recovered Four Days After Drowning",
+      "summary": "[Independent (Kampala)] Kabale -- The body of a 22-year-old Senior Four student of Lake Bunyonyi Senior Secondary School in Kabale District has been recovered from Lake Bunyonyi, four days after he drowned while attempting to swim across the lake. The deceased, Samuel Amanya, was found floating on the lake on Wednesday morning, three days after he drowned between Itambira and Bwama islands.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T15:34:28+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070577.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070577.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a99b51f917",
+      "title": "WHO Chief Urges Parliamentarians to Cut Aid Dependency, Strengthen Pandemic Preparedness",
+      "summary": "[Capital FM] Nairobi -- World Health Organization Director-General Tedros Adhanom Ghebreyesus has urged parliamentarians to use their legislative and budgetary powers to strengthen health systems, reduce dependence on foreign aid and prepare for future pandemics.",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "GRANT"
+      ],
+      "lang": "en",
+      "published": "2026-10-07T15:33:17+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070575.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070575.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8cf4e87aca",
+      "title": "Interior Minister Calls for Responsible Management Across PRM Branches",
+      "summary": "[AIM] Maputo -- The Interior Minister Paulo Chachine calls for responsible administrative management across the various branches of the Mozambican Police (PRM).",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T15:32:20+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070570.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070570.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "87f5d3b599",
+      "title": "Rwanda to beat South Africa to continent's first F1 race in decades",
+      "summary": "South Africa's sports minister has congratulated Rwanda, which would be the first African country to host an F1 Grand Prix since 1993.",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T15:12:12+00:00",
+      "lead_source": {
+        "id": "african-biz",
+        "name": "African Business",
+        "tier": 2,
+        "url": "https://african.business/2026/10/arts-culture/rwanda-to-beat-south-africa-to-continents-first-f1-race-in-decades"
+      },
+      "confirming_sources": [
+        {
+          "id": "african-biz",
+          "name": "African Business",
+          "tier": 2,
+          "url": "https://african.business/2026/10/arts-culture/rwanda-to-beat-south-africa-to-continents-first-f1-race-in-decades"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "404d43016b",
+      "title": "Comores : une nouvelle loi menace les petites activités de la diaspora malgache",
+      "summary": "🇰🇲🇲🇬 Aux Comores, une nouvelle loi réserve aux seuls Comoriens de naissance certaines activités du petit commerce. Votée mais pas encore appliquée, elle suscite l’inquiétude de la communauté malgache dans l’archipel.",
+      "country": "COM",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-07T14:59:54+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-comores-une-nouvelle-loi-menace-les-petites-activit%C3%A9s-de-la-diaspora-malgache"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-comores-une-nouvelle-loi-menace-les-petites-activit%C3%A9s-de-la-diaspora-malgache"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0d4c5f4062",
+      "title": "Eritrean troops deploy in Ethiopia's Tigray region, witnesses say",
+      "summary": "Eritrean troops have been deployed in recent days around the town of Adigrat, in Ethiopia's Tigray region, a local official and residents told AFP on Wednesday.",
+      "country": "ERI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T14:58:31+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/10/07/eritrean-troops-deploy-in-ethiopias-tigray-region-witnesses-say/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/10/07/eritrean-troops-deploy-in-ethiopias-tigray-region-witnesses-say/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e16b6f1993",
+      "title": "Mali : l'armée de retour à Kidal",
+      "summary": "Sa perte en avril dernier avait constitué un revers magistral pour l'armée malienne. 7 mois après, les FAMa reprennent Kidal, ville stratégique du nord du Mali. Les Touaregs du FLA qui l'occupaient confirment s'être repliés. On fait le point avec Wassim Nasr.",
+      "country": "MLI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-07T14:49:45+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261007-mali-l-arm%C3%A9e-de-retour-%C3%A0-kidal"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261007-mali-l-arm%C3%A9e-de-retour-%C3%A0-kidal"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b2c2ff6c3e",
       "title": "Sénégal: la rentrée scolaire reportée de cinq jours dans tout le pays à cause des inondations",
       "summary": "Au Sénégal, les élèves n'ont pas repris le chemin de l'école mercredi 7 octobre. La rentrée scolaire a été exceptionnellement reportée de cinq jours, à lundi 12 octobre, en raison des inondations provoquées par les fortes pluies du week-end. Ce report, décidé pour l'ensemble du pays, est inédit.",
@@ -4603,38 +6209,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "69dca56080",
-      "title": "Ethiopie : des troupes érythréennes aperçues au Tigré",
-      "summary": "L’information est rapportée mercredi par un responsable local et plusieurs habitants, alors que le conflit interne au Tigré",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-07T13:52:12+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/10/07/ethiopie-des-troupes-erythreennes-apercues-au-tigre/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/10/07/ethiopie-des-troupes-erythreennes-apercues-au-tigre/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "cdf48c50b5",
       "title": "Dangote Refinery IPO Gives East Africa 20% Share, Uganda and Kenya Approve IPO for Locals",
       "summary": "For decades, Africa has famously exported its raw crude oil only to buy back expensive, imported refined fuel. That exhausting, money-draining cycle is about to end. The colossal Dangote Refinery\nThe post Dangote Refinery IPO Gives East Africa 20% Share, Uganda and Kenya Approve IPO for Locals appeared first on Ventureburn.",
@@ -4694,38 +6268,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610070473.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4be271eaf5",
-      "title": "Mais de 500 quilos de cocaína apreendidos na praia da Tocha",
-      "summary": "GNR afirma que não há suspeitos ainda detidos, as diligências ainda estão a decorrer, com elementos da Unidade de Controlo Costeiro e de Fronteiras no local.",
-      "country": "CPV",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-10-07T13:27:40+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/2026/10/07/mais-de-500-quilos-de-cocaina-apreendidos-pela-gnr-na-praia-da-tocha/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/2026/10/07/mais-de-500-quilos-de-cocaina-apreendidos-pela-gnr-na-praia-da-tocha/"
         }
       ],
       "confirmation_count": 1
@@ -5725,10 +7267,10 @@
       "confirmation_count": 1
     },
     {
-      "id": "b082932478",
-      "title": "Senegal’s AFCON appeal to be heard by CAS after title awarded to Morocco",
-      "summary": "Court of Arbitration for Sport (CAS) hearing set to begin after Senegal stripped of Africa Cup of Nations title by CAF.",
-      "country": "SEN",
+      "id": "0c3b3ee401",
+      "title": "Ebola case in Kenya puts East African region on alert",
+      "summary": "Kenya confirmed its first imported case of Ebola after a Kenyan citizen travelled from DRC to...",
+      "country": "KEN",
       "category": "AUTRE",
       "severity": 1,
       "credibility": 2,
@@ -5739,19 +7281,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-10-07T10:28:32+00:00",
+      "published": "2026-10-07T10:45:00+00:00",
       "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/sports/2026/10/7/cas-to-hear-senegal-appeal-over-afcon-title-awarded-to-morocco?traffic_source=rss"
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/sustainability/health/ebola-case-in-kenya-puts-region-on-alert-5622894"
       },
       "confirming_sources": [
         {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/sports/2026/10/7/cas-to-hear-senegal-appeal-over-afcon-title-awarded-to-morocco?traffic_source=rss"
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/sustainability/health/ebola-case-in-kenya-puts-region-on-alert-5622894"
         }
       ],
       "confirmation_count": 1
@@ -5816,6 +7358,38 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610070278.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b3e3b6a703",
+      "title": "Telcos Compelled to Notify Subscribers Before Recycling Mobile Numbers Under New Rules",
+      "summary": "[Capital FM] Nairobi -- Telecommunications companies will be required to notify subscribers before deactivating inactive SIM cards and recycling their mobile numbers under new safeguards introduced by the Communications Authority of Kenya (CA).",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T10:07:50+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070276.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070276.html"
         }
       ],
       "confirmation_count": 1
@@ -6168,38 +7742,6 @@
           "name": "Club of Mozambique",
           "tier": 2,
           "url": "https://clubofmozambique.com/news/plague-epidemic-risk-in-russia-low-after-death-of-lab-technician-who-says/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "23be236655",
-      "title": "À la Une: un premier décès d'Ebola au Kenya",
-      "summary": "",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-07T08:30:48+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-afrique/20261007-%C3%A0-la-une-un-premier-d%C3%A9c%C3%A8s-d-ebola-au-kenya"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-afrique/20261007-%C3%A0-la-une-un-premier-d%C3%A9c%C3%A8s-d-ebola-au-kenya"
         }
       ],
       "confirmation_count": 1
@@ -7165,6 +8707,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "7abc444602",
+      "title": "What If Atiku Turns the Table in January 2027?",
+      "summary": "[This Day] TUNDE OLUSUNLE argues against the optimistic projection by The Economist in the 2027 elections",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T04:04:24+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610070160.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610070160.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "cc27780ad3",
       "title": "Rwanda Seek Strong Start Against Ethiopia in Women's Olympic Qualifier",
       "summary": "[New Times] Rwanda vs Ethiopia -- Kigali Pelé Stadium, 18:00",
@@ -7192,38 +8766,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610070156.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "50db97f807",
-      "title": "ODM, Govt Dismiss Oburu Health Reports As Aides Confirm Icu Admission",
-      "summary": "[Capital FM] Nairobi -- ODM leaders and government officials have moved to dismiss reports circulating on social media about the health of party leader and Siaya Senator Oburu Odinga, saying he is recovering steadily even as his close aides confirmed that he has been admitted to the intensive care unit (ICU) at Nairobi Hospital",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T04:01:38+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070145.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070145.html"
         }
       ],
       "confirmation_count": 1
@@ -7258,70 +8800,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610070144.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c7d7e83676",
-      "title": "President Ruto to Preside Over Official Commissioning of Raila Mausoleum in Bondo",
-      "summary": "[Capital FM] Nairobi -- President William Ruto will on Wednesday preside over the official commissioning of the late Raila Odinga's mausoleum at Kang'o Ka Jaramogi in Bondo, marking a major milestone in efforts to preserve the former Prime Minister's legacy as part of Kenya's national history.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T04:01:32+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070134.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070134.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "99e009cf0c",
-      "title": "Anti-Graft Agency Opposes Diezani's Move to Present Evidence of UK Court Acquittal in Abuja Case",
-      "summary": "[Premium Times] EFCC maintained that the UK judgement was irrelevant to the case Diezani filed in court for the recovery of her auctioned assets.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T04:01:31+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070132.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070132.html"
         }
       ],
       "confirmation_count": 1
@@ -7418,38 +8896,6 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/afrique/20261007-b%C3%A9nin-france-la-restitution-des-biens-culturels-avance-apr%C3%A8s-la-rencontre-wadagni-macron"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ec223ab5e3",
-      "title": "Ebola Contact Tracing - Jambojet, Health Officials Seek Flight Jm8523 Passengers",
-      "summary": "[Capital FM] Nairobi -- Jambojet has said it is working with the Ministry of Health and Port Health Services to trace passengers and crew who travelled on flight JM8523 from Entebbe to Nairobi, after Kenya confirmed its first imported Ebola case.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T03:12:09+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070108.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070108.html"
         }
       ],
       "confirmation_count": 1
@@ -7681,6 +9127,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "542800d932",
+      "title": "No more forever CEOs: Tanzania moves to cap tenure for bank leadership",
+      "summary": "Draft rules say a board member or CEO of a bank or financial institution should not hold office...",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-07T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/tanzania-moves-to-cap-tenure-for-bank-leadership-5622448"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/tanzania-moves-to-cap-tenure-for-bank-leadership-5622448"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "435afbcada",
       "title": "Dette extérieure du Sénégal: un nouveau rendez-vous avec les créanciers prévu en novembre",
       "summary": "Au Sénégal, pour la première fois, l’ensemble des créanciers du pays se sont réunis virtuellement mardi 6 octobre. L’objectif : connaître la stratégie et le calendrier visés par Dakar pour obtenir un réaménagement de sa dette record, qui dépasse 130 % du PIB. À l’issue de cette première réunion, un nouveau rendez-vous a été fixé en novembre pour entrer dans le vif des négociations.",
@@ -7713,102 +9191,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "740c159aac",
-      "title": "GPL - Medeama, Samartex Maintain Top Spot &#xB7; Aduana, Port City Win",
-      "summary": "[Ghanaian Times] MEDEAMA SC maintained their grip on top of the Premier League table while FC Samartex, Aduana FC and debutants Port City also secured crucial victories as Matchday Five delivered an action-packed Sunday across the country.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T02:36:14+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070090.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070090.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f3c6773a1c",
-      "title": "Golden Shuttlers Bag 4 Medals At All Africa U-19 Badminton Championships",
-      "summary": "[Ghanaian Times] GHANA'S Golden Shuttlers wrapped up their campaign at the 2026 All Africa U-19 Badminton Championships in Cairo, Egypt, winning four medals, made up of a silver and three bronze medals.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T02:36:14+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070091.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070091.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "17a689535b",
-      "title": "The Ada West District Assembly Hands Over Development Projects",
-      "summary": "[Ghanaian Times] The Ada West District Assembly has handed over a number of development projects to selected institutions as part of efforts to improve the lives of people in the districts.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T02:36:13+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070088.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070088.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "9a8ad531cc",
       "title": "Breast Society Urges Women to Prioritise Screening",
       "summary": "[Ghanaian Times] THE Breast Society of Ghana has urged women to prioritise breast screening and seek prompt medical attention when they notice symptoms, saying early detection and timely treatment could significantly improve breast cancer survival outcomes.",
@@ -7836,198 +9218,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610070087.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4888b74923",
-      "title": "Saint Michael Co-Cathedral Marks 135 Years",
-      "summary": "[Ghanaian Times] THE Saint Michael Co-Cathedral at Keta in the Volta Region has celebrated its 135th anniversary with a call on the church to intensify its evangelisation and social interventions to help transform society.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T02:36:12+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070086.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070086.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "5d6dd89afb",
-      "title": "Rev. Dr Kweitsu Earns Recognition for Contribution to Audiology",
-      "summary": "[Ghanaian Times] THE Chief Executive Officer (CEO) of KRISPAT Hearing Centre, Rev. Dr (H.C.) Christian Kwetey Kweitsu, has been honoured at the third edition of the 100 African Most Influential Awards held in Kigali, Rwanda.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T02:36:11+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070085.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070085.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1b3aa297c1",
-      "title": "MMDCEs Tasked to Secure Land for Waste Transfer Stations",
-      "summary": "[Ghanaian Times] The Minister of Local Government, Chieftaincy and Religious Affairs, Mr Mahama Ayariga, has directed all Metropolitan, Municipal and District Chief Executives (MMDCEs) to identify one-acre plots of land in their respective jurisdictions for the construction of waste transfer stations within 30 days.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T02:36:10+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070084.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070084.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ec5c71aa78",
-      "title": "Asenso-Boakye Warns Mmdas Against Recurring Audit Irregularities",
-      "summary": "[Ghanaian Times] The Ranking Member of Parliament's Committee on Local Government and Decentralisation, Mr Francis Asenso-Boakye, has cautioned Metropolitan, Municipal and District Assemblies (MMDAs) against allowing audit irregularities to recur year after year without meaningful corrective action.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T02:36:09+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070082.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070082.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4694cacf28",
-      "title": "Ecobank Opens Digital Learning Centre for 2,000 Pupils",
-      "summary": "[Ghanaian Times] Ecobank Ghana PLC has inaugurated a refurbished Digital Learning Centre (DLC) at the La-Nkwantanang Cluster of Schools in the La-Nkwantanang Municipality to equip pupils with digital skills for the future.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T02:36:09+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070083.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070083.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "467c5e54d3",
-      "title": "Put Ghana First ... NDC Urges NPP",
-      "summary": "[Ghanaian Times] The National Democratic Congress (NDC) has urged the newly elected leadership of the New Patriotic Party (NPP) to put the national interest ahead of partisan considerations and work towards deepening Ghana's democratic gains.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T02:36:08+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070080.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070080.html"
         }
       ],
       "confirmation_count": 1
@@ -8163,6 +9353,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "8eed60745e",
+      "title": "Un Kényan venant de République démocratique du Congo décède du virus Ebola",
+      "summary": "Pour la toute première fois, le Kenya enregistre un cas du virus Ebola. Un homme d'affaire kényan de 40 ans a voyagé depuis la RD Congo vers l'Ouganda avant de prendre l'avion vers Nairobi, capitale du Kenya. Il était contaminé et présentait des symptômes depuis plusieurs semaines. Il est décédé hier à Nairobi, où les autorités sont en alerte et font le maximum pour tenter d'empêcher que la maladie ne se répande dans la capitale.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-06T20:40:30+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261006-un-kenyan-venant-de-r%C3%A9publique-d%C3%A9mocratique-du-congo-d%C3%A9c%C3%A8de-du-virus-ebola"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261006-un-kenyan-venant-de-r%C3%A9publique-d%C3%A9mocratique-du-congo-d%C3%A9c%C3%A8de-du-virus-ebola"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "5fb5ba471f",
       "title": "Éthiopie : reprise timide des activités commerciales à Mékélé",
       "summary": "« L’ambiance autour du marché est très bonne en ce moment. On trouve de tout, et nous faisons nos achats dans un environnement très serein », Fetlework Desta",
@@ -8286,70 +9508,6 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1849544/politique/benin-france-ce-quil-faut-retenir-de-la-rencontre-entre-romuald-wadagni-et-emmanuel-macron/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "06de045ddd",
-      "title": "Glovo names Reni Onafeko as new Nigeria country managing director",
-      "summary": "Her appointment comes as Glovo continues to expand in Nigeria, which it says closed 2025 as its fastest-growing market globally.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-06T18:35:51+00:00",
-      "lead_source": {
-        "id": "techcabal",
-        "name": "TechCabal",
-        "tier": 2,
-        "url": "https://techcabal.com/2026/10/06/glovo-nigeria-names-new-country-md/"
-      },
-      "confirming_sources": [
-        {
-          "id": "techcabal",
-          "name": "TechCabal",
-          "tier": 2,
-          "url": "https://techcabal.com/2026/10/06/glovo-nigeria-names-new-country-md/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "3e16ad10d4",
-      "title": "Why Airtel Money’s $7bn IPO doesn’t include its Nigerian fintech business",
-      "summary": "When Airtel Money lists on the London Stock Exchange later this month, it will do so without its struggling Nigerian fintech business. A Central Bank of Nigeria (CBN) directive required the mobile money business to transfer its 25% stake in SmartCash, the vehicle through which Airtel operates its Nigerian fintech business, back to Airtel Networks Limited, its Nigerian telecom subsidiary, according to Airtel Money’s IPO prospectus.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": true,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-06T16:04:46+00:00",
-      "lead_source": {
-        "id": "techcabal",
-        "name": "TechCabal",
-        "tier": 2,
-        "url": "https://techcabal.com/2026/10/06/airtel-money-ipo-nigeria-smartcash/"
-      },
-      "confirming_sources": [
-        {
-          "id": "techcabal",
-          "name": "TechCabal",
-          "tier": 2,
-          "url": "https://techcabal.com/2026/10/06/airtel-money-ipo-nigeria-smartcash/"
         }
       ],
       "confirmation_count": 1
@@ -8611,134 +9769,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "72731be389",
-      "title": "L’économie, juge de paix du nouveau mandat d’Abiy Ahmed à la tête de l’Éthiopie",
-      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
-      "country": "ETH",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-06T15:27:18+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/10/06/leconomie-juge-de-paix-du-nouveau-mandat-dabiy-ahmed-a-la-tete-de-lethiopie/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/10/06/leconomie-juge-de-paix-du-nouveau-mandat-dabiy-ahmed-a-la-tete-de-lethiopie/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d3444cfba9",
-      "title": "KMPDU Demands Urgent Protection for Health Workers After Kenya Confirms First Ebola Case",
-      "summary": "[Capital FM] Nairobi -- The Kenya Medical Practitioners, Pharmacists and Dentists' Union (KMPDU) has called for urgent measures to protect healthcare workers following the confirmation of Kenya's first imported case of Bundibugyo Ebola virus disease and the subsequent death of the patient in Nairobi.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-06T15:16:49+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610060372.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610060372.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f4cb941340",
-      "title": "What Is Bundibugyo Ebola? the Strain Behind Kenya's First Case",
-      "summary": "[Capital FM] Nairobi -- The Ebola strain detected in Kenya is not the same species that caused the devastating 2014-2016 West Africa epidemic, although both belong to the same virus genus.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-06T15:13:46+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610060366.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610060366.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c1885da2c2",
-      "title": "Nigeria’s global hiring push must create jobs, not just train workers",
-      "summary": "The economic opportunity depends on matching workers with international employers and turning their skills into reliable, well-paid contracts.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-06T15:07:17+00:00",
-      "lead_source": {
-        "id": "techcabal",
-        "name": "TechCabal",
-        "tier": 2,
-        "url": "https://techcabal.com/2026/10/06/nigerias-global-hiring-push-needs-jobs/"
-      },
-      "confirming_sources": [
-        {
-          "id": "techcabal",
-          "name": "TechCabal",
-          "tier": 2,
-          "url": "https://techcabal.com/2026/10/06/nigerias-global-hiring-push-needs-jobs/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "e9fb1ecb98",
       "title": "Egypt is trying to contain Ethiopia. Will it succeed?",
       "summary": "The North African country sees an opportunity to organise Ethiopia’s enemies – but it is unclear how strong an alliance Egypt has built with Eritrea, Sudan and Somalia, nor how Washington will respond.",
@@ -8766,6 +9796,38 @@
           "name": "The Africa Report",
           "tier": 2,
           "url": "https://www.theafricareport.com/432487/egypt-is-trying-to-contain-ethiopia-will-it-succeed/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "42419db4c5",
+      "title": "Saddam Alaya, le Jordanien qui marche pour la paix est arrivé au Rwanda",
+      "summary": "🇷🇼 Le Jordanien Saddam Alaya engagé dans une marche de 23 000 km pour promouvoir la paix et l’éducation est arrivé au Rwanda. Fondateur de l'ONG Hike With Me, il ambitionne de traverser 18 pays et 3 continents, de l’Afrique du Sud à la Russie.",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-06T14:21:17+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261006-saddam-alaya-le-jordanien-qui-marche-pour-la-paix-est-arriv%C3%A9-au-rwanda"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261006-saddam-alaya-le-jordanien-qui-marche-pour-la-paix-est-arriv%C3%A9-au-rwanda"
         }
       ],
       "confirmation_count": 1
@@ -8963,6 +10025,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "5b80daba28",
+      "title": "Young People Must Shape Their Own SRHR Future, Says Kenyan Activist",
+      "summary": "[allAfrica] Across Africa, young people are being told that their sexual and reproductive health and rights matter. But for many, accessing those rights remains a daily struggle.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T12:22:58+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610060295.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610060295.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "bab9e42bda",
       "title": "Viral Simulator Games On Browser Tabs Make A Splash In Nigeria’s Scale-Starved Gaming Scene",
       "summary": "A browser game that lets Nigerians simulate life in Lagos, complete with traffic,\nThe post Viral Simulator Games On Browser Tabs Make A Splash In Nigeria’s Scale-Starved Gaming Scene appeared first on WeeTracker.",
@@ -9027,6 +10121,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "bbc2dbed13",
+      "title": "La guerre en Éthiopie peut-elle embraser la Corne de l'Afrique ?",
+      "summary": "La diplomatie peut elle encore l'emporter en Éthiopie ? Dimanche, un mini-sommet a eu lieu en Égypte. Les grands rivaux d'Addis Abeba plaident pour une solution pacifique, alors que la guerre a repris après quatre années de trêve. Jean-Claude Félix-Tchicaya décrypte pour nous la reprise de la guerre et ses conséquences pour la région.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-06T11:27:03+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261006-guerre-%C3%A9thiopie-corne-risque-embrasement-afrique"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261006-guerre-%C3%A9thiopie-corne-risque-embrasement-afrique"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "991879eb9e",
       "title": "Wadagni Secures CFAF 65.5B Deal With President Macron to Boost Benin Economy",
       "summary": "For years, the Republic of Benin has wrestled with an urgent need to inject heavy capital into its infrastructure. Benin has been trying to empower local enterprises and stabilize its\nThe post Wadagni Secures CFAF 65.5B Deal With President Macron to Boost Benin Economy appeared first on Ventureburn.",
@@ -9054,6 +10180,38 @@
           "name": "Ventureburn",
           "tier": 2,
           "url": "https://ventureburn.com/wadagni-secures-cfaf-65-5b-deal-with-macron-for-benin-economy/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e589aeeff8",
+      "title": "Kenyan appeal court suspends new shipping rules",
+      "summary": "The order on October 2 suspended provisions that industry players warned would raise the cost...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T11:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenyan-appeal-court-suspends-new-shipping-rules-5621614"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenyan-appeal-court-suspends-new-shipping-rules-5621614"
         }
       ],
       "confirmation_count": 1
@@ -9315,6 +10473,102 @@
       "confirmation_count": 1
     },
     {
+      "id": "80e9fd7934",
+      "title": "Ghana Armwrestling @10 - From a Simple Table to Global Glory",
+      "summary": "[Ghanaian Times] TEN years ago, a dream was born on a simple wood-and-metal table. It was a vision to harness raw Ghanaian strength, courage, and determination, give it a structured home, and push it onto the world stage.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T10:32:33+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610060190.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610060190.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6792be5ffa",
+      "title": "Ufo Calls for Urgent Action On Teachers' Concerns",
+      "summary": "[Ghanaian Times] THE Universal Friendship Organisation (UFO), a civil society organisation, has called on the government to urgently address challenges affecting pre-tertiary teachers, saying their welfare was critical to improving the quality of education.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T10:27:28+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610060189.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610060189.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1d779252d8",
+      "title": "Cabinet Approves Establishment of Ghana Space Agency - Minister",
+      "summary": "[Ghanaian Times] THE government is advancing plans to transform the Ghana Space Science and Technology Institute (GSSTI) into a fully-fledged Ghana Space Agency to strengthen the country's participation in the emerging global space economy.",
+      "country": "GHA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T10:26:22+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610060187.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610060187.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "a365e0ed90",
       "title": "Four African Countries Call for De-Escalation of Tension in Ethiopia",
       "summary": "[Premium Times] This call comes amid the growing tension between Ethiopia's federal government and authorities in the northern Tigray region.",
@@ -9374,6 +10628,70 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610060174.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d3f48295f7",
+      "title": "CBL Seeks Ghana's Expertise to Transform Liberia's Payments System",
+      "summary": "[Liberian Observer] Liberia is turning to Ghana for technical expertise and practical lessons as the Central Bank of Liberia (CBL) works to transform the country's payments infrastructure and build a more integrated financial system connecting banks, mobile money operators and regional payment platforms across Liberia's financial sector.",
+      "country": "GHA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T10:11:49+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610060171.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610060171.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "112fb0eac2",
+      "title": "Kenya's first Ebola patient dies at a Nairobi hospital",
+      "summary": "He arrived with fever, chills, intense fatigue and weakness, muscle pain, painful swallowing, a...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T09:45:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/sustainability/health/kenya-first-ebola-patient-dies-at-a-nairobi-hospital-5621464"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/sustainability/health/kenya-first-ebola-patient-dies-at-a-nairobi-hospital-5621464"
         }
       ],
       "confirmation_count": 1
@@ -9667,10 +10985,10 @@
       "confirmation_count": 1
     },
     {
-      "id": "0023b4439c",
-      "title": "Museveni Questions Handling of Ggaba Daycare Murder Appeal",
-      "summary": "[Nile Post] President Yoweri Museveni has questioned the handling of the appeal by Christopher Okello Onyum, who was convicted and sentenced to death for the murder of four toddlers at a daycare centre in Ggaba, Kampala.",
-      "country": "UGA",
+      "id": "05a5e55cb2",
+      "title": "Airstrikes and artillery hit north Ethiopia as government and rebels clash, sources say",
+      "summary": "The fighting threatens to escalate into a wider conflict, with Ethiopia accusing neighbouring...",
+      "country": "ETH",
       "category": "AUTRE",
       "severity": 1,
       "credibility": 2,
@@ -9681,19 +10999,51 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-10-06T03:59:00+00:00",
+      "published": "2026-10-06T04:30:00+00:00",
       "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
+        "id": "east-afr",
+        "name": "The East African",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202610060067.html"
+        "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/airstrikes-and-artillery-hit-north-ethiopia-5621138"
       },
       "confirming_sources": [
         {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
+          "id": "east-afr",
+          "name": "The East African",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202610060067.html"
+          "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/airstrikes-and-artillery-hit-north-ethiopia-5621138"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c83879efa5",
+      "title": "Horn of Africa crisis deepens as Egypt challenges AU on Ethiopia stance",
+      "summary": "On October 1, the AU Commission released a statement urging Ethiopia, Eritrea, and Egypt to...",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T04:15:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/horn-of-africa-crisis-deepens-african-union-ethiopia-stance-5621124"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/horn-of-africa-crisis-deepens-african-union-ethiopia-stance-5621124"
         }
       ],
       "confirmation_count": 1
@@ -9822,6 +11172,38 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610060051.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5c17882ccf",
+      "title": "Parliament Clarifies 'No Vacancy' Notice for NSS Personnel",
+      "summary": "[Ghanaian Times] Parliament has clarified public commentary on social media regarding a notice on its notice board that read \"No Vacancy for National Service Personnel 2026/2027. Kindly go for reposting.\"",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T03:46:55+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610060049.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610060049.html"
         }
       ],
       "confirmation_count": 1
@@ -10211,38 +11593,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ee9c7d60ab",
-      "title": "Sénégal: première réunion avec les créanciers pour préparer la restructuration de la dette",
-      "summary": "Au Sénégal, une rencontre virtuelle a réuni mardi 6 octobre 2026, pour la première fois, l’ensemble des créanciers du pays. L’enjeu : la restructuration de sa dette en euros et en dollars. Le Sénégal, qui se débat avec un endettement record, à 130 % de son PIB, souhaite, comme la Zambie ou le Tchad avant lui, renégocier sa dette extérieure dans le cadre commun du G20. Organisée sous l’égide du Fonds monétaire international (FMI), Dakar cherchait à présenter sa stratégie…",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-06T02:43:19+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261006-s%C3%A9n%C3%A9gal-premi%C3%A8re-r%C3%A9union-avec-les-cr%C3%A9anciers-pour-pr%C3%A9parer-la-restructuration-de-la-dette"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261006-s%C3%A9n%C3%A9gal-premi%C3%A8re-r%C3%A9union-avec-les-cr%C3%A9anciers-pour-pr%C3%A9parer-la-restructuration-de-la-dette"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "549e9b396f",
       "title": "Ethiopia: PM vows to secure sea access amid fears of return to war",
       "summary": "Following almost two weeks of internal conflict that threatens a wider regional war in Ethiopia, the country's prime minister has vowed that government forces are ready to bring a rebel offensive under control.",
@@ -10403,6 +11753,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "190a2ed4be",
+      "title": "Côte d'Ivoire : un passionné fait revivre les vinyles de la musque africaine",
+      "summary": "🇨🇮 À Abidjan, un jeune mélomane se donne pour mission de sauver les vieux vinyles de la musique africaine. Il les retrouve, les restaure et les conserve pour faire revivre les musiques du continent parfois oubliées et peu valorisées.",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-05T15:04:03+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261005-c%C3%B4te-d-ivoire-un-passionn%C3%A9-fait-revivre-les-vinyles-de-la-musque-africaine"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261005-c%C3%B4te-d-ivoire-un-passionn%C3%A9-fait-revivre-les-vinyles-de-la-musque-africaine"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "100f0209a1",
       "title": "Foren Emerges From Leatherback’s Ghost After Crisis & Zedcrest Takeover",
       "summary": "Leatherback, the Nigerian-born, UK-headquartered cross-border payments company rocked by a string of upheavals\nThe post Foren Emerges From Leatherback’s Ghost After Crisis & Zedcrest Takeover appeared first on WeeTracker.",
@@ -10499,104 +11881,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "82f458466e",
-      "title": "Guinée : le président Doumbouya gracie l'opposant Aliou Bah",
-      "summary": "Condamné en 2025 à deux ans de prison pour « offense et diffamation » à l’encontre de Mamadi Doumbouya, l'opposant guinéen Aliou Bah a bénéficié vendredi 2 octobre d'une grâce présidentielle.",
-      "country": "GIN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-05T13:01:46+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/10/05/guinee-le-president-mamadi-doumbouya-gracie-lopposant-aliou-bah/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/10/05/guinee-le-president-mamadi-doumbouya-gracie-lopposant-aliou-bah/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ede80176bd",
-      "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
-      "summary": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-05T12:59:56+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9f717cd330",
-      "title": "Kenyan Agritech Startup Farm to Feed Secures USD 171 K From Proparco",
-      "summary": "Farm to Feed, a Kenyan agritech company founded in 2021 by Claire van\nThe post Kenyan Agritech Startup Farm to Feed Secures USD 171 K From Proparco appeared first on WeeTracker.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": true,
-      "sectors": [
-        "DFI"
-      ],
-      "lang": "en",
-      "published": "2026-10-05T12:34:04+00:00",
-      "lead_source": {
-        "id": "weetracker",
-        "name": "WeeTracker",
-        "tier": 2,
-        "url": "https://weetracker.com/2026/10/05/kenyan-agtech-farm-to-feed-secures-171k-proparco/"
-      },
-      "confirming_sources": [
-        {
-          "id": "weetracker",
-          "name": "WeeTracker",
-          "tier": 2,
-          "url": "https://weetracker.com/2026/10/05/kenyan-agtech-farm-to-feed-secures-171k-proparco/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "b2ab81c0d9",
       "title": "New Government Takes Shape As Ethiopia Opens New Parliamentary Term Today",
       "summary": "[ENA] Addis Ababa -- Ethiopia is set to enter a new five-year political and institutional chapter this afternoon as the newly elected House of People's Representatives convenes, formally opening the new parliamentary term and setting in motion the constitutional process for forming the federal government.",
@@ -10624,38 +11908,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610050349.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "412d758768",
-      "title": "Kenya Faces Soaring Food Prices Amid Climate Pressures",
-      "summary": "Food prices across Kenya are climbing rapidly as persistent climate change severely strains agricultural supply chains and local harvests. Consumers face mounting pressure at markets as unpredictable weather patterns disrupt\nThe post Kenya Faces Soaring Food Prices Amid Climate Pressures appeared first on Ventureburn.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-05T12:23:48+00:00",
-      "lead_source": {
-        "id": "ventureburn",
-        "name": "Ventureburn",
-        "tier": 2,
-        "url": "https://ventureburn.com/kenya-food-prices-climate-change/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ventureburn",
-          "name": "Ventureburn",
-          "tier": 2,
-          "url": "https://ventureburn.com/kenya-food-prices-climate-change/"
         }
       ],
       "confirmation_count": 1
@@ -10791,38 +12043,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ec18d6e6ab",
-      "title": "Éthiopie : à Mekele, la Tigray Peace Force veut tourner la page du TPLF",
-      "summary": "Dans les rues de Mekele, les combattants de la Tigray Peace Force (TPF) veulent afficher leur victoire. Cette milice, composée notamment d’anciens membres des forces tigréennes, combat désormais aux côtés de l’armée éthiopienne contre le Front de libération du peuple du Tigré (TPLF).",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-05T10:15:34+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/10/05/ethiopie-a-mekele-la-tigray-peace-force-veut-tourner-la-page-du-tplf/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/10/05/ethiopie-a-mekele-la-tigray-peace-force-veut-tourner-la-page-du-tplf/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "571f559647",
       "title": "Inuka Tech Fellowship Completes First Cohort In Kenya",
       "summary": "The inaugural Inuka Tech Fellowship cohort has completed its programme, with organisers highlighting the need for more pathways for women...\nSource",
@@ -10855,70 +12075,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "a93472a695",
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-05T08:29:12+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "da3e27ba71",
-      "title": "Besigye Trial Resumes With His Physical Presence Still in Doubt",
-      "summary": "[Nile Post] The treason trial of opposition politician Dr Kizza Besigye resumes today before the High Court in Kampala, with his physical presence still uncertain as the prosecution moves to its second witness after weeks of testimony from its key witness, Andrew Wilson.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-05T07:58:03+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610050157.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610050157.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "430c21f282",
       "title": "Turning Tanzania's Natural Wealth Into National Prosperity",
       "summary": "[Daily News] TANZANIA stands among Africa's most resource-rich nations, endowed with vast mineral deposits, natural gas reserves, wildlife, forests, fertile land, water resources and an extensive coastline.",
@@ -10946,38 +12102,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610050145.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "6d859e0f92",
-      "title": "Ethiopia's federal forces retake Tigrayan capital Mekelle",
-      "summary": "Ethiopian federal forces were in full control of the Tigray rebels' regional capital, a local journalist said on Sunday, while Ethiopia's regional rivals gathered in Egypt to discuss the risk of a wider war.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-05T06:40:32+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/10/05/ethiopias-federal-forces-retake-tigrayan-capital-mekelle/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/10/05/ethiopias-federal-forces-retake-tigrayan-capital-mekelle/"
         }
       ],
       "confirmation_count": 1
@@ -11047,41 +12171,9 @@
       "confirmation_count": 1
     },
     {
-      "id": "25d3380652",
-      "title": "Persistent violence stalling African development, Burundi's Ndayishimiye tells summit",
-      "summary": "Burundian President Evariste Ndayishimiye says at an African Union meeting in El Alamein, Egypt, that persistent violence across Africa is taking a toll on farming, education and development.",
-      "country": "BDI",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-04T13:07:40+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/10/04/persistent-violence-stalling-african-development-burundis-ndayishimiye-tells-summit/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/10/04/persistent-violence-stalling-african-development-burundis-ndayishimiye-tells-summit/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "04ab0b17fd",
-      "title": "Ethiopian forces recapture Mekelle airport from Tigrayan fighters",
-      "summary": "Ethiopian federal forces have taken Mekelle airport, reversing a takeover by Tigrayan fighters last month.",
+      "id": "0a11728d04",
+      "title": "Could war be good for Ethiopia? Lesson from once-broken northern Uganda",
+      "summary": "An uncontrolled Ethiopian war would mean refugees, disrupted trade and another security headache.",
       "country": "ETH",
       "category": "AUTRE",
       "severity": 1,
@@ -11093,19 +12185,51 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-10-04T12:22:24+00:00",
+      "published": "2026-10-05T05:00:00+00:00",
       "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
+        "id": "east-afr",
+        "name": "The East African",
         "tier": 2,
-        "url": "http://www.africanews.com/2026/10/04/ethiopian-forces-recapture-mekelle-airport-from-tigrayan-fighters/"
+        "url": "https://www.theeastafrican.co.ke/tea/opinion/columnists/could-war-be-good-for-ethiopia-lesson-from-northern-uganda-5618042"
       },
       "confirming_sources": [
         {
-          "id": "afnews-en",
-          "name": "Africanews",
+          "id": "east-afr",
+          "name": "The East African",
           "tier": 2,
-          "url": "http://www.africanews.com/2026/10/04/ethiopian-forces-recapture-mekelle-airport-from-tigrayan-fighters/"
+          "url": "https://www.theeastafrican.co.ke/tea/opinion/columnists/could-war-be-good-for-ethiopia-lesson-from-northern-uganda-5618042"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "380651fff4",
+      "title": "L'armée éthiopienne patrouille dans Mekele, ses rivaux inquiets se réunissent en Égypte",
+      "summary": "L'armée fédérale éthiopienne et une milice tigréenne alliée contrôlent dimanche Mekele, capitale de l'État régional du Tigré. Cette situation suscite désormais les craintes d'une extension du conflit hors d'Éthiopie, notamment chez leurs rivaux réunis à El-Alamein en Égypte.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-04T19:04:22+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/afrique/20261004-l-arm%C3%A9e-%C3%A9thiopienne-patrouille-dans-mekele-ses-rivaux-inquiets-se-r%C3%A9unissent-en-%C3%A9gypte"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/afrique/20261004-l-arm%C3%A9e-%C3%A9thiopienne-patrouille-dans-mekele-ses-rivaux-inquiets-se-r%C3%A9unissent-en-%C3%A9gypte"
         }
       ],
       "confirmation_count": 1
@@ -11143,6 +12267,264 @@
       "confirmation_count": 1
     },
     {
+      "id": "1de32a6199",
+      "title": "Tanzania to close schools early as El Niño rains loom",
+      "summary": "The decision was a precautionary measure aimed at protecting learners, teachers and other...",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-03T12:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/sustainability/climate/tanzania-close-schools-early-as-el-ni%C3%B1o-rains-loom-5618448"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/sustainability/climate/tanzania-close-schools-early-as-el-ni%C3%B1o-rains-loom-5618448"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "648fd2fbff",
+      "title": "Éthiopie : les combats se poursuivent",
+      "summary": "Tom Canetti, correspondant de France à Addis-Abeba, fait le point sur les combats qui se poursuivent en Éthiopie.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-03T10:20:28+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261003-%C3%A9thiopie-les-combats-se-poursuivent"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261003-%C3%A9thiopie-les-combats-se-poursuivent"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ea278b4a42",
+      "title": "L'armée éthiopienne est entrée dans Mekele, capitale du Tigré désertée par les forces rebelles",
+      "summary": "Les troupes fédérales éthiopiennes sont entrées samedi dans Mekele, a indiqué une source humanitaire à l'AFP. La capitale de l'État régional éthiopien du Tigré a été largement abandonnée plus tôt par les forces des autorités régionales rebelles.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-03T09:33:52+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/afrique/20261003-approche-armee-ethiopienne-forces-rebelles-quittent-en-masse-mekele-capitale-tigre"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/afrique/20261003-approche-armee-ethiopienne-forces-rebelles-quittent-en-masse-mekele-capitale-tigre"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4a4a15ae09",
+      "title": "Race for EA oil projects: $16bn Lamu refinery puts Ugandan plan to the test",
+      "summary": "Lamu is being positioned as a major regional refinery with a stated 40-month construction and...",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-03T05:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/race-for-ea-oil-projects-5617928"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/race-for-ea-oil-projects-5617928"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1ba9214ac5",
+      "title": "Interparty dialogue: South Sudan polls talks stutter as opposition stay away",
+      "summary": "The December vote is approaching with rival camps divided over the political transition.",
+      "country": "SSD",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-03T04:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/interparty-dialogue-south-sudan-polls-talks-5618050"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/interparty-dialogue-south-sudan-polls-talks-5618050"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0991e00b5b",
+      "title": "A regional war: Ethiopia troop pullout plan puts Somalia security under new strain",
+      "summary": "More than 3,000 soldiers could leave as fighting in Tigray intensifies, testing regional...",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-03T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/ethiopia-troop-pullout-plan-puts-somalia-security-under-strain-5617952"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/ethiopia-troop-pullout-plan-puts-somalia-security-under-strain-5617952"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0105f5852a",
+      "title": "South Sudan Election: Politicians Challenging Kiir for the presidency",
+      "summary": "President Salva Kiir, 82, the incumbent, has led South Sudan since its independence in 2011.",
+      "country": "SSD",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-03T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/kiir-opponents-in-december-elections-race-5618044"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/kiir-opponents-in-december-elections-race-5618044"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "bd1bec1c40",
+      "title": "Jeux olympiques de la jeunesse 2026 au Sénégal : la ministre des Sports, invitée de France 24",
+      "summary": "Pour la première fois de l'histoire, le continent africain accueille des Jeux olympiques, du 31 octobre au 13 novembre. Quelque 2 700 jeunes athlètes issus de 206 pays sont attendus à Dakar, Diamniadio et Saly. La mascotte Ayo a été dévoilée, 23 000 bénévoles ont candidaté, les infrastructures sont quasi finalisées. Mais le Sénégal est-il prêt ? Djirèye Clotilde Coly, ministre sénégalaise de la Jeunesse et des Sports, était notre invitée.",
+      "country": "SEN",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "fr",
+      "published": "2026-10-02T21:46:15+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261002-tunisie-le-d%C3%A9cret-loi-54-assoupli-la-peine-de-prison-pour-une-premi%C3%A8re-infraction-dispara%C3%AEt"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261002-tunisie-le-d%C3%A9cret-loi-54-assoupli-la-peine-de-prison-pour-une-premi%C3%A8re-infraction-dispara%C3%AEt"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "8674461640",
       "title": "VP Ndejembi Sees Tanzania Lead Africa in Connecting Power to Its Citizens As Per World Bank Statistics",
       "summary": "[Daily News] Dar es Salaam -- VICE President Deogratius Ndejembi said Tanzania leads Africa in connecting citizens to electricity services, citing World Bank statistics as evidence of the country's progress.",
@@ -11172,6 +12554,134 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610020386.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f6e617bb8a",
+      "title": "RD Congo : les combats dans l’Est persistent malgré les efforts de paix",
+      "summary": "En RD Congo, les combats se poursuivent dans l’est du pays, malgré les différents processus de paix engagés ces derniers mois. À l’ONU, Kinshasa et Kigali s’accusent mutuellement de ne pas respecter leurs engagements. Les précisions de la correspondante de France 24 à Kinshasa, Aurélie Bazzara-Kibangula.",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-02T15:11:26+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-rd-congo-les-combats-dans-l-est-persistent-malgr%C3%A9-les-efforts-de-paix"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-rd-congo-les-combats-dans-l-est-persistent-malgr%C3%A9-les-efforts-de-paix"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9516d7ffb3",
+      "title": "Sénégal : un podcast pour retracer la vie des tirailleurs sénégalais",
+      "summary": "Ils ont combattu loin de chez eux, au nom de la France, mais leur histoire reste encore largement méconnue. À Dakar, une nouvelle série de podcasts en français et en wolof, « Mémoires de tirailleurs », entend faire revivre leur parcours. Le projet a été présenté cet après-midi par la Maison de l’Oralité Keur Leyti, en partenariat avec l’ambassade de France au Sénégal. Les précisions d'Aminatou Diallo.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-02T15:04:50+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-s%C3%A9n%C3%A9gal-un-podcast-pour-retracer-la-vie-des-tirailleurs-s%C3%A9n%C3%A9galais"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261002-s%C3%A9n%C3%A9gal-un-podcast-pour-retracer-la-vie-des-tirailleurs-s%C3%A9n%C3%A9galais"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "dcf3c4ba85",
+      "title": "Eritrea cuts ties with Ethiopia over Asmara embassy closure",
+      "summary": "Addis Ababa had also declared 10 Eritrean diplomats persona non grata.",
+      "country": "ERI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-02T14:30:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/eritrea-cuts-ties-with-ethiopia-over-asmara-embassy-closure-5617584"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/eritrea-cuts-ties-with-ethiopia-over-asmara-embassy-closure-5617584"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5273186c59",
+      "title": "Ethiopian forces near Tigray capital, fears grow of wider conflict",
+      "summary": "Analysts fear the current conflict could spread beyond Ethiopia's borders.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-02T14:30:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/ethiopian-forces-near-tigray-capital-5617586"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/eastern-africa/ethiopian-forces-near-tigray-capital-5617586"
         }
       ],
       "confirmation_count": 1
@@ -11785,40 +13295,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "7907296cdf",
-      "title": "Child Malnutrition Is One of Africa's Biggest Health Challenges - Food Aid Is Only Part of the Solution",
-      "summary": "[Daily News] Dar es Salaam -- MALNUTRITION among children under five remains one of sub-Saharan Africa's most persistent public health challenges.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "GRANT"
-      ],
-      "lang": "en",
-      "published": "2026-10-01T05:12:10+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610010049.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610010049.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "fffe37e449",
       "title": "Government Approves Changes to Fiscal Regulations",
       "summary": "[AIM] Maputo -- Mozambican Government has approved amendments to regulations governing Corporate Income Tax (IRPC), value Added Tax (VAT) and Personal Income Tax (IRPS), \"aimed at improving the implementation of tax legislation and strengthening the efficiency of the tax system.\"",
@@ -11910,6 +13386,38 @@
           "name": "African Business",
           "tier": 2,
           "url": "https://african.business/2026/10/long-reads/what-do-nigerians-think-of-bola-tinubus-first-term"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3545549e04",
+      "title": "Samia Suluhu Hassan Rings Sweeping Changes",
+      "summary": "[Daily News] President Dr Samia Suluhu Hassan yesterday appointed 22 new District Commissioners (DCs) and transferred 26 others in changes aimed at improving the efficiency of government operations and following the retirement of some leaders.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-30T09:42:32+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609300204.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609300204.html"
         }
       ],
       "confirmation_count": 1
@@ -12683,38 +14191,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609280044.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "22d1de2084",
-      "title": "NGOs Praise Mozambican Government for Adopting 284 UPR Recommendations",
-      "summary": "[AIM] Maputo -- A group of three NGOs have praised the Mozambican government for adopting 284 of the 292 recommendations that are part of the fourth cycle of the UN Universal Periodic Review (UPR).",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-28T07:25:24+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609280043.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609280043.html"
         }
       ],
       "confirmation_count": 1
