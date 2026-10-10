@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-10T13:40:16.586757+00:00",
+  "generated_at": "2026-10-10T18:34:14.064563+00:00",
   "stats": {
-    "total_signals": 438,
+    "total_signals": 443,
     "verified_signals": 7,
     "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
+      "ETH": 59,
       "SSD": 3,
       "SEN": 32,
       "NGA": 50,
-      "KEN": 68,
+      "KEN": 71,
       "GHA": 34,
       "TZA": 33,
-      "ETH": 57,
       "CIV": 22,
       "UGA": 32,
       "MOZ": 39,
@@ -20,7 +20,7 @@
       "MUS": 3,
       "NER": 2,
       "BDI": 2,
-      "GNB": 9,
+      "GNB": 8,
       "SOM": 3,
       "TGO": 1,
       "BFA": 4,
@@ -28,12 +28,12 @@
       "DJI": 3,
       "RWA": 8,
       "MDG": 2,
+      "ERI": 2,
       "BEN": 2,
-      "SLE": 1,
-      "ERI": 1
+      "SLE": 1
     },
-    "west_signals": 184,
-    "east_signals": 254
+    "west_signals": 183,
+    "east_signals": 260
   },
   "sources": [
     {
@@ -278,6 +278,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "b2e5d75a9a",
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-10T14:49:32+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "e3b0013f9d",
       "title": "Soudan du Sud: la ville de Rumbek attaquée par un groupe armé, le gouvernement fait état de 71 morts",
@@ -1305,6 +1337,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "df36db9c58",
+      "title": "Mozambique Receptive to Opaia Motors Group Entry",
+      "summary": "[ANGOP] Calumbo -- Mozambique's Minister of Transport and Logistics, João Jorge Matlombe, on Tuesday welcomed the intention of Angolan group OPAIA Motors to establish a vehicle assembly plant in his country.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-09-30T23:29:20+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202609300771.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202609300771.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "ef3e09fa83",
       "title": "Did Tommy Songo Sustain Injury Before Liberia's Defeat to Mali?",
       "summary": "[Liberian Investigator] MONROVIA -- Questions have emerged over whether goalkeeper Tommy Songo sustained an injury after he withdrew from Liberia's starting lineup during the warm-up before Tuesday's 1-0 defeat to Mali in the 2027 Africa Cup of Nations qualifiers.",
@@ -1524,6 +1588,40 @@
           "name": "Financial Times · Africa",
           "tier": 1,
           "url": "https://www.ft.com/content/0f8276e5-92d3-4e37-bb7f-e8bc889346b2?syn-25a6b1a6=1"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "042afda383",
+      "title": "The Nigerian founders who turned travel frustrations into a fintech",
+      "summary": "Facing a backlog at the American Embassy in Lagos that threatened to run out of time for their interview window, Ayorinde and his team scrambled for help. Investor Kola Aina of Ventures Platform, which had backed the startup, intervened, according to Ayorinde, reaching out to contacts who could help expedite their visa interviews at the US embassy. The embassy eventually granted the visas with days to spare.",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [
+        "GRANT"
+      ],
+      "lang": "en",
+      "published": "2026-10-10T13:49:42+00:00",
+      "lead_source": {
+        "id": "techcabal",
+        "name": "TechCabal",
+        "tier": 2,
+        "url": "https://techcabal.com/2026/10/10/timon-founders-and-visa-hurdles/"
+      },
+      "confirming_sources": [
+        {
+          "id": "techcabal",
+          "name": "TechCabal",
+          "tier": 2,
+          "url": "https://techcabal.com/2026/10/10/timon-founders-and-visa-hurdles/"
         }
       ],
       "confirmation_count": 1
@@ -2459,6 +2557,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "32977ed12d",
+      "title": "Minister Muyingo Calls for Greater Investment in Youth Skills As EU-Uganda Study Fair Opens",
+      "summary": "[Nile Post] The acting Minister of Education and Sports Dr. Chrysestom Muyingo has called for greater investment in education, skills, research, innovation and entrepreneurship, saying Uganda's youthful population will only become a demographic dividend if the country equips young people to participate meaningfully in the economy.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-09T06:55:36+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610090227.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610090227.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "7289f53ae2",
       "title": "U.S. Embassy Issues Alert Over Potential Long-Range Attacks in Ethiopia",
       "summary": "[Reporter] The US Embassy in Addis Ababa issued a security alert warning of potential long-range attacks in Ethiopia, citing reports of recent strikes against military installations as conflict intensifies across the country's northern regions.",
@@ -2518,38 +2648,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610090122.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ef53122a70",
-      "title": "High Court Clears Way for Sh2.5mn IEBC Fine Against Gikaria",
-      "summary": "[Capital FM] Nairobi -- The High Court has dismissed Nakuru Town East MP David Gikaria's challenge against sanctions imposed by the Independent Electoral and Boundaries Commission (IEBC) over an Electoral Code of Conduct violation, clearing the way for enforcement of a Sh2.5 million fine and an order requiring him to issue a public apology and retraction.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-09T05:10:19+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610090111.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610090111.html"
         }
       ],
       "confirmation_count": 1
@@ -2934,6 +3032,38 @@
           "name": "Ventureburn",
           "tier": 2,
           "url": "https://ventureburn.com/ghana-cocoa-regulator-secures-288-million-to-pay-farmers/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4c0aae20be",
+      "title": "Trade to Energy - What Is Driving Stronger Rwanda-Kenya Ties?",
+      "summary": "[New Times] Rwanda and Kenya have signed 11 new MOUs (memoranda of understanding) but the latest agreements are only one part of a bilateral relationship being increasingly driven by trade, transport and logistics, energy, investment, tourism and the movement of people.",
+      "country": "KEN",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-08T11:42:56+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610080305.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610080305.html"
         }
       ],
       "confirmation_count": 1
@@ -4561,6 +4691,38 @@
       "confirmation_count": 2
     },
     {
+      "id": "a7d017a70c",
+      "title": "Uganda's Treasure Field - Prophecy As the Missing Catalyst for Fuel Security and Tenfold Growth",
+      "summary": "[Nile Post] In 2006, Italian football was rocked by a massive match-fixing scandal that exposed how Juventus had built their dominance on more than talent. Juventus general manager Luciano Moggi had a private line to the men appointing match referees, and the club knew which way a decision was likely to fall before the kick-off whistle even blew. That gave Juventus an edge that was hidden to other clubs.",
+      "country": "UGA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-09T06:55:35+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610090225.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610090225.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "1d8623221c",
       "title": "All of Africa Today - October 9, 2026",
       "summary": "[allAfrica]",
@@ -4615,38 +4777,6 @@
         }
       ],
       "confirmation_count": 5
-    },
-    {
-      "id": "493719e146",
-      "title": "Presidency Forecloses Return of Petrol Subsidy, Backs NNPCL's Target of N1,350 Petrol Cost Ceiling",
-      "summary": "[This Day] Abuja -- The Presidency on Thursday declared that the Bola Tinubu-led administration has no intention of going back to the fuel subsidy reform jettisoned over three years ago. Rather, it announced the introduction of",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-09T05:00:59+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610090096.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610090096.html"
-        }
-      ],
-      "confirmation_count": 1
     },
     {
       "id": "7541016135",
@@ -5564,6 +5694,198 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609140819.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b3b336b7d8",
+      "title": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
+      "summary": "People in northern Ethiopia are celebrating after a reported withdrawal of Eritrean forces accused of an incursion.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-10T16:54:56+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9942867d9a",
+      "title": "Eritrea urges UN to intervene in standoff with Ethiopia",
+      "summary": "The neighbouring countries blame one another for starting war amid heightened tensions and fears of a wider conflict.",
+      "country": "ERI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-10T16:41:25+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0c46283111",
+      "title": "Éthiopie: du TPLF aux milices Fano, qui défie le pouvoir d'Abiy Ahmed?",
+      "summary": "Quatre ans après la fin du conflit au Tigré, la guerre a repris en Éthiopie. Elle oppose l'armée fédérale à la Coalition des forces populaires éthiopiennes pour la survie, une alliance de groupes armés hostiles au gouvernement, dont l'objectif est de renverser le Premier ministre Abiy Ahmed. Mais depuis quelques jours, la contre-offensive de l'armée fédérale menée au Tigré fait craindre un embrasement régional. Qui sont ces groupes issus de toutes les régions d'Éthiopie,…",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-10T16:29:11+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261010-%C3%A9thiopie-du-tplf-aux-milices-fano-qui-d%C3%A9fie-le-pouvoir-d-abiy-ahmed"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261010-%C3%A9thiopie-du-tplf-aux-milices-fano-qui-d%C3%A9fie-le-pouvoir-d-abiy-ahmed"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c32123cd0f",
+      "title": "Kenya : les pertes agricoles, source de maladies mentales pour des agriculteurs ?",
+      "summary": "Au Kenya, des médecins affirment que l’imprévisibilité des rendements est source  de santé mentale pour certains membres de la communauté agricole.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-10T15:35:02+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/10/10/kenya-les-pertes-agricoles-source-de-maladies-mentales-pour-des-agriculteurs/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/10/10/kenya-les-pertes-agricoles-source-de-maladies-mentales-pour-des-agriculteurs/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "754a000308",
+      "title": "Unreliable weather creating mental health issues for Kenyan farmers",
+      "summary": "A Kenyan clinical psychologist is urging policymakers to incorporate mental wellbeing into farmer support programmes.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-10T15:12:41+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/10/10/unreliable-weather-creating-mental-health-issues-for-kenyan-farmers/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/10/10/unreliable-weather-creating-mental-health-issues-for-kenyan-farmers/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "06f0b1cdac",
+      "title": "Kenyan health ministry urges churches to raise awareness about Ebola",
+      "summary": "This follows the death in Nairobi on Monday of a Kenyan man who had travelled home from DR Congo through Uganda.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-10T13:52:55+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/10/10/kenyan-health-ministry-urges-churches-to-raise-awareness-about-ebola/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/10/10/kenyan-health-ministry-urges-churches-to-raise-awareness-about-ebola/"
         }
       ],
       "confirmation_count": 1
@@ -7525,6 +7847,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "f2c03b213e",
+      "title": "Chinese Embassy Explains One-China Principle",
+      "summary": "[Daily Trust] The Chinese Embassy has explained its One-China Principle, urging the Nigerian media to distinguish between reporting on Taiwan and descriptions that suggest the island is a sovereign country separate from China.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-09T12:06:30+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610090418.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610090418.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b69151b3a6",
+      "title": "Motorist Escapes Death As Train Collides With Car At Lagos PWD Rail Line",
+      "summary": "[Vanguard] Tragedy occurred on Thursday evening when a 55-year-old motorist narrowly escaped death after a moving train collided with his Honda car at the PWD Railway Line in Lagos.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-09T12:05:44+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610090417.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610090417.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "8bfde04c68",
       "title": "Council Urges Residents to Form Loan Groups",
       "summary": "[Daily News] Nzega -- RESIDENTS in Nzega Town Council have been urged to form groups to enable them to access loans provided by the council for economic empowerment.",
@@ -7810,38 +8196,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610090383.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1ebf0315dc",
-      "title": "Motorist Escapes Death As Train Hits Car At Lagos Railway Crossing",
-      "summary": "[Leadership] A 55-year-old motorist has escaped unhurt after a moving train collided with his Honda car at the PWD railway crossing in Lagos State, leaving the vehicle extensively damaged.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-09T11:02:45+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610090385.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610090385.html"
         }
       ],
       "confirmation_count": 1
@@ -8969,6 +9323,40 @@
       "confirmation_count": 1
     },
     {
+      "id": "0fc651c064",
+      "title": "Mityana Residents Seek Government Aid After Storm Destroys Crops, Houses",
+      "summary": "[Nile Post] Residents of Misigi Village in Mmanyi Sub-county, Busujju County, Mityana District, are seeking urgent government assistance after a storm accompanied by strong winds and hailstones destroyed crops, damaged houses and affected a local primary school.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [
+        "GRANT"
+      ],
+      "lang": "en",
+      "published": "2026-10-09T06:55:35+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610090226.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610090226.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "8bd4639b17",
       "title": "Why Moove is leaving the Nigerian market it was built in",
       "summary": "Moove's future is in robotaxi depots in the United States, so its Nigerian business, which had challenges, no longer represents a solid business.",
@@ -9321,38 +9709,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "031b5ef8f5",
-      "title": "Rwanda Urges Global Backing Against FDLR Threat, Hails Kenya Ties",
-      "summary": "[Capital FM] Nairobi -- Rwanda has called on the international community to support its efforts to address the threat posed by the FDLR militia in eastern Democratic Republic of Congo, as Kigali sought to rally diplomatic backing for its security concerns.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-09T05:10:21+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610090113.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610090113.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "0cd7c11cc0",
       "title": "Negelle Borana-Moyale Road Left Without Maintenance for Decades - Residents Demand Urgent Action",
       "summary": "[Addis Standard] Addis Abeba -- The vital road connecting Negelle Borana and Moyale in southern Oromia, a major trade and transport corridor linking the region to the Ethiopia-Kenya border, has reportedly remained largely without maintenance for decades, leaving residents facing severe transportation and economic hardships.",
@@ -9412,38 +9768,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610090098.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "91a44595af",
-      "title": "Inquest Confirms Joint Suicide of Three Nigerian Sisters",
-      "summary": "[Leadership] A UK coroner has formally ruled that three sisters of Nigerian descent took their own lives after drowning in the sea off Brighton beach in the early hours of May 13.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-09T05:00:57+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610090095.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610090095.html"
         }
       ],
       "confirmation_count": 1
@@ -9604,38 +9928,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610080567.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "31446628d7",
-      "title": "Rwanda Women Stumble to Ethiopia Claims First-Leg Advantage",
-      "summary": "[New Times] Rwanda's national women's football team face an uphill battle to reach the 2028 Olympic Games after suffering a narrow 1-0 defeat to Ethiopia in the first leg of the second qualifying round at Kigali Pelé Stadium on Wednesday evening.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-08T15:40:37+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610080525.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610080525.html"
         }
       ],
       "confirmation_count": 1
@@ -9828,38 +10120,6 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/10/08/kenya-lantidopage-au-coeur-des-preparatifs-des-mondiaux-2029/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "30a385b1f9",
-      "title": "Guiné-Bissau: PM de transição e CNE consideram que \"não há condições\" para eleições a 6 de Dezembro",
-      "summary": "Nesta quinta-feira, o presidente de transição tem estado a auscultar o governo e a Comissão Nacional de Eleições sobre as eleições gerais fixadas para o dia 6 de Dezembro. Desde já, o primeiro-ministro de transição Ilídio Vieira Té disse que não existem condições legais nem operacionais para a realização deste escrutínio. No mesmo sentido, a CNE também considerou que \"os prazos são impraticáveis\".",
-      "country": "GNB",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-10-08T14:10:27+00:00",
-      "lead_source": {
-        "id": "rfi-pt",
-        "name": "RFI Português",
-        "tier": 1,
-        "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20261008-guin%C3%A9-bissau-pm-de-transi%C3%A7%C3%A3o-e-cne-consideram-que-n%C3%A3o-h%C3%A1-condi%C3%A7%C3%B5es-para-elei%C3%A7%C3%B5es-a-6-de-dezembro"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-pt",
-          "name": "RFI Português",
-          "tier": 1,
-          "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20261008-guin%C3%A9-bissau-pm-de-transi%C3%A7%C3%A3o-e-cne-consideram-que-n%C3%A3o-h%C3%A1-condi%C3%A7%C3%B5es-para-elei%C3%A7%C3%B5es-a-6-de-dezembro"
         }
       ],
       "confirmation_count": 1
@@ -10665,6 +10925,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "d1664dceba",
+      "title": "El Ni&#xF1;o to Peak in December in Potentially Strongest Event Since 1950, Wmo Warns",
+      "summary": "[Capital FM] Nairobi -- El Niño is expected to reach its peak in December, with sea-surface temperatures in the central and eastern tropical Pacific forecast to hit record levels in what could become one of the strongest such events since at least 1950.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-08T08:02:51+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610080131.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610080131.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "56231297c4",
       "title": "How to Fix the Hamstrung Renewable Energy Sectors in SA, Ghana and Kenya",
       "summary": "[Daily Maverick] Despite demand, the potential of the renewable energy sectors in these countries is being held back by unstable demand, limited localisation enforcement, deficits in decent job creation and persistent gender biases, according to new reports.",
@@ -10692,70 +10984,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610080128.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "3c66e6c29b",
-      "title": "Museveni to Preside Over Scaled-Down Independence Day At State House",
-      "summary": "[Nile Post] Uganda will mark 64 years of independence on Friday with a scaled-down, largely virtual ceremony at State House, Entebbe, where President Yoweri Museveni is expected to preside.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-08T06:10:48+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610080064.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610080064.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "de97a81b29",
-      "title": "Military Police Deploy 537 Officers to Secure UCE Exams",
-      "summary": "[Nile Post] The Uganda Peoples' Defence Forces (UPDF) Military Police Brigade has deployed 537 officers and men to provide security during the Uganda Certificate of Education (UCE) examinations scheduled to start on October 12, 2026.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-08T06:10:47+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610080063.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610080063.html"
         }
       ],
       "confirmation_count": 1
@@ -11080,38 +11308,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610070587.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f3a6efe1c7",
-      "title": "Warfare - General Okiding Calls for Enhanced Intelligence-Led Operations",
-      "summary": "[Independent (Kampala)] Kampala -- The Deputy Chief of Defence Forces of the Uganda Peoples' Defence Forces (UPDF), Lt Gen Sam Okiding, has called for stronger intelligence-led, coordinated and proactive approaches to military operations beyond conventional warfare.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T15:35:13+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070578.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070578.html"
         }
       ],
       "confirmation_count": 1
@@ -13290,38 +13486,6 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609290518.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "13f7931de9",
-      "title": "Can Frelimo Keep Control for the Next Decade?",
-      "summary": "[Mozambique News Reports And Clippings] Gas could make Mozambique relatively wealthy, but not for another decade. Only one small floating platform is producing now, but that allowed an analysis of the contracts. Income is limited until all of the exploration and development costs are paid off, which takes about 8 years, and then there is a sudden income jump. Area 1 (TotalEnergies) will not start production until 2029-2030, and Area 4 (Exxon Mobil) three years later. So…",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-29T14:49:24+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609290435.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609290435.html"
         }
       ],
       "confirmation_count": 1
