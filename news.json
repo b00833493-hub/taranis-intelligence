@@ -1,35 +1,36 @@
 {
-  "generated_at": "2026-10-19T01:15:28.582813+00:00",
+  "generated_at": "2026-10-19T06:16:03.889134+00:00",
   "stats": {
-    "total_signals": 434,
-    "verified_signals": 6,
-    "countries_covered": 21,
+    "total_signals": 433,
+    "verified_signals": 7,
+    "countries_covered": 22,
     "sources_active": 40,
     "per_country": {
-      "CPV": 2,
+      "KEN": 67,
       "NGA": 50,
-      "MOZ": 43,
+      "MOZ": 41,
+      "MLI": 22,
       "TZA": 35,
-      "BFA": 5,
-      "KEN": 61,
+      "BFA": 4,
       "GHA": 37,
-      "ETH": 53,
-      "UGA": 39,
+      "ETH": 51,
+      "UGA": 38,
       "SOM": 10,
-      "SEN": 32,
-      "MLI": 20,
+      "SEN": 30,
       "CIV": 20,
-      "RWA": 14,
+      "MDG": 1,
+      "RWA": 13,
       "MUS": 3,
       "TGO": 1,
+      "CPV": 1,
       "NER": 1,
       "GMB": 2,
       "GNB": 1,
       "DJI": 3,
       "ERI": 2
     },
-    "west_signals": 171,
-    "east_signals": 263
+    "west_signals": 169,
+    "east_signals": 264
   },
   "sources": [
     {
@@ -275,10 +276,10 @@
   ],
   "signals": [
     {
-      "id": "a916120a15",
-      "title": "Espanha. Tempestade causa um morto na Catalunha",
-      "summary": "Mulher foi encontrada morta na praia após ter caído no sábado num curso de água, em Cabrera del Mar. Vários voos a partir de Ibiza foram cancelados, enquanto Valência está sob alerta vermelho.",
-      "country": "CPV",
+      "id": "eb3cb52902",
+      "title": "Massacre de Shakahola au Kenya: «Tous ne sont pas morts volontairement, tous n'ont pas jeûné volontairement»",
+      "summary": "Au Kenya, c’est aujourd’hui que la justice doit rendre son verdict dans le procès du pasteur de la mort, Paul Mackenzie, qui a ordonné à ses adeptes de mourir de faim pour « rencontrer Jésus ». Quelque 450 cadavres d’hommes, de femmes et d’enfants ont été retrouvés, en 2023, dans une forêt près de la ville côtière de Malindi. Ce gourou, qui lui-même ne s’est jamais laissé mourir de faim, a été arrêté et sera fixé aujourd’hui sur son sort. Mais est-ce un fou ou un…",
+      "country": "KEN",
       "category": "AUTRE",
       "severity": 4,
       "credibility": 2,
@@ -288,20 +289,308 @@
       "regulatory": false,
       "fdi": false,
       "sectors": [],
-      "lang": "pt",
-      "published": "2026-10-18T19:11:19+00:00",
+      "lang": "fr",
+      "published": "2026-10-19T05:45:54+00:00",
       "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/2026/10/18/tempestade-causa-um-morto-na-catalunha-e-destruicao-em-valencia-ibiza-e-maiorca/"
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261019-massacre-de-shakahola-au-kenya-tous-ne-sont-pas-morts-volontairement-tous-n-ont-pas-je%C3%BBn%C3%A9-volontairement"
       },
       "confirming_sources": [
         {
-          "id": "observador",
-          "name": "Observador",
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261019-massacre-de-shakahola-au-kenya-tous-ne-sont-pas-morts-volontairement-tous-n-ont-pas-je%C3%BBn%C3%A9-volontairement"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "99dda468c6",
+      "title": "Mackenzie Faces Verdict Over 191 Murder Charges in Shakahola Case",
+      "summary": "[Capital FM] Nairobi -- The High Court is set to rule on Monday whether controversial preacher Paul Nthenge Mackenzie and 30 co-accused are guilty of murdering 191 children, as families continue to seek answers over a tragedy in which the human rights commission documented 448 deaths.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:27:31+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190075.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
           "tier": 2,
-          "url": "https://observador.pt/2026/10/18/tempestade-causa-um-morto-na-catalunha-e-destruicao-em-valencia-ibiza-e-maiorca/"
+          "url": "https://allafrica.com/stories/202610190075.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c4184120f2",
+      "title": "5 Security Operatives Killed As Boko Haram Attacks Adamawa Communities",
+      "summary": "[Daily Trust] Five security operatives, including four soldiers and a Forest Guard, are feared killed in a suspected Boko Haram attack on Tela-Bala and Guyaku communities in Gombi Local Government Area of Adamawa State.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:13:11+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190071.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190071.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5466ee5bca",
+      "title": "13 Dead Following Road Accident in Tete",
+      "summary": "[AIM] Maputo -- At least 13 people have lost their lives and 20 others were injured following a road accident involving a Yutong passenger bus and a Toyota Hiace minibus in Changara district, in the western Mozambican province of Tete.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:24+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190062.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190062.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8f1c2ac9fe",
+      "title": "Nigeria 2027: Can Tinubu’s billionaires break Peter Obi’s hold on the southeast?",
+      "summary": "The president’s son, Seyi Tinubu, has recruited wealthy Igbo businessmen, built a grassroots campaign network and won the backing of powerful governors. But can money and political connections overturn the popular loyalty that delivered Peter Obi a landslide in 2023?",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:00:00+00:00",
+      "lead_source": {
+        "id": "africa-rep",
+        "name": "The Africa Report",
+        "tier": 2,
+        "url": "https://www.theafricareport.com/433708/nigeria-2027-can-tinubus-billionaires-break-peter-obis-hold-on-the-southeast/"
+      },
+      "confirming_sources": [
+        {
+          "id": "africa-rep",
+          "name": "The Africa Report",
+          "tier": 2,
+          "url": "https://www.theafricareport.com/433708/nigeria-2027-can-tinubus-billionaires-break-peter-obis-hold-on-the-southeast/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c372f49585",
+      "title": "Presidency Denies Withholding &#x20A6;250bn Nlng Dividends From States",
+      "summary": "[Vanguard] The Presidency has dismissed Oyo State Governor Seyi Makinde's claim that the Federal Government is withholding ₦250 billion in Nigeria LNG Limited (NLNG) dividends for each state until after the 2027 general elections.",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T04:46:25+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190047.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190047.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "db3b13af40",
+      "title": "Mali: HRW confirme l'exécution de soldats maliens par le Jnim et la mort de civils tués par l'armée",
+      "summary": "Dans un nouveau rapport publié ce lundi 19 octobre, l'organisation de défense des droits humains affirme que le Groupe de soutien à l'islam et aux musulmans (Jnim) lui a confirmé des exécutions sommaires de soldats maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi militaire parti d'Anefis, en juillet dernier. L'ONG Human Rights Watch (HRW) accuse également l'armée malienne et l'Africa Corps russe d'avoir tué et blessé plusieurs dizaines de…",
+      "country": "MLI",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-19T04:00:05+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261019-mali-hrw-confirme-l-ex%C3%A9cution-de-soldats-maliens-par-le-jnim-et-la-mort-de-civils-tu%C3%A9s-par-l-arm%C3%A9e"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261019-mali-hrw-confirme-l-ex%C3%A9cution-de-soldats-maliens-par-le-jnim-et-la-mort-de-civils-tu%C3%A9s-par-l-arm%C3%A9e"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2afce6949f",
+      "title": "Judgement day for Kenya pastor accused of ordering parents to starve their children to death",
+      "summary": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:44:02+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "64b32c2a8f",
+      "title": "Three Years On From Kenya's Shakahola Cult Murders, Families Still Seek Closure",
+      "summary": "[RFI] A court in Mombasa, Kenya, will on Monday deliver a long-awaited verdict in the Shakahola sect murder trial. Paul Nthenge Mackenzie, a self-proclaimed pastor, is accused of forcing church members, including children, to starve themselves to death in order to meet Jesus. Three years after the tragedy, families of the victims are hoping for closure so they can finally mourn their loved ones.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:39:40+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190013.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190013.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "fa86a56e8f",
+      "title": "Kenya: verdict attendu ce lundi dans le procès de Paul MacKenzie, le gourou accusé du massacre de Shakahola",
+      "summary": "La Haute Cour de Mombasa doit rendre sa décision ce lundi 19 octobre dans le procès pour meurtre du pasteur et de ses 29 co-accusés poursuivis pour la mort de plus de 530 personnes - en grande majorité des femmes et des enfants - dont les corps avaient été exhumés de fosses communes découvertes dans la forêt de Shakahola, dans l'est du Kenya, en 2023.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-19T03:11:29+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261019-kenya-verdict-attendu-ce-lundi-dans-le-proc%C3%A8s-de-paul-mackenzie-le-gourou-accus%C3%A9-du-massacre-de-shakahola"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261019-kenya-verdict-attendu-ce-lundi-dans-le-proc%C3%A8s-de-paul-mackenzie-le-gourou-accus%C3%A9-du-massacre-de-shakahola"
         }
       ],
       "confirmation_count": 1
@@ -883,136 +1172,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "d5cc37d21b",
-      "title": "2027 - Tinubu Issues Fresh Directive, Orders Security Agencies to Rescue All Kidnapped Victims",
-      "summary": "[Premium Times] The minister also dismissed allegations that underage recruits were being enlisted into the armed forces.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T08:36:20+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160139.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160139.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d40e4b5f67",
-      "title": "Federal Govt Moves to Raise Home Loans to N85m, Targets Informal Workers",
-      "summary": "[Leadership] The Federal Government is planning a major shake-up of Nigeria's housing finance system, with a proposed increase in the maximum mortgage loan to N85 million and a target of delivering 5,000 mortgages annually by 2028.",
-      "country": "NGA",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "DEBT"
-      ],
-      "lang": "en",
-      "published": "2026-10-16T07:32:19+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160107.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160107.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ec6401ae7a",
-      "title": "Gospel Singer Toluwanisings Is Dead",
-      "summary": "[Premium Times] His family confirmed his death.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T06:19:18+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160091.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160091.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b7bada82a2",
-      "title": "Cash Transfer Office Cannot Identify 'Beneficiaries' of N33.75 Billion Disbursement - Audit Report",
-      "summary": "[CJID] The National Cash Transfer Office (NCTO) said it paid ₦33.75 billion to 3.29 million citizens across 35 states in 2023. While there are no vouchers showing who received this money, the agency's accounts staff also blocked auditors from checking the bank records that would have confirmed the payments, the UDEME project of the Centre for Journalism Innovation and Development (CJID) has found.",
-      "country": "NGA",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T04:52:13+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160003.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160003.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "9e36034557",
       "title": "Phase-1 trial of Ebola vaccine gets underway in Uganda",
       "summary": "Scientists in the southern Ugandan city of Masaka are conducting a phase I trial of a candidate vaccine against the deadly Ebola Bundibugyo virus disease (BDBV), a strain for which no licensed vaccine or effective treatment currently exists.",
@@ -1431,38 +1590,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "242a7c2fb7",
-      "title": "Egypt Exacerbating Sudan's Civil War With Recent Massacre of Over 200 Civilians",
-      "summary": "[ENA] Addis Ababa -- Egypt has reportedly massacred at least 200 Sudanese miners and wounded many others in targeting mining sites in Sudan's North Al-Wadi area.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-13T05:23:37+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610130058.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610130058.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "2cb2162fc0",
       "title": "Chapo Calls for Voluntary Surrender of Illegal Firearms Before December Deadline",
       "summary": "[AIM] Maputo -- Mozambican President Daniel Francisco Chapo has warned that the authorities will forcibly collect illegally held firearms after December, when the deadline for their voluntary surrender, under a police amnesty programme, expires.",
@@ -1590,38 +1717,6 @@
           "name": "AllAfrica · Côte d'Ivoire",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610090063.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "298fd1e58c",
-      "title": "Government Announces Plan to Pay Its 81.3 Billion Meticais Debt to Suppliers",
-      "summary": "[AIM] Maputo -- The Mozambican government has announced a plan to pay its debt estimated at 81.3 billion meticais (around 1.27 billion US dollars at the current exchange rate), while introducing measures to prevent the accumulation of new unpaid commitments.",
-      "country": "MOZ",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-08T12:06:34+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610080359.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610080359.html"
         }
       ],
       "confirmation_count": 1
@@ -1883,6 +1978,492 @@
       "confirmation_count": 1
     },
     {
+      "id": "eecb3ef15d",
+      "title": "Military Attacks On Civilians, Insurgent Abuses",
+      "summary": "[HRW] African Union Should Act to Prevent Further Atrocities",
+      "country": "MLI",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-19T05:27:33+00:00",
+      "lead_source": {
+        "id": "aa-mli",
+        "name": "AllAfrica · Mali",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190078.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-mli",
+          "name": "AllAfrica · Mali",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190078.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "727ff03cc7",
+      "title": "Kisiki Hai Programme Revives Farms, Improves Harvests",
+      "summary": "[Daily News] Dodoma -- The initiative to regenerate over 32 million trees across 500,000 hectares of farmland undergoing restoration in various regions of the country is beginning to bear fruit, with farmers in Dodoma reporting improved maize harvests, better soil fertility and increased water retention following the regeneration of trees on their farms.",
+      "country": "TZA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:27:32+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190076.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190076.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "77a7a68663",
+      "title": "Blood Pressure Rising - Over 50% of Nigerians We Tested Had Hypertension and Over 65% Didn't Know It",
+      "summary": "[The Conversation Africa] Hypertension - persistent high blood pressure - is one of the biggest contributors to strokes, heart failure and cardiac arrests. It claims more than 10 million lives every year worldwide. But it's a largely treatable condition, manageable with relatively cheap medication and simple lifestyle changes.",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:24:34+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190074.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190074.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7ddc498c88",
+      "title": "Kenya Overtakes Ethiopia As East Africa's Largest Economy in Dollar Terms, IMF Estimates Show",
+      "summary": "[Addis Standard] Addis Abeba -- Kenya has overtaken Ethiopia as Eastern Africa's largest economy measured by nominal gross domestic product (GDP) in US dollar terms, according to the International Monetary Fund's (IMF) October 2026 World Economic Outlook (WEO), a shift largely attributed to exchange-rate movements rather than faster real economic growth.",
+      "country": "KEN",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:33+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190067.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190067.html"
+        },
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190067.html"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
+      "id": "c8a15c4fd8",
+      "title": "Govt Tightens Screening Amid Ebola Outbreak",
+      "summary": "[Daily News] Dar es Salaam -- THE government has strengthened health screening and surveillance for international travellers entering Tanzania following an Ebola Virus Disease (EVD) outbreak in the Democratic Republic of Congo (DRC) and a recent case involving a patient who travelled from the country to Kenya.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:23+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190060.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190060.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "eb6d151e03",
+      "title": "Ethiopia Reaffirms Commitment to Turning Development Financing Into Jobs",
+      "summary": "[ENA] Addis Ababa -- Ethiopia has reaffirmed its commitment to accelerating development financing and translating investments into tangible economic opportunities, with job creation, poverty reduction, and sustainable growth among its key priorities.",
+      "country": "ETH",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:12+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190051.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190051.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2a79cab331",
+      "title": "$7bn Deep Seaport - Ogun Govt Tackles PDP Candidate Over Alleged 'Broken Promise' Remark",
+      "summary": "[Premium Times] The state government said the Paris pact, investment commitments and project plans are verifiable while citing the 243.3km of roads delivered in Ogun East as evidence of development commitments",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T04:46:09+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190036.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190036.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9c6ea6d43c",
+      "title": "Madagascar: El Niño va aggraver l'insécurité alimentaire dans le sud du pays",
+      "summary": "El Niño va aggraver la crise alimentaire dans le Grand Sud malgache : telle est l’alerte lancée il y a quelques jours par Action contre la Faim. Le phénomène climatique mondial accentuera dans les prochains mois la sécheresse, dont souffre déjà cette partie du pays où plus de 2,5 millions de personnes sont actuellement confrontées à une insécurité alimentaire aiguë. L’ONG dit s’attendre à traverser la pire crise alimentaire depuis celle de 2021 dans le sud de la Grande Ile.",
+      "country": "MDG",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-19T04:28:24+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261019-madagascar-el-ni%C3%B1o-va-aggraver-l-ins%C3%A9curit%C3%A9-alimentaire-dans-le-sud-du-pays"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261019-madagascar-el-ni%C3%B1o-va-aggraver-l-ins%C3%A9curit%C3%A9-alimentaire-dans-le-sud-du-pays"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "878f05192b",
+      "title": "51 African Nations Participate in Dangote Refinery's Initial Public Offer",
+      "summary": "[This Day] Dangote Petroleum Refinery &amp; Petrochemicals yesterday announced that its ongoing Initial Public Offer (IPO) has attracted overwhelming participation from investors across Africa and the global investment community, with subscriptions received from more than 90 countries, including investors from 51 of Africa's 54 nations.",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:43:48+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190028.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190028.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "12a5ef8f06",
+      "title": "Peter Obi Media Office Faults Shettima Over Remarks On Its Presidential Candidate",
+      "summary": "[This Day] Abuja -- The Peter Obi Media Office, has criticised Vice-President Kashim Shettima over his description of the presidential candidate of the New Democratic Congress (NDC), Peter Obi, as \"diminished,\" urging political leaders to focus on candidates' records, policies and ideas rather than personal attacks.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:43:48+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190029.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190029.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ee50badbe0",
+      "title": "Tinubu Ministers, Others Absent From Ondo APC Campaign Council Inauguration",
+      "summary": "[Daily Trust] The absence of two ministers serving in President Bola Ahmed Tinubu's administration, alongside 11 of Ondo State's 12 National Assembly members and candidates, at the inauguration of the All Progressives Congress (APC) Presidential Campaign Council in Akure has raised questions about party cohesion ahead of the 2027 general elections.",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "FINANCING",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:43:46+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190026.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190026.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c3d99ed103",
+      "title": "We're Targeting 1m CNG-Powered Vehicles to Cut Transport Cost - Govt",
+      "summary": "[Daily Trust] The Federal Government has directed intensified efforts to promote Compressed Natural Gas (CNG) as a cheaper transport fuel and accelerate the rollout of one million CNG-powered vehicles nationwide.",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:43:46+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190025.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190025.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8e282cfe49",
+      "title": "Gombe PDP, APC Trade Words Over Attack On Pantami's Campaign Office",
+      "summary": "[Daily Trust] The reported vandalism of the campaign office of former Minister of Communications and Digital Economy, Prof Isa Ali Ibrahim Pantami, in Kumo, Akko Local Government Area of Gombe State, has triggered accusations and counter-accusations between the ruling All Progressives Congress (APC) and the opposition Peoples Democratic Party (PDP).",
+      "country": "NGA",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:43:44+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190022.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190022.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "36c061412b",
+      "title": "Dangote Refinery IPO Attracts Investors From 90 Countries",
+      "summary": "[Daily Trust] Dangote Petroleum Refinery &amp; Petrochemicals has announced that its ongoing Initial Public Offering (IPO) has attracted participation from investors across Africa and around the world.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:43:44+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190023.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190023.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7873d1987b",
+      "title": "500 Patients to Benefit From Surgeries in Zamb&#xE9;zia",
+      "summary": "[AIM] Maputo -- The Mozambican Health Ministry has launched surgical campaign aimed at covering 500 patients with hernias and hydroceles in the central province of Zambezia.",
+      "country": "MOZ",
+      "category": "RENEWABLE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:43:42+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190019.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190019.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "7f3983c6cc",
       "title": "Kenya confirms eighth Ebola case amid widening regional outbreak",
       "summary": "Kenyan health authorities say latest patient was likely exposed to the country's first Ebola case.",
@@ -1974,41 +2555,6 @@
           "name": "Financial Afrik",
           "tier": 2,
           "url": "https://www.financialafrik.com/2026/10/18/de-lomvs-au-ministere-de-lenergie-mohamed-ould-abdel-vetah-face-a-la-crise-electrique-mauritanienne/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "68cdb0191b",
-      "title": "Nigeria: le ministre des Finances exclut tout retour des subventions sur les importations d'essence",
-      "summary": "Lors d'une prise de parole en marge des assemblées annuelles du Fonds monétaire international (FMI) et de la Banque mondiale, Taiwo Oyedele a admis que la récente réduction du prix de l'essence dans les stations-service de la compagnie pétrolière nationale avait créé la confusion et soulevé de nombreuses interrogations parmi « les investisseurs, les agences de notations et les institutions multilatérales ».",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": true,
-      "sectors": [
-        "DFI",
-        "GRANT"
-      ],
-      "lang": "fr",
-      "published": "2026-10-18T02:57:55+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261018-nigeria-le-ministre-des-finances-exclut-tout-retour-des-subventions-sur-les-importations-d-essence"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261018-nigeria-le-ministre-des-finances-exclut-tout-retour-des-subventions-sur-les-importations-d-essence"
         }
       ],
       "confirmation_count": 1
@@ -2622,38 +3168,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "4b22bcf9d7",
-      "title": "Uda Targets 47,000 Grassroots Officials in Nyamira, Kisii",
-      "summary": "[Capital FM] Kisii -- The United Democratic Alliance (UDA) has launched a grassroots mobilisation drive in Nyamira and Kisii, targeting to recruit about 47,000 village-level officials as it seeks to strengthen its presence ahead of the 2027 General Election.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T11:27:15+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160275.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160275.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "ae23d2b44f",
       "title": "Hearts to Tame Vision in GPL Clash",
       "summary": "[Ghanaian Times] Fireworks are expected at the Nii Adjei Kraku Sports Complex in Tema New Town tomorrow when Accra Hearts of Oak face Vision FC in the Ghana Premier League Match day seven fixture.",
@@ -2841,40 +3355,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610160213.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a48d3a3dbb",
-      "title": "Ukaguzi Sacco Reports Sh47mn Loan Defaults, Flags Sh50mn Kuscco Investment",
-      "summary": "[Capital FM] Nairobi -- Ukaguzi Sacco reported Sh47.03 million in loan defaults in 2025, while recovery of a separate Sh50 million investment in KUSCCO Limited remained uncertain.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "DEBT"
-      ],
-      "lang": "en",
-      "published": "2026-10-16T10:24:39+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160205.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160205.html"
         }
       ],
       "confirmation_count": 1
@@ -3236,38 +3716,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "590a32aea0",
-      "title": "GES Interdicts Headmaster of Obuasi Shts Over Alleged Sexual Misconduct",
-      "summary": "[Ghanaian Times] The Management of the Ghana Education Service (GES) has interdicted Mr. Zakaria Abdulai, Headmaster of Obuasi Senior High Technical School in the Ashanti Region, pending a full-scale investigation into allegations of sexual misconduct involving students.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-15T05:36:49+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610150198.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610150198.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "8994b89056",
       "title": "Ethiopia Shifts Focus From Debt Relief to Investment At Global Summit",
       "summary": "[ENA] Addis Ababa -- Ethiopia is strengthening its international financial partnerships while shifting its focus from debt restructuring to attracting fresh investment capital, Governor of the National Bank of Ethiopia, Eyob Tekalign underscored.",
@@ -3558,38 +4006,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ccd83ae0be",
-      "title": "Ethiopia Powers Future Growth With 'Digital Ethiopia 2030' Vision, Says DPM Temesgen",
-      "summary": "[ENA] Addis Ababa -- Deputy Prime Minister Temesgen Tiruneh announced that Ethiopia is centering its long-term national prosperity on technology through the launch of the Digital Ethiopia 2030 vision.",
-      "country": "ETH",
-      "category": "MACRO",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-13T05:23:36+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610130057.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610130057.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "5d7986c021",
       "title": "Nigeria offers fuel discount in ‘pre-election sweetener’",
       "summary": "Move risks unnerving international investors wary about setbacks to President Bola Tinubu’s reform programme",
@@ -3782,38 +4198,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "58db9a3443",
-      "title": "Sernic and Bar Association to Exchange Professional Skills",
-      "summary": "[AIM] Maputo -- The Mozambican Bar Association (OAM) and the National Criminal Investigation Service (SERNIC) have agreed to strengthen cooperation on professional training in order to speed up the processing of criminal cases.",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-08T12:05:08+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610080356.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610080356.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "79a8b2a091",
       "title": "Rwanda, Senegal Agree to Link Businesses, Unlock Investment",
       "summary": "[New Times] Rwanda and Senegal agreed to work together to identify cross-border investment projects and connect businesses from the two countries under a new cooperation framework between their investment promotion agencies.",
@@ -3873,6 +4257,38 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/sport/olympics/articles/c9kgj0vj0gx4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7c5c1cfece",
+      "title": "Kenya confirms first case of Ebola",
+      "summary": "Virus spread from DR Congo, which is experiencing its worst outbreak",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-06T11:04:32+00:00",
+      "lead_source": {
+        "id": "ft-africa",
+        "name": "Financial Times · Africa",
+        "tier": 1,
+        "url": "https://www.ft.com/content/d4a2ee8a-e41f-437f-b5cc-827806a512e8?syn-25a6b1a6=1"
+      },
+      "confirming_sources": [
+        {
+          "id": "ft-africa",
+          "name": "Financial Times · Africa",
+          "tier": 1,
+          "url": "https://www.ft.com/content/d4a2ee8a-e41f-437f-b5cc-827806a512e8?syn-25a6b1a6=1"
         }
       ],
       "confirmation_count": 1
@@ -4166,6 +4582,178 @@
       "confirmation_count": 1
     },
     {
+      "id": "d98b17f3ac",
+      "title": "Mozambique: Government calls for coordinated international action against terrorism",
+      "summary": "The Mozambican government calls for coordinated international action to combat terrorism and violent extremism, arguing that dialogue, diplomacy, and cooperation among states are crucial tools for addressing current global challenges. This position was presented by the Minister of Justice, Mateus Saize, at the 52nd Session of the Council of Ministers of the Organization of Islamic…\nSource",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T06:09:04+00:00",
+      "lead_source": {
+        "id": "club-moz",
+        "name": "Club of Mozambique",
+        "tier": 2,
+        "url": "https://clubofmozambique.com/news/mozambique-government-calls-for-coordinated-international-action-against-terrorism/"
+      },
+      "confirming_sources": [
+        {
+          "id": "club-moz",
+          "name": "Club of Mozambique",
+          "tier": 2,
+          "url": "https://clubofmozambique.com/news/mozambique-government-calls-for-coordinated-international-action-against-terrorism/"
+        },
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190021.html"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
+      "id": "7e69076663",
+      "title": "Terrorists increasingly targeting civilians in three Cabo Delgado districts – ACLED",
+      "summary": "Islamic State Mozambique (ISM) has increasingly targeted civilians in the districts of Mocimboa da Praia, Muidumbe, and Macomia, in the southern Mozambican province of Cabo Delgado over the months of August and September. According to the latest report carried out by the independent conflict registration project ACLED (Armed Conflict Location and Event Data Project), the…\nSource",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T06:05:49+00:00",
+      "lead_source": {
+        "id": "club-moz",
+        "name": "Club of Mozambique",
+        "tier": 2,
+        "url": "https://clubofmozambique.com/news/terrorists-increasingly-targeting-civilians-in-three-cabo-delgado-districts-acled/"
+      },
+      "confirming_sources": [
+        {
+          "id": "club-moz",
+          "name": "Club of Mozambique",
+          "tier": 2,
+          "url": "https://clubofmozambique.com/news/terrorists-increasingly-targeting-civilians-in-three-cabo-delgado-districts-acled/"
+        },
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190020.html"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
+      "id": "a11a3586c5",
+      "title": "Nigeria Moves to Revive Joint Commissions With Sahelian Nations",
+      "summary": "[Daily Trust] The Federal Government has announced proactive steps to reactivate its moribund bilateral Joint Commissions with Niger, Mali, and Burkina Faso in a bid to rebuild direct economic integration and security partnerships across the Sahel.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:54:09+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190081.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190081.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1684ea6df6",
+      "title": "Ruto Pledges 12km Road Upgrade in Kapsabet, Four-Lane Highway",
+      "summary": "[Capital FM] Kapsabet -- President William Ruto has pledged to upgrade 12 kilometres of roads in Kapsabet and announced plans to expand the Eldoret-Kapsabet-Chavakali road into a four-lane highway.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:27:33+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190077.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190077.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5140c1edfa",
+      "title": "Ebola Cases Rise to 7 As 4 New Cases Detected in Quarantine",
+      "summary": "[Capital FM] Nairobi -- Kenya's confirmed Ebola cases have risen to seven after four new infections, including three health workers who treated the first patient, were detected among people in quarantine, the Ministry of Health has announced.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T04:12:55+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190032.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190032.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "803d245851",
       "title": "Togo: l'opposition et la société civile rejettent toujours tout dialogue avec le pouvoir",
       "summary": "Au Togo, plusieurs coalitions de partis d'opposition et d'organisations de la société civile rejettent toujours tout dialogue avec le pouvoir. Après la réforme constitutionnelle - mars 2024 - qui a changé le régime présidentiel en régime parlementaire, ces coalitions - regroupées dans le Manifeste Génération Togo - exigent la mise en place d'une période de transition.",
@@ -4225,38 +4813,6 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/afrique/20261018-somalie-le-calendrier-pour-les-%C3%A9lections-g%C3%A9n%C3%A9rales-est-d%C3%A9j%C3%A0-contest%C3%A9"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "5a6ebe3a62",
-      "title": "Burkina Faso: le gouvernement réforme les programmes d'histoire-géographie pour «décoloniser» les manuels scolaires",
-      "summary": "Élèves et professeurs font connaissance avec une nouvelle façon d’apprendre et d’enseigner l’histoire, la géographie et l'instruction civique au Burkina Faso. Avec la rentrée scolaire qui a eu lieu au début du mois d'octobre, la junte au pouvoir à Ouagadougou a inauguré une refonte des programmes en vue de « décoloniser » les manuels scolaires.",
-      "country": "BFA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-18T02:58:53+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261018-burkina-faso-le-gouvernement-r%C3%A9forme-les-programmes-d-histoire-g%C3%A9ographie-pour-d%C3%A9coloniser-les-manuels-scolaires"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261018-burkina-faso-le-gouvernement-r%C3%A9forme-les-programmes-d-histoire-g%C3%A9ographie-pour-d%C3%A9coloniser-les-manuels-scolaires"
         }
       ],
       "confirmation_count": 1
@@ -4620,38 +5176,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "60e62d6f7b",
-      "title": "Niger : le général Tiani interpellé sur le sort du journaliste Moussa Kaka",
-      "summary": "Dans une lettre ouverte datée du 14 octobre 2026, l’association togolaise Journalistes pour les Droits de l’Homme (JDHO) demande au président de la Transition du Niger, le général Abdourahamane Tiani, de clarifier la situation du journaliste Moussa Kaka, disparu depuis le 31 août 2026.\nSigné par son président Richard Aziague, journaliste de profession, le courrier rappelle que « depuis le 31 août 2026, le journaliste Moussa Kaka, directeur de la Radiotélévision Saraounia…",
-      "country": "NER",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-16T12:15:53+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/10/16/niger-le-general-tiani-interpelle-sur-le-sort-du-journaliste-moussa-kaka/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/10/16/niger-le-general-tiani-interpelle-sur-le-sort-du-journaliste-moussa-kaka/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "acea8f57f3",
       "title": "Explainer - What Ruto's New Tax Laws Mean for Motorists, Builders and KRA",
       "summary": "[Capital FM] Nairobi -- President William Ruto has signed two tax laws overhauling the financing and governance of the Kenya Revenue Authority (KRA), changing the taxation of construction materials and allowing the extension of the reduced 8 per cent VAT rate on petroleum products for a further 90 days.",
@@ -4679,70 +5203,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610160287.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "18b0fcbfc0",
-      "title": "Ruto Signs Fuel Vat Extension As Motorists React to Epra's Latest Price Review",
-      "summary": "[Capital FM] Nairobi -- President William Ruto has signed into law an extension of the reduced 8 per cent Value Added Tax (VAT) on petroleum products, days after the Energy and Petroleum Regulatory Authority (EPRA) applied the same rate in its latest fuel-price review.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T11:33:50+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160286.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160286.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9cd13e1ad0",
-      "title": "Senate Passes Bill Backing Akwa Ibom's Federal University of Technology",
-      "summary": "[Premium Times] The Senate passed the bill four years after the establishment of the university and a day after the university announced that it has secured approval for 12 additional degree programmes.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T11:32:18+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160283.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160283.html"
         }
       ],
       "confirmation_count": 1
@@ -4972,76 +5432,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "b213f983f3",
-      "title": "Nigeria, Ghana Strengthen Fisheries Cooperation, Stronger Vessel Controls",
-      "summary": "[Vanguard] Nigeria and Ghana are moving to strengthen maritime cooperation and tighten fisheries governance across the Gulf of Guinea, with renewed focus on combating Illegal, Unreported and Unregulated (IUU) fishing, improving vessel authorisation and strengthening monitoring, control and surveillance of fishing activities.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 4,
-      "verified": true,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T07:33:18+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160111.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160111.html"
-        },
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160111.html"
-        }
-      ],
-      "confirmation_count": 2
-    },
-    {
-      "id": "b76522f803",
-      "title": "Nigeria's Next Phase of Growth Must Reach More People and Places",
-      "summary": "[Vanguard] A business owner could win an order and still be unable to fulfill it. The road to the buyer may be impassable after heavy rain. Energy costs may have wiped out any possible margins or make the agreed price unworkable. Payment for the last service delivery may still be outstanding and at least 90 days past its due date. Indeed, the demand for the business service or product is real, but the conditions and enablers to turn such opportunities into growth are not…",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T07:33:16+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160108.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160108.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "647d2e7818",
       "title": "All of Africa Today - October 16, 2026",
       "summary": "[allAfrica]",
@@ -5158,50 +5548,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "7e8d9fe6c8",
-      "title": "Kenya confirms second Ebola case - a relative of the first victim",
-      "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 5,
-      "verified": true,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-14T17:23:01+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "ft-africa",
-          "name": "Financial Times · Africa",
-          "tier": 1,
-          "url": "https://www.ft.com/content/d4a2ee8a-e41f-437f-b5cc-827806a512e8?syn-25a6b1a6=1"
-        },
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160014.html"
-        }
-      ],
-      "confirmation_count": 3
-    },
-    {
       "id": "f1794f27ea",
       "title": "Ethiopia, France Seek Stronger Economic Cooperation Amid Reform Efforts",
       "summary": "[ENA] Addis Ababa -- An Ethiopian delegation led by Governor of the National Bank of Ethiopia (NBE), Eyob Tekalign held talks with Thomas Revial, Assistant Secretary at the French Treasury, on strengthening economic cooperation between the two countries on the sidelines of the 2026 IMF-World Bank Group Annual Meetings in Bangkok, Thailand.",
@@ -5282,7 +5628,7 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-10-13T12:55:33+00:00",
+      "published": "2026-10-13T12:55:35+00:00",
       "lead_source": {
         "id": "east-afr",
         "name": "The East African",
@@ -5333,38 +5679,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610130301.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c81743ad6c",
-      "title": "Ethiopia, IMF Discuss Strengthening Economic Partnership and Reforms",
-      "summary": "[ENA] Addis Ababa -- Governor of the National Bank of Ethiopia (NBE) Eyob Tekalign has held talks with Zeine Zeidane, Director of the African Department at the International Monetary Fund (IMF), on strengthening macroeconomic stability and advancing sustainable and inclusive economic growth in Ethiopia.",
-      "country": "ETH",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-13T05:23:35+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610130056.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610130056.html"
         }
       ],
       "confirmation_count": 1
@@ -5632,6 +5946,902 @@
       "confirmation_count": 1
     },
     {
+      "id": "22933a36c9",
+      "title": "Côte d’Ivoire : Henri Pépin Krou prend la tête de l’ANARE-CI",
+      "summary": "Un nouveau chapitre s’ouvre pour la gouvernance du secteur énergétique ivoirien. Nommé directeur général de l’Autorité nationale de régulation du secteur de l’Électricité (ANARE-CI) par le décret n° 2026-684 du 30 septembre 2026, Henri Pépin Krou a officiellement pris ses fonctions le 13 octobre. La cérémonie de passation de charges s’est tenue à Abidjan, sous la présidence de Souleymane Soro, directeur de cabinet adjoint du ministère des Mines, du Pétrole et de…",
+      "country": "CIV",
+      "category": "RENEWABLE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-19T05:55:45+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/10/19/cote-divoire-henri-pepin-krou-prend-la-tete-de-lanare-ci/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/10/19/cote-divoire-henri-pepin-krou-prend-la-tete-de-lanare-ci/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9c0e335d81",
+      "title": "Plateau Records 11,000 Tuberculosis Cases in 2026",
+      "summary": "[Daily Trust] Plateau State has recorded an estimated 11,000 tuberculosis (TB) cases in 2026, with 2,047 cases detected between July and September alone.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:54:09+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190082.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190082.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "94ef5ac86c",
+      "title": "Authorities Must Address Economic Grievances Driving Protests, End Repressive Tactics",
+      "summary": "[AI London] Kenyan authorities have increasingly used authoritarian tactics, including arbitrary arrests and detention, abductions, malicious prosecution of protesters, surveillance, and media repression, to crack down on protests against deepening economic hardship and the government's aggressive fiscal policies, Amnesty International said in a new report today.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:17:45+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190073.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190073.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6f68888527",
+      "title": "African Diplomats Urge Stronger African-Led Strategies, Sustained Dialogue, Local Ownership, Adequate Financing",
+      "summary": "[ENA] Addis Ababa -- African diplomats have called for stronger African-led strategies to address the continent's conflicts and security challenges.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:13:09+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190070.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190070.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "432c5e71cc",
+      "title": "Experts Worried As Isimba Dam Spillway Damages Unrepaired As Rains Loom",
+      "summary": "[Independent (Kampala)] Jinja, Uganda I Urn -- As the country enters a season of potentially enhanced rainfall, unresolved defects at Isimba Hydropower Plant have renewed fears about the dam being flooded by excess water.",
+      "country": "UGA",
+      "category": "RENEWABLE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": "HYDRO",
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:13:05+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190068.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190068.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0f4ccb238a",
+      "title": "TPLF Warns Against Movement Around Tigray Airports, Rejects Caretaker Administration",
+      "summary": "[Addis Standard] Addis Abeba -- The Tigray People's Liberation Front (TPLF) has warned residents against movement around airports in Tigray, alleging that the Ethiopian federal government is using aviation facilities for military purposes, while rejecting the newly established caretaker administration as illegitimate.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:33+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190066.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190066.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f61d2fe45f",
+      "title": "Eritrea Asks AU to Restore Representation After Ethiopia Expels Diplomats",
+      "summary": "[Addis Standard] Addis Abeba -- Eritrea has urged the African Union (AU) to take urgent measures to restore its representation at the organization's headquarters in Addis Abeba, saying Ethiopia's expulsion of 10 Eritrean diplomats has effectively deprived the country of its rights to participate in the continental body's activities.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:29+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190064.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190064.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "56e3fcc1cf",
+      "title": "Ethiopia Navy Expanding 'Robust Capabilities' to Neutralize Threats, Safeguard 'National Interests': Vice Admiral",
+      "summary": "[Addis Standard] Addis Abeba -- Ethiopia's Navy is expanding its training capacity, infrastructure and specialized combat units as it seeks to protect \"national interests and address  security threats\", Navy Commander-in-Chief Vice Admiral Kindu Gezu said in an interview with a state-owned media.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:27+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190063.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190063.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e03c106350",
+      "title": "Mwinyi Calls for Action On Biodiversity Pledges",
+      "summary": "[Daily News] Zanzibar -- ZANZIBAR President Hussein Mwinyi has called for concrete action, sustainable financing and community participation to translate global biodiversity commitments into tangible results that protect ecosystems and benefit local communities.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:22+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190059.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190059.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e56cfba12b",
+      "title": "Komboa Kenya to Begin Talks With Gachagua, Sifuna Camps On Joint 2027 Ticket",
+      "summary": "[Capital FM] Nairobi -- Democratic Action Party of Kenya (DAP-K) leader Eugene Wamalwa says the Kalonzo Musyoka-led Komboa Kenya alliance will begin talks next week with key opposition figures on a unified presidential ticket to challenge President William Ruto in 2027.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:21+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190058.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190058.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d1eca8e174",
+      "title": "MP Warns Parents Over Teen Pregnancies, Drug Abuse and Child Labour During School Holiday",
+      "summary": "[Capital FM] Kisii -- West Mugirango MP Stephen Mogaka has urged parents and guardians to closely supervise their children during the long school holiday, warning of risks including teenage pregnancies, drug abuse and child labour.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:20+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190057.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190057.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6b786f5678",
+      "title": "Why Ethiopia's Return to Red Sea Is Indispensable Asset for Regional Peace and Stability?",
+      "summary": "[ENA] Ethiopia has a long history of contributing to regional, continental and international peacekeeping missions, guided by its commitment to collective security, Pan-Africanism and regional stability. Its pursuit of reliable maritime access presents an opportunity to expand this role by contributing to maritime security, protecting international trade and promoting lasting peace across the Red Sea region.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:20+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190056.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190056.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8e6768af7b",
+      "title": "Nigerian Courts Must Stop Becoming 'Market Stalls' - Retired Justice Augie",
+      "summary": "[Daily Trust] A retired justice of the Supreme Court, Amina Adamu Augie, has warned that corruption within Nigeria's judiciary and legal profession is eroding public confidence in the administration of justice and transforming the courts from institutions of impartiality into what she described as \"market stalls.\"",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:17+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190054.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190054.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a8dd9f80fc",
+      "title": "MP Balaba Urges Parliament's Foreign Affairs Committee to Turn Induction Knowledge Into Effective Oversight",
+      "summary": "[Nile Post] Rubanda West Member of Parliament Bruce Balaba has called on members of Parliament's Foreign Affairs Committee to translate the knowledge gained during their induction into effective legislation, rigorous oversight and a foreign policy that delivers tangible benefits to Ugandans.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:14+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190053.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190053.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4ccbffabd1",
+      "title": "Mao Rejects Release of Political Detainees As Precondition for National Dialogue",
+      "summary": "[Nile Post] Justice Minister Norbert Mao has rejected calls by opposition leaders for the unconditional release of political detainees and the return of Ugandans living in exile to be made preconditions for the proposed national dialogue, arguing that the issues should instead be discussed at the negotiating table.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T05:11:13+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190052.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190052.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "db4174af61",
+      "title": "Troops Disrupt Illegal Arms-Trafficking Network in North-Central, Arrest One Over Alleged Kidnapping, Sexual Assault",
+      "summary": "[This Day] Abuja -- The Nigerian military has said that troops of the Joint Task Force, North-Central Operation Enduring Peace, have uncovered, tracked and disrupted an illegal arms-trafficking network in the North-central region, particularly in Plateau State. The troops also dismantled kidnapping networks in the state.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T04:46:21+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190045.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190045.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8ef1c2da7e",
+      "title": "Serap Sues INEC Over Failure to Account for '&#x20A6;126bn Electoral Funds'",
+      "summary": "[Premium Times] The funds were meant to buy ballot boxes, electoral devices and materials, sensitive materials and result sheets, vehicles and accreditation devices...",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T04:46:15+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190040.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190040.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8467b8ae8f",
+      "title": "Literary Icon Damian Opata Laid to Rest",
+      "summary": "[Premium Times] Late Mr Opata, who retired from the University of Nigeria, Nsukka (UNN) after many years of meritorious academic service, was engaged in community, state and national service before his demise.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T04:46:11+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190038.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190038.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1dba2a9026",
+      "title": "Gombe Community Gets 1mw Solar Power Plant After 17 Years Off National Grid",
+      "summary": "[Premium Times] The 1-megawatt (MW) solar mini-grid project is expected to benefit about 6,000 households and businesses inTalasse, Balanga Local Government Area of Gombe State",
+      "country": "NGA",
+      "category": "RENEWABLE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": "SOLAR",
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T04:46:10+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190037.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190037.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0f64096549",
+      "title": "Atiku's Ask AA Publishes Tough Questions, but Some Answers Leave Gaps",
+      "summary": "[Premium Times] A PREMIUM TIMES examination of 100 publicly available answers on Atiku Abubakar's Ask AA platform found that critical questions are published, but some responses omit requested records, financial figures or political commitments.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T04:46:08+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190035.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190035.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9b9aac8687",
+      "title": "Kenya Cases Rise to 8, Spreads to 8th Congo Province",
+      "summary": "[DW] A senior health official in Kenya said there have now been 8 Ebola infections in the country, while in DR Congo the disease has spread to an eighth province.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T04:41:40+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190034.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190034.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3448d34180",
+      "title": "Kenya Confirms Four New Ebola Cases, Including Three Health Workers",
+      "summary": "[Premium Times] The ministry said the fourth patient is a male relative of the first confirmed patient, who died after arriving in Kenya from the Democratic Republic of the Congo (DRC) on 3 October.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T04:12:16+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190031.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190031.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9971c5d892",
+      "title": "Growing Fatalities From Lassa Fever",
+      "summary": "[This Day] All stakeholders should do more to contain the scourge",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:43:49+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190030.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190030.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "37983186eb",
+      "title": "Kwankwaso Rules Out Withdrawal From Presidential Election, Rejects ADC Alliance",
+      "summary": "[This Day] Vice-Presidential candidate of the Nigeria Democratic Congress (NDC), Senator Rabiu Musa Kwankwaso, has ruled out withdrawing from the 2027 presidential race in favour of the African Democratic Congress (ADC) or any other political party, insisting that his joint ticket with Mr. Peter Obi, remained committed to contesting the election.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:43:47+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190027.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190027.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5d99a7d791",
+      "title": "Chakwera Returns to the Pulpit in Ghana After Presidency Shaped By Church Loyalists",
+      "summary": "[Nyasa Times] Former Malawi president and Assemblies of God minister Rev Dr Lazarus Chakwera has preached at a Thanksgiving and Sheba Day celebration held at Cedar Mountain Chapel International in Ghana.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:43:45+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190024.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190024.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e5e2547ac2",
+      "title": "Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
+      "summary": "[Africa CDC] Addis Ababa, Ethiopia, 17 October 2026",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:39:37+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190009.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190009.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "80c22c9b5e",
+      "title": "Nigeria Has Not Decided How to Regulate Chinese Businesses. Who Will Decide?",
+      "summary": "[African Arguments] In mid-September 2026, traders in the auto spare parts section of the Lagos International Trade Fair Complex protested against Chinese traders who sell directly to customers. One protester said the Chinese had 'built warehouses, rented shops and are now selling as we do as retailers.' Police called the protesters 'a few miscreants'.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-19T03:39:31+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610190001.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610190001.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "75cb68707a",
+      "title": "Niamey, la capitale du Niger, est à son tour touchée par les pénuries d'essence",
+      "summary": "Si Niamey avait jusqu'à présent été plutôt épargnée par les problèmes d'approvisionnement en carburant rencontrés par d'autres villes nigériennes, de longues files d'attente ont commencé à apparaître devant les stations-service de la cité, ce week-end. En cause : le manque de capacités de raffinage du pétrole produit localement, mais aussi la fin du recours au carburant de contrebande en provenance du Nigeria, dont l'utilisation est devenue trop coûteuse.",
+      "country": "NER",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-19T03:10:58+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261019-niamey-la-capitale-du-niger-est-%C3%A0-son-tour-touch%C3%A9e-par-les-p%C3%A9nuries-d-essence"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261019-niamey-la-capitale-du-niger-est-%C3%A0-son-tour-touch%C3%A9e-par-les-p%C3%A9nuries-d-essence"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "98930d04b3",
       "title": "Kinship and surveillance: The return of Somali piracy",
       "summary": "Somalia’s piracy crackdown leaves coastal fishermen struggling to survive.",
@@ -5723,38 +6933,6 @@
           "name": "Financial Afrik",
           "tier": 2,
           "url": "https://www.financialafrik.com/2026/10/18/breaking-news-vista-bank-burkina-moumounou-gnankambary-nomme-dg-pour-piloter-la-fusion-avec-societe-generale-burkina-faso/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "21414f4f73",
-      "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
-      "summary": "In Adigrat, a city close to the Eritrean border, residents recall recent drone strikes by Ethiopian forces",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-18T17:20:20+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -7074,198 +8252,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "91cbca0d3f",
-      "title": "Kumumanya Urges Local Council Leaders to Prioritise Service Delivery and Accountability",
-      "summary": "[Nile Post] The Permanent Secretary in the Ministry of Local Government, Ben Kumumanya, has urged newly elected local council leaders to prioritise service delivery, accountability and citizens' concerns to strengthen Uganda's decentralisation system.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T18:12:35+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160578.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160578.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c4eaab6413",
-      "title": "Judiciary Reviews Gender Policy to Improve Access to Justice",
-      "summary": "[Nile Post] The Judiciary has begun reviewing its Gender and Equity Policy to strengthen access to justice, eliminate institutional barriers and promote equal opportunities for judicial officers and other staff.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T18:12:34+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160575.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160575.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ef0b646fe2",
-      "title": "No Visa Card? No Problem As Travel By Momo Offers Ugandans a New Way to Book Flights",
-      "summary": "[Nile Post] Ugandans can now search for and book flights directly through the MoMo app using mobile money, offering an alternative to bank cards for online travel payments.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T18:12:34+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160576.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160576.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "55f3e6d7e7",
-      "title": "Principal Judge Warns Judges Against Rushing Plea Bargains to Clear Cases",
-      "summary": "[Nile Post] Principal Judge Jane Frances Abodo has cautioned judicial officers against prioritising case disposal figures over the quality of justice, warning that improperly handled plea bargains can violate the rights of accused persons and erode public confidence in the Judiciary.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T18:12:33+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160574.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160574.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "41335b83d7",
-      "title": "Power Tariffs Could Rise As Demand Overwhelms Distribution Network",
-      "summary": "[Nile Post] Electricity tariffs could rise as Uganda struggles to meet rapidly growing demand amid overloaded substations, ageing distribution equipment and persistent power outages, State Minister for Energy Sidronius Okaasai Opolot has warned.",
-      "country": "UGA",
-      "category": "RENEWABLE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T18:12:32+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160571.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160571.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "552976fa70",
-      "title": "Namirembe Diocese Honours Bishop Ssekkadde Two Years After His Death",
-      "summary": "[Nile Post] Namirembe Diocese and the family of former Bishop Samuel Balagadde Ssekkadde have held a memorial service to honour his life and ministry, reflecting on his contribution to the Church of Uganda and the wider community.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T18:12:32+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160572.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160572.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "b73728db2c",
       "title": "Tinubu Nominates Four New INEC National Commissioners, Two Resident Electoral Commissioners",
       "summary": "[Premium Times] President Tinubu urged the Senate to expedite the nominees' confirmation in view of the forthcoming general elections next January.",
@@ -7554,38 +8540,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "9e5332613d",
-      "title": "Junet Explains Absence From Raila Odinga's First Anniversary Memorial",
-      "summary": "[Capital FM] Nairobi -- National Assembly Minority Leader Junet Mohamed has explained his absence from the first anniversary memorial of former Prime Minister Raila Odinga, saying he declined to attend after noticing that former Deputy President Rigathi Gachagua was among those invited.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T13:38:06+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160449.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160449.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "df66adef73",
       "title": "Plum Is Not Plu, but Welcomes Gen. Muhoozi As Its Presidential Candidate",
       "summary": "[Independent (Kampala)] Kampala -- Cankara Moses Mwaka, the chief promoter of the Patriotic League of Uganda Movement (PLUM) has said he welcomes Gen. Muhoozi Kainerugaba to join them as they register the political party.",
@@ -7842,38 +8796,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ff3533f2b7",
-      "title": "Mozambique: Operation Smile conducts cleft surgeries for dozens of patients at Nampula Central Hospital",
-      "summary": "Around 200 Mozambicans with cleft lip and palate are awaiting surgery in Nampula, where the non-governmental organisation (NGO) Operation Smile plans to carry out 44 procedures this week to help address the problem. This is the third cleft surgery campaign organised by Operation Smile at Nampula Central Hospital in 2026 to correct the congenital malformation,…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T12:50:32+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-operation-smile-conducts-cleft-surgeries-for-dozens-of-patients-at-nampula-central-hospital/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-operation-smile-conducts-cleft-surgeries-for-dozens-of-patients-at-nampula-central-hospital/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "87bb8fba31",
       "title": "Les USA appellent à la retenue face aux tensions entre l’Éthiopie et l’Érythrée",
       "summary": "Le secrétaire d’État américain Marco Rubio a appelé à un apaisement de la situation dans la Corne de l’Afrique, alors que des combats font rage dans le nord de l’Éthiopie et que les tensions avec l’Érythrée voisine s’intensifient.",
@@ -7906,38 +8828,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "aa4d254a7b",
-      "title": "Rencontre avec Hortense Mudenge, directrice générale du Kigali International Financial Centre (KIFC)",
-      "summary": "« Nous construisons une infrastructure de mobilisation des capitaux en faveur de la finance durable en Afrique »\nÀ l’occasion du Carbon Markets Africa Summit 2026 (CMAS 2026) tenu du 13 au 15 octobre 2026 à Kigali, Hortense Mudenge, directrice générale du Kigali International Financial Centre (KIFC), expose la stratégie du Rwanda pour faire de l’Afrique un hub de structuration de la finance verte. Dans cet entretien avec Financial Afrik, elle revient sur la stratégie du…",
-      "country": "RWA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-16T12:10:48+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/10/16/rencontre-avec-hortense-mudenge-directrice-generale-du-kigali-international-financial-centre-kifc/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/10/16/rencontre-avec-hortense-mudenge-directrice-generale-du-kigali-international-financial-centre-kifc/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "724479aa21",
       "title": "Kwara - NSCDC Arrests Man Over Minor's Trafficking to Mali",
       "summary": "[Daily Trust] The Nigeria Security and Civil Defence Corps (NSCDC) has arrested a 22-year-old man for allegedly trafficking a 17-year-old girl from Kwara State to Mali after promising to secure her employment in Senegal.",
@@ -7965,70 +8855,6 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610160325.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "7ae42758bc",
-      "title": "Sifuna's Linda Mwananchi Movement Seeks to Expand Grassroots Support",
-      "summary": "[Capital FM] Nairobi -- The Linda Mwananchi Movement says it is attracting more members and prospective candidates as it seeks to expand its political presence ahead of the 2027 General Election.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T11:33:27+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160285.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160285.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "61fc16c511",
-      "title": "Police Remove DPO After Suspected Cultists Renovate Station",
-      "summary": "[Premium Times] A Facebook user identified the group as \"Aro Bagger\" and claimed that the police station was unveiled as part of the group's activities to mark its 2026 \"Humanitarian Day celebration\" on 15 October.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T11:33:09+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160284.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160284.html"
         }
       ],
       "confirmation_count": 1
@@ -8130,70 +8956,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "82f8e1c541",
-      "title": "Mozambique: 2nd edition of the Welding Olympics culminates in national award ceremony",
-      "summary": "The 2nd Edition of the Welding Olympics culminated on October 8th with a national award ceremony where distinguished participants from Maputo and Cabo Delgado were recognized before nearly 150 guests, including government representatives, training institutes, corporations, partners, and sponsors, strengthening the bridge between vocational training and the demands of Mozambican industry. The Welding Olympics serve…\nSource",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T11:30:18+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-2nd-edition-of-the-welding-olympics-culminates-in-national-award-ceremony/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-2nd-edition-of-the-welding-olympics-culminates-in-national-award-ceremony/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4eb392a29f",
-      "title": "Why Diri's Defence of Lagos-Calabar Coastal Highway Makes Him a 'Local Champion' - Duke",
-      "summary": "[Premium Times] Donald Duke accuses Bayelsa Governor Douye Diri of regionalism over his defence of the Lagos-Calabar Coastal Highway, questioning the project's feasibility, affordability, and necessity in the face of Nigeria's competing development priorities.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T11:29:15+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160281.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160281.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "a4555d85a1",
       "title": "US State Secretary calls for de-escalation by Ethiopia and Eritrea",
       "summary": "US Secretary of State Marco Rubio spoke by phone with Ethiopian Prime Minister Abiy Ahmed on Wednesday, urging dialogue under a peace deal agreed between Ethiopia and Eritrea in 2018.",
@@ -8221,38 +8983,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/10/16/us-state-secretary-calls-for-de-escalation-by-ethiopia-and-eritrea/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "82632901ad",
-      "title": "Reps Demand Enforcement of 18-Year Minimum Marriage Age",
-      "summary": "[Premium Times] The lawmakers called for coordinated action by federal and state governments, traditional and religious leaders and other stakeholders to tackle child marriage and improve girls' access to education, healthcare and economic opportunities.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T11:04:02+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160252.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160252.html"
         }
       ],
       "confirmation_count": 1
@@ -8578,38 +9308,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "76c2e5d486",
-      "title": "National Policing Bill to Reach National Assembly in a Week - Gbajabiamila",
-      "summary": "[Premium Times] \"The governors have one or two observations,\" Mr Gbajabiamila said, not giving details.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T10:34:57+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160219.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160219.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "c59f7dff1d",
       "title": "Kabuye to Present Dr Forms As Kassanda South Vote Recount Looms",
       "summary": "[Nile Post] National Unity Platform (NUP) candidate and former Kassanda South MP Frank Kabuye says he will present Declaration of Results (DR) forms from polling stations to support a vote recount scheduled for Friday, October 16, at Mubende High Court.",
@@ -8708,70 +9406,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "7a806969aa",
-      "title": "Tompolo Takes Tinubu's Campaign to Oyo, Donates 25 Vehicles",
-      "summary": "[Daily Trust] Government Ekpemupolo, widely known as Tompolo, has urged the people of Oyo State to rally behind President Bola Ahmed Tinubu's 2027 re-election bid, describing the incumbent president as \"one of their own\" deserving of a second term to complete the South's turn in office.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T10:32:51+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160211.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160211.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "cefa550ff3",
-      "title": "Senators Back Akpabio, Say No Contest in 2027",
-      "summary": "[Daily Trust] Lawmakers in the upper legislative chamber have declared that the position of the Senate President in the upcoming 11th National Assembly is not vacant, passing an early vote of confidence in the incumbent, Senator Godswill Akpabio.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T10:32:48+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160209.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160209.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "71020f64f8",
       "title": "Farmaajo Warns Somalia's Disputed Election Plan Could Trigger Civil Conflict",
       "summary": "[Capital FM] Nairobi -- Former Somali President Mohamed Abdullahi Farmaajo has warned that the country's disputed electoral process could deepen political divisions and trigger civil conflict, calling for an agreement on inclusive elections involving the federal government, regional states and opposition groups.",
@@ -8799,70 +9433,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610160199.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4d6e75bb09",
-      "title": "KDF Eastern Command Chief Visits Kenyan Troops in Somalia to Assess Readiness, Welfare",
-      "summary": "[Capital FM] Nairobi -- Kenya Defence Forces (KDF) troops serving in Somalia have received a leadership visit focused on operational readiness, discipline and personnel welfare as they continue their mission under the African Union Support and Stabilization Mission in Somalia (AUSSOM).",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "OPERATIONAL",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T10:20:32+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160198.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160198.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "5a5ce9018c",
-      "title": "Matteo Marchisio Assumes Ifad Country Director Role in Kenya",
-      "summary": "[Capital FM] Nairobi -- The International Fund for Agricultural Development (IFAD) has appointed Matteo Marchisio as its new Country Director and Representative to Kenya, with the next phase of cooperation set to take shape as the organisation prepares a new country strategy in 2027.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T10:20:08+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160197.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160197.html"
         }
       ],
       "confirmation_count": 1
@@ -8932,38 +9502,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "aa1f1634cb",
-      "title": "MPs Summon Buy Now Pay Later Firms Over Consumer Complaints",
-      "summary": "[Capital FM] Nairobi -- The National Assembly's Finance and National Planning Committee has moved to review Buy Now Pay Later (BNPL) services following complaints from customers over alleged exploitation and debt recovery practices.",
-      "country": "KEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T10:04:06+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160174.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160174.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "ea9e18d929",
       "title": "RD Congo : la majorité réagit à la création du front de Joseph Kabila",
       "summary": "En République démocratique du Congo, les réactions se multiplient au sein de la majorité après la création du Front pour la refondation de la nation, dirigé par l’ancien président Joseph Kabila. Ce nouveau mouvement politico-militaire entend prendre le relais de l’AFC/M23, soutenu par le Rwanda, qui contrôle de vastes territoires dans les provinces du Nord-Kivu et du Sud-Kivu. Les précisions de la correspondante de France 24 à Kinshasa.",
@@ -8991,70 +9529,6 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/vid%C3%A9o/20261016-rd-congo-la-majorit%C3%A9-r%C3%A9agit-%C3%A0-la-cr%C3%A9ation-du-front-de-joseph-kabila"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1d993113c8",
-      "title": "Les USA veulent restructurer la dette du Sénégal en moins d’un an",
-      "summary": "Les États-Unis souhaitent accélérer la restructuration de la dette du Sénégal, avec un objectif : boucler le processus en moins d’un an.",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-16T09:53:32+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/10/15/senegal-washington-veut-restructurer-la-dette-en-moins-dun-an/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/10/15/senegal-washington-veut-restructurer-la-dette-en-moins-dun-an/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "10f2407a06",
-      "title": "Scam Alert! Ignore Posts Advertising Nigeria Customs Service's Recruitment 'Replacement Form'",
-      "summary": "[Africa Check] The Nigeria Customs Service (NCS) is the government agency responsible for controlling goods entering and leaving the country.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T09:33:15+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160150.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160150.html"
         }
       ],
       "confirmation_count": 1
@@ -9124,102 +9598,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "f393217810",
-      "title": "NAHCON Pushes Sustainable Hajj Fund Management Digital Transformation At Global Forum",
-      "summary": "[Premium Times] NAHCON emphasised the importance of coordination among relevant agencies, stronger institutional partnerships, and robust digital systems to protect Hajj operations from global financial volatility.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T08:59:23+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160146.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160146.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "54e052b48f",
-      "title": "Suspected Bandit Arrested After Foiled Ambush in Plateau",
-      "summary": "[Premium Times] Security personnel recovered an AK-47 rifle after foiling an ambush on a school staff member and his son in Barkin Ladi Local Government Area of Plateau State, according to BYM.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T08:59:22+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160144.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160144.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "8cc5011a54",
-      "title": "APC Proposes 12-State Campaign Tour for Tinubu Ahead of 2027 Elections",
-      "summary": "[Premium Times] President Bola Tinubu is expected to appear at APC presidential campaign rallies in 12 states between October 2026 and January 2027 under a proposed nationwide mobilisation programme ahead of the 2027 elections.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T08:59:22+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160145.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160145.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "191b59c4b2",
       "title": "Au Sénégal, pourquoi Pastef se heurte à répétition à la censure du Conseil constitutionnel",
       "summary": "Depuis les législatives de 2024, pas moins de dix textes de loi émanant du parti d’Ousmane Sonko ont été censurés par les « sages ». Décryptage d’un bras de fer institutionnel qui vient encore de rebondir.",
@@ -9284,38 +9662,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "3daea8015c",
-      "title": "Why Tinubu Will Not Campaign in All 36 States - Campaign Council",
-      "summary": "[Premium Times] The council said the president had assessed the country's electoral map and decided that sustaining the gains of his administration was more important than embarking on a nationwide campaign tour.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T08:36:21+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160140.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160140.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "8922a7251a",
       "title": "UN Committee Backs Western Sahara's Decolonisation Status in 152-Vote Decision",
       "summary": "[Capital FM] Nairobi -- The United Nations General Assembly's Fourth Committee has reaffirmed Western Sahara's status as a decolonisation issue, with 152 countries, including Morocco, voting in favour of an annual resolution amid a decades-long dispute over the territory's political future.",
@@ -9348,10 +9694,42 @@
       "confirmation_count": 1
     },
     {
-      "id": "384342cf53",
-      "title": "Atiku, Obi to Tinubu - 'You Can't Campaign Through Surrogates'",
-      "summary": "[Vanguard] Abuja -- Former Vice President Atiku Abubakar has challenged President Bola Tinubu to defend his record before Nigerians rather than hide behind governors, ministers and defectors campaigning for his re-election, saying political surrogates cannot shield him from public anger over economic hardship.",
-      "country": "NGA",
+      "id": "4833aaade3",
+      "title": "Nigeria, Ghana Strengthen Fisheries Cooperation, Stronger Vessel Controls",
+      "summary": "[Vanguard] Nigeria and Ghana are moving to strengthen maritime cooperation and tighten fisheries governance across the Gulf of Guinea, with renewed focus on combating Illegal, Unreported and Unregulated (IUU) fishing, improving vessel authorisation and strengthening monitoring, control and surveillance of fishing activities.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-16T07:33:18+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610160111.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610160111.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1cd860f7ca",
+      "title": "Gachagua Explains Absence From Raila's First Anniversary",
+      "summary": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has explained his absence from the first-anniversary commemorations of former Prime Minister Raila Odinga, saying he was in the United States attending a previously scheduled programme.",
+      "country": "KEN",
       "category": "AUTRE",
       "severity": 1,
       "credibility": 2,
@@ -9364,17 +9742,17 @@
       "lang": "en",
       "published": "2026-10-16T07:32:18+00:00",
       "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202610160106.html"
+        "url": "https://allafrica.com/stories/202610160105.html"
       },
       "confirming_sources": [
         {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202610160106.html"
+          "url": "https://allafrica.com/stories/202610160105.html"
         }
       ],
       "confirmation_count": 1
@@ -9508,38 +9886,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "b1bb222a0b",
-      "title": "Oburu Breaks Silence On Health, Hits Out At Rumour-Mongers",
-      "summary": "[Capital FM] Nairobi -- ODM party leader Oburu Odinga has hit back at those who speculated about his health and whereabouts during his prolonged absence from public life, insisting that he was entitled to keep his medical condition private.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T05:14:35+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160034.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160034.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "8f26dbc7b6",
       "title": "Ethiopia's New Political Chapter - Sovereign Sea Access At the Heart of National Ambition",
       "summary": "[ENA] Ethiopia's new five-year political chapter opens with a defining national ambition: building a peaceful, democratic and prosperous state while pursuing sovereign access to the sea. Under the Medemer Government, the government is highly anticipated to translating its electoral mandate into tangible improvements in citizens' lives while strengthening Ethiopia's strategic position in the Horn of Africa.",
@@ -9599,38 +9945,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610160031.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b570d9d5fd",
-      "title": "Ruto Opens Huduma Centre in Eldama Ravine",
-      "summary": "[Capital FM] Baringo -- President William Ruto has opened a Huduma Centre in Eldama Ravine, Baringo County, to bring government services closer to residents.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-16T05:14:32+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610160030.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610160030.html"
         }
       ],
       "confirmation_count": 1
@@ -9732,10 +10046,10 @@
       "confirmation_count": 1
     },
     {
-      "id": "b9036ba2ab",
-      "title": "Governors, Federal Ministry of Education, Others to Host Education Summit in Abuja From December 8 to 10",
-      "summary": "[This Day] Abuja -- State governors in conjunction with the Committee of States' Commissioners of Education in Nigeria (COSCEN), and collaboration with Federal Ministry of Education (FME) will host the 2026 Nigeria Education Forum (NEF) on December 9 and 10 at the Abuja Continental Hotel, Abuja.",
-      "country": "NGA",
+      "id": "9f0f035a86",
+      "title": "WHO Urges Vigilance After Kenya Confirms Second Ebola Case",
+      "summary": "[UN News] The World Health Organization (WHO) continues to support Kenya's efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency's representative in the country said on Thursday.",
+      "country": "KEN",
       "category": "AUTRE",
       "severity": 1,
       "credibility": 2,
@@ -9746,19 +10060,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-10-16T05:04:54+00:00",
+      "published": "2026-10-16T04:58:07+00:00",
       "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202610160016.html"
+        "url": "https://allafrica.com/stories/202610160014.html"
       },
       "confirming_sources": [
         {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202610160016.html"
+          "url": "https://allafrica.com/stories/202610160014.html"
         }
       ],
       "confirmation_count": 1
@@ -9924,70 +10238,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "52b9af2796",
-      "title": "US wants to see Senegal’s debt restructuring completed within a year",
-      "summary": "A top US Treasury official highlighted Dakar's case as an example of improvements in sovereign debt restructuring.",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-15T16:09:13+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/10/15/us-wants-to-see-senegals-debt-restructuring-completed-within-a-year/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/10/15/us-wants-to-see-senegals-debt-restructuring-completed-within-a-year/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e4c0ff6830",
-      "title": "Nigeria's Fiscal Crisis Forced Us to Be Creative, Look Beyond Oil Revenues - Cardoso",
-      "summary": "[Premium Times] \"When you are going through a crisis, it forces you to be creative,\" Mr Cardoso said.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-15T15:17:42+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610150469.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610150469.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "c982fc2367",
       "title": "Uganda, Juba mull seeking AfDB support to rebuild Juba-Nimule road",
       "summary": "President Museveni called for cooperation in road reconstruction, development of a cross-border...",
@@ -10081,38 +10331,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/news/world/israeli-diplomats-vote-in-nairobi-as-nation-heads-into-tense-election-5633092"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4221780bee",
-      "title": "Ghana’s cocaine coast: Who is letting the traffickers through?",
-      "summary": "Tonnes of cocaine are slipping through Ghana’s ports and turning up in Europe. Customs officers face prosecution, but questions remain over how such huge shipments escaped detection and who allowed them through.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-15T12:11:41+00:00",
-      "lead_source": {
-        "id": "africa-rep",
-        "name": "The Africa Report",
-        "tier": 2,
-        "url": "https://www.theafricareport.com/433698/ghanas-cocaine-coast-who-is-letting-the-traffickers-through/"
-      },
-      "confirming_sources": [
-        {
-          "id": "africa-rep",
-          "name": "The Africa Report",
-          "tier": 2,
-          "url": "https://www.theafricareport.com/433698/ghanas-cocaine-coast-who-is-letting-the-traffickers-through/"
         }
       ],
       "confirmation_count": 1
@@ -10438,6 +10656,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "6978db5d9b",
+      "title": "Bottom Line - Uganda Must Earn More Dollars Than It Spends - Year After Year",
+      "summary": "[Independent (Kampala)] In simple words, Uganda needs to earn more dollars than it spends, year after year. That is the real foundation of a strong economy.",
+      "country": "UGA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-15T10:31:11+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610150314.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610150314.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "a7fea9f1b2",
       "title": "Uganda, Kenya Agree to Scrap Barriers Choking Cross-Border Trade",
       "summary": "[Independent (Kampala)] Kampala -- Uganda and Kenya have agreed to remove remaining barriers that restrict the free movement of goods between the two countries, reaffirming their commitment to the East African Community Common Market as officials concluded a joint meeting in Kampala on Monday.",
@@ -10497,6 +10747,38 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610150301.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "26fa4266cd",
+      "title": "Kyabazinga Calls for Greater Role of Kingdom Structures in Community Healthcare",
+      "summary": "[Nile Post] The Kyabazinga of Busoga, William Gabula Nadiope IV, has called on the Ministry of Health to strengthen collaboration with cultural institutions to improve health promotion and disease prevention at the community level.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-15T10:21:05+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610150300.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610150300.html"
         }
       ],
       "confirmation_count": 1
@@ -10689,38 +10971,6 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/afrique/20261015-tradition-festive-crime-pourquoi-bouquets-argent-font-ils-pol%C3%A9mique-afrique-ghana"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "872db3a744",
-      "title": "Police Arrest Man Captured in Viral Video Assaulting Woman",
-      "summary": "[Ghanaian Times] The Agona Nkwanta District Police Command has arrested a man seen in a viral video assaulting a woman.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-15T05:36:50+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610150199.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610150199.html"
         }
       ],
       "confirmation_count": 1
@@ -11466,102 +11716,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ca9385aa8d",
-      "title": "Why Z'bar's History Cannot Be Told Without Tanzania's Founding Father",
-      "summary": "[Daily News] Zanzibar -- AS Tanzania marks the anniversary of Mwalimu Julius Kambarage Nyerere's death today, October 14, voices from Zanzibar reflect on his enduring legacy and influence on the Union, the 1964 Zanzibar Revolution and the formation of Chama Cha Mapinduzi (CCM).",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-14T10:52:36+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610140272.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610140272.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b21b976e45",
-      "title": "Nyerere Remembered As a Devoted Family Man",
-      "summary": "[Daily News] Dar es Salaam -- AS Tanzania today marks 27 years since the death of Mwalimu Julius Kambarage Nyerere, it is important to remember that, beyond being the country's founding father, he was also a husband and father whose family life was shaped by his commitment to national leadership.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-14T10:51:59+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610140271.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610140271.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1cb7c36db2",
-      "title": "Fight Against Development Enemies - Tanzania Makes Headway",
-      "summary": "[Daily News] Dar es Salaam -- TANZANIA has made significant progress in tackling the three enemies of development identified by the founding father, the late Mwalimu Julius Nyerere, according to analysts.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-14T10:51:42+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610140270.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610140270.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "8fcd257ef4",
       "title": "Formule 1 : un Grand Prix au Rwanda au début des années 2030",
       "summary": "La Formule 1 fera son retour en Afrique « au début des années 2030 », avec un Grand Prix au Rwanda. Un événement historique pour le continent, qui n’a plus accueilli de course de F1 depuis 1993, année du dernier Grand Prix organisé en Afrique du Sud.",
@@ -11685,6 +11839,38 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/business-tech/tanzanian-beekeeper-i-started-honey-empire-with-10-hives--5630466"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a032733f59",
+      "title": "Ghana Urges Liberia to Digitize Procurement to Curb Abuse of Public Resources",
+      "summary": "[Liberian Observer] Ghanaian Ambassador to Liberia, H.E. Godwin Baletum Amonzem, has urged Liberian authorities to embrace digital procurement systems as a means of reducing administrative discretion, strengthening public oversight and curbing opportunities for the misuse of state resources.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-13T22:58:59+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610130681.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610130681.html"
         }
       ],
       "confirmation_count": 1
@@ -12076,70 +12262,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "1b94575182",
-      "title": "PM Abiy Calls for National Unity, Shared Responsibility On Ethiopia's 19th National Flag Day",
-      "summary": "[ENA] Addis Ababa -- Prime Minister Abiy Ahmed has called on Ethiopians to strengthen national unity, embrace their diversity, and take collective responsibility for the country's prosperity as Ethiopia marks its 19th National Flag Day under the theme \"Our Flag for National Consensus and Unity.\"",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-13T05:18:11+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610130047.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610130047.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "92b72e4d42",
-      "title": "Global Flashpoints - Conflict, Climate and Economic Risks Shape a Week",
-      "summary": "[ENA] Global affairs during the week of October 4 to 10, 2026, were shaped by security tensions, diplomatic efforts to contain conflicts, economic uncertainty and mounting climate risks. Developments in the Middle East and Eastern Europe underscored the challenges of protecting civilian populations, maintaining international trade and safeguarding economic stability amid geopolitical uncertainty.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-13T05:18:10+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610130046.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610130046.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "b8f7806da1",
       "title": "Eritrean Incursions Raise Fears of a Wider Regional War in Ethiopia",
       "summary": "[The New Humanitarian] Addis Ababa -- Three scenarios - all grim - on how the renewed conflict in Tigray could develop.",
@@ -12231,72 +12353,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/lawyers-lobbies-defend-tanzanian-comrade-facing-chopping-block-5629820"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "3a6c6e34e3",
-      "title": "Ethiopia's Economic Diplomacy Takes Center Stage At 2026 IMF-World Bank Meetings",
-      "summary": "[ENA] Addis Ababa -- An Ethiopian delegation led by National Bank of Ethiopia (NBE), Governor Dr. Eyob Tekalign has arrived in Bangkok, Thailand, to participate in the 2026 Annual Meetings of the International Monetary Fund and the World Bank Group, opening opportunities to advance Ethiopia's economic priorities and strengthen international development partnerships.",
-      "country": "ETH",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "DFI"
-      ],
-      "lang": "en",
-      "published": "2026-10-12T14:56:13+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610120510.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610120510.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c71d265da5",
-      "title": "Flag Day Renews Commitment to Ethiopia's Unity, Development - HPR Speaker",
-      "summary": "[ENA] Addis Ababa -- House of Peoples' Representatives (HPR) Speaker Ahmed Shide said Ethiopia's National Flag Day represents a renewed commitment by citizens to national unity and development.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-12T14:54:57+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610120507.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610120507.html"
         }
       ],
       "confirmation_count": 1
@@ -12846,38 +12902,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "8cf4e87aca",
-      "title": "Interior Minister Calls for Responsible Management Across PRM Branches",
-      "summary": "[AIM] Maputo -- The Interior Minister Paulo Chachine calls for responsible administrative management across the various branches of the Mozambican Police (PRM).",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-07T15:32:20+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610070570.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610070570.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "a7ef53a312",
       "title": "Arthur Goldstuck Brings The African Edge To CIO100 2026",
       "summary": "Arthur Goldstuck will deliver the keynote at the CIO100 Symposium 2026 in Diani, Kenya. Set for 25 November 2026, Goldstuck,...\nSource",
@@ -13065,38 +13089,6 @@
           "name": "Financial Times · Africa",
           "tier": 1,
           "url": "https://www.ft.com/content/f77c61bd-ed39-4e20-b8d3-7c62dba74001?syn-25a6b1a6=1"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "31e6b2ca97",
-      "title": "Mozambique's Army Is Losing a Crucial Counter-Insurgency Battle",
-      "summary": "[ISS] Foreign training has strengthened the army, but abuses against civilians undermine the community support needed to defeat insurgents.",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-05T10:32:06+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610050289.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610050289.html"
         }
       ],
       "confirmation_count": 1
@@ -14219,38 +14211,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "cfc320c6a4",
-      "title": "Afcon 2027 Qualifiers - Renard Begins Cote d'Ivoire Rebuild With Eight Newcomers",
-      "summary": "[CAF] Hervé Renard has named eight new faces in his first Cote d'Ivoire squad since returning as head coach, signalling the start of a new cycle for the Elephants ahead of their TotalEnergies CAF Africa Cup of Nations 2027 qualifying campaign.",
-      "country": "CIV",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-17T10:22:42+00:00",
-      "lead_source": {
-        "id": "aa-civ",
-        "name": "AllAfrica · Côte d'Ivoire",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609170188.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-civ",
-          "name": "AllAfrica · Côte d'Ivoire",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609170188.html"
         }
       ],
       "confirmation_count": 1
