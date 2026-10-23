@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-22T22:19:20.438974+00:00",
+  "generated_at": "2026-10-23T01:29:55.670265+00:00",
   "stats": {
-    "total_signals": 457,
+    "total_signals": 456,
     "verified_signals": 12,
     "countries_covered": 24,
     "sources_active": 40,
     "per_country": {
+      "MDG": 7,
       "NGA": 58,
-      "UGA": 38,
+      "UGA": 37,
       "RWA": 12,
       "ETH": 41,
-      "KEN": 64,
+      "KEN": 66,
       "TZA": 34,
-      "GIN": 4,
+      "GIN": 3,
       "GMB": 3,
       "SSD": 3,
-      "CIV": 25,
+      "CIV": 26,
       "MOZ": 41,
       "BFA": 4,
       "MLI": 28,
-      "SEN": 46,
-      "GHA": 38,
+      "SEN": 44,
+      "GHA": 37,
       "MUS": 2,
       "TGO": 2,
-      "MDG": 6,
       "GNB": 1,
       "BDI": 2,
       "NER": 1,
@@ -31,8 +31,8 @@
       "CPV": 1,
       "DJI": 1
     },
-    "west_signals": 211,
-    "east_signals": 246
+    "west_signals": 208,
+    "east_signals": 248
   },
   "sources": [
     {
@@ -277,6 +277,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "2fe351b44f",
+      "title": "Octobre rose: à Madagascar, une campagne de dépistage gratuit mais des soins qui restent coûteux",
+      "summary": "Octobre rose bat son plein à Madagascar, avec des campagnes de dépistage gratuit des cancers du sein et du col de l’utérus. Le cancer tue plus de 14 000 personnes par an dans le pays, dont 8 000 femmes, selon l’AIEA, une agence des Nations unies. Pour les malades, le dépistage n’est qu’une première étape. Viennent ensuite des soins coûteux, un système de santé saturé, et le poids du tabou.",
+      "country": "MDG",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-22T22:58:17+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261022-octobre-rose-%C3%A0-madagascar-une-campagne-de-d%C3%A9pistage-gratuit-mais-des-soins-qui-restent-co%C3%BBteux"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261022-octobre-rose-%C3%A0-madagascar-une-campagne-de-d%C3%A9pistage-gratuit-mais-des-soins-qui-restent-co%C3%BBteux"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "d104267f9e",
       "title": "Dangote Mulls Upward Review of $100bn Vision 2030",
@@ -2238,6 +2270,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "e3e5ad8c49",
+      "title": "Fuel At the Pump, the Dollar in the Market and the Cost of Losing Confidence",
+      "summary": "[Nile Post] When fuel prices rise, the filling station is where the problem becomes visible. But Uganda's rising fuel prices tell a much bigger economic story than the numbers displayed at the pump. They reveal the country's exposure to exchange-rate volatility, climate-related agricultural risks, dependence on imported inputs and the economic cost of weakening investor confidence.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:56:26+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220721.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220721.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "456aaac923",
+      "title": "Momo Pledges to Turn Customer Feedback Into Service Improvements",
+      "summary": "[Ghanaian Times] MobileMoney (MoMo) FinTech Limited has pledged to translate customer feedback into practical service improvements following concerns raised at its MoMo Cashless Conversations customer forum.",
+      "country": "GHA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "FINANCING",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T22:30:45+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220688.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220688.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "91c50103df",
       "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
       "summary": "Health officials are investigating where Nigeria's first patient, confirmed this week, was infected.",
@@ -2427,38 +2523,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610220541.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "3a7f32f83c",
-      "title": "Traffic Police Launch Festive Season Road Safety Operations in Savannah Region",
-      "summary": "[Nile Post] Traffic Police have launched road safety operations in the Savannah Region ahead of the festive season, targeting reckless driving, drunk driving, overloading and other traffic violations blamed for road crashes.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-22T16:49:20+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610220537.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610220537.html"
         }
       ],
       "confirmation_count": 1
@@ -3360,38 +3424,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "3c0cc02468",
-      "title": "Let No Eligible Girl Miss the Hpv Vaccine",
-      "summary": "[Ghanaian Times] The nationwide human papillomavirus (HPV) vaccination campaign launched by the Ghana Health Service (GHS) is an important public health intervention that deserves the full support of parents, schools, communities and all stakeholders. The campaign offers Ghana a practical opportunity to protect thousands of girls from cervical cancer and other diseases associated with HPV infection.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-21T17:46:09+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610210709.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610210709.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "f2b3ef5ec2",
       "title": "Ghana High Commission Admits Clerical Errors in Records of 15 South Africa Evacuees",
       "summary": "[Ghanaian Times] The Ghana High Commission in Pretoria, South Africa, has admitted clerical errors in the records of 15 out of the 1,964 Ghanaians evacuated from the country, following a JoyNews data analysis that raised questions about the dates of birth recorded for some beneficiaries.",
@@ -3805,38 +3837,6 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/afrique/20261020-nigeria-annonce-premier-cas-virus-ebola-abuja"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "be741cba7a",
-      "title": "Sénégal: des centaines de travailleurs se mobilisent avant une grève générale annoncée pour trois jours",
-      "summary": "Au Sénégal, 72 heures de grève générale ont été décrétées à compter de ce mercredi 21 octobre. Le mouvement est lancé par le Front syndical pour la défense du travail (FSDT), un collectif qui rassemble 13 syndicats – incluant le secteur de la santé, l’éducation ou encore le transport. Malgré l’appel à reculer lancé par le gouvernement mardi, les travailleurs maintiennent leur mot d’ordre.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-20T20:01:28+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261020-s%C3%A9n%C3%A9gal-des-centaines-de-travailleurs-se-mobilisent-avant-une-gr%C3%A8ve-g%C3%A9n%C3%A9rale-annonc%C3%A9e-pour-trois-jours"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261020-s%C3%A9n%C3%A9gal-des-centaines-de-travailleurs-se-mobilisent-avant-une-gr%C3%A8ve-g%C3%A9n%C3%A9rale-annonc%C3%A9e-pour-trois-jours"
         }
       ],
       "confirmation_count": 1
@@ -5062,6 +5062,166 @@
       "confirmation_count": 1
     },
     {
+      "id": "cc55fdcd99",
+      "title": "Goldbod Must Turn Job Gains Into Lasting Prosperity",
+      "summary": "[Ghanaian Times] The disclosure that reforms introduced by the Ghana Gold Board (GoldBod) have created 4,866 direct jobs in less than two years is welcome news.",
+      "country": "GHA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:11+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220717.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220717.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0f70cdce2c",
+      "title": "Ignite Targets African Entrepreneurs With Digital Commerce Model",
+      "summary": "[Ghanaian Times] IGNITE Social Enterprise has announced the expansion of its lifestyle and wellness product ecosystem alongside the official unveiling of its Global Advisory Board, featuring Ghanaian media icon and CEO of EIB Network Group, Nathan Kwabena Anokye Adisi, popularly known as \"Bola Ray.\"",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:07+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220710.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220710.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b7b3e5d6ea",
+      "title": "Goldbod Reforms Create 4,866 Jobs &#xB7; Small-Scale Mining Support Programme Planned for 2027 - CEO",
+      "summary": "[Ghanaian Times] The institutional, licensing and value-addition reforms introduced by the Ghana Gold Board have created 4,866 direct jobs in less than two years, Chief Executive Officer, Mr Sammy Gyamfi, has disclosed.",
+      "country": "GHA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:06+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220709.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220709.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4d03bc9624",
+      "title": "Au Nigeria, les chauffeurs sont toujours en colère un mois après le départ d'Uber",
+      "summary": "À Lagos, commander une course sur les applications de transport à la demande est devenu un parcours du combattant. Depuis le départ d'Uber en septembre dernier, la demande a du mal à être satisfaite par les applications restantes. D’autant plus lorsque les chauffeurs entament des grèves pour revendiquer l’amélioration de leurs conditions de travail. Ils réclament une baisse des commissions pour encaisser la flambée du carburant.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-22T23:06:09+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261022-au-nigeria-les-chauffeurs-sont-toujours-en-cole%CC%80re-un-mois-apre%CC%80s-le-de%CC%81part-d-uber"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261022-au-nigeria-les-chauffeurs-sont-toujours-en-cole%CC%80re-un-mois-apre%CC%80s-le-de%CC%81part-d-uber"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c56249bd95",
+      "title": "Sénégal: l'État fait un pas vers la reprise des contrats publicitaires avec la presse privée",
+      "summary": "Au Sénégal, se dirige-t-on vers un apaisement des relations entre l’État et la presse privée ? Dans une note rendue publique cette semaine, le Premier ministre Ahmadou Al Aminou Lô a donné « un avis favorable » pour lever la suspension des contrats publicitaires signés entre l’État et les médias. Ils sont gelés depuis juillet 2024 sur décision de l’ancien chef de gouvernement Ousmane Sonko. Une mesure qui a fait souffrir plusieurs groupes privés.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-22T22:24:48+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261022-s%C3%A9n%C3%A9gal-l-%C3%A9tat-fait-un-pas-vers-la-reprise-des-contrats-publicitaires-avec-la-presse-priv%C3%A9e"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261022-s%C3%A9n%C3%A9gal-l-%C3%A9tat-fait-un-pas-vers-la-reprise-des-contrats-publicitaires-avec-la-presse-priv%C3%A9e"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b978229b4e",
       "title": "Sénégal, banques : l’APBEF-SN adopte une nouvelle identité visuelle",
       "summary": "L’Association Professionnelle des Banques et Établissements Financiers du Sénégal (APBEF-SN) annonce le changement de son identité visuelle, désormais construite autour du baobab comme emblème et de la signature « La voix du secteur bancaire sénégalais ».Figure emblématique du patrimoine sénégalais, le baobab évoque à la fois l’ancrage, la solidité et la transmission. Il renvoie également à l’esprit du pénc, espace traditionnel de rassemblement, d’échange et de…",
@@ -5572,38 +5732,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "d858bf6040",
-      "title": "Ebola: «Aucun pays n'est à l'abri si on ne renforce pas la surveillance», affirme le Dr Jean Kaseya",
-      "summary": "Le Nigeria est sous le choc après l'annonce d'un premier cas Ebola en provenance d'Ouganda. Le docteur Jean Kaseya informe jeudi 22 octobre que cette patiente n'est jamais passée au préalable par la RDC, ce qui veut dire que, contrairement au discours officiel de Kampala, le virus circule en Ouganda. Cette patiente n'a été diagnostiquée Ebola que 16 jours après son arrivée au Nigeria, poursuit le médecin, ce qui signifie qu'il y a aujourd'hui beaucoup de cas contacts.…",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-22T05:19:51+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261022-ebola-aucun-pays-n-est-%C3%A0-l-abri-si-on-ne-renforce-pas-la-surveillance-affirme-le-dr-jean-kaseya"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261022-ebola-aucun-pays-n-est-%C3%A0-l-abri-si-on-ne-renforce-pas-la-surveillance-affirme-le-dr-jean-kaseya"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "3cd41e51e2",
       "title": "Obituary - Prominent Kenyan Oromo Scholar, Anthropologist Professor Abdullahi Shongolo Passes Away",
       "summary": "[Addis Standard] Addis Abeba -- Professor Abdullahi Shongolo, a prominent scholar of history and anthropology whose research on Borana Oromo culture, customary law, and history brought international attention to the community's rich heritage, passed away on 20 October at the age of 68 at Nanyuki Hospital in Kenya, following an illness from which he did not recover.",
@@ -5640,38 +5768,6 @@
         }
       ],
       "confirmation_count": 2
-    },
-    {
-      "id": "1fe356594c",
-      "title": "GHS Begins Nationwide HPV Vaccination Campaign in Schools",
-      "summary": "[Ghanaian Times] The Ghana Health Service (GHS) yesterday began an intensified human papillomavirus (HPV) vaccination campaign in schools nationwide to increase vaccine uptake among girls aged nine to 14.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-21T17:46:08+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610210708.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610210708.html"
-        }
-      ],
-      "confirmation_count": 1
     },
     {
       "id": "a854250b99",
@@ -6332,6 +6428,454 @@
       "confirmation_count": 1
     },
     {
+      "id": "15ad755e9b",
+      "title": "Uganda Waragi Unveils UG Yard Party to Redefine Kampala's Youth Party Culture",
+      "summary": "[Nile Post] Uganda Waragi, in partnership with creative mastermind Josh SB, has officially unveiled the UG Yard Party, a multi-faceted entertainment experience aimed at redefining youth party culture in Kampala.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:57:32+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220722.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220722.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "20af56a999",
+      "title": "Lovers Reggaefest - George Mulindwa Keeps Ugandan Diaspora Connected Through Music and Love",
+      "summary": "[Nile Post] For four years, George Mulindwa has given Ugandans living in the United States a reason to brave the February cold, dress up and celebrate love to the rhythms of reggae.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:55:14+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220720.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220720.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e0f64c0655",
+      "title": "First National Bank Ghana Joins 'Run for a Cure' Race",
+      "summary": "[Ghanaian Times] Employees and customers of First National Bank Ghana will participate in Run for a Cure, a breast cancer awareness run in Accra on Saturday.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:12+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220718.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220718.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "cc57c8acf8",
+      "title": "Korea Embassy Donates Protective Equipment to GTF",
+      "summary": "[Ghanaian Times] The Korea Embassy in Accra yesterday presented five boxes of uniforms and protective equipment to the Ghana Taekwondo Federation (GTF) in Accra.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:12+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220719.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220719.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "9c339a41c0",
+      "title": "Fidelity Bank Completes 15th School Under Orange Impact Initiative",
+      "summary": "[Ghanaian Times] Fidelity Bank Ghana has completed its commitment to build or renovate 15 basic schools in underserved communities across Ghana with the inauguration of newly constructed and renovated facilities at Ogome Anglican Basic School in the Yilo Krobo Municipality.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:10+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220715.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220715.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c000b75695",
+      "title": "Ho Queen Mother Champions Child Immunisation",
+      "summary": "[Ghanaian Times] The Queen Mother of Ho-Dome, Mama Atrato II, has stressed the need for mothers and expectant women to regularly avail their children for routine immunisation to protect them against preventable childhood killer diseases.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:10+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220716.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220716.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "61600571b4",
+      "title": "Police Arrest 41 in Lapaz, Chantan Anti-Crime Operation",
+      "summary": "[Ghanaian Times] Forty one people have been arrested in an intelligence-led operation targeting suspected criminal and narcotics related activities at Lapaz and Chantan in Accra.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:09+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220713.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220713.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "91cb70b93e",
+      "title": "Minority Leader Withdraws Defamation Suit Against Goldbod, NEIP CEOs",
+      "summary": "[Ghanaian Times] Minority Leader in Parliament, Alexander Kwamena Afenyo-Markin has withdrawn his defamation suit against Eric Adjei, the Chief Executive Officer of the National Entrepreneurship and Innovation Programme (NEIP).",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:09+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220714.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220714.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "09269fb6a0",
+      "title": "GRA Clears Say Cheers of Tax Non-Compliance Allegation",
+      "summary": "[Ghanaian Times] The Ghana Revenue Authority (GRA) has cleared Say Cheers of allegations of tax non-compliance following checks on the company's transactions, attributing the earlier concerns to miscommunication between the authority and the taxpayer.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:08+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220712.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220712.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5b77652350",
+      "title": "David S. Anthony Declares Bid for NDC Deputy Organiser Position",
+      "summary": "[Ghanaian Times] A staunch member of the National Democratic Congress (NDC), David Selassie Anthony, popularly known as Dee Mayor, has declared his intention to contest for the position of Deputy National Organiser of the party, pledging to strengthen grassroots mobilisation ahead of the 2028 general elections.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:07+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220711.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220711.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7a592ad543",
+      "title": "Establish Independent Child Protection Body in Schools - Cri",
+      "summary": "[Ghanaian Times] Child Right International (CRI) has called for the elevation of the existing Counselling Unit of the Ghana Education Service to the level of an authority to enable it to gain greater independence.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T23:54:06+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220708.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220708.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "286e681ce1",
+      "title": "Au Kenya, la filière lait bientôt fournie par les bufflonnes?",
+      "summary": "Et si le Kenya se mettait au lait de bufflonne ? C’est une proposition récemment faite par le président, William Ruto, lors du sommet kényan sur l’agriculture et l’agro-industrie. La filière lait connaît une crise d’approvisionnement. Depuis septembre, les étals sont régulièrement vides, le gouvernement veut donc diversifier les espèces productrices.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-22T23:00:26+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261022-au-kenya-la-fili%C3%A8re-lait-bient%C3%B4t-fournie-par-les-bufflonnes"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261022-au-kenya-la-fili%C3%A8re-lait-bient%C3%B4t-fournie-par-les-bufflonnes"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "196bd831aa",
+      "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+      "summary": "Dispute over raising flag of Somali Regional State devolves into fighting between regional forces.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T22:52:35+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "dbcabd5b0e",
+      "title": "Pluralistic Ignorance and the Need to Unlearn, Learn, and Relearn in Supply Chain Management",
+      "summary": "[Ghanaian Times] Introduction",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-22T22:30:46+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610220689.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610220689.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "5ed3b337e6",
       "title": "Ebola - Is Nigeria Ready?",
       "summary": "[Daily Trust] The confirmation of an Ebola case in the Federal Capital Territory (FCT), Abuja, has renewed concerns about Nigeria's preparedness for a disease that once threatened to overwhelm parts of the country's health system.",
@@ -6396,6 +6940,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "f1f53b9b6d",
+      "title": "Côte d'Ivoire: l'audience sur l’élection de Tidjane Thiam à la tête du PDCI renvoyée",
+      "summary": "En Côte d’Ivoire, le tribunal de première instance d’Abidjan examinait ce jeudi 22 octobre 2026 les recours judiciaires visant la présidence de Tidjane Thiam au PDCI-RDA. L'action, menée par deux militants de la formation, conteste la légalité de son élection. L’audience a été renvoyée au 19 novembre pour ajouter une autre procédure.",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-22T20:32:14+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261022-c%C3%B4te-d-ivoire-l-audience-sur-l-%C3%A9lection-de-tidjane-thiam-%C3%A0-la-t%C3%AAte-du-pdci-renvoy%C3%A9e"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261022-c%C3%B4te-d-ivoire-l-audience-sur-l-%C3%A9lection-de-tidjane-thiam-%C3%A0-la-t%C3%AAte-du-pdci-renvoy%C3%A9e"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "993d60ff76",
       "title": "Jeux Olympiques de la Jeunesse : des sprinteurs réfugiés poursuivent leur rêve olympique à Dakar",
       "summary": "À quelques semaines des Jeux Olympiques de la Jeunesse de Dakar, deux jeunes sprinteurs réfugiés se préparent à vivre un moment historique. Florence Masumbe et Rachid Rochene représenteront l’Équipe olympique des réfugiés, une première pour cette compétition.",
@@ -6423,6 +6999,38 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/10/22/jeux-olympiques-de-la-jeunesse-des-sprinteurs-refugies-poursuivent-leur-reve-olympique-a-d/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "50bff30fe8",
+      "title": "Éthiopie: au Tigré, le chef du TPLF affirme que ses troupes continuent les combats",
+      "summary": "En Éthiopie, la guerre au Tigré n'est pas finie, un mois après la reprise des combats entre l'armée éthiopienne et les soldats du TPLF. Alors que le gouvernement éthiopien affirme avoir repris les grandes villes et le contrôle de la région, Debretsion Gebremichael, le chef du Front de libération du peuple du Tigré (TPLF) est apparu mercredi 21 octobre à la télévision locale du Tigré. Il a affirmé que l'armée du TPLF continuait les combats et avait récemment acquis des…",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-22T19:12:44+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261022-%C3%A9thiopie-au-tigr%C3%A9-le-chef-du-tplf-affirme-que-ses-troupes-continuent-les-combats"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261022-%C3%A9thiopie-au-tigr%C3%A9-le-chef-du-tplf-affirme-que-ses-troupes-continuent-les-combats"
         }
       ],
       "confirmation_count": 1
@@ -6487,38 +7095,6 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/10/22/young-uganda-based-refugees-chase-their-olympic-dream-in-senegal/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "67d24a3733",
-      "title": "Egoístas, acampadas e encochadas constitucionais",
-      "summary": "A Vichyssoise desta semana acampou dentro do estúdio. As manifestações pela habitação e a resposta política aos protestos foram tema único.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "pt",
-      "published": "2026-10-22T17:29:52+00:00",
-      "lead_source": {
-        "id": "observador",
-        "name": "Observador",
-        "tier": 2,
-        "url": "https://observador.pt/programas/vichyssoise/egoistas-acampadas-e-encochadas-constitucionais/"
-      },
-      "confirming_sources": [
-        {
-          "id": "observador",
-          "name": "Observador",
-          "tier": 2,
-          "url": "https://observador.pt/programas/vichyssoise/egoistas-acampadas-e-encochadas-constitucionais/"
         }
       ],
       "confirmation_count": 1
@@ -6967,38 +7543,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610220538.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b93248d455",
-      "title": "Parliament Orders Removal of MPs' Phone Numbers From Official Online Platforms",
-      "summary": "[Nile Post] Parliament's leadership has directed the Clerk to Parliament to remove Members of Parliament's personal telephone numbers from official online platforms following reports that fraudsters are using the contacts to target legislators.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-22T16:49:19+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610220536.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610220536.html"
         }
       ],
       "confirmation_count": 1
@@ -8059,38 +8603,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610220325.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ed7ed58cb3",
-      "title": "27 Ntungamo District and Municipal Officials Ordered Interdicted",
-      "summary": "[Nile Post] The Ministry of Local Government has ordered the interdiction of 27 officials from Ntungamo District Local Government and Ntungamo Municipal Council over allegations of gross negligence of duty, abuse of office, mismanagement of public resources and possible financial impropriety.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-22T10:59:16+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610220324.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610220324.html"
         }
       ],
       "confirmation_count": 1
@@ -9602,70 +10114,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "37d35c8edb",
-      "title": "Guinée: quelles alternatives au sachet d'eau bientôt interdit?",
-      "summary": "En Guinée, l'interdiction des plastiques à usage unique, dont les sachets d'eau très bon marché, provoque une crise d'accès à l'eau potable. Un moratoire de six mois est accordé pour trouver des alternatives conciliant santé et environnement, tandis que les autorités et les industriels peinent à résoudre l'équation entre besoins essentiels de la population et lutte contre la pollution.",
-      "country": "GIN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-21T22:56:10+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261021-guin%C3%A9e-quelles-alternatives-au-sachet-d-eau-bient%C3%B4t-interdit"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261021-guin%C3%A9e-quelles-alternatives-au-sachet-d-eau-bient%C3%B4t-interdit"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "54415ebddc",
-      "title": "«On s'appelle, on s'entraide»: au Sénégal, des malades du cancer du sein unies contre la maladie",
-      "summary": "À l'occasion d'Octobre rose, mois de mobilisation contre le cancer du sein, rendez-vous au Sénégal, où les malades n'ont pas accès aux soins de support comme un accompagnement psychologique et social pour lutter contre l'isolement, l'anxiété, la dépression. À Dakar, l'association Kinsiba propose des cours de boxe ou encore des séances de henné entre femmes, pour redonner confiance et briser la solitude.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-21T22:31:12+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261021-on-s-appelle-on-s-entraide-au-s%C3%A9n%C3%A9gal-des-malades-du-cancer-du-sein-unies-contre-la-maladie"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261021-on-s-appelle-on-s-entraide-au-s%C3%A9n%C3%A9gal-des-malades-du-cancer-du-sein-unies-contre-la-maladie"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "706837f14b",
       "title": "Niger : deux otages occidentales libérées en Libye après plus d’un an et demi aux mains de l’État islamique",
       "summary": "Détenues au Niger par l’État islamique pendant plus d’un an et demi, Claudia Abbt et Eva Gretzmacher ont été libérées et sont arrivées à Benghazi. La médiation a été orchestrée par Saddam Haftar, désireux d’asseoir son influence politique au Sahel.",
@@ -9826,198 +10274,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "a1b1a845e1",
-      "title": "Prioritise Ethical Reporting to Protect Country's Financial Stability - BoG Urges Financial Journalists",
-      "summary": "[Ghanaian Times] The Bank of Ghana (BoG) has urged financial journalists to prioritise ethical journalism and ensure accuracy, fairness and balance in their reporting to protect the country's financial stability and prevent misinformation from undermining public confidence in the economy.",
-      "country": "GHA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-21T17:46:07+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610210707.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610210707.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "dc83b47d28",
-      "title": "Abena Amoah Crowned CIMG Marketing Woman of the Year",
-      "summary": "[Ghanaian Times] The Managing Director of the Ghana Stock Exchange (GSE), Ms Abena Amoah, has been adjudged the Marketing Woman of the Year 2025 by the Chartered Institute of Marketing, Ghana (CIMG), in recognition of her contribution to marketing and leadership in the country's financial sector.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-21T17:46:06+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610210706.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610210706.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "afe2c66515",
-      "title": "Police Coordinate Search for Missing Fishing Canoe and Seven Crew Members",
-      "summary": "[Ghanaian Times] The Western Regional Marine Police Command is collaborating with the Ghana Navy, Ghana Maritime Authority (GMA), Fisheries Commission and fishing communities to locate a missing fishing canoe and its seven crew members.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-21T17:46:05+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610210705.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610210705.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "5065cdb816",
-      "title": "GAF Staff Wins Tampico Accra Inter-City Marathon",
-      "summary": "[Ghanaian Times] Ishmael Arthur of the Ghana Armed Forces (GAF) emerged the winner of the 2026 Tampico Accra Inter-City Marathon with a time of 1:10:44.97 in the men's 21-kilometre category, beating off competition from over 1,000 participants.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-21T17:46:03+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610210704.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610210704.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d8c73d453f",
-      "title": "Ghana Secures Qualification for 2026 Beach Soccer AFCON .",
-      "summary": "[Ghanaian Times] Ghana's national beach soccer team, the Black Sharks, have booked their ticket to the 2026 CAF Beach Soccer Africa Cup of Nations in Senegal after securing a commanding 7-4 victory over arch-rivals Nigeria in the final round of qualifiers.",
-      "country": "GHA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-21T17:46:02+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610210703.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610210703.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "eccbd3206c",
-      "title": "Former GPL Sides to Headline MTN FA Cup Prelims Games",
-      "summary": "[Ghanaian Times] Matches involving four former Ghana Premier League (GPL) clubs would headline the preliminary round of Ghana's second-tier club football competition, the MTN FA Cup, which is expected to kick-start from October 23.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-21T17:46:01+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610210702.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610210702.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "0848efbd0f",
       "title": "Ghana in talks with European nations for reparations, president says",
       "summary": "John Mahama says efforts are focused on securing the return of artefacts stolen during the centuries of the slave trade and colonialism",
@@ -10045,70 +10301,6 @@
           "name": "Financial Times · Africa",
           "tier": 1,
           "url": "https://www.ft.com/content/68e28f90-cbc3-4fa6-950b-451cf7c49c87?syn-25a6b1a6=1"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c67c7b8043",
-      "title": "CAS to Rule On AFCON Final Case Next Month",
-      "summary": "[Ghanaian Times] A decision on Senegal's appeal after being stripped of this year's Africa Cup of Nations title will be made at the end of November, the Court of Arbitration for Sport said yesterday.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-21T17:19:23+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610210698.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610210698.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "95f194278c",
-      "title": "Hunters Hand Crowned National Netball Champions",
-      "summary": "[Ghanaian Times] Winneba-based Hunters Hand Netball Club have been crowned champions of the third edition of the International Organization for Migration (IOM) National Netball Championship after defeating Madina-based Spice Girls Netball Club 23-16 in the final match played at the Accra Sports Stadium.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-21T17:19:22+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610210697.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610210697.html"
         }
       ],
       "confirmation_count": 1
@@ -10173,38 +10365,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/opinion/guest-blogs/ankara-s-somalia-gamble-5640678"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "551f6be20d",
-      "title": "Travail domestique: «Des femmes et parfois des mineurs sont employés en dehors de tout cadre légal»",
-      "summary": "Dakar accueillait le Forum régional sur le travail domestique. Trois jours de discussions qui ont rassemblé douze pays du continent. Faire progresser les droits, mieux protéger les travailleurs, renforcer le dialogue social… Tant de combats portés par l'Organisation internationale du travail. Samira Daoud est représentante du bureau de l'OIT en Afrique de l'Ouest, elle répond aux questions de Simon Bourtembourg pour Afrique Midi.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-21T15:19:41+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261021-travail-domestique-des-femmes-et-parfois-des-mineurs-sont-employ%C3%A9s-en-dehors-de-tout-cadre-l%C3%A9gal"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20261021-travail-domestique-des-femmes-et-parfois-des-mineurs-sont-employ%C3%A9s-en-dehors-de-tout-cadre-l%C3%A9gal"
         }
       ],
       "confirmation_count": 1
@@ -11300,38 +11460,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "af59d493c1",
-      "title": "Éthiopie: les troupes fédérales engagées sur plusieurs fronts, le TPLF toujours présent dans le Tigré",
-      "summary": "En Éthiopie, qu'est devenu le Front de libération du peuple du Tigré ? Après plusieurs semaines de combats qui les opposaient aux forces fédérales, les troupes du TPLF se seraient repliées près de la frontière érythréenne. Le gouvernement fédéral a repris le contrôle des grandes villes de la région et a mis en place une administration intérimaire pour six mois. Mais le TPLF n'a pas dit son dernier mot.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-21T08:27:56+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261021-%C3%A9thiopie-les-troupes-f%C3%A9d%C3%A9rales-engag%C3%A9es-sur-plusieurs-fronts-le-tplf-toujours-pr%C3%A9sent-dans-le-tigr%C3%A9"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261021-%C3%A9thiopie-les-troupes-f%C3%A9d%C3%A9rales-engag%C3%A9es-sur-plusieurs-fronts-le-tplf-toujours-pr%C3%A9sent-dans-le-tigr%C3%A9"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "59a5b745cb",
       "title": "Nigeria confirms Ebola case in patient who arrived from Uganda",
       "summary": "Uganda maintains that there is no Ebola in the country.",
@@ -11743,102 +11871,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610200508.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "b8081bb3ee",
-      "title": "Restoring Public Confidence in Science, Experts Advocate Stronger Collaboration Among Journalists, Stakeholders",
-      "summary": "[Ghanaian Times] Some scientists have called for stronger collaboration among journalists, policymakers and communities to combat the growing spread of false and misleading health information in order to restore public confidence in science.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-20T11:02:10+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610200443.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610200443.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4d84ecfc21",
-      "title": "200 Residents Benefit From Free Health Screening in Techiman",
-      "summary": "[Ghanaian Times] More than 200 residents of Techiman in the Bono East Region have benefited from a free health screening exercise organised by the KGL Foundation to promote the early detection and prevention of breast cancer.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-20T11:01:01+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610200442.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610200442.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "f47c8411d5",
-      "title": "20 Personnel Complete Special Operations Forces Training",
-      "summary": "[Ghanaian Times] Twenty personnel of the Ghana Armed Forces have completed nine months of intensive training to become Special Operations Forces operators, strengthening the military's capacity to respond to emerging security threats.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-20T11:00:17+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610200441.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610200441.html"
         }
       ],
       "confirmation_count": 1
@@ -12483,38 +12515,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610190293.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "58c79ba3d1",
-      "title": "Mahama Explains Ghana's BRICS Move",
-      "summary": "[Ghanaian Times] President John Dramani Mahama has said Ghana's decision to seek partnership with the BRICS countries is part of efforts to broaden its development partnerships and deepen South-South cooperation.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-19T11:29:45+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610190281.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610190281.html"
         }
       ],
       "confirmation_count": 1
@@ -14437,38 +14437,6 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202609300052.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a1db5b1b4f",
-      "title": "The journalist crowned king in Uganda after bitter succession dispute",
-      "summary": "Kijanangoma has been crowned amid a dispute over a young heir whom the royal clan does not recognise.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-09-29T20:09:27+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "confirmation_count": 1
