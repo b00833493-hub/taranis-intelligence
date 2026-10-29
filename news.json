@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-29T19:42:42.444188+00:00",
+  "generated_at": "2026-10-29T23:56:45.502878+00:00",
   "stats": {
-    "total_signals": 462,
-    "verified_signals": 14,
+    "total_signals": 446,
+    "verified_signals": 16,
     "countries_covered": 21,
     "sources_active": 40,
     "per_country": {
+      "GHA": 42,
+      "TZA": 39,
       "RWA": 12,
       "KEN": 56,
-      "NGA": 61,
-      "TZA": 38,
+      "NGA": 60,
       "MOZ": 44,
-      "GHA": 42,
-      "UGA": 38,
+      "UGA": 37,
       "SSD": 4,
-      "ETH": 51,
+      "ETH": 40,
       "CIV": 19,
-      "SEN": 46,
-      "MLI": 27,
+      "SEN": 43,
+      "MLI": 26,
       "GIN": 1,
       "SOM": 7,
       "CPV": 3,
@@ -28,8 +28,8 @@
       "BEN": 1,
       "MUS": 1
     },
-    "west_signals": 210,
-    "east_signals": 252
+    "west_signals": 205,
+    "east_signals": 241
   },
   "sources": [
     {
@@ -274,6 +274,70 @@
     }
   ],
   "signals": [
+    {
+      "id": "4a91f31ad7",
+      "title": "Breast Cancer Claims Nearly 2,000 Lives Yearly - Gender Minister",
+      "summary": "[Ghanaian Times] The Minister of Gender, Children and Social Protection, Dr Agnes Naa Momo Lartey, has expressed concern over the number of deaths from breast cancer, saying Ghana records about 5,000 new cases annually, with nearly 2,000 deaths.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:34+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290657.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290657.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2a70985128",
+      "title": "Tanzanie: un an après la répression électorale, une journée de commémoration sous cloche",
+      "summary": "Un an après la dernière présidentielle et la répression meurtrière des manifestations, les Tanzaniens ont marqué, ce jeudi 29 octobre 2026, le premier anniversaire des violences sans cérémonie nationale officielle. Des messes ont été célébrées dès le matin, avant la reprise du travail. Alors que les autorités mettaient en garde contre toute nouvelle mobilisation, l'ambassade américaine a rendu hommage aux victimes. Les familles attendent toujours vérité, justice et…",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-29T20:38:39+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261029-tanzanie-un-an-apr%C3%A8s-la-r%C3%A9pression-%C3%A9lectorale-une-journ%C3%A9e-de-comm%C3%A9moration-sous-cloche"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261029-tanzanie-un-an-apr%C3%A8s-la-r%C3%A9pression-%C3%A9lectorale-une-journ%C3%A9e-de-comm%C3%A9moration-sous-cloche"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "48d6909f90",
       "title": "DRC: US sanctions on Rwanda draw mixed reactions in Goma",
@@ -1087,11 +1151,11 @@
       "confirmation_count": 1
     },
     {
-      "id": "f2776ce996",
-      "title": "Uganda Airlines Launches Four Weekly Flights to Accra",
-      "summary": "[Nile Post] Uganda Airlines is launching four weekly flights between Entebbe and Accra, Ghana, on Tuesday, October 27, expanding its African network and seeking to strengthen trade, tourism and business links between East and West Africa.",
-      "country": "GHA",
-      "category": "AUTRE",
+      "id": "f4eb299b94",
+      "title": "200 Ugandan Returnees Get Business Training As Government Pledges Shs2bn",
+      "summary": "[Nile Post] The government has pledged Shs2 billion to support a savings and credit cooperative organisation (SACCO) for 200 Ugandans who returned from South Africa, as the beneficiaries undergo financial literacy and business training to rebuild their livelihoods.",
+      "country": "UGA",
+      "category": "FINANCING",
       "severity": 4,
       "credibility": 2,
       "verified": false,
@@ -1101,19 +1165,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-10-28T18:37:22+00:00",
+      "published": "2026-10-28T17:12:54+00:00",
       "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202610280713.html"
+        "url": "https://allafrica.com/stories/202610280700.html"
       },
       "confirming_sources": [
         {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202610280713.html"
+          "url": "https://allafrica.com/stories/202610280700.html"
         }
       ],
       "confirmation_count": 1
@@ -1344,38 +1408,6 @@
           "name": "AllAfrica · Éthiopie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610280351.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a26be7fcf0",
-      "title": "Nigeria: la commission d'enquête accable les «Mining Marshals» après la mort de 37 orpailleurs en détention",
-      "summary": "La commission chargée d'enquêter sur la mort en détention, en septembre dernier, de 37 personnes soupçonnées d'orpaillage dans l'État du Niger, au Nigeria, a rendu son rapport mardi 27 octobre. Elle pointe sévèrement des officiers des « Mining Marshals », une unité paramilitaire du Corps de sécurité et de défense civile du Nigeria. Elle recommande le versement d'indemnités aux survivants et aux familles des victimes, dont 14 enfants.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-28T11:11:13+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261028-nigeria-la-commission-d-enqu%C3%AAte-accable-les-mining-marshals-apr%C3%A8s-la-mort-de-37-orpailleurs-en-d%C3%A9tention"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261028-nigeria-la-commission-d-enqu%C3%AAte-accable-les-mining-marshals-apr%C3%A8s-la-mort-de-37-orpailleurs-en-d%C3%A9tention"
         }
       ],
       "confirmation_count": 1
@@ -2251,6 +2283,102 @@
       "confirmation_count": 1
     },
     {
+      "id": "ea6dfc3ec1",
+      "title": "Dilapidated Classroom Block Forces Wuling Pupils to Study Under Trees",
+      "summary": "[Ghanaian Times] A dilapidated three-unit classroom block at Wuling M/A Basic School in the Jirapa Municipality of the Upper West Region has forced pupils to study under trees, amid fears that the structure could collapse.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:33+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290655.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290655.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "68449d1141",
+      "title": "Qnet, Eoco, Interpol Join Forces Against Fraudsters",
+      "summary": "[Ghanaian Times] QNET, an e-commerce direct-selling company, says it is collaborating with security agencies, including the Economic and Organised Crime Office (EOCO) and the International Criminal Police Organisation (INTERPOL), to investigate and bring to justice persons allegedly engaging in fraudulent activities in its name.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:31+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290651.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290651.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e5388a11f3",
+      "title": "Colgate Launches Gh&#xA2;240,000 Scholarship Campaign",
+      "summary": "[Ghanaian Times] Colgate has launched an eight-week scholarship campaign in partnership with Melcom Supermarkets to support students across the country.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:30+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290650.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290650.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "340ae031c2",
       "title": "Rwanda-RDC : l’épopée de l’AFDL de Déogratias Bugera et Laurent-Désiré Kabila",
       "summary": "Il y a trente ans, le mouvement rebelle qui allait faire tomber Mobutu prenait vie dans l’est de la RDC. L’AFDL servirait de fer de lance à plusieurs pays de la région motivés par la chute du maréchal. Déogratias Bugera, dernier survivant des quatre pères fondateurs, raconte la genèse d’une « synergie devant un ennemi commun ».",
@@ -2376,38 +2504,6 @@
           "name": "Club of Mozambique",
           "tier": 2,
           "url": "https://clubofmozambique.com/news/mozambique-high-commission-of-india-in-maputo-celebrates-defence-cooperation-day/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4ed38a1753",
-      "title": "Bluebulb launches treasury platform for African businesses trading abroad",
-      "summary": "Bluebulb has launched a treasury management platform to help African businesses oversee cash, currencies, and international payments from a single dashboard, as the fintech seeks to expand beyond moving money. The company introduced Orbita at Moonshot by TechCabal 2026 in Lagos, targeting finance teams that rely on multiple banking portals and spreadsheets to track funds […]",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-29T13:16:41+00:00",
-      "lead_source": {
-        "id": "techcabal",
-        "name": "TechCabal",
-        "tier": 2,
-        "url": "https://techcabal.com/2026/10/29/bluebulb-launched-treasury-management/"
-      },
-      "confirming_sources": [
-        {
-          "id": "techcabal",
-          "name": "TechCabal",
-          "tier": 2,
-          "url": "https://techcabal.com/2026/10/29/bluebulb-launched-treasury-management/"
         }
       ],
       "confirmation_count": 1
@@ -3381,38 +3477,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "f4a9efab4c",
-      "title": "Ruto Arrives in Moscow for Russia-Africa Summit to Strengthen Economic Ties",
-      "summary": "[Capital FM] Moscow -- President William Ruto has arrived in Moscow to attend the third Russia-Africa Summit and Economic and Humanitarian Forum, with Kenya seeking to strengthen cooperation with Russia in trade, investment, energy, infrastructure and technology.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T10:40:37+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610280312.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610280312.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "9a5f7a2513",
       "title": "MTN Uganda Turns to Starlink As Satellite Internet Competition Intensifies",
       "summary": "[Independent (Kampala)] Kampala -- MTN Uganda has launched a satellite internet service for businesses in remote areas, stepping up competition with rival Airtel Uganda as the country's telecom operators seek to reach customers beyond the limits of conventional mobile networks and fibre infrastructure.",
@@ -3440,102 +3504,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610280311.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ed30029cf3",
-      "title": "'Odpp's Bagada Lost Less That Sh129million'",
-      "summary": "[Independent (Kampala)] Kampala -- The Office of the Director of Public Prosecutions (ODPP) has disputed media reports that Assistant Director of Public Prosecutions Alex Bagada was robbed of Shs129 million, describing the reported amount as grossly exaggerated as police continue investigating the suspected robbery.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T10:38:33+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610280308.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610280308.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4efc895f03",
-      "title": "MTN Uganda Opens Digital Training Centre for Teachers",
-      "summary": "[Independent (Kampala)] Kampala -- MTN Uganda has launched a teacher training centre to equip educators with digital skills and artificial intelligence tools, expanding its education investments as the country seeks to improve teaching standards and prepare learners for a technology-driven economy.",
-      "country": "UGA",
-      "category": "MACRO",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T10:36:23+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610280304.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610280304.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "3abead5fad",
-      "title": "Karua Visits Former Ghana President Kufuor, Highlights Investment in Education and Healthcare",
-      "summary": "[Capital FM] Accra -- Kenyan opposition leader Martha Karua has visited former Ghanaian President John Agyekum Kufuor at his residence in Accra, highlighting his administration's investments in healthcare, education and school feeding programmes.",
-      "country": "GHA",
-      "category": "FINANCING",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T10:11:04+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610280280.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610280280.html"
         }
       ],
       "confirmation_count": 1
@@ -3632,6 +3600,38 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610280037.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8f0fdd04b6",
+      "title": "Specialised Rescue Team Deployed to Eastleigh Building Collapse",
+      "summary": "[Capital FM] Nairobi -- The Kenya Defence Forces (KDF) has deployed specialised rescue teams, canine units and equipment to support ongoing efforts to locate survivors following the collapse of a building along 9th Street in Eastleigh, Nairobi.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-27T12:22:17+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610270463.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610270463.html"
         }
       ],
       "confirmation_count": 1
@@ -4439,6 +4439,76 @@
       "confirmation_count": 1
     },
     {
+      "id": "d01ef64a6e",
+      "title": "GOC Names Captains, Flag Bearer for Dakar Youth Olympics",
+      "summary": "[Ghanaian Times] The Ghana Olympic Committee (GOC) has named beach volleyball player Daniel Lamptey as captain of Team Ghana for the upcoming Youth Olympic Games in Dakar, Senegal.",
+      "country": "GHA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:37+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290661.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290661.html"
+        },
+        {
+          "id": "aa-sen",
+          "name": "AllAfrica · Sénégal",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290661.html"
+        }
+      ],
+      "confirmation_count": 2
+    },
+    {
+      "id": "461adadf3d",
+      "title": "DStv Unveils 4 New Subscription Packages",
+      "summary": "[Ghanaian Times] The Ministry of Communication, Digital Technology and Innovation has announced four new DStv subscription packages, with monthly prices ranging from GH¢50 to GH¢570, effective November 5, 2026.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:30+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290649.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290649.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b3253040ae",
       "title": "High Court - Ruto Cannot Give Teachers, Police Priority in Affordable Housing",
       "summary": "[Capital FM] Nairobi -- The High Court has ruled that President William Ruto's announcements giving teachers and police officers priority in the allocation of affordable housing units cannot change the criteria set out in law.",
@@ -4922,9 +4992,15 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610270147.html"
+        },
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610270147.html"
         }
       ],
-      "confirmation_count": 4
+      "confirmation_count": 5
     },
     {
       "id": "6be11922d2",
@@ -5339,6 +5415,46 @@
         }
       ],
       "confirmation_count": 1
+    },
+    {
+      "id": "5a179d4f2d",
+      "title": "UN Reports 36,000 Ethiopian Arrivals Fleeing Moyale Conflict, Kenya Rights Commission Urges Aid",
+      "summary": "[Addis Standard] Addis Abeba -- Approximately 36,000 people have crossed from Ethiopia into Kenya to flee conflict in and around Moyale, with food, clean water, shelter, sanitation, and healthcare identified as the most urgent needs, the UN Refugee Agency (UNHCR) in Kenya said.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "GRANT"
+      ],
+      "lang": "en",
+      "published": "2026-10-28T04:40:47+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610280039.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610280039.html"
+        },
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610280039.html"
+        }
+      ],
+      "confirmation_count": 2
     },
     {
       "id": "929ce0e0a9",
@@ -5930,6 +6046,486 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/eric-muriuki-joins-absa-to-lead-pan-african-digital-growth/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0077497596",
+      "title": "Make Aayalolo Contra-Flow a Permanent Feature",
+      "summary": "[Ghanaian Times] Accra's traffic congestion has become a daily source of frustration for thousands of commuters. For many workers, students and traders, getting to their destinations is a test of patience, with hours lost in traffic that could have been spent on productive activities or with their families.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:28:39+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290663.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290663.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "72234fd10e",
+      "title": "GBF Hails Spintex Knights, Appeals for Support for Team",
+      "summary": "[Ghanaian Times] The President of the Ghana Basketball Federation (GBF), Mr Alex Kukula, has congratulated Spintex Knights on their qualification to the Elite 16 stage of the Road to Basketball Africa League (BAL).",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:37+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290662.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290662.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "bef9c1bb0d",
+      "title": "FC Ashantigold Part Ways With Zito, 2 Others",
+      "summary": "[Ghanaian Times] Ghana Premier League side, FC AshantiGold 04, have terminated the contracts of Head Coach and Technical Director, Abdul Karim Kabutey Zito, Assistant coach, Ernest Okyere and goalkeepers' trainer, Robert Dabo, with immediate effect.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:36+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290660.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290660.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "286042920c",
+      "title": "AHPC Cautions 9,000 Graduates Against Independent Practice",
+      "summary": "[Ghanaian Times] The Allied Health Professions Council (AHPC) has inducted more than 9,000 newly qualified allied health professionals across the country, urging them to complete supervised internships before practising independently.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:35+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290658.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290658.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "352c2f55d6",
+      "title": "Zijin Golden Ridge Trains 31 Youth in Welding, Fabrication",
+      "summary": "[Ghanaian Times] Thirty-one young people in the Birim North District have begun specialised training in welding and fabrication as part of efforts by Zijin Golden Ridge Limited (ZGRL) to equip the youth with practical skills for employment and entrepreneurship.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:35+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290659.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290659.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a8751beeee",
+      "title": "Introduce Age-Appropriate Sex Education in Schools - Arhr",
+      "summary": "[Ghanaian Times] The Programme Manager of the Alliance for Reproductive Health Rights (ARHR), Mr Isaac Nyampong, has called on the government to introduce age-appropriate sexual and reproductive health education into the curricula of basic and second-cycle schools to protect the future of young people.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:34+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290656.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290656.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "831ef77c44",
+      "title": "Ghana Joins International Community to Commemorate 81st UN Day",
+      "summary": "[Ghanaian Times] Ghana yesterday joined the international community to mark the 81st United Nations (UN) Day with a call for renewed commitment to multilateralism, international cooperation and a UN that responds effectively to the needs of people around the world.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:32+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290653.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290653.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "300acbb751",
+      "title": "De Youngster's School Donates Gh&#xA2;120,000 Worth of Items to Schools for the Blind, Deaf",
+      "summary": "[Ghanaian Times] De Youngster's International School has donated food items, sanitary products, medication and equipment valued at GH¢120,000 to the Akropong School for the Blind and the Mampong Presbyterian Demonstration School for the Deaf in the Eastern Region.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:32+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290654.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290654.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "012fd8dfee",
+      "title": "GSA to Establish Tiles Testing Laboratory in Takoradi",
+      "summary": "[Ghanaian Times] The Ghana Standards Authority (GSA) will establish a concrete and ceramic tiles testing laboratory in Takoradi in the Western Region to ensure that building materials meet the required safety and quality standards.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:31+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290652.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290652.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ba497eeb6a",
+      "title": "Ground Rent Defaulters Face Prosecution &#xB7; Lands Commission Targets At Least 50 in Each Region",
+      "summary": "[Ghanaian Times] The Lands Commission is preparing to initiate legal proceedings against lessees of state and vested lands who have defaulted on ground rent payments, with the exercise expected to be fully rolled out in 2027.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:29+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290647.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290647.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e8d6af48e0",
+      "title": "$59m Yendi Solar Farm to Strengthen Energy Security",
+      "summary": "[Ghanaian Times] The 50-megawatt-peak (MWp) Yendi Solar Farm is expected to strengthen electricity supply in Yendi and surrounding communities while creating employment opportunities and supporting Ghana's renewable energy drive.",
+      "country": "GHA",
+      "category": "RENEWABLE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": "SOLAR",
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:29+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290648.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290648.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8625d4a927",
+      "title": "Pres Mahama Honoured With Doctorate in Russia",
+      "summary": "[Ghanaian Times] President John Dramani Mahama has challenged present-day African leaders to give practical expression to the aspirations of the continent's founding fathers.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:28+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290646.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290646.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1cd49bfa06",
+      "title": "Adenta-Accra Journey Drops From 2 Hours to Under 30 Minutes - Commuters",
+      "summary": "[Ghanaian Times] Commuters who use the pilot Aayalolo contra-flow bus service have called for its expansion and continuation as a permanent measure to ease traffic congestion and reduce travel time in Accra.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:28+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290645.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290645.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "791a5003f5",
+      "title": "Remove Barriers to Women's Progress - Veep",
+      "summary": "[Ghanaian Times] The Vice-President, Professor Naana Jane Opoku-Agyemang, has called on institutions to remove barriers to women's progress and create fair opportunities for them to lead, advance their careers and grow their businesses.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:27+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290644.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290644.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "319e21d5f3",
+      "title": "Inside Nigeria’s $7.5M Gates-backed AI scaling hub",
+      "summary": "At Moonshot by TechCabal 2026, the Nigeria AI Scaling Hub (NAISH) showcased five organisations developing artificial intelligence solutions for healthcare, agriculture, and local languages, underscoring how shared digital infrastructure and institutional partnerships can transition local research into widespread commercial adoption. The initiative brought together digital health provider mDoc, agritech platform Extension Africa, research enterprise Data […]",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T22:51:34+00:00",
+      "lead_source": {
+        "id": "techcabal",
+        "name": "TechCabal",
+        "tier": 2,
+        "url": "https://techcabal.com/2026/10/29/nigeria-7-5m-gates-backed-ai-scaling-hub/"
+      },
+      "confirming_sources": [
+        {
+          "id": "techcabal",
+          "name": "TechCabal",
+          "tier": 2,
+          "url": "https://techcabal.com/2026/10/29/nigeria-7-5m-gates-backed-ai-scaling-hub/"
         }
       ],
       "confirmation_count": 1
@@ -9361,38 +9957,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "992c9539c8",
-      "title": "UEMOA : le COFEB et HEC Paris forment 26 cadres bancaires aux défis du numérique",
-      "summary": "Le Centre ouest-africain de formation et d’études bancaires (COFEB), centre de formation et de recherche de la Banque centrale des États de l’Afrique de l’Ouest (BCEAO), et HEC Paris ont organisé, le 28 octobre 2026 à Dakar, une cérémonie de remise des certificats du parcours de management stratégique bancaire de niveau 1. Baptisé « Certificat Executive Management Stratégique Bancaire niveau 1 » (CEMSTRAT 1), ce programme vise à renforcer les compétences des dirigeants du…",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-29T05:02:39+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/10/29/uemoa-le-cofeb-et-hec-paris-forment-26-cadres-bancaires-aux-defis-du-numerique/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/10/29/uemoa-le-cofeb-et-hec-paris-forment-26-cadres-bancaires-aux-defis-du-numerique/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "02984b4acf",
       "title": "Why Ghana’s Ananse tales have a story for us all about AI and creativity",
       "summary": "The ways whole peoples argue, bargain, joke and tell stories will ultimately prove more powerful than the technology — if we interpret the African spider fables correctly",
@@ -9644,38 +10208,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/articles/cqdr8mgl5756o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a7969c03da",
-      "title": "GCB Bank, Unionpay Partner to Introduce Rmb Cards",
-      "summary": "[Ghanaian Times] GCB Bank PLC, Ghana's largest bank, has partnered with UnionPay International to issue UnionPay debit and prepaid cards that will enable customers to make payments directly in Chinese renminbi (RMB).",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-29T00:01:15+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610290004.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610290004.html"
         }
       ],
       "confirmation_count": 1
@@ -10353,70 +10885,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "8604d5c9bd",
-      "title": "Open Up Capital to Entrepreneurs With Disabilities ... Stakeholders Urged",
-      "summary": "[Ghanaian Times] Gotham Business Consult has called on policymakers and financial institutions to improve access to capital for entrepreneurs with disabilities to enable them to establish and expand their businesses.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T10:53:31+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610280326.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610280326.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a946245e5b",
-      "title": "CMC Conducted in Former NSA Boss Trial",
-      "summary": "[Ghanaian Times] A Case Management Conference (CMC) has been conducted in the ongoing trial of the immediate past Executive Director of the National Service Authority (NSA), Mr Osei Assibey Antwi.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T10:52:58+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610280325.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610280325.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "d4b778d398",
       "title": "Court Adjourns Former Deputy Nss CEO Trial to Nov 9",
       "summary": "[Ghanaian Times] The High Court in Accra has adjourned the trial of former Deputy Executive Director of the National Service Authority (NSA), Gifty Oware-Mensah, to November 9, 2026, for continuation.",
@@ -10444,38 +10912,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610280324.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "43cff895fe",
-      "title": "Carrick to Remain Man Utd Boss for Chelsea Clash",
-      "summary": "[Ghanaian Times] Michael Carrick will remain in charge of Manchester United for their game against Chelsea on Saturday.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T10:48:39+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610280320.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610280320.html"
         }
       ],
       "confirmation_count": 1
@@ -10577,38 +11013,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "6dd71e120a",
-      "title": "Balaam Orders Interdiction of 42 Kanungu District Officials",
-      "summary": "[Independent (Kampala)] Kanungu -- Local Government Minister Balaam Barugahara has ordered the interdiction of 42 civil servants in Kanungu District over allegations of corruption, extortion, abuse of office and causing financial loss to the government.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T10:38:10+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610280306.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610280306.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "37799c08fc",
       "title": "First VP Urges Blend of Religious, Secular Education",
       "summary": "[Daily News] Zanzibar -- ZANZIBAR First Vice-President Othman Masoud Othman has urged parents, teachers and guardians to combine religious and secular education to raise children who uphold moral values, respect others and contribute to peace and national development.",
@@ -10705,38 +11109,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "76fd254bd3",
-      "title": "Kemsa Refurbishes Port Reitz Hospital Medicine Store to Boost Drug Safety",
-      "summary": "[Capital FM] Mombasa -- The Kenya Medical Supplies Authority (KEMSA) has handed over a refurbished medicine store at Port Reitz Sub-County Hospital in Mombasa, in a move aimed at improving the quality and safety of essential medicines.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T10:03:26+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610280273.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610280273.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "13360c2e7a",
       "title": "Jailed Tanzanian opposition leader Tundu Lissu starts hunger strike",
       "summary": "Lawyer says Lissu planned the strike because he was denied privacy during talks with his...",
@@ -10828,358 +11200,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/magazine/ghetto-kids-bring-ugandan-rhythm-to-summit-in-moscow-5649008"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "87fd411d70",
-      "title": "በአርሲ ከ60 በላይ ዜጎች ለተጨፈጨፉበት ክስተት የተለያዩ አካላት  ለመንግሥት ጥሪ እያቀረቡ ነው",
-      "summary": "ሪፖርተር - Ethiopian Reporter - #1 reliable news source in Ethiopia\n\nበአርሲ ከ60 በላይ ዜጎች ለተጨፈጨፉበት ክስተት የተለያዩ አካላት  ለመንግሥት ጥሪ እያቀረቡ ነው\nከጥቂት ቀናት በፊት በኦሮሚያ ክልል ምሥራቅ አርሲ ዞን ሺርካ ወረዳ ከ60 በላይ ዜጎች የተጨፈጨፉበትን ክስተት አስመልክቶ፣ የተለያዩ አካላት ለመንግሥት  ጥሪ እያቀረቡ ነው፡፡ በኦሮሚያ ክልል ደቡብ ምሥራቅ ዞን አርሲ ሺርካ ወረዳ ቢርቦና ጮሌ ቀበሌ ጥቅምት 14 ቀን 2019 ዓ.ም. ታጣቂዎች በፈጸሙት ጥቃት በርካታ ንፁኃን ዜጎች ጭካኔ በተሞላበት መንገድ መገደላቸውን፣ ንብረታቸው መውደሙናን በርካቶች ደግሞ ከቀዬአቸው መፈናቀላቸውን ሪፖርተር […]\nThe post  በአርሲ ከ60 በላይ ዜጎች ለተጨፈጨፉበት ክስተት የተለያዩ አካላት  ለመንግሥት ጥሪ…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T08:15:54+00:00",
-      "lead_source": {
-        "id": "ethio-rep",
-        "name": "Ethiopian Reporter",
-        "tier": 2,
-        "url": "https://ethiopianreporter.com/161661/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ethio-rep",
-          "name": "Ethiopian Reporter",
-          "tier": 2,
-          "url": "https://ethiopianreporter.com/161661/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "65c721d2c0",
-      "title": "አይኤምኤፍ በግምጃ ቤት ሰነዶች አወጣጥ መመርያ ላይ ከመንግሥት ጋር  በኅዳር ወር ሊወያይ ነው",
-      "summary": "ሪፖርተር - Ethiopian Reporter - #1 reliable news source in Ethiopia\n\nአይኤምኤፍ በግምጃ ቤት ሰነዶች አወጣጥ መመርያ ላይ ከመንግሥት ጋር  በኅዳር ወር ሊወያይ ነው\nየዓለም የገንዘብ ድርጅት (አይኤምኤፍ) የግምጃ ቤት ሰነዶችና ቦንዶች አወጣጥ መመርያን በተመለከተ፣ በሚቀጥለው ስድስተኛ ዙር የተራዘመ ብድር ፕሮግራም ግምገማ ወቅት፣ ከመንግሥት ባለሥልጣናት ጋር ለመወያየት ማቀዱን አስታወቀ። አይኤምኤፍ በኢትዮጵያ የኢኮኖሚ ማሻሻያ ፕሮግራም አምስተኛ ግምገማ ሪፖርቱ፣ የግምጃ ቤት ሰነዶችና ቦንዶች አወጣጥ መመርያ በአይኤምኤፍና በዓለም ባንክ ድጋፍ ለማዘመን እየተሠራ መሆኑን ለሪፖርተር ገልጿል። ሪፖርቱ መመርያውን ማፅደቅና በይፋ ማሳተም  የሚጠናቀቅበትን ጊዜ […]\nThe post  አይኤምኤፍ በግምጃ ቤት ሰነዶች አወጣጥ…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T08:01:56+00:00",
-      "lead_source": {
-        "id": "ethio-rep",
-        "name": "Ethiopian Reporter",
-        "tier": 2,
-        "url": "https://ethiopianreporter.com/161657/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ethio-rep",
-          "name": "Ethiopian Reporter",
-          "tier": 2,
-          "url": "https://ethiopianreporter.com/161657/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9dcc0c1bc8",
-      "title": "የኢትዮጵያ የአቪዬሽን ደኅንነት ቁጥጥር ከ22 በመቶ በላይ ዕድገት ማስመዝገቡ በኦዲት ተመላከተ",
-      "summary": "ሪፖርተር - Ethiopian Reporter - #1 reliable news source in Ethiopia\n\nየኢትዮጵያ የአቪዬሽን ደኅንነት ቁጥጥር ከ22 በመቶ በላይ ዕድገት ማስመዝገቡ በኦዲት ተመላከተ\nየባለሥልጣኑ የአቪዬሽን ፖሊሲና አዋጅ ለሚኒስትሮች ምክር ቤት ተመርቷል ተብሏል የተቆጣጣሪ ሠራተኞች ጥቅማ ጥቅም ማሻሻያ መፅደቁም ተነግሯል ኢትዮጵያ ከ11 ዓመታት በኋላ በተካሄደው የዓለም አቀፉ የሲቪል አቪዬሽን ድርጅት የደኅንነት ቁጥጥር ኦዲት የ22.84 በመቶ ዕድገት ማስመዝገቧ ይፋ ሲደረግ፣ ከኦዲቱ ግኝቶች መካከል የአቪዬሽን አዋጅን የማሻሻልና ለአቪዬሽን ደኅንነት ተቆጣጣሪዎች የሚሰጠውን የጥቅማ ጥቅም ፓኬጅ ማሻሻያ መደረጉ ተገለጸ፡፡ ዓለም አቀፉ የሲቪል አቪዬሽን […]\nThe post  የኢትዮጵያ የአቪዬሽን ደኅንነት ቁጥጥር ከ22 በመቶ በላይ…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T07:59:57+00:00",
-      "lead_source": {
-        "id": "ethio-rep",
-        "name": "Ethiopian Reporter",
-        "tier": 2,
-        "url": "https://ethiopianreporter.com/161654/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ethio-rep",
-          "name": "Ethiopian Reporter",
-          "tier": 2,
-          "url": "https://ethiopianreporter.com/161654/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a9253575b9",
-      "title": "የጭንቀትና የሥጋት ደመና ይገፈፍ!",
-      "summary": "ሪፖርተር - Ethiopian Reporter - #1 reliable news source in Ethiopia\n\nየጭንቀትና የሥጋት ደመና ይገፈፍ!\nዜጎች በገጠርም ሆነ በከተማ የሚያስጨንቋቸውና የሚያሳስቧቸው ጉዳዮች ከመብዛታቸው የተነሳ፣ ግራ መጋባትና ሥጋት ብዙዎች የሚጋሩት የዘወትር አሳር መሆኑ የታወቀ ነው፡፡ ከእጅ ወደ አፍ የሆነ ሕይወት የሚመሩ አርሶ አደሮች በዘመናዊ የአስተራረስ ዘዴ ከድህነት መላቀቅ ሲገባቸው፣ ዙሪያ ገባው የግጭት መናኸሪያ ሲሆን ተስፋ ይቆርጣሉ፡፡ ለከተሜው የምግብ ምንጭ የሆኑ አርሶ አደሮች ራሳቸው ተቸግረው ማምረት ሲሳናቸው፣ በአገር አቀፍ ደረጃ ሊከተል የሚችለው […]\nThe post  የጭንቀትና የሥጋት ደመና ይገፈፍ! first appear on ሪፖርተር - Ethiopian Reporter - #1 reliable news source…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T07:53:30+00:00",
-      "lead_source": {
-        "id": "ethio-rep",
-        "name": "Ethiopian Reporter",
-        "tier": 2,
-        "url": "https://ethiopianreporter.com/161653/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ethio-rep",
-          "name": "Ethiopian Reporter",
-          "tier": 2,
-          "url": "https://ethiopianreporter.com/161653/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "193d947546",
-      "title": "ለግብርና ከፍተኛ ርብርብ ካልተደረገ ከአራት ዓመታት በኋላ አፍሪካውያን ለፅኑ ረሃብ እንደሚጋለጡ ተነገረ",
-      "summary": "ሪፖርተር - Ethiopian Reporter - #1 reliable news source in Ethiopia\n\nለግብርና ከፍተኛ ርብርብ ካልተደረገ ከአራት ዓመታት በኋላ አፍሪካውያን ለፅኑ ረሃብ እንደሚጋለጡ ተነገረ\nከዓለም ሕዝቦች 60 በመቶን ይይዛሉም ተብሏል የአፍሪካ አገሮች የግብርና ዘርፍን በቂ በጀት በመመደብ በጥናትና በምርምር ላይ  ከፍተኛ ርብርብ ካልተደረገ፣ በዓለም አቀፍ ደረጃ ሥር ለሰደደ ረሃብ ሰለባ ከሆኑ የዓለም ሕዝቦች መካከል 60 በመቶው አፍሪካውያን ይሆናሉ ተባለ፡፡ የአፍሪካን የግብርናና የምግብ ሥርዓት ትራንስፎርሜሽንን በሳይንስ፣ በቴክኖሎጂና በኢኖቬሽን ለማፋጠን ያለመ አኅጉራዊ ፎረም በአዲስ አበባ የተባበሩት መንግሥታት ድርጅት (ተመድ) የአፍሪካ ኢኮኖሚክ […]\nThe post  ለግብርና ከፍተኛ ርብርብ ካልተደረገ ከአራት ዓመታት…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T07:49:14+00:00",
-      "lead_source": {
-        "id": "ethio-rep",
-        "name": "Ethiopian Reporter",
-        "tier": 2,
-        "url": "https://ethiopianreporter.com/161648/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ethio-rep",
-          "name": "Ethiopian Reporter",
-          "tier": 2,
-          "url": "https://ethiopianreporter.com/161648/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a42196f417",
-      "title": "ለሁሉም ዜጎች የኤሌክትሪክ ኃይል ተደራሽነትን ለማረጋገጥ 17.2 ቢሊዮን ዶላር እንደሚያስፈልግ ተነገረ",
-      "summary": "ሪፖርተር - Ethiopian Reporter - #1 reliable news source in Ethiopia\n\nለሁሉም ዜጎች የኤሌክትሪክ ኃይል ተደራሽነትን ለማረጋገጥ 17.2 ቢሊዮን ዶላር እንደሚያስፈልግ ተነገረ\nኢትዮጵያ በአሥር ዓመታት ውስጥ ለሁሉም ዜጎች የኤሌክትሪክ ኃይል ተደራሽነት ለማረጋገጥ 17.2 ቢሊዮን ዶላር እንደሚያስፈልጋት፣ የብሔራዊ የኤሌክትሪክ ተደራሽነት ምዕራፍ ሦስት ፕሮግራም ሰነድ አመላከተ። የውኃና ኢነርጂ ሚኒስቴር በአዲስ አበባ በመካሄድ ላይ በሚገኘው ሦስተኛው የውኃና ኢነርጂ ሳምንት ላይ፣ ብሔራዊ የኤሌክትሪክ ተደራሽነት ፕሮግራም ምዕራፍ ሦስት (NEP 3.0) ትናንት ጥቅምት 17 ቀን 2018 ይፋ ያደረገ ሲሆን፣ በተመሳሳይ ቀን በሚኒስቴሩ ድረ […]\nThe post  ለሁሉም ዜጎች የኤሌክትሪክ ኃይል ተደራሽነትን ለማረጋገጥ…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T07:47:36+00:00",
-      "lead_source": {
-        "id": "ethio-rep",
-        "name": "Ethiopian Reporter",
-        "tier": 2,
-        "url": "https://ethiopianreporter.com/161645/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ethio-rep",
-          "name": "Ethiopian Reporter",
-          "tier": 2,
-          "url": "https://ethiopianreporter.com/161645/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e9dea42b57",
-      "title": "የአዕምሯዊ ንብረት ሰርተፊኬት በማስያዝ ከባንክ ብድር የሚገኝበት አሠራር መጀመሩ ተገለጸ",
-      "summary": "ሪፖርተር - Ethiopian Reporter - #1 reliable news source in Ethiopia\n\nየአዕምሯዊ ንብረት ሰርተፊኬት በማስያዝ ከባንክ ብድር የሚገኝበት አሠራር መጀመሩ ተገለጸ\nየአዕምሯዊ ንብረት ጥበቃ የሚደረግላቸው የፈጠራ ሥራዎችን ወደ ምርት ለመቀየር፣ የፈጠራ ሰርተፊኬታቸውን አስይዘው ከንግድ ባንኮች ብድር የሚያገኙበት አሠራር መጀመሩን፣ የኢትዮጵያ አዕምሯዊ ንብረት ባለሥልጣን ገለጸ፡፡ ይህ የተገለጸው የኢትዮጵያ አዕምሯዊ ንብረት ባለሥልጣን ከዓለም አዕምሯዊ ንብረት ድርጅት (WIPO) ጋር በመተባበር ለተከታታይ ሦስት ቀናት የሚያካሂዱት አኅጉር አቋራጭ የአፍሪካ ዓረብ ፎረም፣ ትናንት ማክሰኞ ጥቅምት 17 ቀን 2019 ዓ.ም. በአዲስ አበባ መካሄድ […]\nThe post  የአዕምሯዊ ንብረት ሰርተፊኬት በማስያዝ ከባንክ ብድር…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T07:44:22+00:00",
-      "lead_source": {
-        "id": "ethio-rep",
-        "name": "Ethiopian Reporter",
-        "tier": 2,
-        "url": "https://ethiopianreporter.com/161642/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ethio-rep",
-          "name": "Ethiopian Reporter",
-          "tier": 2,
-          "url": "https://ethiopianreporter.com/161642/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d538953e40",
-      "title": "Senegal's finance committee to review revised budget key to IMF deal",
-      "summary": "The country has been grappling with a debt burden that the IMF says had reached 132 per cent of gross domestic product by ⁠the end of 2024.",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T07:40:54+00:00",
-      "lead_source": {
-        "id": "afnews-en",
-        "name": "Africanews",
-        "tier": 2,
-        "url": "http://www.africanews.com/2026/10/28/senegals-finance-committee-to-review-revised-budget-key-to-imf-deal/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-en",
-          "name": "Africanews",
-          "tier": 2,
-          "url": "http://www.africanews.com/2026/10/28/senegals-finance-committee-to-review-revised-budget-key-to-imf-deal/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "bb507061a1",
-      "title": "የግብርና ማሽነሪዎች የብድር ወለድ ምጣኔና የመመለሻ ጊዜ ማጠሩ የፖሊሲ ማሻሻያ እንዲደረግባቸው ተጠየቀ",
-      "summary": "ሪፖርተር - Ethiopian Reporter - #1 reliable news source in Ethiopia\n\nየግብርና ማሽነሪዎች የብድር ወለድ ምጣኔና የመመለሻ ጊዜ ማጠሩ የፖሊሲ ማሻሻያ እንዲደረግባቸው ተጠየቀ\nለግብርና ማሽነሪዎች ግዥ የሚሰጠው የብድር ወለድ ምጣኔ ከፍተኛ በመሆኑና ተበዳሪዎች የሚመልሱበት የጊዜ ገደብ ማጠሩ ጫና እያሳደረ በመሆኑ፣ የፖሊሲ ማሻሻያ ሊደረግበት እንደሚገባ ተጠየቀ። ጥያቄው የቀረበው ካሌብ ሰርቪስ ፋርመርስ ሀውስ ኃላፊነቱ የተወሰነ የግል ማኅበር፣ በኢትዮጵያ ልማት ባንክ ፋይናንስ አማካይነት ለ11 ደንበኞቹ ያስመጣቸውን ኮምባይነሮች 16 ቀን 2019 ዓ.ም. ርክክብ ሲያደርግ ነው። በመድረኩ የተገኙት የኢትዮጵያ ልማት ባንክ የካፒታል ዕቃዎች […]\nThe post  የግብርና ማሽነሪዎች የብድር ወለድ ምጣኔና የመመለሻ ጊዜ…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T07:37:55+00:00",
-      "lead_source": {
-        "id": "ethio-rep",
-        "name": "Ethiopian Reporter",
-        "tier": 2,
-        "url": "https://ethiopianreporter.com/161641/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ethio-rep",
-          "name": "Ethiopian Reporter",
-          "tier": 2,
-          "url": "https://ethiopianreporter.com/161641/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "5406a76c1c",
-      "title": "በትግራይ ጉዳት ለደረሰባቸው የጤና ተቋማት 68 ሚሊዮን ብር የሚገመት የቁሳቁስና የገንዘብ ድጋፍ ተደረገ",
-      "summary": "ሪፖርተር - Ethiopian Reporter - #1 reliable news source in Ethiopia\n\nበትግራይ ጉዳት ለደረሰባቸው የጤና ተቋማት 68 ሚሊዮን ብር የሚገመት የቁሳቁስና የገንዘብ ድጋፍ ተደረገ\nበትግራይ ክልል ዘረፋና ጉዳት ለደረሰባቸው የጤና ተቋማት 68 ሚሊዮን ብር የሚገመት ምግብና የመድኃኒት ድጋፍ ማድረጉን፣ የኢትዮጵያ ቀይ መስቀል ማኅበር አስታወቀ፡፡ የማኅበሩ የዕርዳታ ቡድን ሐሙስ ጥቅምት 12 ቀን 2019 ዓ.ም. መቀሌ ተጉዞ በጦርነቱ ወቅት የደረሰውን ውድመትና ዘረፋ ምልከታ ማድረጉን፣ የማኅበሩ ፕሮግራም ኃላፊ አቶ ድረስ ደስይበለው ለሪፖርተር ተናግረዋል፡፡ በክልሉ የደረሰው ውድመት በጣም ሰፊ መሆኑን የተናገሩት አቶ ድረስ፣ […]\nThe post  በትግራይ ጉዳት ለደረሰባቸው የጤና ተቋማት 68 ሚሊዮን ብር የሚገመት…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T07:30:18+00:00",
-      "lead_source": {
-        "id": "ethio-rep",
-        "name": "Ethiopian Reporter",
-        "tier": 2,
-        "url": "https://ethiopianreporter.com/161634/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ethio-rep",
-          "name": "Ethiopian Reporter",
-          "tier": 2,
-          "url": "https://ethiopianreporter.com/161634/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "ee490c9e17",
-      "title": "የተሻሻለውን የኅብረት ሥራ ማኅበራት አዋጅ የሚያስፈጽም ደንብ ዝግጅት መጠናቀቁ ተገለጸ",
-      "summary": "ሪፖርተር - Ethiopian Reporter - #1 reliable news source in Ethiopia\n\nየተሻሻለውን የኅብረት ሥራ ማኅበራት አዋጅ የሚያስፈጽም ደንብ ዝግጅት መጠናቀቁ ተገለጸ\nየኢትዮጵያ ኅብረት ሥራ ኮሚሽን የተሻሻለውን የኅብረት ሥራ ማኅበራት አዋጅ የሚያስፈጽም ደንብ ዝግጅት በማጠናቀቅ፣ ለሚኒስትሮች ምክር ቤት ሊልክ መሆኑን ገለጸ። ኮሚሽኑ ይህን የገለጸው፣ ዓለም አቀፉ የኅብረት ሥራ ማኅበራት ኅብረት አፍሪካ፣ በኢትዮጵያ ከሚገኙ አባል ድርጅቶች ጋር በመተባበር ያዘጋጀው፣ የአፍሪካ ክልላዊ የኅብረት ሥራ ማኅበራት ጉባዔ መክፈቻ፣ ማክሰኞ ጥቅምት 17 ቀን 2019 ዓ.ም. በአዲስ አበባ ሲካሄድ ነው። በመክፈቻ መድረኩ […]\nThe post  የተሻሻለውን የኅብረት ሥራ ማኅበራት አዋጅ የሚያስፈጽም ደንብ ዝግጅት መጠናቀቁ ተገለጸ first…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T07:27:25+00:00",
-      "lead_source": {
-        "id": "ethio-rep",
-        "name": "Ethiopian Reporter",
-        "tier": 2,
-        "url": "https://ethiopianreporter.com/161635/"
-      },
-      "confirming_sources": [
-        {
-          "id": "ethio-rep",
-          "name": "Ethiopian Reporter",
-          "tier": 2,
-          "url": "https://ethiopianreporter.com/161635/"
         }
       ],
       "confirmation_count": 1
@@ -11409,40 +11429,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "be7b3b606b",
-      "title": "UN Reports 36,000 Ethiopian Arrivals Fleeing Moyale Conflict, Kenya Rights Commission Urges Aid",
-      "summary": "[Addis Standard] Addis Abeba -- Approximately 36,000 people have crossed from Ethiopia into Kenya to flee conflict in and around Moyale, with food, clean water, shelter, sanitation, and healthcare identified as the most urgent needs, the UN Refugee Agency (UNHCR) in Kenya said.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "GRANT"
-      ],
-      "lang": "en",
-      "published": "2026-10-28T04:40:47+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610280039.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610280039.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "328c131583",
       "title": "Russia, Ethiopia Advance Nuclear Power Talks, Discuss Expanded Flights and Visa Facilitation",
       "summary": "[Addis Standard] Addis Abeba -- Russia and Ethiopia are coordinating a draft agreement on a nuclear power plant project while discussing expanded air connections and further visa facilitation for tourists and businesspeople, Russian Ambassador Yevgeny Terekhin said, according to the Russian state  news agency TASS.",
@@ -11502,38 +11488,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/storm-over-october-29-violence-anniversary-in-tanzania-5648332"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e69de930ca",
-      "title": "Mali: quatre militants pro-démocratie présentés à la justice après presque six mois de détention",
-      "summary": "Au Mali, quatre militants pro-démocratie détenus par la Sécurité d'Etat depuis près de six mois dans des lieux inconnus et en dehors de tout cadre judiciaire ont réapparu le mardi 20 octobre. Youssouf Daba Diawara, Aboubacar Soumaré, Moussa « Abba » Djiré et Ibrahima Tamega ont été présentés au pôle judiciaire spécialisé contre la cybercriminalité et sont désormais emprisonnés à la maison d'arrêt de Bamako. Toujours aucune nouvelle en revanche de l'avocat et ancien…",
-      "country": "MLI",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-28T03:38:04+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261028-mali-quatre-militants-pro-d%C3%A9mocratie-pr%C3%A9sent%C3%A9s-%C3%A0-la-justice-apr%C3%A8s-presque-six-mois-de-d%C3%A9tention"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261028-mali-quatre-militants-pro-d%C3%A9mocratie-pr%C3%A9sent%C3%A9s-%C3%A0-la-justice-apr%C3%A8s-presque-six-mois-de-d%C3%A9tention"
         }
       ],
       "confirmation_count": 1
@@ -11603,11 +11557,11 @@
       "confirmation_count": 1
     },
     {
-      "id": "2d6e7b1fe1",
-      "title": "Gambia Adopts Ghana's Digital Identity Technology",
-      "summary": "[Ghanaian Times] The Gambia has adopted Ghana's digital identity technology after being impressed by the country's ability to link identity systems and consolidate data, the Special Adviser to the Gambian President on ICT and Digital Economy, Ousman Bah, has disclosed.",
-      "country": "GHA",
-      "category": "MACRO",
+      "id": "6d878f074d",
+      "title": "Cabinet Approves Uganda's Human Rights Report for UN Review",
+      "summary": "[Nile Post] Cabinet has approved Uganda's national report on progress and challenges in human rights ahead of its submission to the United Nations Human Rights Council for the fourth cycle of the Universal Periodic Review (UPR).",
+      "country": "UGA",
+      "category": "AUTRE",
       "severity": 1,
       "credibility": 2,
       "verified": false,
@@ -11617,19 +11571,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-10-27T12:20:33+00:00",
+      "published": "2026-10-27T12:14:48+00:00",
       "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202610270460.html"
+        "url": "https://allafrica.com/stories/202610270447.html"
       },
       "confirming_sources": [
         {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202610270460.html"
+          "url": "https://allafrica.com/stories/202610270447.html"
         }
       ],
       "confirmation_count": 1
@@ -11667,198 +11621,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "e20482ca0c",
-      "title": "Same Tax, Collected When You Pay - Bringing Fairness to Vat On Foreign Digital Services",
-      "summary": "[Ghanaian Times] Over the past week, many Ghanaians have asked a fair question: will paying for a streaming subscription, cloud storage or an online game soon cost more because of the introduction of a collection and monitoring system?",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-27T11:21:48+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610270374.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610270374.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9dac886019",
-      "title": "Arabic - Reasons Why Muslims Demand Its Inclusion in Their Religious and Secular Studies",
-      "summary": "[Ghanaian Times] In refutation of numerous allegations that the Ministry of Education is planning to make the teaching of Arabic compulsory, the Ministry refuted that allegation in The Ghanaian Times issue of August 30, 2026, page 11.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-27T11:19:57+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610270373.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610270373.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "a9455b16d2",
-      "title": "Digital Entertainment in 2026 - How Online Gaming Platforms Are Improving Player Experience",
-      "summary": "[Ghanaian Times] Digital entertainment now competes for attention on a single screen. A phone can hold a streaming service, a football match, a music app, and an online casino, all a few taps apart. Because of that, online gaming platforms such asPariPesa Bet are judged by the same standards as any other app, including how fast pages load, how clear the menus are, and how easily a person finds what they came for. This article looks at the changes shaping player experience…",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-27T11:18:24+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610270372.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610270372.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "524dfc2b5b",
-      "title": "Deputy Energy, Green Transition Minister to Advance Ghana's Renewable Energy Agenda in India",
-      "summary": "[Ghanaian Times] The Deputy Minister of Energy and Green Transition, Mr Richard Gyan-Mensah, will attend the Bharat Renewable Energy Summit and Expo 2026, scheduled to take place from November 2 to 5, 2026, at Bharat Mandapam in New Delhi, India.",
-      "country": "GHA",
-      "category": "RENEWABLE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": true,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-27T11:17:57+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610270371.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610270371.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "20513b815e",
-      "title": "Two Arrested in Connection With Murder of 11-Year-Old Girl At Buduburam",
-      "summary": "[Ghanaian Times] The Central East Regional Police Command has arrested two suspects in connection with the murder of an 11-year-old girl, Blessing Innocent, at Gomoa Buduburam in the Central Region.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-27T11:17:24+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610270364.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610270364.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "046676e1c0",
-      "title": "Northern Ashanti Mines Sues Over Termination of Konongo Lease",
-      "summary": "[Ghanaian Times] Northern Ashanti Mines Limited has sued the Minerals Commission, the Minister of Lands and Natural Resources and the Attorney-General over the termination of its Konongo Mining Lease, seeking a court order to prevent a takeover of the concession.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-27T11:16:47+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610270363.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610270363.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "33634f5344",
       "title": "Businesses starved of capital as Nigeria flooded with 'hot money'",
       "summary": "Portfolio funds known as hot money are flowing into Nigerian bonds and Treasuries, but little reaches businesses desperate for capital.",
@@ -11886,70 +11648,6 @@
           "name": "African Business",
           "tier": 2,
           "url": "https://african.business/2026/10/finance-services/businesses-starved-of-capital-as-nigeria-flooded-with-hot-money"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "08d9c6d43b",
-      "title": "GPL - Medeama Reclaim Top Spot, Port City Shock Karela, Vision Thrash Dreams FC",
-      "summary": "[Ghanaian Times] Medeama SC returned to the top of the Premier League standings after edging Aduana FC 1-0 at the TnA Stadium on Sunday, while Asante Kotoko were held to a 1-1 draw by FC AshantiGold 04 in an entertaining Ashanti derby.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-27T10:57:29+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610270329.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610270329.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "985dd9d480",
-      "title": "Ghana Armwrestling Secures Shoe Fabriek's Support Ahead of World Championship",
-      "summary": "[Ghanaian Times] The Ghana Armwrestling Federation (GAF) has received sponsorship support from Shoe Fabriek, a local shoe manufacturing company, ahead of its participation in the 2026 World Armwrestling Championship in New Delhi, India.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-27T10:56:26+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610270328.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610270328.html"
         }
       ],
       "confirmation_count": 1
@@ -12309,38 +12007,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "9dde925f7d",
-      "title": "Galamsey Now Threatens Ghana's Energy Security",
-      "summary": "[Ghanaian Times] Illegal mining, popularly known as galamsey, has already caused extensive damage to Ghana's forests, polluted rivers and threatened the livelihoods of communities.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-26T13:36:58+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610260551.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610260551.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "5241d2b13c",
       "title": "Ethiopia’s Innovation Ministry Reviews Institutional Capacity",
       "summary": "Ethiopia’s Ministry of Innovation and Technology has completed a five-day institutional performance and capacity review aimed at assessing its readiness...\nSource",
@@ -12464,134 +12130,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/sustainability/health/ebola-scientists-to-probe-nigeria-case-origin-africa-cdc-says-5646250"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "08d7d87c2b",
-      "title": "UN @81 - the Time Has Come for a Woman to Lead the United Nations",
-      "summary": "[Ghanaian Times] The United Nations (UN) marked 81 years of existence on Saturday, October 24, 2026, providing the world with a historic opportunity to align its commitment to gender equality with the leadership of its highest office. Since its establishment in 1945, the UN has had nine Secretaries-General, all men.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-26T11:53:50+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610260386.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610260386.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c9cb3b31d8",
-      "title": "Chinese Naval Ship Docks in Tema for Free Medical Outreach",
-      "summary": "[Ghanaian Times] TEMA -- A Chinese naval hospital ship, the 868 PLA Auspicious Ark, has berthed at Tema Harbour to provide free medical care to Ghanaians with conditions requiring specialised treatment.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-26T11:35:00+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610260366.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610260366.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "c746a0a0dd",
-      "title": "Africa Must Take Charge of Its Security - - President Mahama",
-      "summary": "[Ghanaian Times] Africa must finance its own peace and security initiatives instead of relying on external powers to determine the continent's future, President John Dramani Mahama has said.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-26T11:32:27+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610260360.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610260360.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e7dddcf2af",
-      "title": "Ghana's Push to Join Brics - an Analysis Through the Energy Lens",
-      "summary": "[Ghanaian Times] There is an old saying that you should not put all your eggs in one basket, especially if you are not the one carrying the basket. For Ghana, this is increasingly relevant when it comes to financing its development and energy ambitions.",
-      "country": "GHA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-26T11:31:07+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610260359.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610260359.html"
         }
       ],
       "confirmation_count": 1
@@ -14902,38 +14440,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "840bb5f51e",
-      "title": "Historian Hassoum Ceesay Says Gambia-Senegal Border Has Not Been Demarcated Since 1904-05",
-      "summary": "[Foroyaa] There has been no formal boundary demarcation exercise between The Gambia and Senegal for more than a century, according to Hassoum Ceesay, Director General of the National Centre for Arts and Culture (NCAC).",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-09-29T15:36:25+00:00",
-      "lead_source": {
-        "id": "aa-sen",
-        "name": "AllAfrica · Sénégal",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202609290518.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-sen",
-          "name": "AllAfrica · Sénégal",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202609290518.html"
         }
       ],
       "confirmation_count": 1
