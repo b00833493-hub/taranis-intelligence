@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-10-30T18:36:45.870505+00:00",
+  "generated_at": "2026-10-30T22:58:41.341618+00:00",
   "stats": {
-    "total_signals": 433,
+    "total_signals": 441,
     "verified_signals": 11,
-    "countries_covered": 19,
+    "countries_covered": 21,
     "sources_active": 40,
     "per_country": {
+      "LBR": 1,
       "BFA": 3,
       "KEN": 56,
       "TZA": 39,
-      "GHA": 40,
-      "MOZ": 39,
-      "NGA": 56,
+      "GHA": 41,
+      "MOZ": 40,
+      "NGA": 55,
       "ETH": 42,
       "RWA": 12,
       "UGA": 37,
       "CIV": 16,
-      "SEN": 50,
+      "SEN": 53,
       "MLI": 26,
+      "BEN": 1,
       "GNB": 2,
       "MDG": 2,
       "SSD": 2,
-      "GIN": 1,
+      "GIN": 3,
       "SOM": 6,
       "MWI": 2,
       "CPV": 2
     },
-    "west_signals": 196,
-    "east_signals": 237
+    "west_signals": 203,
+    "east_signals": 238
   },
   "sources": [
     {
@@ -272,6 +274,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "d28281fd00",
+      "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
+      "summary": "Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.",
+      "country": "LBR",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-30T21:00:51+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "9ee0956d5d",
       "title": "Burkina Faso : antiterrorisme ou répression, pourquoi Ibrahim Traoré a rétabli la peine de mort",
@@ -1995,6 +2029,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "199b32707b",
+      "title": "Alake Defends Nigeria-US Minerals Deal, Rejects $700bn Sale Claims",
+      "summary": "[Daily Trust] The Minister of Solid Minerals Development, Dr Dele Alake, has dismissed claims that Nigeria sold $700bn worth of solid minerals to the United States, insisting that the bilateral agreement was designed to attract investment and facilitate cooperation, not transfer ownership of the country's mineral assets.",
+      "country": "NGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-30T19:39:22+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610300671.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610300671.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "72139196c6",
+      "title": "Bénin : 30 millions d’euros de financement pour le premier projet solaire IPP du pays",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "BEN",
+      "category": "RENEWABLE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": "SOLAR",
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-30T18:43:58+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/10/30/benin-30-millions-deuros-de-financement-pour-le-premier-projet-solaire-ipp-du-pays/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/10/30/benin-30-millions-deuros-de-financement-pour-le-premier-projet-solaire-ipp-du-pays/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "913f3adc29",
       "title": "Côte d’Ivoire : au pôle pénal économique et financier, coulisses d’un vaste coup de filet",
       "summary": "Alertés par le FBI, les enquêteurs ont mis au jour un réseau de corruption au sein de la justice financière ivoirienne. Une interpellation a déjà eu lieu.",
@@ -2893,6 +2991,40 @@
       "confirmation_count": 1
     },
     {
+      "id": "53cf0e702d",
+      "title": "U.S. Uncovers Alleged $200m Ghost Student Fraud Linked to Kenyan Network",
+      "summary": "[Capital FM] Nairobi -- US authorities have seized more than $750,000 (about Sh97 million) in cryptocurrency linked to a transnational student financial aid fraud scheme involving Kenyan nationals, in what the Justice Department describes as its first international seizure of its kind in Kenya.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "GRANT"
+      ],
+      "lang": "en",
+      "published": "2026-10-30T05:02:14+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610300087.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610300087.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "a1d0a09b57",
       "title": "Nigeria Needs More Capital for Clean Cooking Transition - Minister",
       "summary": "[Leadership] The Minister of Environment, Balarabe Abbas Lawal, has called for increased investment in Nigeria's clean cooking sector, saying the country needs substantially more capital to accelerate the transition from traditional cooking fuels to cleaner energy sources.",
@@ -2952,6 +3084,38 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/afrique/20261030-soudan-du-sud-riek-machar-d%C3%A9nonce-un-proc%C3%A8s-politique-et-rejette-les-accusations"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "350e680a38",
+      "title": "Uganda Launches Electricity Distribution Master Plan to 2040",
+      "summary": "[Nile Post] Government of Uganda has launched the development of the National Electricity Distribution Master Plan to 2040, a strategic initiative aimed at improving electricity planning, reducing infrastructure costs and ensuring that households, businesses, schools, health facilities and industries have access to a more reliable power network.",
+      "country": "UGA",
+      "category": "RENEWABLE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-30T02:36:18+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610300041.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610300041.html"
         }
       ],
       "confirmation_count": 1
@@ -3368,6 +3532,38 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610290113.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4d8d167b2e",
+      "title": "Janet Museveni Warns of Rising Teenage Pregnancy, Sexual Activity Among Youth",
+      "summary": "[Nile Post] First Lady Janet Kataaha Museveni has raised concern over teenage pregnancy, early marriages, sexually transmitted infections and substance abuse among young people, calling for stronger family guidance and life-skills education.",
+      "country": "UGA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "FINANCING",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T05:07:17+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290111.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290111.html"
         }
       ],
       "confirmation_count": 1
@@ -4170,6 +4366,38 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/videos/cvj643yz8dz0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "f35854c100",
+      "title": "La révolution manquante du financement du développement africain",
+      "summary": "Par Dr Papa Demba Thiam, Économiste, architecte des transformations stratégiques.\nSénégal–FMI : chronique d’un risque annoncé et révélateur de ce que les institutions financières africaines de développement devraient changer\nLe Sénégal traverse une crise financière dont les conséquences dépassent désormais largement la controverse initiale sur la dette publique. Les dégradations successives de sa notation souveraine, les incertitudes persistantes entourant le programme du…",
+      "country": "SEN",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-30T22:35:29+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/10/30/la-revolution-manquante-du-financement-du-developpement-africain/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/10/30/la-revolution-manquante-du-financement-du-developpement-africain/"
         }
       ],
       "confirmation_count": 1
@@ -5311,38 +5539,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ae08de3df0",
-      "title": "Liberation Without Domination - Ethiopia's Opposition Alliance and the Right to Decide",
-      "summary": "[Addis Standard] Addis Abeba -- The Ethiopian Peoples' Forces Alliance for Survival, or EPFAS, was announced on 20 September 2026. Announced participants included the Oromo Liberation Front-Oromo Liberation Army, known as OLF-OLA, the Amhara Fano National Movement, and the Tigray People's Liberation Front (TPLF). Its statement, reproduced on an OLF-OLA-associated website, proposes an inclusive temporary government, temporary governing rules, and public discussion of the…",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": "ANNOUNCED",
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-27T10:19:46+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610270272.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610270272.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "0d66c56c8d",
       "title": "Tenders to Contract Private Operators for Railway Network Underway",
       "summary": "[AIM] Maputo -- The publicly-owned company Ports and Railways of Mozambique (CFM) has announced that public tenders public tenders are underway to contract private operators for the management of the country's railway network.",
@@ -5664,6 +5860,230 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610080013.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e87e615a68",
+      "title": "JOJ Dakar 2026, le Sénégal en fête",
+      "summary": "",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-30T22:55:32+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261030-joj-dakar-2026-le-s%C3%A9n%C3%A9gal-en-f%C3%AAte"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261030-joj-dakar-2026-le-s%C3%A9n%C3%A9gal-en-f%C3%AAte"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "46cd0e63fa",
+      "title": "Constitucional acusa Tusk de \"golpe de Estado\"",
+      "summary": "Uma juíza anunciou a suspensão do presidente do Tribunal Constitucional. O próprio tribunal nega e fala em \"golpe de Estado\". Presidente da República regressa a correr do Senegal.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-10-30T21:56:29+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/10/30/suspensao-do-presidente-do-tribunal-constitucional-polaco-leva-policia-as-ruas-e-provoca-acusacoes-de-golpe-de-estado/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/10/30/suspensao-do-presidente-do-tribunal-constitucional-polaco-leva-policia-as-ruas-e-provoca-acusacoes-de-golpe-de-estado/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "dd09584a27",
+      "title": "Guinean cinema: A new generation strives to bring the industry back to life",
+      "summary": "Once a thriving industry, Guinean cinema is struggling to regain its former glory. With cinemas closed, production resources scarce and funding difficult to secure, a new generation is working to revive the country’s film i",
+      "country": "GIN",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-30T20:52:41+00:00",
+      "lead_source": {
+        "id": "afnews-en",
+        "name": "Africanews",
+        "tier": 2,
+        "url": "http://www.africanews.com/2026/10/30/guinean-cinema-a-new-generation-strives-to-bring-the-industry-back-to-life/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-en",
+          "name": "Africanews",
+          "tier": 2,
+          "url": "http://www.africanews.com/2026/10/30/guinean-cinema-a-new-generation-strives-to-bring-the-industry-back-to-life/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "170922f863",
+      "title": "Cinéma guinéen : une nouvelle génération veut rallumer les projecteurs",
+      "summary": "Après avoir connu ses heures de gloire, le cinéma guinéen peine à retrouver son rayonnement. Salles fermées, moyens de production limités et financements difficiles à mobiliser : le secteur fait face à de nombreux obstacles.",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-30T20:21:09+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/10/30/cinema-guineen-une-nouvelle-generation-veut-rallumer-les-projecteurs/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/10/30/cinema-guineen-une-nouvelle-generation-veut-rallumer-les-projecteurs/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d602fbd3df",
+      "title": "Mozambique : la prime rate maintenue à 15,5 % en novembre, pour le septième mois consécutif",
+      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-10-30T19:49:01+00:00",
+      "lead_source": {
+        "id": "financ-afr",
+        "name": "Financial Afrik",
+        "tier": 2,
+        "url": "https://www.financialafrik.com/2026/10/30/mozambique-la-prime-rate-maintenue-a-155-en-novembre-pour-le-septieme-mois-consecutif/"
+      },
+      "confirming_sources": [
+        {
+          "id": "financ-afr",
+          "name": "Financial Afrik",
+          "tier": 2,
+          "url": "https://www.financialafrik.com/2026/10/30/mozambique-la-prime-rate-maintenue-a-155-en-novembre-pour-le-septieme-mois-consecutif/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ddfae13307",
+      "title": "Governo quer batalha campal? Partidos estão a fazer contas?",
+      "summary": "Na semana em que Seguro, Montenegro e Neves falaram sobre as manifestações e a crise na habitação, os ases discutem o tema. Mas também há um \"super joker\" para Lula após eleições brasileiras.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-10-30T19:03:46+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/programas/fora-do-baralho/governo-quer-batalha-campal-partidos-estao-a-fazer-contas/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/programas/fora-do-baralho/governo-quer-batalha-campal-partidos-estao-a-fazer-contas/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "be77185d08",
+      "title": "Livre questiona Governo sobre organização do Rali Dakar 2027",
+      "summary": "Partido questiona Governo sobre recursos públicos envolvidos e pede cancelamento do apoio a Marrocos, que substituiu a Arábia Saudita na organização da prova.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-10-30T18:51:41+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/10/30/livre-critica-coorganizacao-do-dakar-2027-com-marrocos-e-vergonhoso-que-percurso-inclua-territorio-ocupado-do-saara-ocidental/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/10/30/livre-critica-coorganizacao-do-dakar-2027-com-marrocos-e-vergonhoso-que-percurso-inclua-territorio-ocupado-do-saara-ocidental/"
         }
       ],
       "confirmation_count": 1
@@ -6765,6 +7185,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "9a21b0b00e",
+      "title": "Kaduna NBA Chairman Loses Daughter",
+      "summary": "[Daily Trust] The Janazah prayer of the daughter of Kaduna Branch Chairman of the Nigerian Bar Association(NBA), Aisha Baba Lawal, will hold on Friday at Sultan Bello Mosque, Unguwan Sarki, after prayers.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-30T11:10:49+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610300340.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610300340.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b32830c4af",
       "title": "Osimhen, Girlfriend Welcome Second Child",
       "summary": "[Daily Trust] Super Eagles striker Victor Osimhen and his girlfriend, Stefanie Ladewig, have welcomed their second child.",
@@ -6984,6 +7436,38 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610300321.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5a193a98a3",
+      "title": "2027 - Onaiyekan Backs Opposition's Unity Push Against Tinubu",
+      "summary": "[Vanguard] Roman Catholic Cardinal John Onaiyekan has thrown his weight behind efforts by opposition parties under the G100 Coalition to present a united front ahead of the 2027 elections, as the Coalition prepares to hold its second summit on Monday, November 9, 2026.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-30T10:35:37+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610300318.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610300318.html"
         }
       ],
       "confirmation_count": 1
@@ -7469,70 +7953,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "2f881f121b",
-      "title": "Wara Fragrance Named East Africa Brand of the Year At Malaysia Summit",
-      "summary": "[Capital FM] Nairobi -- Wara Fragrance has been named East Africa Brand of the Year 2026 at an international summit held in Kuala Lumpur, Malaysia, giving the fragrance company recognition beyond its regional market.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-30T09:39:30+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610300214.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610300214.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "6b0a217a72",
-      "title": "Sénégal : Moody’s frappe pour la cinquième fois, en plein bras de fer sur la loi de finances rectificative",
-      "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
-      "country": "SEN",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-30T09:14:11+00:00",
-      "lead_source": {
-        "id": "financ-afr",
-        "name": "Financial Afrik",
-        "tier": 2,
-        "url": "https://www.financialafrik.com/2026/10/30/senegal-moodys-frappe-pour-la-cinquieme-fois-en-plein-bras-de-fer-sur-la-loi-de-finances-rectificative/"
-      },
-      "confirming_sources": [
-        {
-          "id": "financ-afr",
-          "name": "Financial Afrik",
-          "tier": 2,
-          "url": "https://www.financialafrik.com/2026/10/30/senegal-moodys-frappe-pour-la-cinquieme-fois-en-plein-bras-de-fer-sur-la-loi-de-finances-rectificative/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "1320d7432c",
       "title": "Kenya’s County AI Pilots Need Decision-Recovery Drill",
       "summary": "Imagine a parent seeking a county bursary for a student. An AI helpdesk tells them that an unstamped fee statement...\nSource",
@@ -7978,134 +8398,6 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1855371/politique/au-mali-la-lente-decheance-des-figures-du-m5-rfp/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9ba312d477",
-      "title": "2027 - Peter Obi Rolls Out Plans for Nigeria, Challenges Tinubu On Borrowing",
-      "summary": "[Premium Times] Mr Obi, a former governor of Anambra State, spoke on Thursday evening during the NDC's Town hall meeting at Amadeo Event Centre in Enugu.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-30T06:59:49+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610300168.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610300168.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "1f2e0f84f8",
-      "title": "Tinubu Lands in Saudi Arabia for Umrah",
-      "summary": "[Vanguard] President Bola Tinubu on Thursday evening arrived in Saudi Arabia, landing at the King Abdulaziz International Airport in Jeddah.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-30T06:59:32+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610300167.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610300167.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "09a9e66535",
-      "title": "Makinde Questions Tinubu's Saudi Prayer Trip, Challenges Govt Over Borrowing",
-      "summary": "[Vanguard] The presidential candidate of the Allied Peoples Movement (APM), Seyi Makinde, has questioned the Federal Government's decision to seek fresh foreign loans despite rising external reserves and claims of improved revenue collection.",
-      "country": "NGA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-30T06:59:19+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610300166.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610300166.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "cb4976b5ac",
-      "title": "He Was Not Elected As Prayer Warrior - Nigerians Knock Tinubu Over Planned Makkah Trip",
-      "summary": "[Leadership] Nigerians on X have expressed mixed reactions to President Bola Tinubu's planned trip to Makkah, Saudi Arabia, to perform Umrah and pray for the country, with some questioning the timing of the visit amid economic hardship and insecurity.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-30T06:57:23+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610300165.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610300165.html"
         }
       ],
       "confirmation_count": 1
@@ -9066,6 +9358,38 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610290647.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e8d6af48e0",
+      "title": "$59m Yendi Solar Farm to Strengthen Energy Security",
+      "summary": "[Ghanaian Times] The 50-megawatt-peak (MWp) Yendi Solar Farm is expected to strengthen electricity supply in Yendi and surrounding communities while creating employment opportunities and supporting Ghana's renewable energy drive.",
+      "country": "GHA",
+      "category": "RENEWABLE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": "SOLAR",
+      "legal_status": null,
+      "regulatory": true,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-29T23:16:29+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610290648.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610290648.html"
         }
       ],
       "confirmation_count": 1
@@ -10415,70 +10739,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "675881ba69",
-      "title": "Police Intercept Suspected Robbers in Mityana, Recover Two Guns",
-      "summary": "[Nile Post] Police in Mityana District have arrested one suspected armed robber and recovered two guns and three pangas following a confrontation with four men suspected of raiding homes and robbing residents of cash and mobile phones.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-29T10:07:09+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610290300.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610290300.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "988200c9a3",
-      "title": "I Have Never Seen a Pregnant Female Minister, MP Says As He Questions Empty Front Bench",
-      "summary": "[Nile Post] Kibanda North County MP Linos Ngompek has questioned the continued absence of ministers from Parliament, citing empty front-bench seats and demanding to know whether the House is operating as it should.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-29T10:06:47+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610290299.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610290299.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "c47b744521",
       "title": "Muhoozi Endorsement - ULs Asks Judge Singiza to Resign",
       "summary": "[Independent (Kampala)] Kampala, Uganda -- The Uganda Law Society (ULS) has demanded the resignation of Dr Douglas Singiza as Chairperson of the Judicial Service Commission.",
@@ -11503,10 +11763,10 @@
       "confirmation_count": 1
     },
     {
-      "id": "d4b778d398",
-      "title": "Court Adjourns Former Deputy Nss CEO Trial to Nov 9",
-      "summary": "[Ghanaian Times] The High Court in Accra has adjourned the trial of former Deputy Executive Director of the National Service Authority (NSA), Gifty Oware-Mensah, to November 9, 2026, for continuation.",
-      "country": "GHA",
+      "id": "4d2330151c",
+      "title": "Cashew Sales Generate Over 300bn/ - in Two Weeks",
+      "summary": "[Daily News] Mtwara -- MORE than 100,000 tonnes of raw cashew nuts have been sold in the country so far during the 2026/2027 marketing season, generating more than 300bn/- in revenue.",
+      "country": "TZA",
       "category": "AUTRE",
       "severity": 1,
       "credibility": 2,
@@ -11517,19 +11777,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-10-28T10:52:24+00:00",
+      "published": "2026-10-28T11:01:39+00:00",
       "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202610280324.html"
+        "url": "https://allafrica.com/stories/202610280333.html"
       },
       "confirming_sources": [
         {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202610280324.html"
+          "url": "https://allafrica.com/stories/202610280333.html"
         }
       ],
       "confirmation_count": 1
@@ -11695,38 +11955,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "b2381afc3d",
-      "title": "Court Urged to Compel Security Agencies to Produce Missing Tanzanian Activist",
-      "summary": "[Capital FM] Nairobi -- Vocal Africa has moved to the High Court seeking the production of Tanzanian opposition activist Twaha Mwaipaya in court following his alleged abduction in Kamulu, Nairobi.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-10-28T09:35:49+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610280226.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610280226.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "d68665b3c9",
       "title": "Ghetto Kids bring Ugandan rhythm to summit in Moscow",
       "summary": "The Ghetto Kids’ inclusion adds a cultural dimension to the diplomatic gathering, giving Uganda...",
@@ -11850,6 +12078,38 @@
           "name": "Financial Times · Africa",
           "tier": 1,
           "url": "https://www.ft.com/content/52b656d0-fa0e-44b2-be1a-5f74735e90e0?syn-25a6b1a6=1"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "732e55d7f3",
+      "title": "Peace-Security Anchor Ethiopia Must Consolidate Commitments to Peace and Security - Former PM",
+      "summary": "[ENA] Addis Ababa -- Ethiopia, which remains an anchor for peace and security in the region, must strengthen and continue this genuine commitment to peace, former Ethiopian Prime Minister Hailemariam Desalegn told ENA.",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-10-28T04:46:26+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202610280077.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202610280077.html"
         }
       ],
       "confirmation_count": 1
