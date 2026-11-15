@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-15T01:54:03.084416+00:00",
+  "generated_at": "2026-11-15T09:21:18.922705+00:00",
   "stats": {
     "total_signals": 453,
-    "verified_signals": 6,
+    "verified_signals": 5,
     "countries_covered": 27,
     "sources_active": 40,
     "per_country": {
-      "BFA": 9,
-      "MDG": 3,
+      "NGA": 61,
+      "MDG": 4,
       "GIN": 7,
-      "KEN": 50,
+      "KEN": 49,
       "MOZ": 41,
-      "NGA": 59,
-      "TZA": 30,
+      "TZA": 29,
       "UGA": 40,
-      "SSD": 7,
-      "ETH": 40,
-      "CIV": 23,
+      "SSD": 8,
+      "ETH": 39,
+      "CIV": 24,
       "GHA": 38,
-      "SEN": 46,
-      "MLI": 19,
-      "DJI": 1,
-      "CPV": 7,
+      "SEN": 45,
+      "MLI": 16,
+      "DJI": 2,
+      "BFA": 7,
+      "CPV": 8,
       "SLE": 2,
       "BEN": 3,
       "BDI": 2,
       "TGO": 1,
-      "RWA": 10,
+      "RWA": 12,
       "GNB": 3,
       "ERI": 1,
       "GMB": 2,
@@ -34,8 +34,8 @@
       "NER": 1,
       "MUS": 1
     },
-    "west_signals": 220,
-    "east_signals": 233
+    "west_signals": 218,
+    "east_signals": 235
   },
   "sources": [
     {
@@ -281,42 +281,36 @@
   ],
   "signals": [
     {
-      "id": "029967cdf3",
-      "title": "Burkina Faso : mandats d'arrêt contre des journalistes et activistes en exil pour faits de \"terrorisme\"",
-      "summary": "Les autorités du Burkina Faso ont annoncé avoir lancé des mandats d’arrêt contre une vingtaine de personnes en exil et demandé leur extradition. Des journalistes et un ancien pilier du régime de Blaise Compaoré sont notamment visés.",
-      "country": "BFA",
+      "id": "677e5f5de7",
+      "title": "Nigeria: une cinquantaine de morts dans des affrontements entre gangs et milices locales dans le nord du pays",
+      "summary": "Des miliciens du village de Zoma, dans l'État de Zamfara, ont tendu une embuscade, jeudi 12 novembre, à des « bandits » en réaction aux pillages, aux enlèvements et aux vols de bétail perpétrés par les bandes armées qui terrorisent la région. Les affrontements ont fait plus de 50 morts, selon des habitants de la localité.",
+      "country": "NGA",
       "category": "AUTRE",
       "severity": 4,
-      "credibility": 4,
-      "verified": true,
+      "credibility": 2,
+      "verified": false,
       "theme": null,
-      "legal_status": "ANNOUNCED",
+      "legal_status": null,
       "regulatory": false,
       "fdi": false,
       "sectors": [],
       "lang": "fr",
-      "published": "2026-11-14T15:31:03+00:00",
+      "published": "2026-11-15T04:12:32+00:00",
       "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
         "tier": 1,
-        "url": "https://www.france24.com/fr/afrique/20261114-burkina-faso-mandats-arr%C3%AAt-contre-journalistes-activistes-exil-pour-faits-terrorisme"
+        "url": "https://www.rfi.fr/fr/afrique/20261115-nigeria-une-cinquantaine-de-morts-dans-des-affrontements-entre-gangs-et-milices-locales-dans-le-nord-du-pays"
       },
       "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/afrique/20261114-burkina-faso-mandats-arr%C3%AAt-contre-journalistes-activistes-exil-pour-faits-terrorisme"
-        },
         {
           "id": "rfi-afr",
           "name": "RFI Afrique",
           "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261113-burkina-faso-mandats-d-arr%C3%AAt-contre-des-journalistes-et-activistes-en-exil-pour-faits-de-terrorisme"
+          "url": "https://www.rfi.fr/fr/afrique/20261115-nigeria-une-cinquantaine-de-morts-dans-des-affrontements-entre-gangs-et-milices-locales-dans-le-nord-du-pays"
         }
       ],
-      "confirmation_count": 2
+      "confirmation_count": 1
     },
     {
       "id": "7762785622",
@@ -378,38 +372,6 @@
           "name": "RFI Afrique",
           "tier": 1,
           "url": "https://www.rfi.fr/fr/afrique/20261114-orpaillage-en-guin%C3%A9e-les-affrontements-dans-la-r%C3%A9gion-de-siguiri-suscitent-des-critiques"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "80687ddc83",
-      "title": "Niger: plus de 30 civils tués dans une attaque près de Téra, dans la région de Tillabéri",
-      "summary": "Au Niger, une attaque a eu lieu jeudi 12 novembre dans la région de Tillabéri, dans l'ouest du pays, épicentre des violences terroristes. Elle s'est produite près de la localité de Téra, proche du Burkina Faso et du Mali. Pas de communication ni de bilan officiels à ce stade. Des sources locales jointes par l'Agence France-Presse avancent le chiffre d'au moins 37 morts.",
-      "country": "BFA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-13T21:08:56+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri"
         }
       ],
       "confirmation_count": 1
@@ -1025,38 +987,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "b0574d94e6",
-      "title": "Soudan du Sud : Amnesty accuse l’ONU d’avoir ignoré des alertes avant un massacre",
-      "summary": "Au Soudan du Sud, Amnesty International accuse les autorités et la mission des Nations unies de ne pas avoir pris les mesures nécessaires pour empêcher un massacre qui a fait plus de 200 morts en mars dernier.",
-      "country": "SSD",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-12T10:56:34+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/11/12/soudan-du-sud-amnesty-accuse-lonu-davoir-ignore-des-alertes-avant-un-massacre/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/11/12/soudan-du-sud-amnesty-accuse-lonu-davoir-ignore-des-alertes-avant-un-massacre/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "34f349ef2b",
       "title": "Ghana Engages U.S. Civil Rights Lawyer Ben Crump to Seek Justice for Ghanaians Killed in U.S.",
       "summary": "[Ghanaian Times] Approval has been granted to Ghana's Permanent Mission in New York to engage the services of celebrated US civil rights lawyer, Ben Crump, to assist Ghana in securing justice for all Ghanaians killed in the US in recent months.",
@@ -1507,6 +1437,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "109dbb2254",
+      "title": "Government to Mobilize About 27 Billion Meticais for Mitigation of El Ni&#xF1;o",
+      "summary": "[AIM] Maputo -- The Mozambican government plans to mobilize approximately 27 billion meticais (1.7 billion US dollars at the current exchange rate) to implement the 2026/27 National Plan for Mitigating the Impacts of El Niño weather phenomenon.",
+      "country": "MOZ",
+      "category": "FINANCING",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-05T11:59:39+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611050335.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611050335.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "63ed0d18d0",
       "title": "The Documentary Podcast",
       "summary": "The nun who rehabilitates child victims of Uganda’s Lord’s Resistance Army",
@@ -1667,12 +1629,46 @@
       "confirmation_count": 1
     },
     {
-      "id": "6e35d75b81",
-      "title": "Nduhungirehe, Mali President Discuss Bilateral Relations",
-      "summary": "[New Times] The Minister of Foreign Affairs and International Cooperation, Olivier Nduhungirehe, on Tuesday, October 13, met with Mali's Transitional President Gen Assimi Goïta for a discussion on bilateral relations, regional security and African integration.",
-      "country": "MLI",
+      "id": "18e71d17de",
+      "title": "Au marché de Tsiroanomandidy à Madagascar, la peur des «dahalo», les voleurs de zébus",
+      "summary": "À Madagascar, les troupeaux de zébus sont considérés dans les zones rurales comme de véritables comptes en banque. Ce bétail constitue un capital économique autant qu'une source de prestige social. Mais cette richesse suscite la convoitise de bandits, les « dahalo », prêts à mener des attaques sanglantes pour voler des troupeaux. Au marché aux zébus de Tsiroanomandidy, à 200 kilomètres à l'ouest de la capitale malgache, Antananarivo, des centaines de bêtes sont vendues…",
+      "country": "MDG",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "fr",
+      "published": "2026-11-15T05:38:53+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261115-au-march%C3%A9-de-tsiroanomandidy-%C3%A0-madagascar-la-peur-des-dahalo-les-voleurs-de-z%C3%A9bus"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261115-au-march%C3%A9-de-tsiroanomandidy-%C3%A0-madagascar-la-peur-des-dahalo-les-voleurs-de-z%C3%A9bus"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6f84e94f47",
+      "title": "Nigeria: à deux mois des élections générales, la Commission électorale sous un feu roulant de critiques",
+      "summary": "À deux mois des élections générales qui se tiendront le 16 janvier prochain, la Commission électorale nationale indépendante (Inec) du Nigeria se retrouve dans l'obligation de défendre son impartialité et son professionnalisme alors que la campagne est marquée par de nombreux sujets de dissensions et une explosion des violences politiques. Son président, Joash Amupitan, s'est exprimé à Londres jeudi 12 novembre.",
+      "country": "NGA",
       "category": "AUTRE",
-      "severity": 4,
+      "severity": 3,
       "credibility": 2,
       "verified": false,
       "theme": null,
@@ -1681,26 +1677,26 @@
       "fdi": false,
       "sectors": [],
       "lang": "fr",
-      "published": "2026-10-14T10:52:56+00:00",
+      "published": "2026-11-15T04:11:26+00:00",
       "lead_source": {
-        "id": "aa-mli",
-        "name": "AllAfrica · Mali",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610140273.html"
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261115-nigeria-%C3%A0-deux-mois-des-%C3%A9lections-g%C3%A9n%C3%A9rales-la-commission-%C3%A9lectorale-sous-un-feu-roulant-de-critiques"
       },
       "confirming_sources": [
         {
-          "id": "aa-mli",
-          "name": "AllAfrica · Mali",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610140273.html"
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261115-nigeria-%C3%A0-deux-mois-des-%C3%A9lections-g%C3%A9n%C3%A9rales-la-commission-%C3%A9lectorale-sous-un-feu-roulant-de-critiques"
         }
       ],
       "confirmation_count": 1
     },
     {
-      "id": "a0a675d16b",
-      "title": "Comment Ismaïl Omar Guelleh parvient-il à protéger Djibouti dans une région aux crises multiformes",
+      "id": "c613960ce8",
+      "title": "Comment Ismaïl Omar Guelleh parvient-il à protéger Djibouti dans une région aux crises multiformes ?",
       "summary": "Attaques des houtis du Yémen en mer Rouge, montée en puissance des jihadistes shebab en Somalie, troubles communautaires en Éthiopie… À l’heure où son pays est cerné par les tensions, c’est sur le terrain diplomatique que le président djiboutien est tout particulièrement attendu.",
       "country": "DJI",
       "category": "AUTRE",
@@ -1726,6 +1722,38 @@
           "name": "Jeune Afrique",
           "tier": 2,
           "url": "https://www.jeuneafrique.com/1859692/politique/comment-ismail-omar-guelleh-parvient-il-a-proteger-djibouti-dans-une-region-aux-crises-multiformes/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "029967cdf3",
+      "title": "Burkina Faso : mandats d'arrêt contre des journalistes et activistes en exil pour faits de \"terrorisme\"",
+      "summary": "Les autorités du Burkina Faso ont annoncé avoir lancé des mandats d’arrêt contre une vingtaine de personnes en exil et demandé leur extradition. Des journalistes et un ancien pilier du régime de Blaise Compaoré sont notamment visés.",
+      "country": "BFA",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-14T15:31:03+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/afrique/20261114-burkina-faso-mandats-arr%C3%AAt-contre-journalistes-activistes-exil-pour-faits-terrorisme"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/afrique/20261114-burkina-faso-mandats-arr%C3%AAt-contre-journalistes-activistes-exil-pour-faits-terrorisme"
         }
       ],
       "confirmation_count": 1
@@ -1758,38 +1786,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/business-tech/afcon-2027-uganda-eyes-460-million-tourism-boon-5670458"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "beed8110cd",
-      "title": "Mali: attaques du Jnim contre des civils dans les régions de Ségou et Mopti",
-      "summary": "L'armée malienne a revendiqué ce vendredi 13 novembre 2026 des frappes aériennes contre des cibles « terroristes » à Kadiana, région de Bougouni, et à Boulkessi, région de Douentza. La veille, les jihadistes du Jnim, liés à al-Qaïda, avaient revendiqué des tirs d'obus contre le camp militaire de Léré, région de Tombouctou, et deux attaques contre des positions militaires de la région de Mopti. Mais les jihadistes n'ont pas communiqué sur de récentes attaques qui ont visé…",
-      "country": "MLI",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-14T04:03:41+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261114-mali-attaques-du-jnim-contre-des-civils-dans-les-r%C3%A9gions-de-s%C3%A9gou-et-mopti"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261114-mali-attaques-du-jnim-contre-des-civils-dans-les-r%C3%A9gions-de-s%C3%A9gou-et-mopti"
         }
       ],
       "confirmation_count": 1
@@ -3151,38 +3147,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "68416ff03c",
-      "title": "Govt Teams Up With Local NGO to Launch Disability Strategic Plan in Nakivale",
-      "summary": "[Nile Post] The Ministry of Gender, Labour and Social Development, in partnership with Humanity &amp; Inclusion, has launched the National Rehabilitation and Assistive Technology (NRAT) Strategic Plan 2026-2030, aimed at improving disability inclusion and access to healthcare services.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-12T07:56:42+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611120189.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611120189.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "eb7b4d3a42",
       "title": "Vodacom Targets AI-ready Data Centres For Kenya And SA",
       "summary": "Vodacom Group plans to build high-capacity, AI-ready data centres in Kenya and South Africa through co-investment partnerships to help African...\nSource",
@@ -4111,38 +4075,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "3151be18c4",
-      "title": "Namibia Calls Leaked Memo on Ethiopian Airlines Running Its Planned Carrier Unauthorised",
-      "summary": "Namibia’s plan to launch a new national airline in December this year has been thrown into question by a leaked memo on Ethiopian Airlines Group’s...",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-01T02:55:25+00:00",
-      "lead_source": {
-        "id": "addis-fort",
-        "name": "Addis Fortune",
-        "tier": 2,
-        "url": "https://addisfortune.news/namibia-calls-leaked-memo-on-ethiopian-airlines-running-its-planned-carrier-unauthorised"
-      },
-      "confirming_sources": [
-        {
-          "id": "addis-fort",
-          "name": "Addis Fortune",
-          "tier": 2,
-          "url": "https://addisfortune.news/namibia-calls-leaked-memo-on-ethiopian-airlines-running-its-planned-carrier-unauthorised"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "6b3e48f8f1",
       "title": "Dangote takes stake in Kenyan pipeline and pledges more ‘aggressive’ energy investment",
       "summary": "Deal for 25% of Kenya Pipeline comes amid plans for refineries and storage facilities across Africa",
@@ -4202,38 +4134,6 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610190078.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d93441bc78",
-      "title": "Liberia U-20 Team Arrives in Mali for Wafu Afcon Qualifiers",
-      "summary": "[Liberian Investigator] Liberia's U-20 national team has arrived in Bamako, Mali, ahead of the West African Football Union (WAFU) Zone A U-20 Championship, a qualifier for the 2027 TotalEnergies CAF U-20 Africa Cup of Nations.",
-      "country": "MLI",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-10-14T10:08:46+00:00",
-      "lead_source": {
-        "id": "aa-mli",
-        "name": "AllAfrica · Mali",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202610140215.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-mli",
-          "name": "AllAfrica · Mali",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202610140215.html"
         }
       ],
       "confirmation_count": 1
@@ -4688,6 +4588,38 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/11/13/ebola-une-suissesse-guerie-apres-son-evacuation-du-nigeria/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7f1dbd6cf5",
+      "title": "Beyond the Dutse Rally - Tinubu's Reforms, Northern Expectations and the Politics of 2027",
+      "summary": "[Premium Times] The enduring measure of leadership is not how loudly supporters celebrate government policies, but how convincingly those policies translate into economic stability, security, opportunity and a better quality of life for citizens.",
+      "country": "NGA",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-13T09:50:47+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611130169.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611130169.html"
         }
       ],
       "confirmation_count": 1
@@ -5163,38 +5095,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "1a8f40b406",
-      "title": "Air Tanzania announces eight-day flight disruption as Airbus fleet grounded",
-      "summary": "Firm urged travellers to confirm their flight status before heading to the airport, as...",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-10T09:30:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/business-tech/air-tanzania-flight-disruption-as-airbus-fleet-grounded-5665152"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/business-tech/air-tanzania-flight-disruption-as-airbus-fleet-grounded-5665152"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "2c5fe229f7",
       "title": "Frelimo Extraordinary Session to Take Place On November 27-28",
       "summary": "[AIM] Maputo -- Mozambique's ruling Frelimo Party has announced that the 5th Extraordinary Session of its Central Committee will take place on November 27-28 at the party's Central School in Matola city, southern Maputo province.",
@@ -5222,38 +5122,6 @@
           "name": "AllAfrica · Mozambique",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611050337.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e17ddca1e3",
-      "title": "Economic Growth Must Keep Pace With Population Growth - Chapo",
-      "summary": "[AIM] Maputo -- Mozambican President Daniel Chapo has reaffirmed that the country's economic growth must ensure jobs and better living conditions in order to keep pace with the current population growth, estimated at approximately 2.5 percent per year.",
-      "country": "MOZ",
-      "category": "MACRO",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-05T06:34:09+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611050089.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611050089.html"
         }
       ],
       "confirmation_count": 1
@@ -5452,6 +5320,328 @@
           "name": "AllAfrica · Côte d'Ivoire",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611020142.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3c7f806a1a",
+      "title": "Djibouti : comment l’hôpital Al-Shifa veut s’imposer en hub médical sous-régional",
+      "summary": "Avec l’ouverture du nouvel hôpital Al-Shifa, Djibouti entend moderniser son offre de soins et limiter les évacuations sanitaires à l’étranger. Un projet public confié au privé pour devenir un pôle médical régional.",
+      "country": "DJI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-15T10:13:12+00:00",
+      "lead_source": {
+        "id": "ja",
+        "name": "Jeune Afrique",
+        "tier": 2,
+        "url": "https://www.jeuneafrique.com/1857852/societe/djibouti-comment-lhopital-al-shifa-veut-simposer-en-hub-medical-sous-regional/"
+      },
+      "confirming_sources": [
+        {
+          "id": "ja",
+          "name": "Jeune Afrique",
+          "tier": 2,
+          "url": "https://www.jeuneafrique.com/1857852/societe/djibouti-comment-lhopital-al-shifa-veut-simposer-en-hub-medical-sous-regional/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8b3f411764",
+      "title": "OIF : huis clos sous haute tension et vif échange entre Macron et Kagame",
+      "summary": "La bataille pour le secrétariat général de l’OIF a provoqué de vives tensions lors du sommet de la Francophonie, à Phnom Penh. Selon nos informations, les présidents français et rwandais ont eu une explication particulièrement houleuse. Malgré les pressions françaises, Kigali maintient la candidature de Louise Mushikiwabo.",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-15T09:55:58+00:00",
+      "lead_source": {
+        "id": "ja",
+        "name": "Jeune Afrique",
+        "tier": 2,
+        "url": "https://www.jeuneafrique.com/1861771/politique/oif-huis-clos-sous-haute-tension-et-vif-echange-entre-macron-et-kagame/"
+      },
+      "confirming_sources": [
+        {
+          "id": "ja",
+          "name": "Jeune Afrique",
+          "tier": 2,
+          "url": "https://www.jeuneafrique.com/1861771/politique/oif-huis-clos-sous-haute-tension-et-vif-echange-entre-macron-et-kagame/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "92b43f6b88",
+      "title": "Soudan du Sud : les élections nationales reportées à février dans un contexte de violence",
+      "summary": "''L’article 57 de la Commission électorale nationale nous donne le pouvoir d’ajuster le calendrier électoral.'', a déclaré la porte-parole de la Commission électorale.",
+      "country": "SSD",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-15T08:32:50+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/11/15/soudan-du-sud-les-elections-nationales-reportees-a-fevrier-dans-un-contexte-de-violence/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/11/15/soudan-du-sud-les-elections-nationales-reportees-a-fevrier-dans-un-contexte-de-violence/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8bc16fd93e",
+      "title": "Six nations warn South Sudan over Ebola threat",
+      "summary": "Six Western countries urge the government to commit public resources to healthcare and...",
+      "country": "SSD",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-15T08:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/sustainability/health/six-nations-warn-south-sudan-over-ebola-threat-5670402"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/sustainability/health/six-nations-warn-south-sudan-over-ebola-threat-5670402"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "528db13944",
+      "title": "«Un acharnement»: depuis la Côte d'Ivoire, les exilés burkinabè répondent au régime militaire à Ouagadougou",
+      "summary": "Au Burkina Faso, d’anciens responsables politiques, militaires, ou journalistes sont aujourd’hui dans le viseur de la justice. Certains font l’objet de mandats d’arrêt et de demandes d’extradition. Ces personnes - en exil - sont poursuivies officiellement sur la base d'accusations comme « apologie du terrorisme » ou « incitation à la rébellion ». Plusieurs vivent notamment en Côte d’Ivoire. Que répondent-ils aux accusations portées contre eux ?",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-15T07:57:50+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261115-c%C3%B4te-d-ivoire-un-acharnement-les-exil%C3%A9s-burkinab%C3%A8-r%C3%A9pondent-au-r%C3%A9gime-militaire-%C3%A0-ouagadougou"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261115-c%C3%B4te-d-ivoire-un-acharnement-les-exil%C3%A9s-burkinab%C3%A8-r%C3%A9pondent-au-r%C3%A9gime-militaire-%C3%A0-ouagadougou"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a9dcd3946b",
+      "title": "L'ancien directeur d'un centre d'accueil pour handicapés au Rwanda, soupçonné d'avoir participé au génocide",
+      "summary": "Plus de trente ans après les faits, un ancien religieux rwandais, a été arrêté en Belgique, soupçonné d'avoir participé au génocide contre les Tutsis de 1994, « d'avoir commis des violations graves du droit international humanitaire, en particulier un crime de génocide et des crimes contre l'humanité, au Rwanda », selon les mots du parquet fédéral belge.",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-15T05:53:57+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261115-l-ancien-directeur-d-un-centre-d-accueil-pour-handicap%C3%A9s-au-rwanda-soup%C3%A7onn%C3%A9-d-avoir-particip%C3%A9-au-g%C3%A9nocide"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261115-l-ancien-directeur-d-un-centre-d-accueil-pour-handicap%C3%A9s-au-rwanda-soup%C3%A7onn%C3%A9-d-avoir-particip%C3%A9-au-g%C3%A9nocide"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "609c165117",
+      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+      "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+      "country": "RWA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-15T05:05:02+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "243b155092",
+      "title": "Présidentielle au Cap-Vert: six candidats en lice, le PAICV espère rester au pouvoir",
+      "summary": "Ce 15 novembre, les Cap-Verdiens choisissent leur président. Six mois après des législatives marquées par la victoire et le retour du PAICV à la tête du gouvernement, le chef de l’État, cadre du parti, espère l’emporter à nouveau et rempiler pour cinq ans. Face à lui, cinq candidats, dont la représentante du MPD, principal parti d’opposition depuis 30 ans. Une élection qui sera scrutée par toute la classe politique, particulièrement le taux de participation.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-15T04:57:11+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-cinq-candidats-en-lice-le-paicv-esp%C3%A8re-rester-au-pouvoir"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-cinq-candidats-en-lice-le-paicv-esp%C3%A8re-rester-au-pouvoir"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ce9745629b",
+      "title": "Ethiopian Airlines Swaps an Air Force General for a Party Leader",
+      "summary": "Our subscribers to the print edition are entitled to get a bonus in a form of early access to our digital edition.Use the bank detail...",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-15T03:00:23+00:00",
+      "lead_source": {
+        "id": "addis-fort",
+        "name": "Addis Fortune",
+        "tier": 2,
+        "url": "https://addisfortune.news/ethiopian-airlines-swaps-an-air-force-general-for-a-party-leader"
+      },
+      "confirming_sources": [
+        {
+          "id": "addis-fort",
+          "name": "Addis Fortune",
+          "tier": 2,
+          "url": "https://addisfortune.news/ethiopian-airlines-swaps-an-air-force-general-for-a-party-leader"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "146b217af9",
+      "title": "New Amhara Bank Case Alleges 200m Br Loan on Phantom Trucks",
+      "summary": "Our subscribers to the print edition are entitled to get a bonus in a form of early access to our digital edition.Use the bank detail...",
+      "country": "ETH",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "en",
+      "published": "2026-11-15T02:55:16+00:00",
+      "lead_source": {
+        "id": "addis-fort",
+        "name": "Addis Fortune",
+        "tier": 2,
+        "url": "https://addisfortune.news/new-amhara-bank-case-alleges-200m-br-loan-on-phantom-trucks"
+      },
+      "confirming_sources": [
+        {
+          "id": "addis-fort",
+          "name": "Addis Fortune",
+          "tier": 2,
+          "url": "https://addisfortune.news/new-amhara-bank-case-alleges-200m-br-loan-on-phantom-trucks"
         }
       ],
       "confirmation_count": 1
@@ -6257,38 +6447,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "c24e70bd5c",
-      "title": "Éliminatoires CAN 2027: le Mali renverse le Rwanda, le Maroc domine le Niger avec un doublé d'Hakimi",
-      "summary": "Le Maroc n'est plus très loin de valider son billet pour la CAN 2027 grâce à sa victoire à domicile 5-1 contre le Niger, ce vendredi. Dans le groupe K, le Mali aussi a fait un pas vers la qualification en arrachant une victoire contre le Rwanda 3-2, au bout d'un scénario mal embarqué.",
-      "country": "RWA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-13T22:11:25+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique-foot/20261113-%C3%A9liminatoires-can-2027-le-mali-renverse-le-rwanda-le-maroc-domine-le-niger-avec-un-doubl%C3%A9-d-hakimi"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique-foot/20261113-%C3%A9liminatoires-can-2027-le-mali-renverse-le-rwanda-le-maroc-domine-le-niger-avec-un-doubl%C3%A9-d-hakimi"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "d74e61dcf7",
       "title": "Élection à l’OIF : le scénario de Dakar se dessine-t-il à Phnom Penh ?",
       "summary": "Ce contenu est réservé aux membres. Visitez le site et connectez-vous ou bien adhérez pour le lire.\nLire la suite»",
@@ -6481,70 +6639,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "9c85a05089",
-      "title": "Éliminatoires CAN 2027: le Burkina Faso gagne sur le fil, le Gabon enchaîne, la Tunisie s'enfonce",
-      "summary": "Les éliminatoires de la CAN 2027 se poursuivent ce vendredi avec des victoires importantes du Gabon et du Burkina Faso contre le Lesotho et la Mauritanie. La Tunisie, en revanche, continue de montrer de grosses difficultés et s'est inclinée 2-0 à domicile contre la Libye. Pas de quoi mettre fin à tout espoir de qualification, mais assez pour tirer la sonnette d'alarme.",
-      "country": "BFA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-13T18:20:24+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique-foot/20261113-%C3%A9liminatoires-can-2027-le-burkina-faso-gagne-sur-le-fil-le-gabon-encha%C3%AEne-la-tunisie-s-enfonce"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique-foot/20261113-%C3%A9liminatoires-can-2027-le-burkina-faso-gagne-sur-le-fil-le-gabon-encha%C3%AEne-la-tunisie-s-enfonce"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4866849c09",
-      "title": "JOJ Dakar 2026: un bilan satisfaisant, porteur d’espoir pour de prochains Jeux en Afrique",
-      "summary": "Premier événement olympique organisé sur le sol africain, les Jeux olympiques de la jeunesse de Dakar 2026 se sont terminés, ce vendredi 13 novembre, par une cérémonie de clôture strictement protocolaire. À l’heure du bilan, les acteurs restent plus marqués par la ferveur du public et la réussite de l’organisation que par les performances des jeunes athlètes.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-13T18:19:32+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/sports/20261113-joj-dakar-2026-un-bilan-satisfaisant-porteur-d-espoir-pour-de-prochains-jeux-en-afrique"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/sports/20261113-joj-dakar-2026-un-bilan-satisfaisant-porteur-d-espoir-pour-de-prochains-jeux-en-afrique"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "2c7d290e3a",
       "title": "« On n’est contre personne, on est pour le droit ! » : Florence Loan-Messan, la voix du barreau ivoirien",
       "summary": "En Côte d’Ivoire, elle a récemment beaucoup fait parler d’elle après avoir publiquement demandé de mieux distinguer la contestation politique du terrorisme. Rencontre à Abidjan avec la première femme à diriger le barreau du pays, qui s’apprête à céder son fauteuil.",
@@ -6577,38 +6671,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "ee21186d38",
-      "title": "Remarks By Charg&#xE9; d'Affaires Jimmy Mauldin At the Ustda and Infragora Afridata Commemorative Signing Ceremony",
-      "summary": "[U.S. Embassy Abuja] As prepared for Delivery",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-13T17:10:18+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611130531.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611130531.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "8f84bbaca6",
       "title": "Tana River Floods Cut Off Kono Ramadha-Mlanjo Road",
       "summary": "[Capital FM] Nairobi -- Flooding in parts of Tana River County has disrupted transport after a seasonal river at Wardesa burst its banks, cutting off the Kono Ramadha-Mlanjo road.",
@@ -6636,38 +6698,6 @@
           "name": "AllAfrica · Kenya",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611130522.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "9600a28d5f",
-      "title": "Fela's 'Gentleman' Soundtracks 'The Thomas Crown Affair' Trailer",
-      "summary": "[Premium Times] The 1973 Afrobeat classic features in the trailer for Michael B. Jordan's forthcoming Hollywood heist thriller.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-13T17:07:56+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611130520.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611130520.html"
         }
       ],
       "confirmation_count": 1
@@ -6892,38 +6922,6 @@
           "name": "AllAfrica · Ouganda",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611130491.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "3f76546c5f",
-      "title": "Meningitis - Anambra, Ebonyi, Enugu Intensify Vaccination, Urge Residents to Stay Hydrated",
-      "summary": "[Premium Times] \"We must keep homes and classrooms properly ventilated and never leave children unattended in parked vehicles,\" an official said.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-13T17:01:42+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611130489.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611130489.html"
         }
       ],
       "confirmation_count": 1
@@ -8499,6 +8497,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "fcb77abafa",
+      "title": "Ebola - Swiss Woman Evacuated From Nigeria Discharged After Recovery",
+      "summary": "[Premium Times] The Uganda-born woman, and her husband, a Swiss diplomat, were evacuated from Nigeria to Switzerland on 26 October.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-13T11:01:38+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611130227.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611130227.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "a43faaa21e",
       "title": "ENH and Sasol Sign Agreement Aimed At Developing Infrastructure for Gas Transport",
       "summary": "[AIM] Maputo -- Mozambique's publicly-owned National Hydrocarbon Company (ENH) and the South African petrochemical giant Sasol plan to develop an infrastructure aimed at transporting natural gas from the Rovuma Basin, in the northern province of Cabo Delgado, to consumer markets in the central and southern provinces.",
@@ -8654,6 +8684,38 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611130152.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "05a43c79f7",
+      "title": "University Suspends 24 Students Over Malpractice, Others",
+      "summary": "[Premium Times] \"The suspension of the affected students demonstrates the university's resolve to ensure that academic excellence is achieved through hard work, honesty, and strict adherence to established rules and regulations, rather than through dishonest practices or misconduct,\" an official said.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-13T09:28:17+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611130153.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611130153.html"
         }
       ],
       "confirmation_count": 1
@@ -11031,6 +11093,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "91db4211e0",
+      "title": "Understanding 'Beneficial Ownership' in the Kiira Motors Case",
+      "summary": "[Independent (Kampala)] Kampala -- Beneficial ownership is a legal, financial, and regulatory concept that is important in preventing financial crime and promoting transparency between companies and the government. In the fight against financial crime, it helps trace and prevent money laundering, terrorist financing, tax evasion, and corruption.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-12T10:25:09+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611120301.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611120301.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "b756f81274",
       "title": "Heavy rains pound Tanzania, displace 600 households",
       "summary": "The above-normal rainfall has caused massive flooding, strong winds and hailstorms.",
@@ -12666,38 +12760,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "bdcf562800",
-      "title": "Why Kenya is shutting down embassy in Bern",
-      "summary": "Kenya’s diplomatic affairs in Switzerland will now be handled through Nairobi’s UN permanent...",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-10T08:45:00+00:00",
-      "lead_source": {
-        "id": "east-afr",
-        "name": "The East African",
-        "tier": 2,
-        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/why-kenya-is-shutting-down-embassy-in-bern-5665028"
-      },
-      "confirming_sources": [
-        {
-          "id": "east-afr",
-          "name": "The East African",
-          "tier": 2,
-          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/why-kenya-is-shutting-down-embassy-in-bern-5665028"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "12881d1afe",
       "title": "Where Your Data Sleeps: Mozambique And Nigeria Take Opposite Roads On Cloud Rules",
       "summary": "For years, the question of where an African company’s data should reside was largely settled by price and convenience. The...\nSource",
@@ -13242,38 +13304,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "c4a8df7a16",
-      "title": "A CITY THAT RATIONS WATER SELLS IT TWICE",
-      "summary": "For Legesse Forsa, a resident of Addis Abeba in Enqulal Fabrica neighbourhood, near Ethiopia Idget Primary School, keeping his laundry shop running depends on securing...",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-08T02:59:02+00:00",
-      "lead_source": {
-        "id": "addis-fort",
-        "name": "Addis Fortune",
-        "tier": 2,
-        "url": "https://addisfortune.news/a-city-that-rations-water-sells-it-twice"
-      },
-      "confirming_sources": [
-        {
-          "id": "addis-fort",
-          "name": "Addis Fortune",
-          "tier": 2,
-          "url": "https://addisfortune.news/a-city-that-rations-water-sells-it-twice"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "495362b441",
       "title": "Before WTO Entry, Ethiopia’s Quality System Faces a Test",
       "summary": "Ethiopia is struggling to build the technical capacity, institutional coordination and affordable testing services its businesses need to meet international trade standards. The State Minister...",
@@ -13562,6 +13592,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "eb671d0ba4",
+      "title": "Anamola Admitted to Liberal International",
+      "summary": "[AIM] Maputo -- The National Alliance for a Free and Autonomous Mozambique (Anamola), the political party led by former presidential candidate Venancio Mondlane, was admitted to the Liberal International (LI), which is a global federation of liberal democratic political parties and civil society organizations dedicated to promoting and safeguarding liberal values and defending democracy worldwide.",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-05T12:00:00+00:00",
+      "lead_source": {
+        "id": "aa-moz",
+        "name": "AllAfrica · Mozambique",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611050336.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-moz",
+          "name": "AllAfrica · Mozambique",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611050336.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "7e431f2e71",
       "title": "Cosafa Trio Handed Tough Beach Soccer Afcon Draw",
       "summary": "[Cosafa] Mozambique face a daunting meeting with hosts and defending champions Senegal, while Malawi and Angola have been drawn together in the group stage of the CAF Beach Soccer Africa Cup of Nations following Wednesday's draw in Cairo.",
@@ -13653,38 +13715,6 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611050178.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "8101cf2165",
-      "title": "Mukhito Says Trafficking Cartels Busted Between Malawi and Mozambique",
-      "summary": "[Nyasa Times] Malawi and Mozambique have strengthened their security partnership, Homeland Security Minister Peter Mukhito said on Wednesday, after four days of talks on shared threats along their border.",
-      "country": "MOZ",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-05T06:47:15+00:00",
-      "lead_source": {
-        "id": "aa-moz",
-        "name": "AllAfrica · Mozambique",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611050112.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-moz",
-          "name": "AllAfrica · Mozambique",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611050112.html"
         }
       ],
       "confirmation_count": 1
@@ -14295,38 +14325,6 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611020009.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "3323161415",
-      "title": "IMF El Niño Warning Comes with a Payment Plan",
-      "summary": "The International Monetary Fund (IMF) warns that El Niño-related rainfall disruptions could threaten Ethiopia’s farm output, electricity generation and inflation outlook. It wants climate financing...",
-      "country": "ETH",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-01T02:54:57+00:00",
-      "lead_source": {
-        "id": "addis-fort",
-        "name": "Addis Fortune",
-        "tier": 2,
-        "url": "https://addisfortune.news/imf-el-nino-warning-comes-with-a-payment-plan"
-      },
-      "confirming_sources": [
-        {
-          "id": "addis-fort",
-          "name": "Addis Fortune",
-          "tier": 2,
-          "url": "https://addisfortune.news/imf-el-nino-warning-comes-with-a-payment-plan"
         }
       ],
       "confirmation_count": 1
