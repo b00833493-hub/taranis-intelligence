@@ -1,38 +1,39 @@
 {
-  "generated_at": "2026-11-18T21:55:55.303834+00:00",
+  "generated_at": "2026-11-19T03:23:53.845050+00:00",
   "stats": {
-    "total_signals": 429,
+    "total_signals": 433,
     "verified_signals": 13,
-    "countries_covered": 24,
+    "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
+      "SEN": 43,
       "BFA": 4,
-      "NGA": 49,
+      "NGA": 50,
       "UGA": 37,
       "GHA": 39,
-      "KEN": 49,
+      "KEN": 50,
       "MDG": 4,
       "TZA": 31,
       "MOZ": 46,
-      "SEN": 41,
       "ETH": 41,
-      "GIN": 4,
+      "GIN": 3,
       "CIV": 29,
       "MLI": 16,
-      "RWA": 16,
+      "RWA": 15,
       "CPV": 4,
       "SLE": 3,
+      "SOM": 4,
       "TGO": 1,
       "NER": 1,
+      "GMB": 1,
       "GNB": 3,
       "BEN": 1,
       "MWI": 1,
-      "SOM": 3,
       "SSD": 5,
       "ERI": 1
     },
-    "west_signals": 195,
-    "east_signals": 234
+    "west_signals": 198,
+    "east_signals": 235
   },
   "sources": [
     {
@@ -277,6 +278,38 @@
     }
   ],
   "signals": [
+    {
+      "id": "abc0541d68",
+      "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
+      "summary": "Incident comes days after another boat capsized in Senegalese waters, and Spain declared a migration emergency.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-18T23:36:23+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "3d1b592fa9",
       "title": "Peine de mort en Afrique : le piège du moratoire face aux revirements politiques",
@@ -689,38 +722,6 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611180236.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "372e352cca",
-      "title": "Bank Official Testifies On N500m Disbursements From Onsa Account to Private Company During Dasuki's Tenure",
-      "summary": "[Premium Times] The EFCC accused Mr Dasuki and his co-defendants of diverting billions in arms procurement.",
-      "country": "NGA",
-      "category": "FINANCING",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-18T10:53:33+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611180216.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611180216.html"
         }
       ],
       "confirmation_count": 1
@@ -1220,38 +1221,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "5be23cba43",
-      "title": "Guinée: 22 ex-administrateurs territoriaux condamnés à deux ans de prison dans l'affaire d'orpaillage illégal à Siguiri",
-      "summary": "Jugés devant la Cour de répression des infractions économiques et financières (Crief) pour leur complicité présumée dans l'exploitation minière clandestine qui a débouché sur une catastrophe écologique à Siguiri, ils ont été reconnus coupables de complicité de dégradation de l'environnement, destructions diverses et pollution des eaux. Les 202 orpailleurs également poursuivis dans ce dossier ont quant à eux été condamnés à trois ans de prison et à une amende solidaire de…",
-      "country": "GIN",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-17T03:40:56+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261117-guin%C3%A9e-22-ex-administrateurs-territoriaux-condamn%C3%A9s-%C3%A0-deux-ans-de-prison-dans-l-affaire-d-orpaillage-ill%C3%A9gal-%C3%A0-siguiri"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261117-guin%C3%A9e-22-ex-administrateurs-territoriaux-condamn%C3%A9s-%C3%A0-deux-ans-de-prison-dans-l-affaire-d-orpaillage-ill%C3%A9gal-%C3%A0-siguiri"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "196f6309dc",
       "title": "Civil Society o be Present at Mondlane Trial",
       "summary": "[Mozambique News Reports And Clippings] The Supreme Court treason trial of opposition leader Venâncio Mondlane starting Tuesday will have a guaranteed presence of press and civil society, Supreme Court (TS) judge Pedro Nhatitima told a press conference Friday. The courtroom seats only 45 people, so most seats have been assigned. Seats are guaranteed to the two most important civil society organisations, CIP (Centre for Public Integrity) and the CDD (Centre for Democracy…",
@@ -1727,6 +1696,38 @@
           "name": "AllAfrica · Mali",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610190228.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6a4bcc8826",
+      "title": "Encore trop de contraintes pour l'émergence d'un marché commun solide dans le bassin du lac Tchad",
+      "summary": "C'est un marché commun d'environ 30 millions de personnes. Le bassin du lac Tchad, qui réunit le Nigeria, le Tchad, le Niger, la République centrafricaine et le Cameroun, est un immense vivier pour le commerce transfrontalier. Mais sur le terrain, l'informel domine et l'insécurité pèse lourdement. Des experts réunis récemment à Yaoundé, lors du forum régional multi-acteurs de la Commission du bassin du lac Tchad, réclament des réformes urgentes.",
+      "country": "NGA",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-18T23:41:23+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261118-encore-trop-de-contraintes-pour-l-%C3%A9mergence-d-un-march%C3%A9-commun-solide-dans-le-bassin-du-lac-tchad"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261118-encore-trop-de-contraintes-pour-l-%C3%A9mergence-d-un-march%C3%A9-commun-solide-dans-le-bassin-du-lac-tchad"
         }
       ],
       "confirmation_count": 1
@@ -3672,6 +3673,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "934e3ac7ba",
+      "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
+      "summary": "Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012.",
+      "country": "SOM",
+      "category": "MACRO",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-19T00:37:03+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "fd4e721e1a",
       "title": "Sénégal: le Pastef officialise le départ de ses rangs du président Bassirou Diomaye Faye",
       "summary": "Au Sénégal, le Pastef, le parti majoritaire dirigé par le président de l'Assemblée nationale Ousmane Sonko, a officialisé le départ du président Bassirou Diomaye Faye. Dernier épisode de ce divorce déjà très largement consommé avec son ancien Premier ministre, mais qui intervient en pleine crise économique.",
@@ -4506,38 +4539,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "80c1d01ad2",
-      "title": "Winnerman Brings 'Give Me Chance (Remix)' Featuring Davido to East Africa, Announces Nairobi Media Tour",
-      "summary": "[Capital FM] Nigerian Afro-fusion singer and songwriter Winnerman is taking \"Give Me Chance (Remix)\" to East Africa. The track features Davido, one of Africa's biggest stars, alongside returning collaborator Sabushebu. It is out now on all major streaming platforms through Winnerman Universe and Plug Music.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 2,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-17T11:21:26+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611170361.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611170361.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "612f096e00",
       "title": "Fils de Sénégalais, Philippe Diallo défie Infantino à la présidence de la FIFA",
       "summary": "L'UEFA a annoncé lundi la candidature du patron de la Fédération française de football, Philippe Diallo, à la présidence de la FIFA. Le Français tentera de détrôner l'actuel dirigeant Gianni Infantino.",
@@ -5355,6 +5356,102 @@
           "name": "AllAfrica · Côte d'Ivoire",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611020142.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "3ef73cf4cc",
+      "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+      "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+      "country": "GMB",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-19T02:10:43+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "bb6ec15cba",
+      "title": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
+      "summary": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-19T00:40:01+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "309a59d42d",
+      "title": "Aston Martin já tem carro para o Dakar com Alonso e Loeb",
+      "summary": "A Aston Martin, que já marca presença nos campeonatos do mundo de F1 e de resistência, agora prepara-se para disputar o Dakar e o mundial de Rally Raids. E conta com as estrelas Alonso e Loeb.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-11-18T22:39:41+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/11/18/aston-martin-ja-tem-carro-para-o-dakar-com-alonso-e-loeb/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/11/18/aston-martin-ja-tem-carro-para-o-dakar-com-alonso-e-loeb/"
         }
       ],
       "confirmation_count": 1
@@ -6770,38 +6867,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "98d23062a8",
-      "title": "Five EU nations to deport migrants to Rwanda",
-      "summary": "Five European countries are looking to Rwanda to host rejected asylum seekers.",
-      "country": "RWA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-18T16:05:37+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "7a7a6abe50",
       "title": "Francophonie : compromis in extremis",
       "summary": "L'Organisation internationale de la Francophonie (OIF) évite une crise ouverte en reportant d'un an la désignation de son nouveau secrétaire général, sur fond de tensions entre la République démocratique du Congo et le Rwanda. L'actuelle secrétaire générale de l'OIF, Louise Mushikiwabo, reste en poste une année de plus. On va plus loin avec Niagalé Bagayoko et Bruno Daroux.",
@@ -7572,38 +7637,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "90b671e55c",
-      "title": "20 Percent of Nigerians Face Mental Health Challenges - NLA President",
-      "summary": "[Leadership] The President of the Nigerian Library Association (NLA), Dr Lawal Umar, has said that 20 per cent of Nigerians experience mental health challenges, stressing that libraries must now play a frontline role in supporting mental wellbeing.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-18T11:54:22+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611180303.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611180303.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "4d6a45363b",
       "title": "Cattle Price Disparities Shape Farmers Earnings",
       "summary": "[Daily News] Shinyanga -- WIDE disparities in cattle prices across major livestock markets are creating different earning opportunities for farmers and traders, with the average selling price varying considerably depending on the market.",
@@ -7828,6 +7861,102 @@
       "confirmation_count": 1
     },
     {
+      "id": "75d141d6d0",
+      "title": "Barau, Atiku, Others Mourn Late Vanguard Online Editor, Femi Ajasa",
+      "summary": "[Vanguard] ABUJA -- THE presidential candidate of the African Democratic Congress, ADC, Alhaji Atiku Abubakar; Deputy President of the Senate, Senator Barau Jibrin (APC, Kano North) has mourned the passing of Mr. Olufemi Ajasa, the Online Editor of Vanguard Newspapers.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-18T11:28:51+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611180269.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611180269.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "a2cddf97e8",
+      "title": "Why Enugu Government Wants National Sports Festival Postponed",
+      "summary": "[Premium Times] The Enugu State Ministry of Youth and Sports in conjunction with the Local Organising Committee (LOC), made the request following an assessment of facilities at the Nnamdi Azikiwe Stadium and Awgu Games Village, which are central to successfully hosting the national sporting event",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-18T11:28:14+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611180268.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611180268.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "ba63ddbcec",
+      "title": "INEC Pledges Not to Tamper With Metadata of Election Results On Irev",
+      "summary": "[Premium Times] The participant cited findings from a review of results uploaded to IReV during previous elections, which allegedly identified instances of results uploaded before voting began.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-18T11:27:53+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611180267.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611180267.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "6904925367",
       "title": "Nigeria, Kenya, Angola: Congress bucks Trump on democracy in Africa",
       "summary": "The National Endowment for Democracy and its partners scramble to fill in the gap left by the demise of USAID’s election monitoring.",
@@ -7953,38 +8082,6 @@
           "name": "RFI Português",
           "tier": 1,
           "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20261118-guin%C3%A9-bissau-angola-e-mo%C3%A7ambique-refor%C3%A7am-o-seu-apuramento-para-a-can-2027"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "db812cce12",
-      "title": "2027 - Stakeholders Warn Against Vote-Buying, Security Agencies' Partisanship in Akwa Ibom",
-      "summary": "[Premium Times] Akwa Ibom stakeholders warn that vote-buying, political interference in security operations and declining public trust in INEC could undermine the credibility of the 2027 general elections.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-18T10:53:52+00:00",
-      "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611180217.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611180217.html"
         }
       ],
       "confirmation_count": 1
@@ -10040,40 +10137,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "9f9b0a3df7",
-      "title": "Joeboy Brings the Festive Party to East Africa With 'Pretty Girls'",
-      "summary": "[Capital FM] Nigerian Afropop star Joeboy is bringing his new single, \"Pretty Girls\", to East Africa. The song is out now on all major streaming platforms and its official music video is streaming on YouTube.",
-      "country": "KEN",
-      "category": "FINANCING",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [
-        "DEBT"
-      ],
-      "lang": "en",
-      "published": "2026-11-17T11:21:54+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611170362.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611170362.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "bd6095c12a",
       "title": "Harambee Stars vs Bafana Bafana: A social media match kicks off",
       "summary": "Fans have been raring to throng Nyayo National Stadium in Nairobi to watch the clash of their...",
@@ -10325,6 +10388,70 @@
           "name": "Africanews FR",
           "tier": 2,
           "url": "http://fr.africanews.com/2026/11/17/en-cote-divoire-le-president-du-botswana-appelle-a-plus-de-commerce-intra-africain/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "39b63869f3",
+      "title": "Gachagua Welcomes Three MPs Who Ditched Ruto's UDA for DCP",
+      "summary": "[Capital FM] Nairobi -- Former Deputy President Rigathi Gachagua has received three sitting Members of Parliament who have abandoned President William Ruto's United Democratic Alliance (UDA) party for his Democracy for the Citizens Party (DCP).",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-17T08:45:27+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611170239.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611170239.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "bdb0823b56",
+      "title": "PPDT Gets 18 New Members As Judiciary Prepares for 2027 Elections",
+      "summary": "[Capital FM] Nairobi -- Chief Justice Martha Koome has called for early preparations to strengthen the resolution of political party disputes ahead of the 2027 General Election.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-17T08:45:25+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611170238.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611170238.html"
         }
       ],
       "confirmation_count": 1
