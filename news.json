@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-20T20:12:40.598377+00:00",
+  "generated_at": "2026-11-21T01:31:50.425517+00:00",
   "stats": {
-    "total_signals": 422,
+    "total_signals": 424,
     "verified_signals": 9,
     "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
-      "SEN": 47,
+      "GHA": 35,
+      "NGA": 54,
+      "SEN": 49,
       "MOZ": 43,
       "KEN": 47,
       "CIV": 27,
-      "MDG": 4,
-      "UGA": 33,
-      "NGA": 53,
-      "GHA": 35,
-      "ETH": 42,
+      "MDG": 3,
+      "UGA": 32,
+      "ETH": 41,
       "TZA": 35,
-      "GIN": 3,
+      "GIN": 4,
       "SLE": 2,
-      "BEN": 5,
+      "BEN": 6,
       "RWA": 10,
       "MLI": 13,
       "DJI": 3,
@@ -32,8 +32,8 @@
       "MWI": 1,
       "SSD": 1
     },
-    "west_signals": 197,
-    "east_signals": 225
+    "west_signals": 202,
+    "east_signals": 222
   },
   "sources": [
     {
@@ -278,6 +278,70 @@
     }
   ],
   "signals": [
+    {
+      "id": "ad259ab090",
+      "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
+      "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-21T01:19:25+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2a39579d2e",
+      "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+      "summary": "Police say two children among dead as search continues for more victims.",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-20T23:36:36+00:00",
+      "lead_source": {
+        "id": "aljazeera",
+        "name": "Al Jazeera",
+        "tier": 1,
+        "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "aljazeera",
+          "name": "Al Jazeera",
+          "tier": 1,
+          "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
     {
       "id": "29e62406d7",
       "title": "Sénégal : Le décès d’un nourrisson après une excision suscite l’indignation",
@@ -774,33 +838,33 @@
       "confirmation_count": 1
     },
     {
-      "id": "f2e555069b",
-      "title": "Des Ougandais portent plainte contre leur pays auprès de l'ONU après une catastrophe naturelle",
-      "summary": "C’est une première, une cinquantaine d'Ougandais ont porté plainte contre leur gouvernement, auprès du Comité des droits de l'homme de l'ONU afin d'obtenir des indemnisations et leur relocalisation après un glissement de terrain meurtrier en 2019 dans l'est de l'Ouganda. L’annonce a été faite mercredi par l'ONG ougandaise Greenwatch et sa consœur britannique ClientEarth qui soutiennent les plaignants.",
-      "country": "UGA",
-      "category": "AUTRE",
+      "id": "21bbcfb5bb",
+      "title": "Kindiki Cites Ksh3.5bn Pledge to Address Tea Farmers' Bonus Concerns",
+      "summary": "[Capital FM] Nairobi -- Deputy President Kithure Kindiki has reiterated the Government's commitment to addressing concerns raised by tea farmers over bonus payments, citing a KSh3.5 billion allocation announced by President William Ruto.",
+      "country": "KEN",
+      "category": "FINANCING",
       "severity": 4,
       "credibility": 2,
       "verified": false,
       "theme": null,
-      "legal_status": "ANNOUNCED",
+      "legal_status": "FINANCING",
       "regulatory": false,
       "fdi": false,
       "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-20T05:08:11+00:00",
+      "lang": "en",
+      "published": "2026-11-20T05:18:09+00:00",
       "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261120-des-ougandais-portent-plainte-contre-leur-pays-aupr%C3%A8s-de-l-onu-apr%C3%A8s-une-catastrophe-naturelle"
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611200138.html"
       },
       "confirming_sources": [
         {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261120-des-ougandais-portent-plainte-contre-leur-pays-aupr%C3%A8s-de-l-onu-apr%C3%A8s-une-catastrophe-naturelle"
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611200138.html"
         }
       ],
       "confirmation_count": 1
@@ -1138,38 +1202,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "062153b260",
-      "title": "Deadly Building Collapses Expose Regulatory Failures",
-      "summary": "[Capital FM] Nairobi -- Kenya's growing trail of deadly building collapses is exposing deep failures in construction regulation, with fresh revelations of forged approval documents in Eastleigh and unanswered safety concerns surrounding Bridge Port Apartments in South C raising questions about the safety of property buyers and occupants.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-19T10:44:43+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611190211.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611190211.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "ebc79d775b",
       "title": "Electric Cooking Could Be As Important As EVs in the Global Energy Transition",
       "summary": "[The Conversation Africa] Electric vehicles (EVs) have become the poster child for the green transition. Governments are investing billions in charging infrastructure. Manufacturers are transforming their production lines. Electrifying transport is a central pillar of climate policy.",
@@ -1293,38 +1325,6 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-madagascar-retour-du-cr%C3%A2ne-du-roi-toera-gard%C3%A9-en-france-depuis-plus-d-un-si%C3%A8cle"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "092ed411f0",
-      "title": "Super Eagles Seek Tanzania Double in Crucial Afcon Qualifier",
-      "summary": "[Daily Trust] Fresh off an emphatic 3-1 victory last Friday in Uyo, the Super Eagles will be aiming to consolidate their position in the race for the 2027 Africa Cup of Nations when they take on Tanzania's Taifa Stars in the return leg of their Group L qualifying encounter at the Amaan Stadium in Zanzibar on Tuesday (today).",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-18T11:03:07+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611180236.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611180236.html"
         }
       ],
       "confirmation_count": 1
@@ -1805,6 +1805,38 @@
           "name": "AllAfrica · Côte d'Ivoire",
           "tier": 2,
           "url": "https://allafrica.com/stories/202610200108.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8fa06d169f",
+      "title": "Guinée/Burkina Faso: tensions après la diffusion de caricatures de M. Doumbouya",
+      "summary": "Les tensions montent entre la Guinée et le Burkina Faso. Conakry vient de couper le signal de la RTB, la télévision publique burkinabè. En cause : un éditorial critique, avec une caricature du président Mamadi Doumbouya. Mais l'affaire va bien au-delà de la télé : elle éclate en pleine répression contre l'orpaillage illégal en Guinée, qui a déjà forcé des dizaines de milliers de Burkinabè à rentrer au pays.",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-20T21:40:25+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261120-guin%C3%A9e-burkina-faso-tensions-apr%C3%A8s-la-diffusion-de-caricatures-de-m-doumbouya"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261120-guin%C3%A9e-burkina-faso-tensions-apr%C3%A8s-la-diffusion-de-caricatures-de-m-doumbouya"
         }
       ],
       "confirmation_count": 1
@@ -3153,6 +3185,38 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611180668.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "430d7833f2",
+      "title": "Make Early Diagnosis of Brain Tumours Affordable",
+      "summary": "[Ghanaian Times] The high cost of diagnosing pineal region tumours, as highlighted by a senior neurosurgeon at the Greater Accra Regional Hospital, Dr Justice Asare, raises an important concern about access to specialised healthcare in Ghana.",
+      "country": "GHA",
+      "category": "FINANCING",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "FINANCING",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-18T17:02:29+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611180573.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611180573.html"
         }
       ],
       "confirmation_count": 1
@@ -4694,6 +4758,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "5d0a2f74d3",
+      "title": "Ghana Weightlifting Star Osarfo Announces Retirement",
+      "summary": "[Ghanaian Times] Richmond Osarfo, one of Ghana's most accomplished weightlifters and a former African junior record holder, has announced his retirement from the national weightlifting team, the Black Cranes, and competitive weightlifting.",
+      "country": "GHA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-18T16:23:33+00:00",
+      "lead_source": {
+        "id": "aa-gha",
+        "name": "AllAfrica · Ghana",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611180540.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-gha",
+          "name": "AllAfrica · Ghana",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611180540.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "43438ae5d6",
       "title": "Rwanda : Kigali signe un accord pour accueillir des migrants expulsés d'Europe",
       "summary": "🇷🇼 Le Rwanda pourrait devenir une destination pour les migrants expulsés d’Europe. Cinq pays européens, dont l’Allemagne et les Pays-Bas, soutiennent la création d’un centre d’accueil sur son sol. Un projet controversé, appuyé par Bruxelles et dénoncé par les défenseurs des droits humains.",
@@ -5186,10 +5282,44 @@
       "confirmation_count": 1
     },
     {
-      "id": "2676ac0eae",
-      "title": "Coligações negativas, fim do “bombom” e Isaltino",
-      "summary": "Na semana em que as votações do Orçamento do Estado na especialidade mostraram PS e Chega alinhados em várias medidas, no Fora do Baralho discute-se o tema e a ambição de Isaltino Morais.",
-      "country": "GHA",
+      "id": "946d9ff938",
+      "title": "Afrique du Sud: l’audience sur l'extradition de Kemi Seba vers le Bénin reportée au 3 février 2027",
+      "summary": "Kemi Seba était de nouveau devant le tribunal de Pretoria vendredi 20 novembre. L’influenceur, visé par deux mandats d’arrêt internationaux émis par le Bénin, avait été arrêté en Afrique du Sud en avril dernier. Depuis, les audiences s'enchaînent, les stratégies changent, les avocats aussi, et le dossier n’avance pas. L’audience a de nouveau été reportée au 3 février 2027. Une audience marquée aussi par un dispositif de sécurité inédit après des allégations d'évasion.",
+      "country": "BEN",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DEBT"
+      ],
+      "lang": "fr",
+      "published": "2026-11-20T20:43:19+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261120-afrique-du-sud-l-audience-sur-l-extradition-de-kemi-seba-vers-le-b%C3%A9nin-report%C3%A9e-au-3-f%C3%A9vrier-2027"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261120-afrique-du-sud-l-audience-sur-l-extradition-de-kemi-seba-vers-le-b%C3%A9nin-report%C3%A9e-au-3-f%C3%A9vrier-2027"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "277e244ab4",
+      "title": "UN, Senegal urge regional action to stop migrant traffickers",
+      "summary": "The United Nations' migration agency and Senegal on Friday called for action against migrant trafficking networks, amid a resurgence of people trying to reach Europe by boat.",
+      "country": "SEN",
       "category": "AUTRE",
       "severity": 1,
       "credibility": 2,
@@ -5199,20 +5329,52 @@
       "regulatory": false,
       "fdi": false,
       "sectors": [],
-      "lang": "pt",
-      "published": "2026-11-20T19:13:24+00:00",
+      "lang": "en",
+      "published": "2026-11-20T19:44:16+00:00",
       "lead_source": {
-        "id": "observador",
-        "name": "Observador",
+        "id": "afnews-en",
+        "name": "Africanews",
         "tier": 2,
-        "url": "https://observador.pt/programas/fora-do-baralho/coligacoes-negativas-fim-do-bombom-e-isaltino/"
+        "url": "http://www.africanews.com/2026/11/20/un-senegal-urge-regional-action-to-stop-migrant-traffickers/"
       },
       "confirming_sources": [
         {
-          "id": "observador",
-          "name": "Observador",
+          "id": "afnews-en",
+          "name": "Africanews",
           "tier": 2,
-          "url": "https://observador.pt/programas/fora-do-baralho/coligacoes-negativas-fim-do-bombom-e-isaltino/"
+          "url": "http://www.africanews.com/2026/11/20/un-senegal-urge-regional-action-to-stop-migrant-traffickers/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "25cb0032a2",
+      "title": "Sénégal : appel à une action régionale contre les réseaux de traite des migrants",
+      "summary": "Les migrants d’Afrique de l’Ouest fuient souvent la pauvreté, le manque de perspectives, les conflits ou le régime autoritaire des juntes militaires.",
+      "country": "SEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-20T19:37:59+00:00",
+      "lead_source": {
+        "id": "afnews-fr",
+        "name": "Africanews FR",
+        "tier": 2,
+        "url": "http://fr.africanews.com/2026/11/20/senegal-appel-a-une-action-regionale-contre-les-reseaux-de-traite-des-migrants/"
+      },
+      "confirming_sources": [
+        {
+          "id": "afnews-fr",
+          "name": "Africanews FR",
+          "tier": 2,
+          "url": "http://fr.africanews.com/2026/11/20/senegal-appel-a-une-action-regionale-contre-les-reseaux-de-traite-des-migrants/"
         }
       ],
       "confirmation_count": 1
@@ -7878,6 +8040,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "066c119815",
+      "title": "CGIAR Report Flags Barriers Facing Women in Adoption of Farm Technologies",
+      "summary": "[Capital FM] Nairobi -- Kenyan women 25pc less likely to access digital climate advice, report findsWomen in Kenya are up to 25 percent less likely than men to access digital climate advisory services, with limited access to mobile phones, literacy challenges and social barriers restricting their use of agricultural technologies, a new report by CGIAR has found.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-20T05:18:11+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611200141.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611200141.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "92b5eba1b3",
       "title": "Nearly 700,000 Displaced By Moyale Conflict in Southern Ethiopia: Islamic Relief",
       "summary": "[Addis Standard] Addis Abeba -- Nearly 700,000 people have been displaced by Moyale conflict along Ethiopia's border with Kenya and Somalia, with widespread destruction of homes and disruption of essential services, Islamic Relief Ethiopia said, warning of a deepening humanitarian crisis.",
@@ -8358,70 +8552,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "a93f756b8f",
-      "title": "24-Hour Economy Authority Backs Nadkansco Cashew Factory",
-      "summary": "[Ghanaian Times] The 24-Hour Economy Authority has thrown its support behind Nadkansco's new cashew processing factory, inaugurated by President John Dramani Mahama in Techiman in the Bono East Region.",
-      "country": "GHA",
-      "category": "MACRO",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-19T23:34:56+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611190651.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611190651.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e8faeba64e",
-      "title": "At COP31 - Jospong, Isa Partner to Accelerate Africa's Solar Energy Drive",
-      "summary": "[Ghanaian Times] THE International Solar Alliance (ISA) has presented a comprehensive solarisation roadmap to the Jospong Group of Companies (JGC) at the ongoing 31st United Nations Climate Change Conference (COP31) in Antalya, Türkiye.",
-      "country": "GHA",
-      "category": "RENEWABLE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": "SOLAR",
-      "legal_status": null,
-      "regulatory": true,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-19T23:34:56+00:00",
-      "lead_source": {
-        "id": "aa-gha",
-        "name": "AllAfrica · Ghana",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611190652.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-gha",
-          "name": "AllAfrica · Ghana",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611190652.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "3b83f23d81",
       "title": "Ghana, US Deepen Cooperation to Tackle Mercury Pollution",
       "summary": "[Ghanaian Times] GHANA and the United States have reaffirmed their commitment to tackling mercury pollution caused by illegal mining through scientific collaboration, technology transfer and the promotion of sustainable gold extraction practices to protect the country's freshwater resources.",
@@ -8449,38 +8579,6 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611190642.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "17fddeba09",
-      "title": "Madagascar: la région du Bongolava en proie aux feux de brousse",
-      "summary": "À Madagascar, le mois de novembre est marqué par une multiplication des feux dans les zones rurales, juste avant que ne débutent les pluies, soutenues et quotidiennes. Dans la région du Bongolava, à 200 kilomètres à l’ouest d’Antananarivo, les paysans utilisent le feu pour défricher les terres agricoles mais aussi pour renouveler les pâturages pour les zébus. Interdits par la loi mais tolérés dans la pratique, ces feux de brousse génèrent des conflits et dégradent…",
-      "country": "MDG",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-19T23:00:25+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261119-madagascar-la-r%C3%A9gion-du-bongolava-en-proie-aux-feux-de-brousse"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261119-madagascar-la-r%C3%A9gion-du-bongolava-en-proie-aux-feux-de-brousse"
         }
       ],
       "confirmation_count": 1
@@ -9158,9 +9256,9 @@
       "confirmation_count": 1
     },
     {
-      "id": "25e272d8b5",
-      "title": "The price of Kampala business shutdowns",
-      "summary": "The shutdown followed two failed attempts by traders to engage URA leadership over grievances...",
+      "id": "41c7369398",
+      "title": "Kampala protests signal East Africa’s tricky road on taxation",
+      "summary": "Traders say prolonged clearance leaves merchandise stranded at customs facilities, attracting...",
       "country": "UGA",
       "category": "AUTRE",
       "severity": 1,
@@ -9409,38 +9507,6 @@
           "name": "France 24 Afrique",
           "tier": 1,
           "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-s%C3%A9n%C3%A9gal-le-surf-fait-de-plus-en-plus-d-adeptes-chez-les-jeunes"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "140710977a",
-      "title": "Maraga-Led Opposition Coalition Proposes Sweeping Changes to Elections Act",
-      "summary": "[Capital FM] Nairobi -- Former Chief Justice David Maraga has led opposition leaders in proposing sweeping amendments to the Elections Act ahead of the 2027 General Election.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-19T13:14:56+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611190293.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611190293.html"
         }
       ],
       "confirmation_count": 1
@@ -11464,6 +11530,40 @@
       "confirmation_count": 1
     },
     {
+      "id": "5bb6ce220d",
+      "title": "Addis Ababa City Administration Reaffirms Commitment to Strengthening Partnership With WB Group",
+      "summary": "[ENA] Addis Ababa -- The Addis Ababa City Administration has reaffirmed its commitment to expanding development cooperation with the World Bank (WB) Group through joint projects aimed at promoting sustainable urban development and improving residents' quality of life.",
+      "country": "ETH",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DFI"
+      ],
+      "lang": "en",
+      "published": "2026-11-17T17:50:12+00:00",
+      "lead_source": {
+        "id": "aa-eth",
+        "name": "AllAfrica · Éthiopie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611170668.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-eth",
+          "name": "AllAfrica · Éthiopie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611170668.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "2cdc40f61a",
       "title": "Five EU countries unveil plans for Rwanda deportation hub",
       "summary": "The five countries have been working towards a deal for a so-called return hub for several months.",
@@ -11491,38 +11591,6 @@
           "name": "The East African",
           "tier": 2,
           "url": "https://www.theeastafrican.co.ke/tea/news/world/five-eu-countries-unveil-plans-for-rwanda-deportation-hub-5674090"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "d50405546b",
-      "title": "Ethiopia Wins Int'l Award for Institutionalizing Climate-Responsive Auditing",
-      "summary": "[ENA] Addis Ababa -- The Office of the Federal Auditor General has won international recognition for its efforts to institutionalize climate-responsive auditing at the 2026 ClimateScanner Impact Awards held in Rio de Janeiro, Brazil.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-17T12:20:22+00:00",
-      "lead_source": {
-        "id": "aa-eth",
-        "name": "AllAfrica · Éthiopie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611170427.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-eth",
-          "name": "AllAfrica · Éthiopie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611170427.html"
         }
       ],
       "confirmation_count": 1
@@ -11747,6 +11815,38 @@
           "name": "AllAfrica · Tanzanie",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611170136.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "8c834f37c1",
+      "title": "Tanzania Commits to Support AU's Efforts to Promote Continental Peace, Security, Stability",
+      "summary": "[Daily News] Arusha -- TANZANIA has reaffirmed its commitment to supporting the African Union's (AU) efforts to promote peace, security and stability across the continent through strengthening regional institutions and solidarity among member states.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-17T05:42:12+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611170137.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611170137.html"
         }
       ],
       "confirmation_count": 1
@@ -12515,38 +12615,6 @@
           "name": "Financial Times · Africa",
           "tier": 1,
           "url": "https://www.ft.com/content/90786eca-a721-4302-8969-6e71e4706d05?syn-25a6b1a6=1"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "4cdbc277f7",
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-      "country": "ETH",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-13T00:20:24+00:00",
-      "lead_source": {
-        "id": "bbc-afr",
-        "name": "BBC Africa",
-        "tier": 1,
-        "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "bbc-afr",
-          "name": "BBC Africa",
-          "tier": 1,
-          "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "confirmation_count": 1
