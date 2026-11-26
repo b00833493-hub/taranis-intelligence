@@ -1,35 +1,39 @@
 {
-  "generated_at": "2026-11-25T22:30:26.765056+00:00",
+  "generated_at": "2026-11-26T05:01:20.927842+00:00",
   "stats": {
-    "total_signals": 385,
-    "verified_signals": 11,
-    "countries_covered": 21,
+    "total_signals": 406,
+    "verified_signals": 12,
+    "countries_covered": 25,
     "sources_active": 40,
     "per_country": {
-      "SEN": 50,
+      "TZA": 39,
       "MLI": 18,
-      "NGA": 48,
+      "SEN": 48,
+      "NGA": 47,
       "MOZ": 39,
-      "GHA": 32,
-      "CIV": 28,
-      "KEN": 44,
-      "GIN": 3,
-      "TZA": 34,
+      "GHA": 31,
+      "CIV": 32,
+      "KEN": 47,
+      "GIN": 4,
       "ETH": 40,
-      "UGA": 29,
+      "UGA": 31,
       "MDG": 5,
       "SLE": 2,
+      "SOM": 4,
       "BEN": 2,
-      "CPV": 1,
-      "RWA": 3,
+      "CPV": 3,
+      "RWA": 4,
       "TGO": 1,
-      "DJI": 2,
       "NER": 1,
       "GNB": 2,
-      "BFA": 1
+      "ERI": 1,
+      "SSD": 2,
+      "DJI": 1,
+      "BFA": 1,
+      "GMB": 1
     },
-    "west_signals": 189,
-    "east_signals": 196
+    "west_signals": 193,
+    "east_signals": 213
   },
   "sources": [
     {
@@ -274,6 +278,76 @@
     }
   ],
   "signals": [
+    {
+      "id": "d2b2b3228e",
+      "title": "Dar City Survive Blazers Scare to Maintain Unbeaten Run",
+      "summary": "[New Times] Dar City maintained their perfect start to the 2027 Road to BAL Elite 16 East Division after overcoming a stubborn Namuwongo Blazers side 91-79 on Tuesday in Nairobi to register their second consecutive victory in Group B.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-26T03:48:26+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611260039.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611260039.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "e953228ff1",
+      "title": "Mali : le JNIM lance un ultimatum aux habitants de Tonka",
+      "summary": "Dans cette édition, direction le Mali, où le JNIM donne jusqu’à vendredi aux habitants de Tonka, dans la région de Tombouctou, pour quitter la ville avant la mise en place d’un blocus. Pourquoi cet ultimatum et quelles conséquences pour la population ?\n \nEn RDC, la reprise des combats en Ituri entre l’armée congolaise et les rebelles de la CRP complique la riposte face à l’épidémie d’Ebola, faisant craindre sa propagation.\n \nEnfin, cap sur Madagascar, où des milliers de…",
+      "country": "MLI",
+      "category": "AUTRE",
+      "severity": 4,
+      "credibility": 4,
+      "verified": true,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-26T00:03:50+00:00",
+      "lead_source": {
+        "id": "f24-afr",
+        "name": "France 24 Afrique",
+        "tier": 1,
+        "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261126-mali-le-jnim-lance-un-ultimatum-aux-habitants-de-tonka"
+      },
+      "confirming_sources": [
+        {
+          "id": "f24-afr",
+          "name": "France 24 Afrique",
+          "tier": 1,
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261126-mali-le-jnim-lance-un-ultimatum-aux-habitants-de-tonka"
+        },
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261125-mali-les-jihadistes-du-jnim-lancent-un-ultimatum-aux-habitants-de-tonka-dans-la-r%C3%A9gion-de-tombouctou"
+        }
+      ],
+      "confirmation_count": 2
+    },
     {
       "id": "4ad39034e6",
       "title": "Sénégal : le Groupe EDK boucle par anticipation son emprunt obligataire de 30 milliards de FCFA",
@@ -1317,38 +1391,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "9e3bca92d2",
-      "title": "Somalia's President Hassan Sheikh Expected to Travel to Uganda Amid Political Tensions",
-      "summary": "[Shabelle] Mogadishu -- Somali President Hassan Sheikh Mohamud is expected to travel to Kampala, the capital of Uganda, on Tuesday, according to informed sources who spoke to Shabelle TV.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 4,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-23T11:03:03+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611230319.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611230319.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "6b6dd6692c",
       "title": "COP31 Ends in Deadlock, Leaving Ethiopia to Pick Up the Pieces",
       "summary": "[IPS] Antalya, Türkiye -- There is no final cover decision at this year's United Nations climate summit after countries did not agree on a text that explicitly mentions moving away from fossil fuels.",
@@ -1829,6 +1871,102 @@
       "confirmation_count": 1
     },
     {
+      "id": "b6eb73114d",
+      "title": "Govt Assures Ecitizen Platform Remains Operational Amid Data Access Probe",
+      "summary": "[Capital FM] Nairobi -- The government has assured Kenyans that the eCitizen platform remains fully operational as it investigates reports of unauthorised access to data held on the digital services portal.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "OPERATIONAL",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-26T03:43:42+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611260035.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611260035.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2e952a4494",
+      "title": "Guinée-Bissau: un an après le putsch, la transition militaire s'éternise",
+      "summary": "C’était il y a un an jour pour jour. Le 26 novembre 2025, les militaires prenaient le pouvoir en Guinée-Bissau et annulaient la proclamation des résultats des élections présidentielle et législatives. Désigné chef de l’État, le général Horta N’tam promettait alors une transition d’un an avant la tenue de nouvelles élections pour remettre le pouvoir aux civils. En lieu et place, la répression s’est abattue sur les partis politiques et la société civile, tandis que les…",
+      "country": "GIN",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-26T03:30:45+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261126-guin%C3%A9e-bissau-un-an-apr%C3%A8s-le-putsch-la-transition-militaire-s-%C3%A9ternise"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261126-guin%C3%A9e-bissau-un-an-apr%C3%A8s-le-putsch-la-transition-militaire-s-%C3%A9ternise"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "da4c90d766",
+      "title": "Côte d'Ivoire: à Abidjan, les ambitions de productions audiovisuelles de Canal+",
+      "summary": "Alors que s'ouvre, jeudi 26 novembre, le Salon international du contenu audiovisuel (SICA) à Abidjan, la production ivoirienne dispose de nouvelles infrastructures. Le groupe Canal+ a récemment ouvert ses premiers studios de production sur le continent africain. Un investissement stratégique pour la Côte d’Ivoire, qui ambitionne de devenir un hub audiovisuel en Afrique de l’Ouest.",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-26T00:08:15+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261126-c%C3%B4te-d-ivoire-%C3%A0-abidjan-les-ambitions-de-productions-audiovisuelles-de-canal"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261126-c%C3%B4te-d-ivoire-%C3%A0-abidjan-les-ambitions-de-productions-audiovisuelles-de-canal"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "8c7f6c39ed",
       "title": "La BIDC consacrée meilleure banque pour l’intégration régionale aux West African Bankers’ Awards 2026",
       "summary": "La Banque d’Investissement et de Développement de la CEDEAO (BIDC) a été désignée Meilleure Banque pour l’Intégration Régionale 2025 lors de la 2ème édition des West African Bankers’ Awards, tenue le 7 novembre 2026 à Freetown, en Sierra Leone. Cette distinction met en lumière le rôle de la BIDC dans la concrétisation de la vision…",
@@ -1952,6 +2090,38 @@
           "name": "Club of Mozambique",
           "tier": 2,
           "url": "https://clubofmozambique.com/news/mozambique-apiex-and-chinas-hxie-define-actions-to-promote-business-opportunities/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6205750f93",
+      "title": "Why investors are cautious on Somalia",
+      "summary": "Inflation is projected to reach 6.5 per cent this year, further squeezing households and...",
+      "country": "SOM",
+      "category": "MACRO",
+      "severity": 3,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-25T13:37:55+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/why-investors-are-cautious-on-somalia-5683944"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/why-investors-are-cautious-on-somalia-5683944"
         }
       ],
       "confirmation_count": 1
@@ -2533,70 +2703,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "9f76eb10eb",
-      "title": "Mali: les jihadistes du Jnim lancent un ultimatum aux habitants de Tonka, dans la région de Tombouctou",
-      "summary": "Au Mali, le Jnim, lié à al-Qaïda, laisse jusqu'à vendredi aux habitants de Tonka pour quitter la ville, après quoi cette localité de la région de Tombouctou sera placée sous blocus. Les jihadistes réagissent à l'installation dans la ville d'un détachement de l'armée malienne et de ses partenaires russes de l'Africa Corps. En un an, le Jnim a assassiné à Tonka plusieurs civils pour leur proximité supposée avec l'armée.",
-      "country": "MLI",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-25T03:13:46+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261125-mali-les-jihadistes-du-jnim-lancent-un-ultimatum-aux-habitants-de-tonka-dans-la-r%C3%A9gion-de-tombouctou"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261125-mali-les-jihadistes-du-jnim-lancent-un-ultimatum-aux-habitants-de-tonka-dans-la-r%C3%A9gion-de-tombouctou"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "e0b3a41e6a",
-      "title": "Ghana: Spiro, le pari gagnant du passage à la moto électrique?",
-      "summary": "Au Ghana, Spiro vient de lancer une première flotte de 100 motos électriques, avec un système d'échange de batteries. Moins d'entretien, moins de dépenses d'énergie : la promesse est séduisante pour les okadas, c'est-à-dire les motos-taxis. Mais entre la location de la moto et les échanges de batteries, les économies ne sont pas toujours au rendez-vous.",
-      "country": "GHA",
-      "category": "MACRO",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-24T23:02:44+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261124-ghana-spiro-le-pari-gagnant-du-passage-%C3%A0-la-moto-%C3%A9lectrique"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261124-ghana-spiro-le-pari-gagnant-du-passage-%C3%A0-la-moto-%C3%A9lectrique"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "5bb692f236",
       "title": "Mondial U-17 : malgré une résistance défensive, la Tanzanie s'incline face au Brésil",
       "summary": "La Tanzanie s'est inclinée face au Brésil (1-0), dans le cadre de la phase de groupes du Mondial U17. Malgré une prestation essentiellement défensive et une volonté de respecter les consignes tactiques, les Taifa Stars n'ont pas réussi à contenir les offensives brésiliennes jusqu'au coup de sifflet.",
@@ -2752,38 +2858,6 @@
           "name": "TechCabal",
           "tier": 2,
           "url": "https://techcabal.com/2026/11/24/mtn-benin-customers-data/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "7d2ba69e16",
-      "title": "Mondial U-17 : le Sénégal surclasse Cuba et prend la tête du groupe F",
-      "summary": "Le Sénégal a signé une victoire éclatante face à Cuba (9-0), lundi, lors de la deuxième journée de la Coupe du monde U17 au Qatar. Avec quatre points, les Lionceaux prennent provisoirement la tête du groupe F, à égalité avec la Croatie.",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-24T12:01:09+00:00",
-      "lead_source": {
-        "id": "afnews-fr",
-        "name": "Africanews FR",
-        "tier": 2,
-        "url": "http://fr.africanews.com/2026/11/23/mondial-u17-le-senegal-surclasse-cuba-9-0-et-sempare-de-la-tete-du-groupe-f/"
-      },
-      "confirming_sources": [
-        {
-          "id": "afnews-fr",
-          "name": "Africanews FR",
-          "tier": 2,
-          "url": "http://fr.africanews.com/2026/11/23/mondial-u17-le-senegal-surclasse-cuba-9-0-et-sempare-de-la-tete-du-groupe-f/"
         }
       ],
       "confirmation_count": 1
@@ -3461,38 +3535,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "add9d516c1",
-      "title": "CAF Together With Hosts Kenya, Tanzania and Uganda Launch TotalEnergies CAF Afcon 2027 'Shield Inspired' Logo",
-      "summary": "[CAF] Inspired by the shield, a timeless symbol deeply rooted in African heritage, identity and strength, CAF together with hosts Kenya, Tanzania and Uganda have launched the TotalEnergies CAF Africa Cup of Nations (\"AFCON\") PAMOJA 2027 Logo.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 3,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-19T16:16:35+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611190390.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611190390.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "62a1f927b4",
       "title": "Climate Conference Brings a State Rival to Premium Car Hire Market",
       "summary": "The Ethiopian Investment Holdings (EIH), the sovereign fund, has set up Shabeel Fleets Enterprise (SFE) to provide premium mobility, protocol transport and event logistics. The...",
@@ -3716,6 +3758,38 @@
           "name": "AllAfrica · Côte d'Ivoire",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611110117.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5a62ad7fc5",
+      "title": "Côte d'Ivoire: 234 personnes arrêtées en marge de la présidentielle de 2025 remises en liberté",
+      "summary": "En Côte d’Ivoire, plus de 1 600 personnes avaient été interpellées l’an dernier, en marge de la présidentielle d’octobre 2025, suspectées notamment de « troubles à l’ordre public » et de « participation à des marches interdites ». Si certaines ont été condamnées, d’autres restaient dans l’attente d’un jugement. Après plus d’un an de détention, la justice vient d’en libérer 234, faute d’éléments suffisants pour les poursuivre, a annoncé mercredi 25 novembre le porte-parole…",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "ANNOUNCED",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-26T03:00:46+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261126-c%C3%B4te-d-ivoire-234-personnes-arr%C3%AAt%C3%A9es-en-marge-de-la-pr%C3%A9sidentielle-de-2025-remises-en-libert%C3%A9"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261126-c%C3%B4te-d-ivoire-234-personnes-arr%C3%AAt%C3%A9es-en-marge-de-la-pr%C3%A9sidentielle-de-2025-remises-en-libert%C3%A9"
         }
       ],
       "confirmation_count": 1
@@ -4627,6 +4701,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "d238f1434d",
+      "title": "Tanzania and Norway Sign Joint Declaration to Broaden Trade and Economic Ties",
+      "summary": "[Daily News] Oslo -- TANZANIA and Norway have signed a Joint Declaration aimed at strengthening trade and economic cooperation, as part of the outcomes of the Fourth Round of Political Consultations between the two countries held in Oslo, Norway.",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 2,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-20T05:13:28+00:00",
+      "lead_source": {
+        "id": "aa-tza",
+        "name": "AllAfrica · Tanzanie",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611200121.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-tza",
+          "name": "AllAfrica · Tanzanie",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611200121.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "aa1466a475",
       "title": "Five EU countries to announce scheme to deport irregular migrants to Rwanda",
       "summary": "Also in this newsletter: The tourist taxes eating Amsterdam’s hospitality sector",
@@ -4921,6 +5027,326 @@
       "confirmation_count": 1
     },
     {
+      "id": "9b5f31848b",
+      "title": "Mozambique and China open new avenues for naval cooperation and modernisation",
+      "summary": "Mission led by the Commander of the Mozambican Navy, Rear Admiral Estêvão Bernardo Nchokomala, strengthens naval diplomacy and identifies opportunities for cooperation in specialised training, naval engineering, military medicine and technological development. Mozambique and the People’s Republic of China are opening up new prospects for cooperation in the naval field, following a working visit by…\nSource",
+      "country": "MOZ",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-26T04:01:42+00:00",
+      "lead_source": {
+        "id": "club-moz",
+        "name": "Club of Mozambique",
+        "tier": 2,
+        "url": "https://clubofmozambique.com/news/mozambique-and-china-open-new-avenues-for-naval-cooperation-and-modernisation/"
+      },
+      "confirming_sources": [
+        {
+          "id": "club-moz",
+          "name": "Club of Mozambique",
+          "tier": 2,
+          "url": "https://clubofmozambique.com/news/mozambique-and-china-open-new-avenues-for-naval-cooperation-and-modernisation/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c81f44bdf2",
+      "title": "KNCCI Seeks to Tap Sh1.1tn Xiamen Tea Market",
+      "summary": "[Capital FM] Nairobi -- Kenya is looking to tap into the Sh1.1 trillion Xiamen tea market in China following the Chinese Government's introduction of zero-tariff access for Kenyan products this year.",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-26T03:43:42+00:00",
+      "lead_source": {
+        "id": "aa-ken",
+        "name": "AllAfrica · Kenya",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611260036.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-ken",
+          "name": "AllAfrica · Kenya",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611260036.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "c2972c762e",
+      "title": "Let's End Violence Against Women...",
+      "summary": "[This Day] We must do more to protect our women and girls",
+      "country": "NGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-26T03:37:44+00:00",
+      "lead_source": {
+        "id": "aa-nga",
+        "name": "AllAfrica · Nigeria",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611260031.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-nga",
+          "name": "AllAfrica · Nigeria",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611260031.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1f50c8daef",
+      "title": "Madagascar: Marco Tsaradia élu à la tête de l'Assemblée après la destitution de son président pour «motif grave»",
+      "summary": "À Madagascar, au lendemain de la destitution de Siteny Randrianasoloniaiko du poste de président de l’Assemblée nationale, les députés ont élu mercredi 25 novembre son remplaçant. Il s’agit de Marco Tsaradi, jusqu’alors vice-président de la chambre basse. Ce député est un membre actif de la plateforme de soutien au chef de la transition, Michael Randrianirina.",
+      "country": "MDG",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-26T03:35:46+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261126-madagascar-marco-tsaradia-%C3%A9lu-%C3%A0-la-t%C3%AAte-de-l-assembl%C3%A9e-apr%C3%A8s-la-destitution-de-son-pr%C3%A9sident-accus%C3%A9-d-abus-de-pouvoir"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261126-madagascar-marco-tsaradia-%C3%A9lu-%C3%A0-la-t%C3%AAte-de-l-assembl%C3%A9e-apr%C3%A8s-la-destitution-de-son-pr%C3%A9sident-accus%C3%A9-d-abus-de-pouvoir"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "72053b174a",
+      "title": "RDC: le chef de l'armée ougandaise menace d'intervenir dans le pays, Kinshasa réclame des explications",
+      "summary": "En République démocratique du Congo (RDC), nouvelle tension diplomatique entre Kinshasa et Kampala. Le gouvernement congolais a convoqué le représentant de l’ambassade d’Ouganda après une série de déclarations du chef de l’armée ougandaise, Muhoozi Kainerugaba. Sur le réseau social X, le général a menacé de faire avancer ses troupes sur le territoire congolais et affiché son soutien à une progression du mouvement politico-militaire dirigé par Joseph Kabila. Kinshasa…",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-26T03:20:45+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261126-rdc-le-chef-de-l-arm%C3%A9e-ougandaise-menace-d-intervenir-dans-le-pays-kinshasa-r%C3%A9clame-des-explications"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261126-rdc-le-chef-de-l-arm%C3%A9e-ougandaise-menace-d-intervenir-dans-le-pays-kinshasa-r%C3%A9clame-des-explications"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "1694574bff",
+      "title": "Côte d'Ivoire: le bilan du rachat des stocks de cacao par le Conseil café-cacao contesté par un syndicat",
+      "summary": "Nouvel épisode dans le dossier des stocks résiduels de cacao en Côte d’Ivoire. Le Conseil café-cacao, l’organe régulateur de la filière, fait le bilan de l’opération d’enlèvement de 100 000 tonnes de fèves lors de la précédente campagne (2025-2026). Ce rachat des stocks avait été mis en place pour décongestionner les coopératives qui voyaient le cacao s’entasser à cause d’un ralentissement de la commercialisation. L’opération s’est achevée en août dernier, mais certains…",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-26T03:10:46+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/afrique/20261126-c%C3%B4te-d-ivoire-le-bilan-du-rachat-des-stocks-de-cacao-par-le-conseil-caf%C3%A9-cacao-contest%C3%A9-par-un-syndicat"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/afrique/20261126-c%C3%B4te-d-ivoire-le-bilan-du-rachat-des-stocks-de-cacao-par-le-conseil-caf%C3%A9-cacao-contest%C3%A9-par-un-syndicat"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7c4f47be45",
+      "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+      "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
+      "country": "SOM",
+      "category": "FINANCING",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-26T02:06:10+00:00",
+      "lead_source": {
+        "id": "bbc-afr",
+        "name": "BBC Africa",
+        "tier": 1,
+        "url": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirming_sources": [
+        {
+          "id": "bbc-afr",
+          "name": "BBC Africa",
+          "tier": 1,
+          "url": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "2c4d26f41a",
+      "title": "João Gião é o novo treinador do Estoril Praia",
+      "summary": "João Gião é o terceiro treinador do Estoril Praia em 2026/27 e chega à Amoreira, numa altura complicada, acompanhado da sua equipa técnica, depois de já ter orientado esta época o Nacional.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-11-26T00:13:42+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/11/26/estoril-praia-contrata-joao-giao-para-tentar-salvar-epoca-de-pesadelo-na-i-liga/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/11/26/estoril-praia-contrata-joao-giao-para-tentar-salvar-epoca-de-pesadelo-na-i-liga/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "7fb3db7d1d",
+      "title": "Cineasta Nuno Boaventura Miranda vence bolsa de 75 mil euros",
+      "summary": "Nuno Boaventura Miranda venceu a bolsa Working Class Heroes, no valor de 75 mil euros, pelo projeto fílmico \"Claiana\", que segue o caminho de Aguinaldo, que chegou ao Porto vindo de Cabo Verde.",
+      "country": "CPV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "pt",
+      "published": "2026-11-26T00:13:26+00:00",
+      "lead_source": {
+        "id": "observador",
+        "name": "Observador",
+        "tier": 2,
+        "url": "https://observador.pt/2026/11/26/cineasta-nuno-boaventura-miranda-vence-bolsa-de-75-mil-euros-do-porto-post-doc/"
+      },
+      "confirming_sources": [
+        {
+          "id": "observador",
+          "name": "Observador",
+          "tier": 2,
+          "url": "https://observador.pt/2026/11/26/cineasta-nuno-boaventura-miranda-vence-bolsa-de-75-mil-euros-do-porto-post-doc/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "0d861993ac",
+      "title": "Côte d'Ivoire: les producteurs de miel veulent passer à la vitesse supérieure",
+      "summary": "En Côte d'Ivoire, la filière apicole cherche à se structurer pour développer la production et la commercialisation du miel. À Yamoussoukro, producteurs et transformateurs ont récemment renforcé leur organisation, avec l'ambition de mettre en place, à terme, une véritable interprofession. Mais sur le terrain, les apiculteurs restent confrontés à plusieurs défis. Découverte de leur quotidien, au cœur des ruches.",
+      "country": "CIV",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "fr",
+      "published": "2026-11-25T23:22:50+00:00",
+      "lead_source": {
+        "id": "rfi-afr",
+        "name": "RFI Afrique",
+        "tier": 1,
+        "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261125-c%C3%B4te-d-ivoire-les-producteurs-de-miel-veulent-passer-%C3%A0-la-vitesse-sup%C3%A9rieure"
+      },
+      "confirming_sources": [
+        {
+          "id": "rfi-afr",
+          "name": "RFI Afrique",
+          "tier": 1,
+          "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261125-c%C3%B4te-d-ivoire-les-producteurs-de-miel-veulent-passer-%C3%A0-la-vitesse-sup%C3%A9rieure"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "ada99d701d",
       "title": "Mozambique advance to Round of 32 after 2-2 draw with Australia",
       "summary": "Mozambique have booked their place in the Round of 32 at the FIFA Under-17 World Cup in Qatar after drawing 2-2 with Australia in Group C.",
@@ -5113,38 +5539,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "45324b78e2",
-      "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
-      "summary": "Tinubu is under pressure to convince voters that military operations in the country's northeast will deliver security.",
-      "country": "NGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-25T18:14:44+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "e5fceca85d",
       "title": "Breaking: Mozambique’s Mambinhas close in on FIFA U-17 World Cup knockout-stage qualification after dramatic 2-2 draw with Australia",
       "summary": "Mozambique’s national under-17 football team drew 2-2 with Australia on Wednesday in their final Group C match at the FIFA U-17 World Cup in Qatar, a result that leaves the Mambinhas virtually assured of qualifying for the Round of 32. Mozambique made an impressive start, taking a two-goal lead in the first half. Antonio Nhampule…\nSource",
@@ -5236,38 +5630,6 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "0b45392c5e",
-      "title": "Djibouti: The Man Who Dared",
-      "summary": "War hero turned nationalist, Mahmoud Harbi defied colonial rule to fight for independence in today’s Djibouti.",
-      "country": "DJI",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-25T17:00:00+00:00",
-      "lead_source": {
-        "id": "aljazeera",
-        "name": "Al Jazeera",
-        "tier": 1,
-        "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/25/djibouti-the-man-who-dared?traffic_source=rss"
-      },
-      "confirming_sources": [
-        {
-          "id": "aljazeera",
-          "name": "Al Jazeera",
-          "tier": 1,
-          "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/25/djibouti-the-man-who-dared?traffic_source=rss"
         }
       ],
       "confirmation_count": 1
@@ -5689,6 +6051,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "7c8020206c",
+      "title": "US music label barred from ‘exploiting’ Kenyan artistes’ music",
+      "summary": "Copyright Tribunal orders Black Market Records to stop claiming ownership of musical works by...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-25T14:17:44+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/magazine/us-music-label-barred-from-exploiting-kenyan-artistes-music--5684000"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/magazine/us-music-label-barred-from-exploiting-kenyan-artistes-music--5684000"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "2ab77682b3",
       "title": "Salon monétique régional : entretien avec Emmanuel Cullin, directeur général adjoint de CBAO Groupe Attijariwafa bank",
       "summary": "Entre l’essor du paiement instantané, la montée en puissance de l’intelligence artificielle et la sophistication des risques de fraude, les banques de l’UEMOA sont appelées à repenser leurs infrastructures monétiques. En marge de la 9ᵉ édition du Salon monétique régional, organisée les 19 et 20 novembre 2026 à Dakar par le GIM-UEMOA, Emmanuel Cullin, directeur…",
@@ -5977,38 +6371,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "5d93b630b9",
-      "title": "Kenya's Star Newspaper Didn't Publish Graphic Showing MP Gabriel Tongoyo Leading Narok Governor Race",
-      "summary": "[Africa Check] Kenya's Star newspaper didn't publish graphic showing MP Gabriel Tongoyo leading Narok governor race",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-25T13:09:56+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611250413.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611250413.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "2d66c8be86",
       "title": "Kenyan Fintech Cloud9 Acquires Canada’s Monix Pay To Expand Into North America",
       "summary": "Cloud9, a Kenyan fintech founded by Tesh Mbaabu and Mesongo Sibuti, has acquired\nThe post Kenyan Fintech Cloud9 Acquires Canada’s Monix Pay To Expand Into North America appeared first on WeeTracker.",
@@ -6228,38 +6590,6 @@
           "name": "AllAfrica · Nigeria",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611250384.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "002b18e09f",
-      "title": "Mozambique: Government to terminate Beira coal terminal concession contract",
-      "summary": "The Government is to terminate the concession contract for the Coal Terminal at the Port of Beira, in Sofala province, awarded to New Coal Terminal Beira, S.A. (NCTB), a joint venture between India’s Essar Ports and Mozambique’s state-owned Ports and Railways of Mozambique (CFM). Essar held a 70% stake in the venture, with CFM holding…\nSource",
-      "country": "MOZ",
-      "category": "FINANCING",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": true,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-25T12:35:40+00:00",
-      "lead_source": {
-        "id": "club-moz",
-        "name": "Club of Mozambique",
-        "tier": 2,
-        "url": "https://clubofmozambique.com/news/mozambique-government-to-terminate-beira-coal-terminal-concession-contract/"
-      },
-      "confirming_sources": [
-        {
-          "id": "club-moz",
-          "name": "Club of Mozambique",
-          "tier": 2,
-          "url": "https://clubofmozambique.com/news/mozambique-government-to-terminate-beira-coal-terminal-concession-contract/"
         }
       ],
       "confirmation_count": 1
@@ -7161,11 +7491,11 @@
       "confirmation_count": 1
     },
     {
-      "id": "a05d71c581",
-      "title": "Experts Urge CBN to Monitor Money Supply As MPC Retains Rates",
-      "summary": "[Daily Trust] Experts have called on the Central Bank of Nigeria (CBN) to monitor money supply, following the decision of the Monetary Policy Committee (MPC) to hold rates at 23 per cent.",
-      "country": "NGA",
-      "category": "MACRO",
+      "id": "1e76bebb95",
+      "title": "Kenya seeks new markets for its tea",
+      "summary": "Pakistan, Egypt and the United Kingdom remain Kenya's biggest tea markets.",
+      "country": "KEN",
+      "category": "AUTRE",
       "severity": 1,
       "credibility": 2,
       "verified": false,
@@ -7175,19 +7505,19 @@
       "fdi": false,
       "sectors": [],
       "lang": "en",
-      "published": "2026-11-25T10:44:10+00:00",
+      "published": "2026-11-25T10:40:06+00:00",
       "lead_source": {
-        "id": "aa-nga",
-        "name": "AllAfrica · Nigeria",
+        "id": "east-afr",
+        "name": "The East African",
         "tier": 2,
-        "url": "https://allafrica.com/stories/202611250260.html"
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-seeks-new-markets-for-its-tea--5683674"
       },
       "confirming_sources": [
         {
-          "id": "aa-nga",
-          "name": "AllAfrica · Nigeria",
+          "id": "east-afr",
+          "name": "The East African",
           "tier": 2,
-          "url": "https://allafrica.com/stories/202611250260.html"
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-seeks-new-markets-for-its-tea--5683674"
         }
       ],
       "confirmation_count": 1
@@ -7449,6 +7779,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "9a67ffb532",
+      "title": "Another Chadema leader, John Pambalu, charged with treason",
+      "summary": "Pambalu was arrested in Arusha in October 2026 and transferred to Dar es Salaam, where he was...",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-25T08:58:43+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/another-chadema-leader-john-pambalu-charged-with-treason-5683580"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/another-chadema-leader-john-pambalu-charged-with-treason-5683580"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "d2bf15d447",
       "title": "Kenya: Inside Ruto’s 2027 plans as Raila’s former advisers take on new influence",
       "summary": "As William Ruto and the ODM negotiate a deal for 2027, Raila Odinga’s former confidants are already helping shape the president’s agenda. But can the legal minds, strategists and policy experts who once worked against him help secure his political future?",
@@ -7540,38 +7902,6 @@
           "name": "The Africa Report",
           "tier": 2,
           "url": "https://www.theafricareport.com/437419/after-a-3-4bn-recapitalisation-where-is-nigerias-bank-capital-actually-going/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "579bd0aef7",
-      "title": "Madagascar: après la destitution du président de l'Assemblée, «la pratique politique ne change pas», déplore un député",
-      "summary": "À Madagascar, le président de l’Assemblée nationale a été destitué dans la nuit du lundi 23 au mardi 24 novembre. Siteny Randrianasoloniaiko avait été élu en octobre 2025, après la chute d’Andry Rajoelina. Il passait pour un proche du nouveau pouvoir militaire. Les députés lui reprochent notamment d’avoir concentré les pouvoirs. Mais pour certains élus, cette destitution est avant tout politique.",
-      "country": "MDG",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-25T06:05:53+00:00",
-      "lead_source": {
-        "id": "rfi-afr",
-        "name": "RFI Afrique",
-        "tier": 1,
-        "url": "https://www.rfi.fr/fr/afrique/20261125-madagascar-apr%C3%A8s-la-destitution-du-pr%C3%A9sident-de-l-assembl%C3%A9e-la-pratique-politique-ne-change-pas-d%C3%A9plore-un-d%C3%A9put%C3%A9"
-      },
-      "confirming_sources": [
-        {
-          "id": "rfi-afr",
-          "name": "RFI Afrique",
-          "tier": 1,
-          "url": "https://www.rfi.fr/fr/afrique/20261125-madagascar-apr%C3%A8s-la-destitution-du-pr%C3%A9sident-de-l-assembl%C3%A9e-la-pratique-politique-ne-change-pas-d%C3%A9plore-un-d%C3%A9put%C3%A9"
         }
       ],
       "confirmation_count": 1
@@ -8187,38 +8517,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "cc70d74225",
-      "title": "Unregulated Early Campaigns Put Kenya's Electoral Process to the Test",
-      "summary": "[ISS] Despite a court ruling outlawing out-of-season electioneering, political impunity and government inaction threaten the 2027 vote and public safety.",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-25T04:52:59+00:00",
-      "lead_source": {
-        "id": "aa-ken",
-        "name": "AllAfrica · Kenya",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611250055.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-ken",
-          "name": "AllAfrica · Kenya",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611250055.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "18f03fd3cb",
       "title": "Korean Alumni Associations Hold Joint General Assembly in Accra",
       "summary": "[Ghanaian Times] The Embassy of Korea, the Korea International Cooperation Agency (KOICA) and the Korea Foundation for International Healthcare (KOFIH) Alumni Associations in Ghana have held their 2026 Joint General Assembly in Accra to strengthen professional networks and collaboration.",
@@ -8278,6 +8576,38 @@
           "name": "AllAfrica · Ghana",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611250051.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "d363bcc26d",
+      "title": "IMF to Tanzania: Stop propping up shilling",
+      "summary": "IMF said letting the exchange rate adjust naturally is the best way to protect the economy from...",
+      "country": "TZA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-25T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/imf-to-tanzania-stop-propping-up-shilling-5682716"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/imf-to-tanzania-stop-propping-up-shilling-5682716"
         }
       ],
       "confirmation_count": 1
@@ -9179,6 +9509,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "f98c7c2ac9",
+      "title": "Eritrea, Sudan, Egypt isolate Ethiopia in Red Sea coalition",
+      "summary": "The emphasis on coastal states’ authority over Red Sea security comes amid tensions over Addis...",
+      "country": "ERI",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-24T12:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/africa/eritrea-sudan-egypt-isolate-ethiopia-in-red-sea-coalition-5682426"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/africa/eritrea-sudan-egypt-isolate-ethiopia-in-red-sea-coalition-5682426"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "0adb041f8c",
       "title": "2026 FIFA U-17 World Cup - Egypt Beats Hosts - Uganda Draw and Mozambique Falls",
       "summary": "[CAF] Egypt secured their first points of their FIFA U-17 World Cup Qatar 2026 campaign, beating the hosts 2-0 to go second of Group A. Uganda had their first point in Group B after a goalless draw with Ecuador, while Mozambique fell to Argentina in Group C. The three African sides remain in course for qualification to the next round.",
@@ -9691,6 +10053,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "b4d23a9abd",
+      "title": "Museveni Meets Uganda's ICC Judicial Candidate Rosette Muzigo-Morrison",
+      "summary": "[Nile Post] President Museveni has met Ugandan international criminal and human rights lawyer Rosette Muzigo-Morrison at State House, Entebbe, following her nomination as Uganda's candidate for the 2026 International Criminal Court (ICC) judicial elections.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-24T10:14:51+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611240225.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611240225.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "49790f306a",
       "title": "Museveni, Somali President Hassan Sheikh Mohamud Discuss Security Situation in Mogadishu",
       "summary": "[Nile Post] President Yoweri Kaguta Museveni has met with the President of the Federal Republic of Somalia, Hassan Sheikh Mohamud, at State House, Entebbe, with discussions focusing on bilateral relations, regional security, democracy and ongoing efforts to restore peace and stability in Somalia.",
@@ -9814,6 +10208,38 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611240192.html"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "5a86193689",
+      "title": "Uganda Army Chief Visits Troops in Somalia Amid Withdrawal From Barawe",
+      "summary": "[Shabelle] Baraawe, Somalia -- Uganda's Land Forces Commander, Gen. Kayanja Muhanga, has visited Ugandan troops serving under the African Union Support and Stabilization Mission in Somalia (AUSSOM) to assess their security situation, operational readiness and progress in transferring security responsibilities to Somali forces.",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": "OPERATIONAL",
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-24T05:54:46+00:00",
+      "lead_source": {
+        "id": "aa-uga",
+        "name": "AllAfrica · Ouganda",
+        "tier": 2,
+        "url": "https://allafrica.com/stories/202611240126.html"
+      },
+      "confirming_sources": [
+        {
+          "id": "aa-uga",
+          "name": "AllAfrica · Ouganda",
+          "tier": 2,
+          "url": "https://allafrica.com/stories/202611240126.html"
         }
       ],
       "confirmation_count": 1
@@ -10043,6 +10469,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "61da4b1f96",
+      "title": "South Sudan begins voter registration amid tight calendar schedule, security risks",
+      "summary": "The process is scheduled to run until November 28.",
+      "country": "SSD",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-24T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/south-sudan-begins-voter-registration-5681966"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/south-sudan-begins-voter-registration-5681966"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "9d2bf3e492",
       "title": "FIFA U17 World Cup: Jamaica test awaits Ivory Coast after Italy setback",
       "summary": "Ivory Coast’s Under-17s suffered a narrow defeat to Italy, but their hopes of reaching the next round remain alive ahead of their final group match against Jamaica.",
@@ -10102,6 +10560,102 @@
           "name": "Africanews",
           "tier": 2,
           "url": "http://www.africanews.com/2026/11/23/senegal-u17s-make-a-statement-with-9-0-rout-of-cuba/"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4a80c68e1b",
+      "title": "Is South Sudan’s leadership prepared to allow elections?",
+      "summary": "South Sudan faces a significant possibility of further political and electoral delays.",
+      "country": "SSD",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-23T20:45:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/opinion/guest-blogs/is-south-sudan-s-leadership-prepared-to-allow-elections-5681854"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/opinion/guest-blogs/is-south-sudan-s-leadership-prepared-to-allow-elections-5681854"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4952a45b3d",
+      "title": "Sacked Somali judges sue government in Arusha",
+      "summary": "Petitioners challenge the recent dismissal of of the chief justice.",
+      "country": "SOM",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-23T20:30:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/sacked-somali-judges-sue-government-in-arusha-5681974"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/sacked-somali-judges-sue-government-in-arusha-5681974"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "6b9d107db4",
+      "title": "Tanzania central bank imposes stringent measures on Zanzibar’s MFIs",
+      "summary": "For borrowers, particularly small traders and businesses that rely on informal credit...",
+      "country": "TZA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-23T18:15:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/tanzania-central-bank-stringent-measures-on-zanzibar-mfis-5681850"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/tanzania-central-bank-stringent-measures-on-zanzibar-mfis-5681850"
         }
       ],
       "confirmation_count": 1
@@ -10555,38 +11109,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "0fd89198da",
-      "title": "Omanyo Urges Ruto to Intervene Over Harassment of Kenyan Fishermen By Ugandan Officers",
-      "summary": "[Capital FM] Nairobi -- Orange Democratic Movement (ODM) Secretary General Catherine Omanyo has appealed to President William Ruto to intervene in the persistent harassment, arrests and alleged extortion of Kenyan fishermen by Ugandan security officers operating on Lake Victoria.",
-      "country": "UGA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-23T10:42:55+00:00",
-      "lead_source": {
-        "id": "aa-uga",
-        "name": "AllAfrica · Ouganda",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611230285.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-uga",
-          "name": "AllAfrica · Ouganda",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611230285.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "a13a06126a",
       "title": "Fishing Operators Concerned About Presence of Suspicious Vessels in Gaza",
       "summary": "[AIM] Maputo -- Fishing operators in the southern province of Gaza have expressed their concern at the presence of suspicious vessels off the beaches of Xai-Xai and Bilene, calling on the authorities to strengthen maritime surveillance.",
@@ -10715,6 +11237,40 @@
       "confirmation_count": 1
     },
     {
+      "id": "a33b004bef",
+      "title": "Why Rwanda converted $200m World Bank debt into yen",
+      "summary": "This would spread its exposure to foreign currency risk across more currencies.",
+      "country": "RWA",
+      "category": "MACRO",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [
+        "DFI"
+      ],
+      "lang": "en",
+      "published": "2026-11-23T10:15:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/why-rwanda-converted-200m-world-bank-debt-into-yen-5681028"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/why-rwanda-converted-200m-world-bank-debt-into-yen-5681028"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "83a3f24e2d",
       "title": "President Mourns Dr Phumzile Mlambo-Ngcuka",
       "summary": "[Daily News] Arusha -- PRESIDENT Dr Samia Suluhu Hassan has expressed condolences following the death of former South African Deputy President and former UN Women Executive Director, Dr Phumzile Mlambo-Ngcuka , describing her as a close friend and a committed champion of women's and girls' rights.",
@@ -10811,6 +11367,38 @@
       "confirmation_count": 1
     },
     {
+      "id": "b50d2dd13f",
+      "title": "Kenya, DRC reboot ties after 4-year fallout",
+      "summary": "The meeting came amid security crisis in eastern DRC, where diplomatic efforts to bring it to...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-22T16:30:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/central-africa/kenya-drc-reboot-ties-after-4-year-fallout-5680552"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/central-africa/kenya-drc-reboot-ties-after-4-year-fallout-5680552"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "3ffcd7a2ca",
       "title": "Des frappes de drones imputées à l'Éthiopie ciblent la capitale soudanaise",
       "summary": "Des habitations et un bâtiment des Nations unies ont été touchés, dimanche, par des frappes de drones à Khartoum, au Soudan. Une source proche de l'armée a affirmé que l'Éthiopie voisine pourrait être responsable. Depuis mars 2025, la capitale soudanaise a été reprise par l'armée aux paramilitaires des Forces de soutien rapide (FSR).",
@@ -10843,6 +11431,70 @@
       "confirmation_count": 1
     },
     {
+      "id": "bed84dfb03",
+      "title": "Nairobi eyes global tech, crypto listings to boost market depth after MSCI inclusion",
+      "summary": "Landmark recognition elevates NSE’s profile, charging its drive to attract international...",
+      "country": "KEN",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-22T06:15:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/nairobi-eyes-global-tech-crypto-listings-5679016"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/nairobi-eyes-global-tech-crypto-listings-5679016"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "b526f35cd9",
+      "title": "Tanzanian women beating all odds to make income",
+      "summary": "For pastoralist women, access to land remains particularly important. Women often lose property...",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-22T05:45:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/business-tech/tanzanian-women-beating-all-odds-to-make-income-5679104"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/business-tech/tanzanian-women-beating-all-odds-to-make-income-5679104"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
       "id": "9f1bf6d93b",
       "title": "Aviation Regulator Scores High, Still Short of Inspectors",
       "summary": "The Ethiopian Civil Aviation Authority (ECAA) has seven flight operations inspectors overseeing 146 aircraft, an international safety audit has found, as Ethiopian Airlines prepares to...",
@@ -10870,6 +11522,38 @@
           "name": "Addis Fortune",
           "tier": 2,
           "url": "https://addisfortune.news/aviation-regulator-scores-high-still-short-of-inspectors"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "40941918de",
+      "title": "How Gambia became unlikely voice of Myanmar’s Rohingya",
+      "summary": "It began in 2019, when The Gambia, having only recently emerged from Yahya Jammeh's...",
+      "country": "GMB",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-22T03:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/west-africa/how-gambia-became-unlikely-voice-of-myanmar-s-rohingya-5679646"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/west-africa/how-gambia-became-unlikely-voice-of-myanmar-s-rohingya-5679646"
         }
       ],
       "confirmation_count": 1
@@ -10966,6 +11650,102 @@
           "name": "BBC Africa",
           "tier": 1,
           "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "4eca6a7754",
+      "title": "Digital freedom declining in East Africa, says Mo Ibrahim report",
+      "summary": "Tanzania, Uganda and South Sudan ranked worst performers with State agencies deploying vague...",
+      "country": "TZA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-21T18:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/digital-freedom-declining-in-east-africa-mo-ibrahim-report-5679002"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/digital-freedom-declining-in-east-africa-mo-ibrahim-report-5679002"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "fe83d7fc52",
+      "title": "From friend to foe: The falling out between UAE and Somalia",
+      "summary": "Earlier in the year, Somalia had stopped all security and defence cooperation with the UAE.",
+      "country": "SOM",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-21T18:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/the-falling-out-between-uae-and-somalia-5678994"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/the-falling-out-between-uae-and-somalia-5678994"
+        }
+      ],
+      "confirmation_count": 1
+    },
+    {
+      "id": "347e0a4f14",
+      "title": "Uganda forces hand over 5 Somalia bases in exit plan",
+      "summary": "But Al-Shabaab subsequently overran several of the positions, exposing the risks of...",
+      "country": "UGA",
+      "category": "AUTRE",
+      "severity": 1,
+      "credibility": 2,
+      "verified": false,
+      "theme": null,
+      "legal_status": null,
+      "regulatory": false,
+      "fdi": false,
+      "sectors": [],
+      "lang": "en",
+      "published": "2026-11-21T15:00:00+00:00",
+      "lead_source": {
+        "id": "east-afr",
+        "name": "The East African",
+        "tier": 2,
+        "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/uganda-forces-hand-over-5-somalia-bases-in-exit-plan-5679612"
+      },
+      "confirming_sources": [
+        {
+          "id": "east-afr",
+          "name": "The East African",
+          "tier": 2,
+          "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/uganda-forces-hand-over-5-somalia-bases-in-exit-plan-5679612"
         }
       ],
       "confirmation_count": 1
@@ -11163,38 +11943,6 @@
       "confirmation_count": 1
     },
     {
-      "id": "8c4d34aa99",
-      "title": "JOJ Dakar 2026 : à la rencontre de Nalorie Joelle, maquilleuse dans les coulisses",
-      "summary": "Des études en sciences politiques aux coulisses des JOJ Dakar 2026 : Nalorie Joelle trace son chemin dans le maquillage artistique. Retour sur le parcours d'une jeune Sénégalaise qui a contribué à la magie de la cérémonie d'ouverture. Un reportage d'Alexandrine Holognon",
-      "country": "SEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "fr",
-      "published": "2026-11-19T17:58:19+00:00",
-      "lead_source": {
-        "id": "f24-afr",
-        "name": "France 24 Afrique",
-        "tier": 1,
-        "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-joj-dakar-2026-%C3%A0-la-rencontre-de-nalorie-joelle-maquilleuse-dans-les-coulisses"
-      },
-      "confirming_sources": [
-        {
-          "id": "f24-afr",
-          "name": "France 24 Afrique",
-          "tier": 1,
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-joj-dakar-2026-%C3%A0-la-rencontre-de-nalorie-joelle-maquilleuse-dans-les-coulisses"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
       "id": "d51f92066b",
       "title": "Senegal Become First Team to Book AFCON 2027 Spot",
       "summary": "[This Day] Senegal became the first side to qualify for the 2027 Africa Cup of Nations (AFCON) before Egypt and Ivory Coast were among five sides who missed out on the chance to join them.",
@@ -11318,38 +12066,6 @@
           "name": "CIO Africa",
           "tier": 2,
           "url": "https://cioafrica.co/tanzania-unveils-new-national-id-card-and-nida-wallet/"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "21cbe1b60c",
-      "title": "Tanzania Re-Elected to Influence Global ICT Policies",
-      "summary": "[Daily News] Doha -- TANZANIA'S re-election to the Council of the International Telecommunication Union (ITU) gives the country another four years to influence global telecommunications policies, with implications for affordable internet access, digital inclusion, cybersecurity and the future of technology in developing countries.",
-      "country": "TZA",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-19T11:02:39+00:00",
-      "lead_source": {
-        "id": "aa-tza",
-        "name": "AllAfrica · Tanzanie",
-        "tier": 2,
-        "url": "https://allafrica.com/stories/202611190223.html"
-      },
-      "confirming_sources": [
-        {
-          "id": "aa-tza",
-          "name": "AllAfrica · Tanzanie",
-          "tier": 2,
-          "url": "https://allafrica.com/stories/202611190223.html"
         }
       ],
       "confirmation_count": 1
@@ -11992,38 +12708,6 @@
           "name": "AllAfrica · Sénégal",
           "tier": 2,
           "url": "https://allafrica.com/stories/202611130303.html"
-        }
-      ],
-      "confirmation_count": 1
-    },
-    {
-      "id": "0de8744e45",
-      "title": "Kenyan-Nigerian Team Wins Terumo BCT Africa Hackathon 2026",
-      "summary": "Team Relay, a Nigerian and Kenyan team, has won the Terumo BCT Africa Hackathon 2026 and the USD 5,000 prize...\nSource",
-      "country": "KEN",
-      "category": "AUTRE",
-      "severity": 1,
-      "credibility": 2,
-      "verified": false,
-      "theme": null,
-      "legal_status": null,
-      "regulatory": false,
-      "fdi": false,
-      "sectors": [],
-      "lang": "en",
-      "published": "2026-11-13T11:43:05+00:00",
-      "lead_source": {
-        "id": "cio-afr",
-        "name": "CIO Africa",
-        "tier": 2,
-        "url": "https://cioafrica.co/nigerian-innovators-win-the-terumo-bct-africa-hackathon-2026/"
-      },
-      "confirming_sources": [
-        {
-          "id": "cio-afr",
-          "name": "CIO Africa",
-          "tier": 2,
-          "url": "https://cioafrica.co/nigerian-innovators-win-the-terumo-bct-africa-hackathon-2026/"
         }
       ],
       "confirmation_count": 1
